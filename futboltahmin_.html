@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang='tr'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>✅ Hazır Kupon</title>
+<style>
+body { font-family: Arial, sans-serif; background-color: #f7f8fa; margin: 0; padding: 20px; color: #222; }
+h1 { text-align: center; margin-bottom: 20px; color: #333; font-size: 22px; }
+table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); overflow: hidden; }
+th, td { padding: 10px 12px; text-align: left; }
+th { background-color: #0077cc; color: white; font-size: 15px; }
+tr:nth-child(even) { background-color: #f3f6fa; }
+tr:hover { background-color: #eaf3ff; }
+td { font-size: 14px; border-bottom: 1px solid #ddd; }
+th:nth-child(1), td:nth-child(1) { width: 60px; text-align: center; white-space: nowrap; }
+th:nth-child(2), td:nth-child(2) { max-width: 220px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+th:nth-child(3), td:nth-child(3) { width: auto; }
+.match { font-weight: bold; color: #1a1a1a; }
+.prediction { color: #444; white-space: pre-line; }
+@media (max-width: 600px) {
+  table, thead, tbody, th, td, tr { display: block; width: 100%; }
+  thead { display: none; }
+  tr { margin-bottom: 12px; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.1); background: #fff; padding: 8px; }
+  td { border: none; padding: 6px 8px; }
+  td::before { content: attr(data-label); font-weight: bold; color: #0077cc; display: block; margin-bottom: 3px; }
+}
+</style>
+</head>
+<body>
+<h1>✅ Hazır Kupon</h1>
+<table>
+<thead><tr><th>Saat</th><th>Maç</th><th>Tahmin</th></tr></thead>
+<tbody>
+<tr><td data-label='Saat'>18:30</td><td class='match' data-label='Maç'>Belarus U21 - Rusya U21</td><td class='prediction' data-label='Tahmin'>Üst (1.44)</td></tr>
+<tr><td data-label='Saat'>19:00</td><td class='match' data-label='Maç'>Mauritius - Libya</td><td class='prediction' data-label='Tahmin'>MS2 (1.31)</td></tr>
+<tr><td data-label='Saat'>21:45</td><td class='match' data-label='Maç'>Slovenya - İsviçre</td><td class='prediction' data-label='Tahmin'>MS2 (1.51)</td></tr>
+<tr><td data-label='Saat'>21:45</td><td class='match' data-label='Maç'>Bracknell Town - Gloucester</td><td class='prediction' data-label='Tahmin'>MS2 (1.76)</td></tr>
+<tr><td data-label='Saat'>21:45</td><td class='match' data-label='Maç'>Cork City - Shelbourne</td><td class='prediction' data-label='Tahmin'>MS2 (1.39)</td></tr>
+</tbody></table>
+</body>
+</html>
