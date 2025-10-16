@@ -1,0 +1,23 @@
+[
+  {
+    "homeTeam": "Galatasaray",
+    "awayTeam": "Trabzonspor",
+    "pick": "MS1",
+    "score": "2-1",
+    "status": "won"
+  },
+  {
+    "homeTeam": "Chelsea",
+    "awayTeam": "Arsenal",
+    "pick": "ÜST",
+    "score": "0-0",
+    "status": "lost"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Inter",
+    "pick": "MSX",
+    "score": "",
+    "status": "pending"
+  }
+]
