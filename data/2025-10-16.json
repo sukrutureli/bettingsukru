@@ -2,22 +2,31 @@
   {
     "homeTeam": "Galatasaray",
     "awayTeam": "Trabzonspor",
-    "pick": "MS1",
-    "score": "2-1",
-    "status": "won"
+    "picks": ["MS1", "ÜST"],
+    "score": "3-1",
+    "statuses": {
+      "MS1": "won",
+      "ÜST": "won"
+    }
   },
   {
     "homeTeam": "Chelsea",
     "awayTeam": "Arsenal",
-    "pick": "ÜST",
+    "picks": ["MSX", "ALT"],
     "score": "0-0",
-    "status": "lost"
+    "statuses": {
+      "MSX": "won",
+      "ALT": "won"
+    }
   },
   {
     "homeTeam": "Napoli",
     "awayTeam": "Inter",
-    "pick": "MSX",
+    "picks": ["MS2", "ÜST"],
     "score": "",
-    "status": "pending"
+    "statuses": {
+      "MS2": "pending",
+      "ÜST": "pending"
+    }
   }
 ]
