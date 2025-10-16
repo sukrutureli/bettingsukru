@@ -1,32 +1,25 @@
-[
-  {
-    "homeTeam": "Galatasaray",
-    "awayTeam": "Trabzonspor",
-    "picks": ["MS1", "ÜST"],
-    "score": "3-1",
-    "statuses": {
-      "MS1": "won",
-      "ÜST": "won"
-    }
-  },
-  {
-    "homeTeam": "Chelsea",
-    "awayTeam": "Arsenal",
-    "picks": ["MSX", "ALT"],
-    "score": "0-0",
-    "statuses": {
-      "MSX": "won",
-      "ALT": "won"
-    }
-  },
-  {
-    "homeTeam": "Napoli",
-    "awayTeam": "Inter",
-    "picks": ["MS2", "ÜST"],
-    "score": "",
-    "statuses": {
-      "MS2": "pending",
-      "ÜST": "pending"
-    }
-  }
-]
+[ {
+  "homeTeam" : "Portimonense U23",
+  "awayTeam" : "Sporting U23",
+  "picks" : [ "MS2 (1.51)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Köln (K)",
+  "awayTeam" : "B. Leverkusen (K)",
+  "picks" : [ "MS2 (1.63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kampala Capital C.",
+  "awayTeam" : "Lugazi Municipal",
+  "picks" : [ "MS1 (1.08)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "PSG (K)",
+  "awayTeam" : "Real Madrid (K)",
+  "picks" : [ "MS2 (1.87)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
