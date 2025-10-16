@@ -1,10 +1,4 @@
 [ {
-  "homeTeam" : "Adelaide Utd",
-  "awayTeam" : "Sydney",
-  "picks" : [ "Var (1.31)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
   "homeTeam" : "Qingdao Jonoon",
   "awayTeam" : "Shanghai Port",
   "picks" : [ "MS2 (1.3)" ],
@@ -13,7 +7,7 @@
 }, {
   "homeTeam" : "Kyzyl Zhar SK",
   "awayTeam" : "K. Almaty",
-  "picks" : [ "MS2 (1.19)" ],
+  "picks" : [ "MS2 (1.24)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -83,6 +77,12 @@
   "score" : "-",
   "statuses" : { }
 }, {
+  "homeTeam" : "Be1 Nfa",
+  "awayTeam" : "Hegelmann Litauen B",
+  "picks" : [ "MS1 (2.01)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
   "homeTeam" : "AL Fayha",
   "awayTeam" : "AL Ittihad",
   "picks" : [ "MS2 (1.5)" ],
@@ -145,7 +145,7 @@
 }, {
   "homeTeam" : "Unterhaching",
   "awayTeam" : "Bayreuth",
-  "picks" : [ "MS1 (1.07)" ],
+  "picks" : [ "MS1 (1.09)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -175,7 +175,7 @@
 }, {
   "homeTeam" : "Troyes",
   "awayTeam" : "SC Bastia",
-  "picks" : [ "MS1 (1.68)" ],
+  "picks" : [ "MS1 (1.66)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -193,7 +193,7 @@
 }, {
   "homeTeam" : "Waterford",
   "awayTeam" : "Derry City",
-  "picks" : [ "MS2 (1.81)" ],
+  "picks" : [ "MS2 (1.85)" ],
   "score" : "-",
   "statuses" : { }
 }, {
