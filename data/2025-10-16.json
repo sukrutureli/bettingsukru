@@ -24,6 +24,8 @@
   "homeTeam" : "PSG (K)",
   "awayTeam" : "Real Madrid (K)",
   "picks" : [ "MS2 (1.87)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS2 (1.87)" : "won"
+  }
 } ]
