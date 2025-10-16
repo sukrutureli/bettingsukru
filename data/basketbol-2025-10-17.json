@@ -1,0 +1,37 @@
+[ {
+  "homeTeam" : "CA Welcome",
+  "awayTeam" : "Club Nacional",
+  "picks" : [ "Üst (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Brisbane Bullets",
+  "awayTeam" : "Melbourne Utd",
+  "picks" : [ "MS2 (1.11)", "Üst (1.67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Barangay Ginebra",
+  "awayTeam" : "Meralco",
+  "picks" : [ "MS2 (2.14)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Antwerp",
+  "awayTeam" : "Kortrijk Spurs",
+  "picks" : [ "Üst (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Spirou Charleroi",
+  "awayTeam" : "BC Oostende",
+  "picks" : [ "MS2 (1.08)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Caledonia Gladiators",
+  "awayTeam" : "Bristol Flyers",
+  "picks" : [ "Alt (1.6)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
