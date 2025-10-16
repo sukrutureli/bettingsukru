@@ -1,0 +1,223 @@
+[ {
+  "homeTeam" : "Adelaide Utd",
+  "awayTeam" : "Sydney",
+  "picks" : [ "Var (1.31)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Qingdao Jonoon",
+  "awayTeam" : "Shanghai Port",
+  "picks" : [ "MS2 (1.3)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kyzyl Zhar SK",
+  "awayTeam" : "K. Almaty",
+  "picks" : [ "MS2 (1.19)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Brisbane Roar",
+  "awayTeam" : "Macarthur",
+  "picks" : [ "Var (1.31)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "FK Panevezys B",
+  "awayTeam" : "FK Transinvest",
+  "picks" : [ "MS2 (1.06)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hougang Utd",
+  "awayTeam" : "Albirex Niigata",
+  "picks" : [ "MS2 (1.58)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "La Viena",
+  "awayTeam" : "Baladiyyat AL M.",
+  "picks" : [ "MS1 (1.88)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "FK Ekranas",
+  "awayTeam" : "FK Tauras Taurage",
+  "picks" : [ "MS2 (1.27)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kelantan Utd",
+  "awayTeam" : "Sabah",
+  "picks" : [ "MS2 (1.95)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bahla Club",
+  "awayTeam" : "Dhofar Scsc",
+  "picks" : [ "MS1 (1.87)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Bataeh",
+  "awayTeam" : "AL Wahda",
+  "picks" : [ "MS2 (1.27)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Nasr",
+  "awayTeam" : "Al Seeb",
+  "picks" : [ "MS2 (1.48)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Olympique Akbou",
+  "awayTeam" : "MC EL Bayadh",
+  "picks" : [ "MS1 (1.47)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Gareji",
+  "awayTeam" : "Dila Gori",
+  "picks" : [ "MS2 (1.77)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Fayha",
+  "awayTeam" : "AL Ittihad",
+  "picks" : [ "MS2 (1.5)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Opava",
+  "awayTeam" : "Usti Nad Labem",
+  "picks" : [ "MS1 (1.67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Khalidiyah",
+  "awayTeam" : "AL Bahrain",
+  "picks" : [ "MS1 (1.06)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dinamo Brest",
+  "awayTeam" : "Vitebsk",
+  "picks" : [ "MS1 (1.39)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Pribram",
+  "awayTeam" : "SK Lisen",
+  "picks" : [ "MS2 (1.61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Gagra",
+  "awayTeam" : "Torpedo",
+  "picks" : [ "MS2 (1.98)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dukla BB",
+  "awayTeam" : "A. Petrzalka",
+  "picks" : [ "MS1 (1.21)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "VZ Moravce",
+  "awayTeam" : "Puchov",
+  "picks" : [ "MS1 (1.21)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "SGS Essen (K)",
+  "awayTeam" : "Hoffenheim (K)",
+  "picks" : [ "MS2 (1.31)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "HB Koege",
+  "awayTeam" : "Kolding",
+  "picks" : [ "MS2 (1.46)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Unterhaching",
+  "awayTeam" : "Bayreuth",
+  "picks" : [ "MS1 (1.07)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Silkeborg",
+  "awayTeam" : "Kopenhag",
+  "picks" : [ "MS2 (1.4)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Roskilde",
+  "awayTeam" : "Fremad Amager",
+  "picks" : [ "MS1 (1.32)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Drochtersen",
+  "awayTeam" : "Lubeck",
+  "picks" : [ "MS1 (1.39)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "NK Brinje Grosuplje",
+  "awayTeam" : "Jadran Dekani",
+  "picks" : [ "MS1 (1.06)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Troyes",
+  "awayTeam" : "SC Bastia",
+  "picks" : [ "MS1 (1.68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Almere City",
+  "awayTeam" : "SC Cambuur",
+  "picks" : [ "MS2 (2.09)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Wexford",
+  "awayTeam" : "Treaty Utd",
+  "picks" : [ "MS1 (2.02)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Waterford",
+  "awayTeam" : "Derry City",
+  "picks" : [ "MS2 (1.81)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Shelbourne",
+  "awayTeam" : "Sligo Rovers",
+  "picks" : [ "MS1 (1.24)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Portadown",
+  "awayTeam" : "Linfield",
+  "picks" : [ "MS2 (1.31)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Real Oviedo",
+  "awayTeam" : "Espanyol",
+  "picks" : [ "MS2 (2.23)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Le Havre (K)",
+  "awayTeam" : "St. Etienne (K)",
+  "picks" : [ "MS1 (1.36)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
