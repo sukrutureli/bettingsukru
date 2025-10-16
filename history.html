@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📅 Tahmin Geçmişi - BettingSukru</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #f4f6fa;
+      color: #222;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #004d80;
+      margin-bottom: 10px;
+    }
+    .date-selector {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    select {
+      padding: 8px;
+      font-size: 15px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background: #fff;
+    }
+    .history-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 14px;
+    }
+    .match-card {
+      background: #fff;
+      border: 1px solid #dce3ec;
+      border-radius: 10px;
+      padding: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .match-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    }
+    .match-header {
+      font-weight: 600;
+      color: #003366;
+      margin-bottom: 4px;
+    }
+    .match-info {
+      font-size: 0.9em;
+      color: #555;
+      margin-bottom: 8px;
+    }
+    .status {
+      display: inline-block;
+      padding: 4px 8px;
+      border-radius: 6px;
+      font-size: 0.85em;
+      font-weight: 600;
+      color: white;
+    }
+    .won { background: #28a745; }
+    .lost { background: #dc3545; }
+    .pending { background: #ffc107; color: #222; }
+    .score {
+      font-weight: 600;
+      color: #111;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.85em;
+      color: #777;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>📅 Tahmin Geçmişi</h1>
+  <div class="date-selector">
+    <label for="dateSelect">Tarih Seç:</label>
+    <select id="dateSelect"></select>
+  </div>
+
+  <div id="historyContainer" class="history-container">
+    <p style="text-align:center; color:#777;">Veri yükleniyor...</p>
+  </div>
+
+  <footer>
+    Bu veriler geçmiş tahmin sonuçlarından otomatik olarak oluşturulmuştur.<br>
+    <small>© 2025 BettingSukru</small>
+  </footer>
+
+  <script>
+    const select = document.getElementById('dateSelect');
+    const container = document.getElementById('historyContainer');
+
+    // Son 7 güne kadar tarihleri listele
+    const today = new Date();
+    for (let i = 0; i < 7; i++) {
+      const d = new Date(today);
+      d.setDate(today.getDate() - i);
+      const str = d.toISOString().slice(0,10);
+      const opt = document.createElement('option');
+      opt.value = str;
+      opt.textContent = str;
+      select.appendChild(opt);
+    }
+
+    async function loadHistory(date) {
+      const url = `data/${date}.json`;
+      container.innerHTML = "<p style='text-align:center; color:#777;'>Veri yükleniyor...</p>";
+
+      try {
+        const res = await fetch(url);
+        if (!res.ok) throw new Error("JSON bulunamadı");
+        const data = await res.json();
+        renderHistory(data);
+      } catch (err) {
+        container.innerHTML = `<p style='text-align:center; color:#b00;'>${date} için veri bulunamadı.</p>`;
+      }
+    }
+
+    function renderHistory(data) {
+      if (!data || data.length === 0) {
+        container.innerHTML = "<p style='text-align:center; color:#999;'>Bu tarih için veri bulunamadı.</p>";
+        return;
+      }
+
+      container.innerHTML = "";
+      data.forEach(match => {
+        const div = document.createElement('div');
+        div.className = 'match-card';
+
+        const score = match.score ? match.score : "-";
+        const statusClass = match.status === "won" ? "won" :
+                            match.status === "lost" ? "lost" : "pending";
+        const statusText = match.status === "won" ? "✅ Tuttu" :
+                           match.status === "lost" ? "❌ Yattı" : "⏳ Beklemede";
+
+        div.innerHTML = `
+          <div class="match-header">${match.homeTeam} - ${match.awayTeam}</div>
+          <div class="match-info">
+            <strong>Seçim:</strong> ${match.pick} <br>
+            <strong>Skor:</strong> <span class="score">${score}</span>
+          </div>
+          <span class="status ${statusClass}">${statusText}</span>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    select.addEventListener('change', e => loadHistory(e.target.value));
+
+    // Sayfa açıldığında bugünün tarihini yükle
+    loadHistory(select.value);
+  </script>
+</body>
+</html>
