@@ -1,13 +1,13 @@
 [ {
   "homeTeam" : "CA Welcome",
   "awayTeam" : "Club Nacional",
-  "picks" : [ "Üst (1.64)" ],
+  "picks" : [ "171.5 Üst (1.64)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "Brisbane Bullets",
   "awayTeam" : "Melbourne Utd",
-  "picks" : [ "MS2 (1.11)", "Üst (1.67)" ],
+  "picks" : [ "MS2 (1.11)", "186.5 Üst (1.67)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -19,7 +19,7 @@
 }, {
   "homeTeam" : "Antwerp",
   "awayTeam" : "Kortrijk Spurs",
-  "picks" : [ "Üst (1.65)" ],
+  "picks" : [ "163.5 Üst (1.65)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -31,7 +31,7 @@
 }, {
   "homeTeam" : "Caledonia Gladiators",
   "awayTeam" : "Bristol Flyers",
-  "picks" : [ "Alt (1.6)" ],
+  "picks" : [ "161.5 Alt (1.6)" ],
   "score" : "-",
   "statuses" : { }
 } ]
