@@ -2,14 +2,18 @@
   "homeTeam" : "Portimonense U23",
   "awayTeam" : "Sporting U23",
   "picks" : [ "MS2 (1.51)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS2 (1.51)" : "pending"
+  }
 }, {
   "homeTeam" : "Köln (K)",
   "awayTeam" : "B. Leverkusen (K)",
   "picks" : [ "MS2 (1.63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS2 (1.63)" : "pending"
+  }
 }, {
   "homeTeam" : "Kampala Capital C.",
   "awayTeam" : "Lugazi Municipal",
