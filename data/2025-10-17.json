@@ -1,7 +1,7 @@
 [ {
   "homeTeam" : "Adelaide Utd",
   "awayTeam" : "Sydney",
-  "picks" : [ "Var (1.27)" ],
+  "picks" : [ "Var (1.26)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -25,13 +25,13 @@
 }, {
   "homeTeam" : "Hougang Utd",
   "awayTeam" : "Albirex Niigata",
-  "picks" : [ "MS2 (1.58)" ],
+  "picks" : [ "MS2 (1.61)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "La Viena",
   "awayTeam" : "Baladiyyat AL M.",
-  "picks" : [ "MS1 (1.88)" ],
+  "picks" : [ "MS1 (1.97)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -59,9 +59,15 @@
   "score" : "-",
   "statuses" : { }
 }, {
+  "homeTeam" : "GOL Gohar",
+  "awayTeam" : "Chador Malu Y.",
+  "picks" : [ "Alt (1.13)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
   "homeTeam" : "AL Nasr",
   "awayTeam" : "Al Seeb",
-  "picks" : [ "MS2 (1.52)" ],
+  "picks" : [ "MS2 (1.42)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -71,9 +77,15 @@
   "score" : "-",
   "statuses" : { }
 }, {
+  "homeTeam" : "Bechar Djedid",
+  "awayTeam" : "Wa Mostaganem",
+  "picks" : [ "Alt (1.37)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
   "homeTeam" : "Gareji",
   "awayTeam" : "Dila Gori",
-  "picks" : [ "MS2 (1.47)" ],
+  "picks" : [ "MS2 (1.39)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -85,7 +97,7 @@
 }, {
   "homeTeam" : "AL Fayha",
   "awayTeam" : "AL Ittihad",
-  "picks" : [ "MS2 (1.47)" ],
+  "picks" : [ "MS2 (1.45)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -121,13 +133,13 @@
 }, {
   "homeTeam" : "Gagra",
   "awayTeam" : "Torpedo",
-  "picks" : [ "MS2 (1.83)" ],
+  "picks" : [ "MS2 (1.78)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "Dukla BB",
   "awayTeam" : "A. Petrzalka",
-  "picks" : [ "MS1 (1.21)" ],
+  "picks" : [ "MS1 (1.22)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -151,19 +163,19 @@
 }, {
   "homeTeam" : "Unterhaching",
   "awayTeam" : "Bayreuth",
-  "picks" : [ "MS1 (1.14)" ],
+  "picks" : [ "MS1 (1.13)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "ES Mostaganem",
   "awayTeam" : "ASO Chlef",
-  "picks" : [ "Alt (1.22)" ],
+  "picks" : [ "Alt (1.27)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "Silkeborg",
   "awayTeam" : "Kopenhag",
-  "picks" : [ "MS2 (1.4)" ],
+  "picks" : [ "MS2 (1.47)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -173,15 +185,21 @@
   "score" : "-",
   "statuses" : { }
 }, {
+  "homeTeam" : "Al Mokawloon",
+  "awayTeam" : "Enppi Club",
+  "picks" : [ "Alt (1.21)", "Yok (1.37)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
   "homeTeam" : "Schalke 04 II",
   "awayTeam" : "Fortuna Köln",
-  "picks" : [ "Var (1.36)" ],
+  "picks" : [ "Var (1.33)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "Drochtersen",
   "awayTeam" : "Lubeck",
-  "picks" : [ "MS1 (1.39)" ],
+  "picks" : [ "MS1 (1.3)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -229,7 +247,7 @@
 }, {
   "homeTeam" : "Wexford",
   "awayTeam" : "Treaty Utd",
-  "picks" : [ "MS1 (2.07)" ],
+  "picks" : [ "MS1 (2.13)" ],
   "score" : "-",
   "statuses" : { }
 }, {
