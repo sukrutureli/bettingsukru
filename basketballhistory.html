@@ -189,7 +189,7 @@
             ? match.statuses[p]
             : match.status || "pending";
           const statusClass = st === "won" ? "won" : (st === "lost" ? "lost" : "pending");
-          const statusText = st === "won" ? "✅ Tuttu" : (st === "lost" ? "❌ Yattı" : "⏳ Beklemede");
+          const statusText = st === "won" ? "✅" : (st === "lost" ? "❌" : "⏳");
           return `<div class="pick-line">
                     <span class="pick-label">${p}</span>
                     <span class="status ${statusClass}">${statusText}</span>
@@ -205,6 +205,27 @@
         `;
         container.appendChild(div);
       });
+
+      const statsDiv = document.createElement('div');
+      statsDiv.style.textAlign = "center";
+      statsDiv.style.marginTop = "25px";
+      statsDiv.style.padding = "10px";
+      statsDiv.style.background = "#fff";
+      statsDiv.style.border = "1px solid #dce3ec";
+      statsDiv.style.borderRadius = "8px";
+      statsDiv.style.boxShadow = "0 2px 6px rgba(0,0,0,0.08)";
+      statsDiv.style.fontWeight = "600";
+      statsDiv.style.color = "#003366";
+
+      const successRate = totalPicks > 0 ? ((wonCount / totalPicks) * 100).toFixed(1) : 0;
+
+      statsDiv.innerHTML = `
+        📊 <strong>Toplam ${totalPicks} tahmin</strong>  
+        → ✅ ${wonCount}, ❌ ${lostCount}, ⏳ ${pendingCount}  
+        <br><span style="color:#28a745;">Başarı oranı: %${successRate}</span>
+      `;
+
+      container.appendChild(statsDiv);
     }
 
     select.addEventListener('change', e => loadHistory(e.target.value));
