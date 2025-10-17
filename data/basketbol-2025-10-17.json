@@ -24,18 +24,24 @@
   "homeTeam" : "Antwerp",
   "awayTeam" : "Kortrijk Spurs",
   "picks" : [ "163.5 Üst (1.65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "104-80",
+  "statuses" : {
+    "163.5 Üst (1.65)" : "won"
+  }
 }, {
   "homeTeam" : "Spirou Charleroi",
   "awayTeam" : "BC Oostende",
   "picks" : [ "MS2 (1.08)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "64-73",
+  "statuses" : {
+    "MS2 (1.08)" : "won"
+  }
 }, {
   "homeTeam" : "Caledonia Gladiators",
   "awayTeam" : "Bristol Flyers",
   "picks" : [ "161.5 Alt (1.6)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "91-93",
+  "statuses" : {
+    "161.5 Alt (1.6)" : "lost"
+  }
 } ]
