@@ -16,8 +16,10 @@
   "homeTeam" : "Barangay Ginebra",
   "awayTeam" : "Meralco",
   "picks" : [ "MS2 (2.14)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-89",
+  "statuses" : {
+    "MS2 (2.14)" : "won"
+  }
 }, {
   "homeTeam" : "Antwerp",
   "awayTeam" : "Kortrijk Spurs",

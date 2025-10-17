@@ -2,14 +2,18 @@
   "homeTeam" : "Adelaide Utd",
   "awayTeam" : "Sydney",
   "picks" : [ "Var (1.26)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Var (1.26)" : "won"
+  }
 }, {
   "homeTeam" : "Qingdao Jonoon",
   "awayTeam" : "Shanghai Port",
   "picks" : [ "MS2 (1.25)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-4",
+  "statuses" : {
+    "MS2 (1.25)" : "won"
+  }
 }, {
   "homeTeam" : "Kyzyl Zhar SK",
   "awayTeam" : "K. Almaty",
@@ -20,8 +24,11 @@
   "homeTeam" : "Brisbane Roar",
   "awayTeam" : "Macarthur",
   "picks" : [ "Üst (1.49)", "Var (1.4)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Üst (1.49)" : "lost",
+    "Var (1.4)" : "lost"
+  }
 }, {
   "homeTeam" : "Hougang Utd",
   "awayTeam" : "Albirex Niigata",
@@ -32,8 +39,10 @@
   "homeTeam" : "La Viena",
   "awayTeam" : "Baladiyyat AL M.",
   "picks" : [ "MS1 (1.97)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.97)" : "won"
+  }
 }, {
   "homeTeam" : "FK Ekranas",
   "awayTeam" : "FK Tauras Taurage",
