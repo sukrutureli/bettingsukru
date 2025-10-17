@@ -2,8 +2,10 @@
   "homeTeam" : "CA Welcome",
   "awayTeam" : "Club Nacional",
   "picks" : [ "171.5 Üst (1.64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "106-117",
+  "statuses" : {
+    "171.5 Üst (1.64)" : "won"
+  }
 }, {
   "homeTeam" : "Brisbane Bullets",
   "awayTeam" : "Melbourne Utd",
