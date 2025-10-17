@@ -1,0 +1,91 @@
+[ {
+  "homeTeam" : "Argentino J.",
+  "awayTeam" : "Ferro Carril",
+  "picks" : [ "159.5 Alt (1.62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Chiba Jets",
+  "awayTeam" : "Gunma Crane",
+  "picks" : [ "MS1 (1.28)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Shinsh Brave",
+  "awayTeam" : "Tokyo Excellence",
+  "picks" : [ "164.5 Alt (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "KT Sonicboom",
+  "awayTeam" : "Daegu Pegasus",
+  "picks" : [ "151.5 Alt (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Converge Fiberxers",
+  "awayTeam" : "Tropang Giga",
+  "picks" : [ "190.5 Üst (1.63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Start Lublin",
+  "awayTeam" : "Torun",
+  "picks" : [ "MS1 (1.1)", "160.5 Üst (1.61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Soproni Sordogok",
+  "awayTeam" : "F. Szombathely",
+  "picks" : [ "169.5 Üst (1.62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Galatasaray (K)",
+  "awayTeam" : "Kayseri Basketbol (K)",
+  "picks" : [ "149.5 Üst (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Porto",
+  "awayTeam" : "Sporting CP",
+  "picks" : [ "MS1 (1.08)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Geneve Lions",
+  "awayTeam" : "Bnt Fribourg",
+  "picks" : [ "MS1 (1.9)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Alba Fehervar",
+  "awayTeam" : "Kaposvari KK",
+  "picks" : [ "180.5 Üst (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "SL Benfica",
+  "awayTeam" : "Imortal BC",
+  "picks" : [ "163.5 Üst (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "KK Igokea",
+  "awayTeam" : "Kk Krka",
+  "picks" : [ "MS1 (1.07)", "169.5 Üst (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "ADA Blois Basket 41",
+  "awayTeam" : "Caen Basket",
+  "picks" : [ "157.5 Üst (1.61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Le Mans",
+  "awayTeam" : "JL Bourg",
+  "picks" : [ "171.5 Üst (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
