@@ -15,11 +15,13 @@
     "MS2 (1.63)" : "lost"
   }
 }, {
-  "homeTeam" : "Kampala Capital C.",
+  "homeTeam" : "Kampala Capital City",
   "awayTeam" : "Lugazi Municipal",
   "picks" : [ "MS1 (1.08)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "MS1 (1.08)" : "lost"
+  }
 }, {
   "homeTeam" : "PSG (K)",
   "awayTeam" : "Real Madrid (K)",
