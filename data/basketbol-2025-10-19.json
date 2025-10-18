@@ -1,0 +1,109 @@
+[ {
+  "homeTeam" : "Melbourne Utd",
+  "awayTeam" : "N. Z. Breakers",
+  "picks" : [ "178.5 Üst (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Akita",
+  "awayTeam" : "R. G. K. Okinaw",
+  "picks" : [ "MS2 (1.05)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hiroshima Dr.",
+  "awayTeam" : "Saga Ballooners",
+  "picks" : [ "MS1 (1.17)", "168.5 Üst (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Iwate Big Bulls",
+  "awayTeam" : "Rizing Fukuoka",
+  "picks" : [ "MS2 (1.05)", "146.5 Alt (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bambitious",
+  "awayTeam" : "Yamagata Wyverns",
+  "picks" : [ "157.5 Alt (1.6)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Shinsh Brave",
+  "awayTeam" : "Tokyo Excellence",
+  "picks" : [ "160.5 Alt (1.66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Olympiakos",
+  "awayTeam" : "Panionios",
+  "picks" : [ "163.5 Üst (1.66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Chiba Jets",
+  "awayTeam" : "Gunma Crane",
+  "picks" : [ "MS1 (1.33)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Landstede",
+  "awayTeam" : "Excels Brus",
+  "picks" : [ "MS2 (1.9)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "ESB Villeneuve (K)",
+  "awayTeam" : "Tango Bourges (K)",
+  "picks" : [ "MS1 (1.72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Dijon Basket",
+  "picks" : [ "174.5 Üst (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Lattes Montp (K)",
+  "awayTeam" : "Lyon Asvel (K)",
+  "picks" : [ "MS1 (1.13)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "BBC Nord Dragonz",
+  "awayTeam" : "Swan Gmunden",
+  "picks" : [ "MS2 (1.1)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sheffield Sharks",
+  "awayTeam" : "Surrey 89ers",
+  "picks" : [ "161.5 Alt (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Oberwart",
+  "awayTeam" : "Kapfenberg",
+  "picks" : [ "MS1 (1.11)", "155.5 Alt (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CB Granada",
+  "awayTeam" : "Baskonia",
+  "picks" : [ "MS2 (1.23)", "175.5 Üst (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Cheshire Phoenix",
+  "awayTeam" : "Newcastle Eagles",
+  "picks" : [ "175.5 Üst (1.6)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Studentski Centar",
+  "awayTeam" : "KK Split",
+  "picks" : [ "162.5 Üst (1.61)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
