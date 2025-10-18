@@ -2,32 +2,42 @@
   "homeTeam" : "Argentino J.",
   "awayTeam" : "Ferro Carril",
   "picks" : [ "159.5 Alt (1.62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-97",
+  "statuses" : {
+    "159.5 Alt (1.62)" : "lost"
+  }
 }, {
   "homeTeam" : "Chiba Jets",
   "awayTeam" : "Gunma Crane",
   "picks" : [ "MS1 (1.28)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-79",
+  "statuses" : {
+    "MS1 (1.28)" : "won"
+  }
 }, {
   "homeTeam" : "Shinsh Brave",
   "awayTeam" : "Tokyo Excellence",
   "picks" : [ "164.5 Alt (1.65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "98-59",
+  "statuses" : {
+    "164.5 Alt (1.65)" : "won"
+  }
 }, {
   "homeTeam" : "KT Sonicboom",
   "awayTeam" : "Daegu Pegasus",
   "picks" : [ "151.5 Alt (1.64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "68-65",
+  "statuses" : {
+    "151.5 Alt (1.64)" : "won"
+  }
 }, {
   "homeTeam" : "Converge Fiberxers",
   "awayTeam" : "Tropang Giga",
   "picks" : [ "190.5 Üst (1.63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "103-110",
+  "statuses" : {
+    "190.5 Üst (1.63)" : "won"
+  }
 }, {
   "homeTeam" : "Start Lublin",
   "awayTeam" : "Torun",
@@ -38,54 +48,73 @@
   "homeTeam" : "Soproni Sordogok",
   "awayTeam" : "F. Szombathely",
   "picks" : [ "169.5 Üst (1.62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-68",
+  "statuses" : {
+    "169.5 Üst (1.62)" : "lost"
+  }
 }, {
   "homeTeam" : "Galatasaray (K)",
   "awayTeam" : "Kayseri Basketbol (K)",
   "picks" : [ "149.5 Üst (1.64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-52",
+  "statuses" : {
+    "149.5 Üst (1.64)" : "lost"
+  }
 }, {
   "homeTeam" : "Porto",
   "awayTeam" : "Sporting CP",
   "picks" : [ "MS1 (1.08)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "76-82",
+  "statuses" : {
+    "MS1 (1.08)" : "lost"
+  }
 }, {
   "homeTeam" : "Geneve Lions",
   "awayTeam" : "Bnt Fribourg",
   "picks" : [ "MS1 (1.9)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "79-81",
+  "statuses" : {
+    "MS1 (1.9)" : "lost"
+  }
 }, {
   "homeTeam" : "Alba Fehervar",
   "awayTeam" : "Kaposvari KK",
   "picks" : [ "180.5 Üst (1.65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "110-117",
+  "statuses" : {
+    "180.5 Üst (1.65)" : "won"
+  }
 }, {
   "homeTeam" : "SL Benfica",
   "awayTeam" : "Imortal BC",
   "picks" : [ "163.5 Üst (1.64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "98-57",
+  "statuses" : {
+    "163.5 Üst (1.64)" : "lost"
+  }
 }, {
   "homeTeam" : "KK Igokea",
   "awayTeam" : "Kk Krka",
   "picks" : [ "MS1 (1.07)", "169.5 Üst (1.64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "87-71",
+  "statuses" : {
+    "MS1 (1.07)" : "won",
+    "169.5 Üst (1.64)" : "lost"
+  }
 }, {
   "homeTeam" : "ADA Blois Basket 41",
   "awayTeam" : "Caen Basket",
   "picks" : [ "157.5 Üst (1.61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-72",
+  "statuses" : {
+    "157.5 Üst (1.61)" : "lost"
+  }
 }, {
   "homeTeam" : "Le Mans",
   "awayTeam" : "JL Bourg",
   "picks" : [ "171.5 Üst (1.64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-82",
+  "statuses" : {
+    "171.5 Üst (1.64)" : "lost"
+  }
 } ]
