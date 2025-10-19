@@ -1,0 +1,67 @@
+[ {
+  "homeTeam" : "Penarol",
+  "awayTeam" : "Montevideo",
+  "picks" : [ "MS1 (1.13)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Rancho Santana",
+  "awayTeam" : "Managua",
+  "picks" : [ "MS2 (1.23)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Persis Solo",
+  "awayTeam" : "Malut Utd",
+  "picks" : [ "MS2 (2.18)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "FK Auda",
+  "awayTeam" : "FK Liepaja",
+  "picks" : [ "MS2 (2.15)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Eyüpspor",
+  "awayTeam" : "Kasımpaşa",
+  "picks" : [ "MS2 (2.71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Wisla Plock",
+  "awayTeam" : "Nieciecza",
+  "picks" : [ "MS1 (1.75)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Jong AZ Alkmaar",
+  "awayTeam" : "Willem II",
+  "picks" : [ "MS2 (2.0)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Jong PSV",
+  "awayTeam" : "ADO Den Haag",
+  "picks" : [ "MS2 (1.25)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Ahli Saudi",
+  "awayTeam" : "AL Gharrafa",
+  "picks" : [ "Üst (1.18)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Athletic Carpi U23",
+  "awayTeam" : "Ascoli",
+  "picks" : [ "MS2 (1.76)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Fram Rey",
+  "awayTeam" : "Stjarnan Gard.",
+  "picks" : [ "Var (1.22)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
