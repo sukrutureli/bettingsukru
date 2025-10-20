@@ -2,26 +2,34 @@
   "homeTeam" : "Penarol",
   "awayTeam" : "Montevideo",
   "picks" : [ "MS1 (1.13)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "MS1 (1.13)" : "won"
+  }
 }, {
   "homeTeam" : "Rancho Santana",
   "awayTeam" : "Managua",
   "picks" : [ "MS2 (1.23)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-5",
+  "statuses" : {
+    "MS2 (1.23)" : "won"
+  }
 }, {
   "homeTeam" : "Persis Solo",
   "awayTeam" : "Malut Utd",
   "picks" : [ "MS2 (2.18)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-3",
+  "statuses" : {
+    "MS2 (2.18)" : "won"
+  }
 }, {
   "homeTeam" : "FK Auda",
   "awayTeam" : "FK Liepaja",
   "picks" : [ "MS2 (2.15)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS2 (2.15)" : "won"
+  }
 }, {
   "homeTeam" : "Eyüpspor",
   "awayTeam" : "Kasımpaşa",
