@@ -34,32 +34,42 @@
   "homeTeam" : "Eyüpspor",
   "awayTeam" : "Kasımpaşa",
   "picks" : [ "MS2 (2.71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS2 (2.71)" : "lost"
+  }
 }, {
   "homeTeam" : "Wisla Plock",
   "awayTeam" : "Nieciecza",
   "picks" : [ "MS1 (1.75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS1 (1.75)" : "won"
+  }
 }, {
   "homeTeam" : "Jong AZ Alkmaar",
   "awayTeam" : "Willem II",
   "picks" : [ "MS2 (2.0)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "MS2 (2.0)" : "lost"
+  }
 }, {
   "homeTeam" : "Jong PSV",
   "awayTeam" : "ADO Den Haag",
   "picks" : [ "MS2 (1.25)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-3",
+  "statuses" : {
+    "MS2 (1.25)" : "won"
+  }
 }, {
   "homeTeam" : "Ahli Saudi",
   "awayTeam" : "AL Gharrafa",
   "picks" : [ "Üst (1.18)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "Üst (1.18)" : "won"
+  }
 }, {
   "homeTeam" : "Athletic Carpi U23",
   "awayTeam" : "Ascoli",
@@ -70,6 +80,8 @@
   "homeTeam" : "Fram Rey",
   "awayTeam" : "Stjarnan Gard.",
   "picks" : [ "Var (1.22)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (1.22)" : "won"
+  }
 } ]
