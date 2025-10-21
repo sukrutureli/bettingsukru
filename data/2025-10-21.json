@@ -36,80 +36,108 @@
   "homeTeam" : "Barcelona U19",
   "awayTeam" : "Olympiakos U19",
   "picks" : [ "MS1 (1.2)", "Üst (1.29)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "MS1 (1.2)" : "won",
+    "Üst (1.29)" : "won"
+  }
 }, {
   "homeTeam" : "Peterborough Utd U21",
   "awayTeam" : "Sheffield Utd U21",
   "picks" : [ "MS2 (1.34)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "6-1",
+  "statuses" : {
+    "MS2 (1.34)" : "lost"
+  }
 }, {
   "homeTeam" : "Coventry City U21",
   "awayTeam" : "Wigan Ath U21",
   "picks" : [ "MS1 (1.3)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-9",
+  "statuses" : {
+    "MS1 (1.3)" : "lost"
+  }
 }, {
   "homeTeam" : "Fleetwood T. U21",
   "awayTeam" : "Barnsley U21",
   "picks" : [ "Var (1.31)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Var (1.31)" : "won"
+  }
 }, {
   "homeTeam" : "Pyramids",
   "awayTeam" : "Farco",
   "picks" : [ "MS1 (1.13)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.13)" : "won"
+  }
 }, {
   "homeTeam" : "Academico V. U23",
   "awayTeam" : "Braga U23",
   "picks" : [ "MS1 (1.61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS1 (1.61)" : "lost"
+  }
 }, {
   "homeTeam" : "Club Africain",
   "awayTeam" : "US Monastir",
   "picks" : [ "Alt (1.22)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Alt (1.22)" : "lost"
+  }
 }, {
   "homeTeam" : "Parnu JK Vap",
   "awayTeam" : "Kuressaare",
   "picks" : [ "MS1 (1.34)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS1 (1.34)" : "lost"
+  }
 }, {
   "homeTeam" : "Flora T.",
   "awayTeam" : "Trans Narva",
   "picks" : [ "MS1 (1.38)", "Üst (1.39)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "MS1 (1.38)" : "won",
+    "Üst (1.39)" : "won"
+  }
 }, {
   "homeTeam" : "Dila Gori",
   "awayTeam" : "Gagra",
   "picks" : [ "MS1 (1.19)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-0",
+  "statuses" : {
+    "MS1 (1.19)" : "won"
+  }
 }, {
   "homeTeam" : "Al Ahli Dubai",
   "awayTeam" : "Nasaf",
   "picks" : [ "MS1 (1.28)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-1",
+  "statuses" : {
+    "MS1 (1.28)" : "won"
+  }
 }, {
   "homeTeam" : "Brno",
   "awayTeam" : "Opava",
   "picks" : [ "Üst (1.47)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Üst (1.47)" : "lost"
+  }
 }, {
   "homeTeam" : "AC Sparta Prague B",
   "awayTeam" : "Pribram",
   "picks" : [ "MS2 (3.04)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (3.04)" : "won"
+  }
 }, {
   "homeTeam" : "TOP Oss",
   "awayTeam" : "Jong Ajax",
