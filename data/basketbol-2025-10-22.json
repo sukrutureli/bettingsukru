@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Bigua de Villa Biarritz",
+  "awayTeam" : "Hebraica Macabi",
+  "picks" : [ "172.5 Üst (1.67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Regatas Corrientes",
+  "awayTeam" : "Union de Santa Fe",
+  "picks" : [ "MS1 (1.12)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Terrafirma Dyip",
+  "awayTeam" : "Converge Fiberxers",
+  "picks" : [ "201.5 Üst (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Phoenix Puls",
+  "awayTeam" : "Road Warriors",
+  "picks" : [ "194.5 Üst (1.62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sopron B. (K)",
+  "awayTeam" : "Galatasaray (K)",
+  "picks" : [ "140.5 Alt (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "BK Iskra Svit",
+  "awayTeam" : "BK Levicki Patrioti",
+  "picks" : [ "169.5 Üst (1.64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Rytas Vilnius",
+  "awayTeam" : "Promitheas",
+  "picks" : [ "171.5 Alt (1.6)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Alvik BBK (K)",
+  "awayTeam" : "Uppsala (K)",
+  "picks" : [ "150.5 Alt (1.65)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
