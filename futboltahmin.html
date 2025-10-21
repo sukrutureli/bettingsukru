@@ -3,7 +3,7 @@
 <head>
 <meta charset='UTF-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-<title>✅ Hazır Kupon</title>
+<title>💰 Hazır Kupon</title>
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css'>
 <style>
 body { font-family: Arial, sans-serif; background-color: #f7f8fa; margin: 0; padding: 20px; color: #222; }
@@ -15,12 +15,17 @@ tr:nth-child(even) { background-color: #f3f6fa; }
 tr:hover { background-color: #eaf3ff; }
 td { font-size: 14px; border-bottom: 1px solid #ddd; }
 td i, td svg, td img { display:inline-block; vertical-align:middle; margin-right:4px; color:#0077cc; }
-th:nth-child(1), td:nth-child(1) { width: 60px; text-align: left; white-space: nowrap; }
-th:nth-child(2), td:nth-child(2) { max-width: 220px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-th:nth-child(3), td:nth-child(3) { width: auto; }
-th:nth-child(4), td:nth-child(4) { width: 120px; text-align: left; color: #333; font-weight: bold; }
+th:nth-child(1), td:nth-child(1) { width: 80px; text-align: left; white-space: nowrap; }
+th:nth-child(2), td:nth-child(2) { width: 60px; text-align: center; white-space: nowrap; }
+th:nth-child(3), td:nth-child(3) { max-width: 220px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+th:nth-child(4), td:nth-child(4) { width: auto; }
+th:nth-child(5), td:nth-child(5) { width: 120px; text-align: left; color: #333; font-weight: bold; }
 .match { font-weight: bold; color: #1a1a1a; }
 .prediction { color: #444; white-space: pre-line; }
+.match-mbs { font-weight: bold; border-radius: 6px; padding: 3px 8px; font-size: 0.85em; min-width: 40px; display:inline-block; text-align:center; }
+.match-mbs-1 { background: #dc3545; color: #fff; } /* kırmızı */
+.match-mbs-2 { background: #fd7e14; color: #fff; } /* turuncu */
+.match-mbs-3 { background: #28a745; color: #fff; } /* yeşil */
 @media (max-width: 600px) {
   table, thead, tbody, th, td, tr { display: block; width: 100%; }
   thead { display: none; }
@@ -28,42 +33,37 @@ th:nth-child(4), td:nth-child(4) { width: 120px; text-align: left; color: #333; 
   td { border: none; padding: 6px 8px; }
   td i { margin-right: 6px; }
   td span.label { display:block; font-weight:bold; color:#0077cc; margin-bottom:3px; }
+  .match-mbs { display:inline-block; margin-left:8px; }
 }
 </style>
 </head>
 <body>
-<h1>✅ Hazır Kupon</h1>
+<h1>💰 Hazır Kupon</h1>
 <table>
-<thead><tr><th>🕒 Saat</th><th>⚽ Maç</th><th>🎯 Tahmin</th><th>📊 Skor Tahmini</th></tr></thead>
+<thead><tr><th>🕒 Saat</th><th>MBS</th><th>⚽ Maç</th><th>🎯 Tahmin</th><th>📊 Skor Tahmini</th></tr></thead>
 <tbody>
-<tr><td><i class='fa-regular fa-clock'></i>01:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Plaza Colonia - Liverpool M.</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.75)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>02:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Sport Boys - Melgar</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.88)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>03:15</td><td class='match'><i class='fa-solid fa-futbol'></i>Atl Tucuman - San Lorenzo</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Alt (1.17)</td><td class='score'><i class='fa-solid fa-chart-line'></i>1-0</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>10:45</td><td class='match'><i class='fa-solid fa-futbol'></i>Melbourne City - Buriram Utd</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (2.93) | Alt (1.65) | Yok (1.78)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>13:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Barcelona U19 - Olympiakos U19</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.2) | Üst (1.29)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>15:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Peterborough Utd U21 - Sheffield Utd U21</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.34)</td><td class='score'><i class='fa-solid fa-chart-line'></i>1-2</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>15:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Coventry City U21 - Wigan Ath U21</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.3)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>15:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Fleetwood T. U21 - Barnsley U21</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Var (1.31)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>17:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Pyramids - Farco</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.13)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-0</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>17:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Academico V. U23 - Braga U23</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.61)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>17:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Club Africain - US Monastir</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Alt (1.22)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-0</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>18:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Parnu JK Vap - Kuressaare</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.34)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-0</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>18:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Flora T. - Trans Narva</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.38) | Üst (1.39)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>18:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Dila Gori - Gagra</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.19)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Al Ahli Dubai - Nasaf</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.28)</td><td class='score'><i class='fa-solid fa-chart-line'></i>4-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Brno - Opava</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Üst (1.47)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td class='match'><i class='fa-solid fa-futbol'></i>AC Sparta Prague B - Pribram</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (3.04)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>21:00</td><td class='match'><i class='fa-solid fa-futbol'></i>TOP Oss - Jong Ajax</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Var (1.3)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>21:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Stevenage - Crystal Palace U21</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.13)</td><td class='score'><i class='fa-solid fa-chart-line'></i>4-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>21:45</td><td class='match'><i class='fa-solid fa-futbol'></i>Tiverton - Wimborne</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.64)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-2</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>21:45</td><td class='match'><i class='fa-solid fa-futbol'></i>Spalding Utd - Royston Town</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.35)</td><td class='score'><i class='fa-solid fa-chart-line'></i>4-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>21:45</td><td class='match'><i class='fa-solid fa-futbol'></i>Leiston - AFC Sudbury</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.65)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-0</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>21:45</td><td class='match'><i class='fa-solid fa-futbol'></i>Weston Super Mare - Slough Town</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.33)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>21:45</td><td class='match'><i class='fa-solid fa-futbol'></i>Torquay - Chippenham</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.22)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-0</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>21:45</td><td class='match'><i class='fa-solid fa-futbol'></i>Radcliffe - Darlington</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Üst (1.35)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>21:45</td><td class='match'><i class='fa-solid fa-futbol'></i>Spennymoor - AFC Fylde</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Var (1.33)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-2</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>22:00</td><td class='match'><i class='fa-solid fa-futbol'></i>Villarreal - Man. City</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.52)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-1</td></tr>
-<tr><td><i class='fa-regular fa-clock'></i>22:00</td><td class='match'><i class='fa-solid fa-futbol'></i>B. Leverkusen - PSG</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.42)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-2</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>04:00</td><td><span class='match-mbs match-mbs-2'>2</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Necaxa - Cruz Azul</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.59)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>04:00</td><td><span class='match-mbs match-mbs-2'>2</span></td><td class='match'><i class='fa-solid fa-futbol'></i>America - Puebla</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.1)</td><td class='score'><i class='fa-solid fa-chart-line'></i>4-0</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>15:30</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Santa Coloma - Penya d`Andorra</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.13)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-0</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>16:00</td><td><span class='match-mbs match-mbs-2'>2</span></td><td class='match'><i class='fa-solid fa-futbol'></i>S. Lizbon U19 - Marsilya U19</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.33) | Üst (1.32)</td><td class='score'><i class='fa-solid fa-chart-line'></i>6-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>17:00</td><td><span class='match-mbs match-mbs-2'>2</span></td><td class='match'><i class='fa-solid fa-futbol'></i>El Ahly (Mıs) - AL Ittihad</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.08)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-0</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>17:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>CA Bizertin - Stade Tunisien</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Alt (1.31)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-0</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>18:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Tallinna Kal. - Nomme Kalju</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.06)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-2</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>18:00</td><td><span class='match-mbs match-mbs-2'>2</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Inter Turku - Gnistan</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Üst (1.27)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>18:20</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>AL Jandal - AL Jabalain</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.35)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-2</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Levadia Tall. - Paide Flora</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Var (1.54)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td><span class='match-mbs match-mbs-2'>2</span></td><td class='match'><i class='fa-solid fa-futbol'></i>HJK Helsinki - SJK Seinöjoen</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Üst (1.24)</td><td class='score'><i class='fa-solid fa-chart-line'></i>1-2</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>FK Panevezys - FK Riteriai</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.4)</td><td class='score'><i class='fa-solid fa-chart-line'></i>2-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Ranheim - Mjondalen</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Üst (1.28)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Egersunds - Moss</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.61) | Üst (1.33)</td><td class='score'><i class='fa-solid fa-chart-line'></i>4-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>IK Start - Skeid</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.06)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-0</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>19:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Kongsvinger - Hodd IL</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.23)</td><td class='score'><i class='fa-solid fa-chart-line'></i>4-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>20:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Hercules - Atl Madrid B</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (2.6)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>20:30</td><td><span class='match-mbs match-mbs-2'>2</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Orlando Pirates - Polokwane</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.15)</td><td class='score'><i class='fa-solid fa-chart-line'></i>1-0</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>20:30</td><td><span class='match-mbs match-mbs-2'>2</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Stellenbosch - Gold. Arrow</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>Alt (1.25)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-1</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>22:00</td><td><span class='match-mbs match-mbs-1'>1</span></td><td class='match'><i class='fa-solid fa-futbol'></i>Chelsea - Ajax</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.09)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-0</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>22:00</td><td><span class='match-mbs match-mbs-3'>3</span></td><td class='match'><i class='fa-solid fa-futbol'></i>MC Alger - Paradou AC</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS1 (1.2)</td><td class='score'><i class='fa-solid fa-chart-line'></i>3-0</td></tr>
+<tr><td><i class='fa-regular fa-clock'></i>22:00</td><td><span class='match-mbs match-mbs-1'>1</span></td><td class='match'><i class='fa-solid fa-futbol'></i>S. Wednesday - Middlesbrough</td><td class='prediction'><i class='fa-solid fa-bullseye'></i>MS2 (1.54)</td><td class='score'><i class='fa-solid fa-chart-line'></i>0-1</td></tr>
 </tbody></table>
 </body>
 </html>

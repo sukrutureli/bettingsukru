@@ -1,0 +1,133 @@
+[ {
+  "homeTeam" : "Necaxa",
+  "awayTeam" : "Cruz Azul",
+  "picks" : [ "MS2 (1.59)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "America",
+  "awayTeam" : "Puebla",
+  "picks" : [ "MS1 (1.1)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Santa Coloma",
+  "awayTeam" : "Penya d`Andorra",
+  "picks" : [ "MS1 (1.13)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "S. Lizbon U19",
+  "awayTeam" : "Marsilya U19",
+  "picks" : [ "MS1 (1.33)", "Üst (1.32)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "El Ahly (Mıs)",
+  "awayTeam" : "AL Ittihad",
+  "picks" : [ "MS1 (1.08)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CA Bizertin",
+  "awayTeam" : "Stade Tunisien",
+  "picks" : [ "Alt (1.31)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Tallinna Kal.",
+  "awayTeam" : "Nomme Kalju",
+  "picks" : [ "MS2 (1.06)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Inter Turku",
+  "awayTeam" : "Gnistan",
+  "picks" : [ "Üst (1.27)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Jandal",
+  "awayTeam" : "AL Jabalain",
+  "picks" : [ "MS2 (1.35)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Levadia Tall.",
+  "awayTeam" : "Paide Flora",
+  "picks" : [ "Var (1.54)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "HJK Helsinki",
+  "awayTeam" : "SJK Seinöjoen",
+  "picks" : [ "Üst (1.24)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "FK Panevezys",
+  "awayTeam" : "FK Riteriai",
+  "picks" : [ "MS1 (1.4)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Ranheim",
+  "awayTeam" : "Mjondalen",
+  "picks" : [ "Üst (1.28)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Egersunds",
+  "awayTeam" : "Moss",
+  "picks" : [ "MS1 (1.61)", "Üst (1.33)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "IK Start",
+  "awayTeam" : "Skeid",
+  "picks" : [ "MS1 (1.06)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kongsvinger",
+  "awayTeam" : "Hodd IL",
+  "picks" : [ "MS1 (1.23)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hercules",
+  "awayTeam" : "Atl Madrid B",
+  "picks" : [ "MS2 (2.6)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Orlando Pirates",
+  "awayTeam" : "Polokwane",
+  "picks" : [ "MS1 (1.15)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Stellenbosch",
+  "awayTeam" : "Gold. Arrow",
+  "picks" : [ "Alt (1.25)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Chelsea",
+  "awayTeam" : "Ajax",
+  "picks" : [ "MS1 (1.09)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "MC Alger",
+  "awayTeam" : "Paradou AC",
+  "picks" : [ "MS1 (1.2)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "S. Wednesday",
+  "awayTeam" : "Middlesbrough",
+  "picks" : [ "MS2 (1.54)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
