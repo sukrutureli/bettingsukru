@@ -1,41 +1,89 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BettingSukru</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f0f0f0;
-      text-align: center;
-      padding-top: 100px;
-    }
-    h1 {
-      color: #333;
-    }
-    a {
-      display: inline-block;
-      margin: 20px;
-      padding: 15px 25px;
-      background: #007BFF;
-      color: white;
-      text-decoration: none;
-      border-radius: 8px;
-      transition: 0.2s;
-    }
-    a:hover {
-      background: #0056b3;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BettingSukru</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  color: #333;
+  padding-top: 80px;
+  text-align: center;
+}
+h1 {
+  color: #222;
+  margin-bottom: 20px;
+}
+p {
+  margin-bottom: 30px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+.column {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  width: 220px;
+}
+.column h2 {
+  margin-bottom: 15px;
+  color: #007BFF;
+  font-size: 18px;
+  border-bottom: 2px solid #007BFF;
+  padding-bottom: 5px;
+}
+a {
+  display: block;
+  margin: 12px 0;
+  padding: 12px 15px;
+  background: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+a:hover {
+  background: #0056b3;
+}
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+</style>
 </head>
 <body>
-  <h1>BettingSukru</h1>
-  <p>Bir kategori seçin:</p>
 
-  <a href="futbol">⚽ Futbol Tahminleri</a>
-  <a href="basketbol">🏀 Basketbol Tahminleri</a>
+<h1>BettingSukru</h1>
+<p>Bir kategori seçin:</p>
+
+<div class="container">
+
+  <!-- ⚽ Futbol Sütunu -->
+  <div class="column">
+    <h2>⚽ Futbol</h2>
+    <a href="futbol">📈 Futbol Tahminleri</a>
+    <a href="futboltahmin">💰 Hazır Kupon</a>
+    <a href="history">📊 Geçmiş Tahminler</a>
+  </div>
+
+  <!-- 🏀 Basketbol Sütunu -->
+  <div class="column">
+    <h2>🏀 Basketbol</h2>
+    <a href="basketbol">📈 Basketbol Tahminleri</a>
+    <a href="basketboltahmin">💰 Hazır Kupon</a>
+    <a href="basketballhistory">📊 Geçmiş Tahminler</a>
+  </div>
+
+</div>
 
 </body>
 </html>
-
