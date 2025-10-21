@@ -2,26 +2,36 @@
   "homeTeam" : "Plaza Colonia",
   "awayTeam" : "Liverpool M.",
   "picks" : [ "MS2 (1.75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (1.75)" : "won"
+  }
 }, {
   "homeTeam" : "Sport Boys",
   "awayTeam" : "Melgar",
   "picks" : [ "MS2 (1.88)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS2 (1.88)" : "lost"
+  }
 }, {
   "homeTeam" : "Atl Tucuman",
   "awayTeam" : "San Lorenzo",
   "picks" : [ "Alt (1.17)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.17)" : "lost"
+  }
 }, {
   "homeTeam" : "Melbourne City",
   "awayTeam" : "Buriram Utd",
   "picks" : [ "MS2 (2.93)", "Alt (1.65)", "Yok (1.78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS2 (2.93)" : "lost",
+    "Alt (1.65)" : "lost",
+    "Yok (1.78)" : "lost"
+  }
 }, {
   "homeTeam" : "Barcelona U19",
   "awayTeam" : "Olympiakos U19",
