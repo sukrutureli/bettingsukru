@@ -154,14 +154,19 @@
   "homeTeam" : "Konyaspor",
   "awayTeam" : "Beşiktaş",
   "picks" : [ "Var (1.44 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Var (1.44 - %68)" : "lost"
+  }
 }, {
   "homeTeam" : "Gosport",
   "awayTeam" : "Bracknell Town",
   "picks" : [ "Üst (1.47 - %78)", "Var (1.43 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "6-1",
+  "statuses" : {
+    "Üst (1.47 - %78)" : "won",
+    "Var (1.43 - %78)" : "won"
+  }
 }, {
   "homeTeam" : "Hav. Waterloo",
   "awayTeam" : "Hanwell Town",
@@ -172,18 +177,24 @@
   "homeTeam" : "Chelsea",
   "awayTeam" : "Ajax",
   "picks" : [ "MS1 (1.11 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-1",
+  "statuses" : {
+    "MS1 (1.11 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Real Madrid",
   "awayTeam" : "Juventus",
   "picks" : [ "Var (1.5 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Var (1.5 - %73)" : "lost"
+  }
 }, {
   "homeTeam" : "MC Alger",
   "awayTeam" : "Paradou AC",
   "picks" : [ "MS1 (1.2 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.2 - %74)" : "won"
+  }
 } ]

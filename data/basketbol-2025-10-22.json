@@ -58,6 +58,8 @@
   "homeTeam" : "Alvik BBK (K)",
   "awayTeam" : "Uppsala (K)",
   "picks" : [ "150.5 Alt (1.65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "59-78",
+  "statuses" : {
+    "150.5 Alt (1.65)" : "won"
+  }
 } ]
