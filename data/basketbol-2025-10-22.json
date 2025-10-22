@@ -2,14 +2,18 @@
   "homeTeam" : "Bigua de Villa Biarritz",
   "awayTeam" : "Hebraica Macabi",
   "picks" : [ "172.5 Üst (1.67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-74",
+  "statuses" : {
+    "172.5 Üst (1.67)" : "lost"
+  }
 }, {
   "homeTeam" : "Regatas Corrientes",
   "awayTeam" : "Union de Santa Fe",
   "picks" : [ "MS1 (1.12)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "73-74",
+  "statuses" : {
+    "MS1 (1.12)" : "lost"
+  }
 }, {
   "homeTeam" : "Terrafirma Dyip",
   "awayTeam" : "Converge Fiberxers",
