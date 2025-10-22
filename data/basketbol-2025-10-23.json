@@ -1,0 +1,55 @@
+[ {
+  "homeTeam" : "New York",
+  "awayTeam" : "Cleveland",
+  "picks" : [ "MS2 (1.53 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Brooklyn",
+  "picks" : [ "MS2 (2.25 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "New Orleans",
+  "picks" : [ "MS1 (1.33 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "San Antonio",
+  "picks" : [ "223.5 Üst (1.62 - %84)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Melbourne Phoenix",
+  "awayTeam" : "Sydney Kings",
+  "picks" : [ "182.5 Üst (1.63 - %81)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dvtk Miskolc (K)",
+  "awayTeam" : "Valencia (K)",
+  "picks" : [ "142.5 Alt (1.63 - %84)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sodertalje",
+  "awayTeam" : "BC Lulea",
+  "picks" : [ "157.5 Üst (1.65 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Zalgiris Kaunas",
+  "picks" : [ "MS1 (1.25 - %86)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kızıl Yıldız",
+  "awayTeam" : "Baskonia",
+  "picks" : [ "MS1 (1.11 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
