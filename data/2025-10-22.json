@@ -2,110 +2,154 @@
   "homeTeam" : "Chelsea U19",
   "awayTeam" : "Ajax U19",
   "picks" : [ "Var (1.25 - %83)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "6-3",
+  "statuses" : {
+    "Var (1.25 - %83)" : "won"
+  }
 }, {
   "homeTeam" : "Santa Coloma",
   "awayTeam" : "Penya d`Andorra",
   "picks" : [ "MS1 (1.08 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS1 (1.08 - %71)" : "won"
+  }
 }, {
   "homeTeam" : "S. Lizbon U19",
   "awayTeam" : "Marsilya U19",
   "picks" : [ "MS1 (1.34 - %75)", "Üst (1.29 - %89)", "Var (1.38 - %82)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.34 - %75)" : "won",
+    "Üst (1.29 - %89)" : "won",
+    "Var (1.38 - %82)" : "won"
+  }
 }, {
   "homeTeam" : "El Ahly (Mıs)",
   "awayTeam" : "AL Ittihad",
   "picks" : [ "MS1 (1.07 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.07 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "CA Bizertin",
   "awayTeam" : "Stade Tunisien",
   "picks" : [ "Alt (1.21 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Alt (1.21 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "Harju JK Laagri",
   "awayTeam" : "Tartu JK Tam.",
   "picks" : [ "Var (1.24 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Var (1.24 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "Tallinna Kal.",
   "awayTeam" : "Nomme Kalju",
   "picks" : [ "MS2 (1.06 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "MS2 (1.06 - %81)" : "won"
+  }
 }, {
   "homeTeam" : "Inter Turku",
   "awayTeam" : "Gnistan",
   "picks" : [ "Üst (1.27 - %70)", "Var (1.53 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Üst (1.27 - %70)" : "won",
+    "Var (1.53 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "AL Jandal",
   "awayTeam" : "AL Jabalain",
   "picks" : [ "MS2 (1.5 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (1.5 - %56)" : "lost"
+  }
 }, {
   "homeTeam" : "Chojniczanka",
   "awayTeam" : "Hutnik Krakow",
   "picks" : [ "Var (1.33 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Var (1.33 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "Levadia Tall.",
   "awayTeam" : "Paide Flora",
   "picks" : [ "Üst (1.56 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Üst (1.56 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "HJK Helsinki",
   "awayTeam" : "SJK Seinöjoen",
   "picks" : [ "Üst (1.26 - %71)", "Var (1.26 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-4",
+  "statuses" : {
+    "Üst (1.26 - %71)" : "won",
+    "Var (1.26 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Dinamo B.",
   "awayTeam" : "Gareji",
   "picks" : [ "Alt (1.46 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-4",
+  "statuses" : {
+    "Alt (1.46 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "Stabaek",
   "awayTeam" : "Asane",
   "picks" : [ "Üst (1.28 - %73)", "Var (1.42 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Üst (1.28 - %73)" : "lost",
+    "Var (1.42 - %79)" : "lost"
+  }
 }, {
   "homeTeam" : "Ranheim",
   "awayTeam" : "Mjondalen",
   "picks" : [ "Üst (1.27 - %72)", "Var (1.48 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "Üst (1.27 - %72)" : "won",
+    "Var (1.48 - %75)" : "lost"
+  }
 }, {
   "homeTeam" : "Egersunds",
   "awayTeam" : "Moss",
   "picks" : [ "MS1 (1.54 - %72)", "Üst (1.33 - %75)", "Var (1.34 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.54 - %72)" : "won",
+    "Üst (1.33 - %75)" : "lost",
+    "Var (1.34 - %68)" : "lost"
+  }
 }, {
   "homeTeam" : "IK Start",
   "awayTeam" : "Skeid",
   "picks" : [ "MS1 (1.06 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.06 - %61)" : "won"
+  }
 }, {
   "homeTeam" : "Aalesunds",
   "awayTeam" : "Lyn Toppo.",
   "picks" : [ "Üst (1.46 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Üst (1.46 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "Konyaspor",
   "awayTeam" : "Beşiktaş",

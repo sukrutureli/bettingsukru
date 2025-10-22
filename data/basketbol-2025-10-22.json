@@ -18,32 +18,42 @@
   "homeTeam" : "Terrafirma Dyip",
   "awayTeam" : "Converge Fiberxers",
   "picks" : [ "201.5 Üst (1.65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "108-125",
+  "statuses" : {
+    "201.5 Üst (1.65)" : "won"
+  }
 }, {
   "homeTeam" : "Phoenix Puls",
   "awayTeam" : "Road Warriors",
   "picks" : [ "194.5 Üst (1.62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "81-87",
+  "statuses" : {
+    "194.5 Üst (1.62)" : "lost"
+  }
 }, {
   "homeTeam" : "Sopron B. (K)",
   "awayTeam" : "Galatasaray (K)",
   "picks" : [ "140.5 Alt (1.64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "64-83",
+  "statuses" : {
+    "140.5 Alt (1.64)" : "lost"
+  }
 }, {
   "homeTeam" : "BK Iskra Svit",
   "awayTeam" : "BK Levicki Patrioti",
   "picks" : [ "169.5 Üst (1.64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-81",
+  "statuses" : {
+    "169.5 Üst (1.64)" : "lost"
+  }
 }, {
   "homeTeam" : "Rytas Vilnius",
   "awayTeam" : "Promitheas",
   "picks" : [ "171.5 Alt (1.6)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "98-79",
+  "statuses" : {
+    "171.5 Alt (1.6)" : "lost"
+  }
 }, {
   "homeTeam" : "Alvik BBK (K)",
   "awayTeam" : "Uppsala (K)",
