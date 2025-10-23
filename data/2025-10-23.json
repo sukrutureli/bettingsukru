@@ -44,8 +44,12 @@
   "homeTeam" : "Feyenoord",
   "awayTeam" : "Panathinaikos",
   "picks" : [ "MS2 (5.3 - %66)", "Alt (2.01 - %84)", "Yok (1.8 - %87)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS2 (5.3 - %66)" : "lost",
+    "Alt (2.01 - %84)" : "lost",
+    "Yok (1.8 - %87)" : "lost"
+  }
 }, {
   "homeTeam" : "AL Riyadh",
   "awayTeam" : "AL Khlood",
@@ -171,54 +175,74 @@
   "homeTeam" : "B. Kaliningrad",
   "awayTeam" : "L. Moskova",
   "picks" : [ "Alt (1.52 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.52 - %73)" : "lost"
+  }
 }, {
   "homeTeam" : "AL Najma",
   "awayTeam" : "Ahli Saudi",
   "picks" : [ "MS2 (1.06 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (1.06 - %69)" : "won"
+  }
 }, {
   "homeTeam" : "Nottingham F.",
   "awayTeam" : "Porto",
   "picks" : [ "MS2 (2.49 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS2 (2.49 - %61)" : "lost"
+  }
 }, {
   "homeTeam" : "Young Boys",
   "awayTeam" : "Ludogorets",
   "picks" : [ "Var (1.55 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-2",
+  "statuses" : {
+    "Var (1.55 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "Lille",
   "awayTeam" : "PAOK",
   "picks" : [ "MS1 (1.36 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-4",
+  "statuses" : {
+    "MS1 (1.36 - %56)" : "lost"
+  }
 }, {
   "homeTeam" : "Celta Vigo",
   "awayTeam" : "Nice",
   "picks" : [ "MS1 (1.6 - %58)", "Üst (1.56 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.6 - %58)" : "won",
+    "Üst (1.56 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Celtic",
   "awayTeam" : "Sturm Graz",
   "picks" : [ "Alt (2.18 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Alt (2.18 - %77)" : "lost"
+  }
 }, {
   "homeTeam" : "Un. Craiova",
   "awayTeam" : "Noah",
   "picks" : [ "Üst (1.66 - %76)", "Var (1.58 - %80)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Üst (1.66 - %76)" : "lost",
+    "Var (1.58 - %80)" : "won"
+  }
 }, {
   "homeTeam" : "Hamrun Spartans",
   "awayTeam" : "Lausanne",
   "picks" : [ "MS2 (1.46 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (1.46 - %60)" : "won"
+  }
 } ]

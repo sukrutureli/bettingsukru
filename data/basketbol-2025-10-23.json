@@ -50,12 +50,16 @@
   "homeTeam" : "Barcelona",
   "awayTeam" : "Zalgiris Kaunas",
   "picks" : [ "MS1 (1.25 - %86)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "73-88",
+  "statuses" : {
+    "MS1 (1.25 - %86)" : "lost"
+  }
 }, {
   "homeTeam" : "Kızıl Yıldız",
   "awayTeam" : "Baskonia",
   "picks" : [ "MS1 (1.11 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "90-72",
+  "statuses" : {
+    "MS1 (1.11 - %67)" : "won"
+  }
 } ]
