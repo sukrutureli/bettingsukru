@@ -50,26 +50,35 @@
   "homeTeam" : "AL Riyadh",
   "awayTeam" : "AL Khlood",
   "picks" : [ "MS2 (2.22 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS2 (2.22 - %60)" : "lost"
+  }
 }, {
   "homeTeam" : "Bibiani Gold Stars",
   "awayTeam" : "Berekum Chelsea",
   "picks" : [ "MS1 (1.28 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS1 (1.28 - %55)" : "won"
+  }
 }, {
   "homeTeam" : "Hegelmann",
   "awayTeam" : "Dziugas",
   "picks" : [ "Alt (1.61 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-1",
+  "statuses" : {
+    "Alt (1.61 - %70)" : "lost"
+  }
 }, {
   "homeTeam" : "Krasnodar",
   "awayTeam" : "Sochi",
   "picks" : [ "MS1 (1.15 - %67)", "Üst (1.41 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "MS1 (1.15 - %67)" : "won",
+    "Üst (1.41 - %78)" : "won"
+  }
 }, {
   "homeTeam" : "Suduva",
   "awayTeam" : "Dfk Dainava",
@@ -80,56 +89,78 @@
   "homeTeam" : "Hvidovre",
   "awayTeam" : "HB Koege",
   "picks" : [ "MS1 (1.46 - %59)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS1 (1.46 - %59)" : "won"
+  }
 }, {
   "homeTeam" : "FCSB",
   "awayTeam" : "Bologna",
   "picks" : [ "MS1 (4.79 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS1 (4.79 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "Lyon",
   "awayTeam" : "Basel",
   "picks" : [ "MS1 (1.36 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.36 - %57)" : "won"
+  }
 }, {
   "homeTeam" : "Go Ahead Eagles",
   "awayTeam" : "Aston Villa",
   "picks" : [ "MS2 (1.21 - %55)", "Alt (2.23 - %74)", "Yok (1.8 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS2 (1.21 - %55)" : "lost",
+    "Alt (2.23 - %74)" : "lost",
+    "Yok (1.8 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "Salzburg",
   "awayTeam" : "Ferencvaros",
   "picks" : [ "MS2 (2.83 - %64)", "Alt (1.95 - %87)", "Yok (2.08 - %87)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "MS2 (2.83 - %64)" : "won",
+    "Alt (1.95 - %87)" : "lost",
+    "Yok (2.08 - %87)" : "lost"
+  }
 }, {
   "homeTeam" : "Brann",
   "awayTeam" : "Rangers",
   "picks" : [ "MS1 (1.81 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "MS1 (1.81 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Shakhtar D.",
   "awayTeam" : "L. Varşova",
   "picks" : [ "Var (1.67 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Var (1.67 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "BK Hacken",
   "awayTeam" : "Vallecano",
   "picks" : [ "MS2 (1.67 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS2 (1.67 - %56)" : "lost"
+  }
 }, {
   "homeTeam" : "Rapid Wien",
   "awayTeam" : "Fiorentina",
   "picks" : [ "MS2 (1.9 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-3",
+  "statuses" : {
+    "MS2 (1.9 - %56)" : "won"
+  }
 }, {
   "homeTeam" : "Express",
   "awayTeam" : "Kampala Capital C.",
