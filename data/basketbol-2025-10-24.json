@@ -1,0 +1,25 @@
+[ {
+  "homeTeam" : "Dvtk Miskolc (K)",
+  "awayTeam" : "Valencia (K)",
+  "picks" : [ "140.5 Alt (1.65 - %80)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sodertalje",
+  "awayTeam" : "BC Lulea",
+  "picks" : [ "157.5 Üst (1.64 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Zalgiris Kaunas",
+  "picks" : [ "MS1 (1.25 - %86)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kızıl Yıldız",
+  "awayTeam" : "Baskonia",
+  "picks" : [ "MS1 (1.06 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
