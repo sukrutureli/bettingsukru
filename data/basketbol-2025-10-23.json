@@ -2,25 +2,31 @@
   "homeTeam" : "New York",
   "awayTeam" : "Cleveland",
   "picks" : [ "MS2 (1.53 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "119-111",
+  "statuses" : {
+    "MS2 (1.53 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "Charlotte",
   "awayTeam" : "Brooklyn",
   "picks" : [ "MS2 (2.25 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "136-117",
+  "statuses" : {
+    "MS2 (2.25 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "Memphis",
   "awayTeam" : "New Orleans",
   "picks" : [ "MS1 (1.33 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "128-122",
+  "statuses" : {
+    "MS1 (1.33 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Dallas",
   "awayTeam" : "San Antonio",
   "picks" : [ "223.5 Üst (1.62 - %84)" ],
-  "score" : "-",
+  "score" : "92-125",
   "statuses" : { }
 }, {
   "homeTeam" : "Melbourne Phoenix",
