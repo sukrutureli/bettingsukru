@@ -1,13 +1,49 @@
 [ {
+  "homeTeam" : "Bangkok Utd",
+  "awayTeam" : "Lion C. Sailors",
+  "picks" : [ "Var (1.27 - %75)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Cong An Nhan Dan",
+  "awayTeam" : "Macarthur",
+  "picks" : [ "Üst (1.32 - %74)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Persib Bandung",
+  "awayTeam" : "Selangor FA",
+  "picks" : [ "MS1 (1.52 - %55)", "Üst (1.33 - %78)", "Var (1.35 - %82)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Entag Harby",
+  "awayTeam" : "El Daklyeh",
+  "picks" : [ "MS2 (2.53 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
   "homeTeam" : "Tanta",
   "awayTeam" : "Aswan",
-  "picks" : [ "Yok (1.34 - %79)" ],
+  "picks" : [ "Yok (1.25 - %79)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Feyenoord",
+  "awayTeam" : "Panathinaikos",
+  "picks" : [ "MS2 (5.3 - %66)", "Alt (2.01 - %84)", "Yok (1.8 - %87)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "AL Riyadh",
   "awayTeam" : "AL Khlood",
-  "picks" : [ "MS2 (2.17 - %60)" ],
+  "picks" : [ "MS2 (2.22 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bibiani Gold Stars",
+  "awayTeam" : "Berekum Chelsea",
+  "picks" : [ "MS1 (1.28 - %55)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -19,19 +55,61 @@
 }, {
   "homeTeam" : "Krasnodar",
   "awayTeam" : "Sochi",
-  "picks" : [ "MS1 (1.15 - %67)", "Üst (1.44 - %78)" ],
+  "picks" : [ "MS1 (1.15 - %67)", "Üst (1.41 - %78)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "Suduva",
   "awayTeam" : "Dfk Dainava",
-  "picks" : [ "MS1 (1.27 - %56)" ],
+  "picks" : [ "MS1 (1.22 - %56)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "Hvidovre",
   "awayTeam" : "HB Koege",
-  "picks" : [ "MS1 (1.51 - %59)" ],
+  "picks" : [ "MS1 (1.46 - %59)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "FCSB",
+  "awayTeam" : "Bologna",
+  "picks" : [ "MS1 (4.79 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Lyon",
+  "awayTeam" : "Basel",
+  "picks" : [ "MS1 (1.36 - %57)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Go Ahead Eagles",
+  "awayTeam" : "Aston Villa",
+  "picks" : [ "MS2 (1.21 - %55)", "Alt (2.23 - %74)", "Yok (1.8 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Salzburg",
+  "awayTeam" : "Ferencvaros",
+  "picks" : [ "MS2 (2.83 - %64)", "Alt (1.95 - %87)", "Yok (2.08 - %87)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Brann",
+  "awayTeam" : "Rangers",
+  "picks" : [ "MS1 (1.81 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Shakhtar D.",
+  "awayTeam" : "L. Varşova",
+  "picks" : [ "Var (1.67 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "BK Hacken",
+  "awayTeam" : "Vallecano",
+  "picks" : [ "MS2 (1.67 - %56)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -43,13 +121,61 @@
 }, {
   "homeTeam" : "Express",
   "awayTeam" : "Kampala Capital C.",
-  "picks" : [ "MS2 (2.17 - %65)", "Yok (1.42 - %70)" ],
+  "picks" : [ "MS2 (1.95 - %65)", "Yok (1.41 - %70)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "B. Kaliningrad",
   "awayTeam" : "L. Moskova",
-  "picks" : [ "Alt (1.54 - %73)" ],
+  "picks" : [ "Alt (1.52 - %73)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Najma",
+  "awayTeam" : "Ahli Saudi",
+  "picks" : [ "MS2 (1.06 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Nottingham F.",
+  "awayTeam" : "Porto",
+  "picks" : [ "MS2 (2.49 - %61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Young Boys",
+  "awayTeam" : "Ludogorets",
+  "picks" : [ "Var (1.55 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Lille",
+  "awayTeam" : "PAOK",
+  "picks" : [ "MS1 (1.36 - %56)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Celta Vigo",
+  "awayTeam" : "Nice",
+  "picks" : [ "MS1 (1.6 - %58)", "Üst (1.56 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Celtic",
+  "awayTeam" : "Sturm Graz",
+  "picks" : [ "Alt (2.18 - %77)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Un. Craiova",
+  "awayTeam" : "Noah",
+  "picks" : [ "Üst (1.66 - %76)", "Var (1.58 - %80)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hamrun Spartans",
+  "awayTeam" : "Lausanne",
+  "picks" : [ "MS2 (1.46 - %60)" ],
   "score" : "-",
   "statuses" : { }
 } ]
