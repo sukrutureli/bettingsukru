@@ -1,0 +1,85 @@
+[ {
+  "homeTeam" : "ABD (K)",
+  "awayTeam" : "Portekiz (K)",
+  "picks" : [ "Üst (1.15 - %80)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Belgrano",
+  "awayTeam" : "Argentinos J.",
+  "picks" : [ "Üst (2.36 - %75)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "S. Cristal",
+  "awayTeam" : "U. Deportes",
+  "picks" : [ "MS2 (2.0 - %58)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Preston Lions",
+  "awayTeam" : "Avondale",
+  "picks" : [ "MS2 (1.55 - %59)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "FK Karvan Yevlakh",
+  "awayTeam" : "Turan Tovuz",
+  "picks" : [ "MS2 (1.3 - %68)", "Yok (1.4 - %83)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Mara Sugar",
+  "awayTeam" : "Bidco Utd",
+  "picks" : [ "Yok (1.37 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Balestier",
+  "awayTeam" : "Tanjong Pagar",
+  "picks" : [ "MS1 (1.16 - %56)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Madura Utd",
+  "awayTeam" : "Persija Jakarta",
+  "picks" : [ "Alt (1.69 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "EL Terasanah",
+  "awayTeam" : "La Viena",
+  "picks" : [ "Yok (1.34 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hadiya Hossana",
+  "awayTeam" : "Ethiopia Electricity",
+  "picks" : [ "Yok (1.36 - %76)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "HNK Orijent 1919",
+  "awayTeam" : "NK Dugopolje",
+  "picks" : [ "Alt (1.35 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sheffield Utd U21",
+  "awayTeam" : "Fleetwood T. U21",
+  "picks" : [ "MS1 (1.1 - %58)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Aluminium A.",
+  "awayTeam" : "Mes Rafsanjan",
+  "picks" : [ "Alt (1.13 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Napredak Kru.",
+  "awayTeam" : "FK Vojvodina",
+  "picks" : [ "MS2 (1.59 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
