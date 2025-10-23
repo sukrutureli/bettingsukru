@@ -2,32 +2,44 @@
   "homeTeam" : "Bangkok Utd",
   "awayTeam" : "Lion C. Sailors",
   "picks" : [ "Var (1.27 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Var (1.27 - %75)" : "lost"
+  }
 }, {
   "homeTeam" : "Cong An Nhan Dan",
   "awayTeam" : "Macarthur",
   "picks" : [ "Üst (1.32 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Üst (1.32 - %74)" : "lost"
+  }
 }, {
   "homeTeam" : "Persib Bandung",
   "awayTeam" : "Selangor FA",
   "picks" : [ "MS1 (1.52 - %55)", "Üst (1.33 - %78)", "Var (1.35 - %82)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.52 - %55)" : "won",
+    "Üst (1.33 - %78)" : "lost",
+    "Var (1.35 - %82)" : "lost"
+  }
 }, {
   "homeTeam" : "Entag Harby",
   "awayTeam" : "El Daklyeh",
   "picks" : [ "MS2 (2.53 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "MS2 (2.53 - %60)" : "won"
+  }
 }, {
   "homeTeam" : "Tanta",
   "awayTeam" : "Aswan",
   "picks" : [ "Yok (1.25 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Yok (1.25 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "Feyenoord",
   "awayTeam" : "Panathinaikos",
