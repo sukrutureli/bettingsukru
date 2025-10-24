@@ -2,20 +2,26 @@
   "homeTeam" : "ABD (K)",
   "awayTeam" : "Portekiz (K)",
   "picks" : [ "Üst (1.15 - %80)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Üst (1.15 - %80)" : "won"
+  }
 }, {
   "homeTeam" : "Belgrano",
   "awayTeam" : "Argentinos J.",
   "picks" : [ "Üst (2.36 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Üst (2.36 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "S. Cristal",
   "awayTeam" : "U. Deportes",
   "picks" : [ "MS2 (2.0 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (2.0 - %58)" : "won"
+  }
 }, {
   "homeTeam" : "Preston Lions",
   "awayTeam" : "Avondale",

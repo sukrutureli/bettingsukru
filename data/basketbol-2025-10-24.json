@@ -2,20 +2,24 @@
   "homeTeam" : "CA Welcome",
   "awayTeam" : "Club Un. At",
   "picks" : [ "177.5 Üst (1.6 - %85)" ],
-  "score" : "-",
+  "score" : "68-84",
   "statuses" : { }
 }, {
   "homeTeam" : "CA Goes",
   "awayTeam" : "Club Nacional",
   "picks" : [ "MS2 (1.06 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "86-102",
+  "statuses" : {
+    "MS2 (1.06 - %78)" : "won"
+  }
 }, {
   "homeTeam" : "Ciclista Olimpico",
   "awayTeam" : "Racing de Chivilcoy",
   "picks" : [ "MS1 (1.13 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "82-86",
+  "statuses" : {
+    "MS1 (1.13 - %72)" : "lost"
+  }
 }, {
   "homeTeam" : "Rizing Fukuoka",
   "awayTeam" : "Shinsh Brave",
