@@ -60,48 +60,54 @@
   "homeTeam" : "ALM Evreux Basket",
   "awayTeam" : "Pau Orthez",
   "picks" : [ "MS2 (1.12 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "65-98",
+  "statuses" : {
+    "MS2 (1.12 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "Miasto Szkla",
   "awayTeam" : "Torun",
   "picks" : [ "167.5 Üst (1.63 - %78)" ],
-  "score" : "-",
+  "score" : "81-88",
   "statuses" : { }
 }, {
   "homeTeam" : "Limoges CSP",
   "awayTeam" : "Saint Quentin",
   "picks" : [ "MS1 (1.32 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-62",
+  "statuses" : {
+    "MS1 (1.32 - %71)" : "won"
+  }
 }, {
   "homeTeam" : "Kortrijk Spurs",
   "awayTeam" : "Donar Groningen",
   "picks" : [ "167.5 Üst (1.65 - %76)" ],
-  "score" : "-",
+  "score" : "80-76",
   "statuses" : { }
 }, {
   "homeTeam" : "Saint Chamond",
   "awayTeam" : "Stade Rochelais B.",
   "picks" : [ "165.5 Alt (1.64 - %76)" ],
-  "score" : "-",
+  "score" : "108-73",
   "statuses" : { }
 }, {
   "homeTeam" : "Bristol Flyers",
   "awayTeam" : "Cheshire Phoenix",
   "picks" : [ "165.5 Üst (1.67 - %79)" ],
-  "score" : "-",
+  "score" : "86-95",
   "statuses" : { }
 }, {
   "homeTeam" : "Bayern Münih",
   "awayTeam" : "Olympiakos",
   "picks" : [ "MS2 (1.33 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "71-96",
+  "statuses" : {
+    "MS2 (1.33 - %85)" : "won"
+  }
 }, {
   "homeTeam" : "IA Akranes",
   "awayTeam" : "Alftanes",
   "picks" : [ "182.5 Üst (1.66 - %99)" ],
-  "score" : "-",
+  "score" : "76-74",
   "statuses" : { }
 } ]
