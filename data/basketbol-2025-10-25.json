@@ -1,0 +1,43 @@
+[ {
+  "homeTeam" : "Duna Aszfalt",
+  "awayTeam" : "NKA Universitas Pecs",
+  "picks" : [ "MS2 (1.92 - %77)", "167.5 Alt (1.63 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Flyers Wels",
+  "awayTeam" : "Traiskirchen",
+  "picks" : [ "156.5 Alt (1.64 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "KFUM Nassjo",
+  "awayTeam" : "Sloga Uppsala",
+  "picks" : [ "MS1 (1.1 - %83)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bnt Fribourg",
+  "awayTeam" : "BBC Lausanne",
+  "picks" : [ "169.5 Alt (1.62 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bristol Flyers",
+  "awayTeam" : "Cheshire Phoenix",
+  "picks" : [ "165.5 Üst (1.6 - %79)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bayern Münih",
+  "awayTeam" : "Olympiakos",
+  "picks" : [ "MS2 (1.29 - %85)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "IA Akranes",
+  "awayTeam" : "Alftanes",
+  "picks" : [ "184.5 Üst (1.65 - %96)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
