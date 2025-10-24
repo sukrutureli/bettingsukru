@@ -36,8 +36,10 @@
   "homeTeam" : "Almanya (K)",
   "awayTeam" : "Fransa (K)",
   "picks" : [ "Üst (1.48 - %88)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Üst (1.48 - %88)" : "lost"
+  }
 }, {
   "homeTeam" : "AL Hilal (Sud)",
   "awayTeam" : "Administration Police",
@@ -48,8 +50,10 @@
   "homeTeam" : "Liefering",
   "awayTeam" : "St. Polten",
   "picks" : [ "MS2 (1.73 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS2 (1.73 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "Klagenfurt",
   "awayTeam" : "Sturm Graz (Amt.)",
@@ -60,20 +64,26 @@
   "homeTeam" : "Usti Nad Labem",
   "awayTeam" : "Banik Ostrava B",
   "picks" : [ "Var (1.91 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-1",
+  "statuses" : {
+    "Var (1.91 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Nieciecza",
   "awayTeam" : "Zaglebie Lubin",
   "picks" : [ "MS2 (2.55 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (2.55 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "Macaristan (K)",
   "awayTeam" : "Lüksemburg (K)",
   "picks" : [ "Üst (1.27 - %95)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "Üst (1.27 - %95)" : "won"
+  }
 }, {
   "homeTeam" : "Polonya (K)",
   "awayTeam" : "Hollanda (K)",
@@ -84,26 +94,35 @@
   "homeTeam" : "İtalya (K)",
   "awayTeam" : "Japonya (K)",
   "picks" : [ "Var (1.59 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (1.59 - %71)" : "won"
+  }
 }, {
   "homeTeam" : "Buchbach",
   "awayTeam" : "Nürnberg (Amt)",
   "picks" : [ "MS2 (2.18 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS2 (2.18 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Hallescher",
   "awayTeam" : "Lok. Leipzig",
   "picks" : [ "MS2 (2.03 - %66)", "Yok (1.74 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-4",
+  "statuses" : {
+    "MS2 (2.03 - %66)" : "won",
+    "Yok (1.74 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "Luckenwalde",
   "awayTeam" : "SV Babelsberg 03",
   "picks" : [ "MS1 (2.16 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "MS1 (2.16 - %62)" : "lost"
+  }
 }, {
   "homeTeam" : "SC Bastia",
   "awayTeam" : "Stade Laval.",

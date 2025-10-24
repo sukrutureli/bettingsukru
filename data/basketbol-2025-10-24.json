@@ -32,19 +32,23 @@
   "homeTeam" : "Szolnoki Olaj Kk",
   "awayTeam" : "Budapesti Honved SE",
   "picks" : [ "MS1 (1.05 - %89)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "85-68",
+  "statuses" : {
+    "MS1 (1.05 - %89)" : "won"
+  }
 }, {
   "homeTeam" : "Duna Aszfalt",
   "awayTeam" : "NKA Universitas Pecs",
   "picks" : [ "MS2 (1.7 - %77)", "168.5 Alt (1.61 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "77-72",
+  "statuses" : {
+    "MS2 (1.7 - %77)" : "lost"
+  }
 }, {
   "homeTeam" : "Flyers Wels",
   "awayTeam" : "Traiskirchen",
   "picks" : [ "156.5 Alt (1.63 - %64)" ],
-  "score" : "-",
+  "score" : "101-62",
   "statuses" : { }
 }, {
   "homeTeam" : "Bnt Fribourg",
