@@ -14,8 +14,10 @@
   "homeTeam" : "Aluminium A.",
   "awayTeam" : "Mes Rafsanjan",
   "picks" : [ "Alt (1.09 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.09 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Napredak Kru.",
   "awayTeam" : "FK Vojvodina",
@@ -26,8 +28,10 @@
   "homeTeam" : "Kamaz Chelny",
   "awayTeam" : "Y. Krasnoyarsk",
   "picks" : [ "Alt (1.34 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-0",
+  "statuses" : {
+    "Alt (1.34 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "Almanya (K)",
   "awayTeam" : "Fransa (K)",

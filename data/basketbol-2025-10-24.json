@@ -24,8 +24,10 @@
   "homeTeam" : "Rizing Fukuoka",
   "awayTeam" : "Shinsh Brave",
   "picks" : [ "MS2 (1.08 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "60-57",
+  "statuses" : {
+    "MS2 (1.08 - %79)" : "lost"
+  }
 }, {
   "homeTeam" : "Szolnoki Olaj Kk",
   "awayTeam" : "Budapesti Honved SE",
