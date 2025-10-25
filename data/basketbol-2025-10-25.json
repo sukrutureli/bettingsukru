@@ -38,8 +38,10 @@
   "homeTeam" : "D. R. Del Mexico",
   "awayTeam" : "Astros",
   "picks" : [ "MS2 (1.51 - %82)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-82",
+  "statuses" : {
+    "MS2 (1.51 - %82)" : "lost"
+  }
 }, {
   "homeTeam" : "Nesibe Aydın (K)",
   "awayTeam" : "Botaş (K)",
@@ -50,31 +52,33 @@
   "homeTeam" : "Randers Cimb.",
   "awayTeam" : "BK Amager",
   "picks" : [ "185.5 Üst (1.63 - %80)" ],
-  "score" : "-",
+  "score" : "100-66",
   "statuses" : { }
 }, {
   "homeTeam" : "Czarni Slupsk",
   "awayTeam" : "Start Lublin",
   "picks" : [ "164.5 Üst (1.66 - %64)" ],
-  "score" : "-",
+  "score" : "98-72",
   "statuses" : { }
 }, {
   "homeTeam" : "PAOK",
   "awayTeam" : "Peristeri",
   "picks" : [ "163.5 Alt (1.67 - %61)" ],
-  "score" : "-",
+  "score" : "87-73",
   "statuses" : { }
 }, {
   "homeTeam" : "Copenhagen Wolfpack",
   "awayTeam" : "Bears Academy",
   "picks" : [ "MS1 (1.1 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "98-80",
+  "statuses" : {
+    "MS1 (1.1 - %85)" : "won"
+  }
 }, {
   "homeTeam" : "Visby Ladies (K)",
   "awayTeam" : "AIK Basket (K)",
   "picks" : [ "155.5 Alt (1.61 - %69)" ],
-  "score" : "-",
+  "score" : "63-91",
   "statuses" : { }
 }, {
   "homeTeam" : "Klosterneubu",
