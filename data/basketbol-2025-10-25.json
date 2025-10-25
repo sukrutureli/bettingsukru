@@ -2,8 +2,10 @@
   "homeTeam" : "Orlando",
   "awayTeam" : "Atlanta",
   "picks" : [ "MS2 (2.2 - %82)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "107-111",
+  "statuses" : {
+    "MS2 (2.2 - %82)" : "won"
+  }
 }, {
   "homeTeam" : "New Orleans",
   "awayTeam" : "San Antonio",
@@ -14,19 +16,23 @@
   "homeTeam" : "Memphis",
   "awayTeam" : "Miami",
   "picks" : [ "MS1 (1.43 - %93)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "114-146",
+  "statuses" : {
+    "MS1 (1.43 - %93)" : "lost"
+  }
 }, {
   "homeTeam" : "Union de Santa Fe",
   "awayTeam" : "CA Platense",
   "picks" : [ "MS2 (2.32 - %76)", "159.5 Üst (1.63 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "93-66",
+  "statuses" : {
+    "MS2 (2.32 - %76)" : "lost"
+  }
 }, {
   "homeTeam" : "Aguada",
   "awayTeam" : "Club Malvin",
   "picks" : [ "171.5 Üst (1.62 - %81)" ],
-  "score" : "-",
+  "score" : "94-82",
   "statuses" : { }
 }, {
   "homeTeam" : "D. R. Del Mexico",

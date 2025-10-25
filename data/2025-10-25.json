@@ -2,14 +2,19 @@
   "homeTeam" : "Inter Miami",
   "awayTeam" : "Nashville SC",
   "picks" : [ "MS1 (1.37 - %63)", "Üst (1.2 - %88)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS1 (1.37 - %63)" : "won",
+    "Üst (1.2 - %88)" : "won"
+  }
 }, {
   "homeTeam" : "Cuiaba",
   "awayTeam" : "Clube do Remo",
   "picks" : [ "MS2 (3.91 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-3",
+  "statuses" : {
+    "MS2 (3.91 - %58)" : "won"
+  }
 }, {
   "homeTeam" : "Tokyo",
   "awayTeam" : "Fagiano",
