@@ -84,13 +84,15 @@
   "homeTeam" : "Klosterneubu",
   "awayTeam" : "BC Vienna",
   "picks" : [ "MS1 (1.08 - %80)", "162.5 Üst (1.63 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "102-81",
+  "statuses" : {
+    "MS1 (1.08 - %80)" : "won"
+  }
 }, {
   "homeTeam" : "Monthey",
   "awayTeam" : "Lugano Tigers",
   "picks" : [ "182.5 Üst (1.65 - %79)" ],
-  "score" : "-",
+  "score" : "89-82",
   "statuses" : { }
 }, {
   "homeTeam" : "Porto",

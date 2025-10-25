@@ -628,8 +628,10 @@
   "homeTeam" : "RC Arbaa",
   "awayTeam" : "Rc Kouba",
   "picks" : [ "Yok (1.95 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Yok (1.95 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "Temouchent",
   "awayTeam" : "CRB Adrar",
@@ -658,8 +660,10 @@
   "homeTeam" : "Nrb Beni Oulbene",
   "awayTeam" : "US Biskra",
   "picks" : [ "Alt (1.35 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Alt (1.35 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "USM Annaba",
   "awayTeam" : "MSP Batna",
@@ -846,8 +850,10 @@
   "homeTeam" : "Luzern II",
   "awayTeam" : "Vevey Sports 05",
   "picks" : [ "MS1 (1.56 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "8-1",
+  "statuses" : {
+    "MS1 (1.56 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "IA Akranes",
   "awayTeam" : "Afturelding",
@@ -895,44 +901,59 @@
   "homeTeam" : "Schweinfurt",
   "awayTeam" : "Osnabrück",
   "picks" : [ "MS2 (1.58 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS2 (1.58 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "ADO Den Haag",
   "awayTeam" : "Den Bosch",
   "picks" : [ "Üst (1.17 - %84)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Üst (1.17 - %84)" : "won"
+  }
 }, {
   "homeTeam" : "Coruxo",
   "awayTeam" : "UD Ourense",
   "picks" : [ "Alt (1.35 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Alt (1.35 - %69)" : "won"
+  }
 }, {
   "homeTeam" : "AL Duhail SC",
   "awayTeam" : "AL Shamal",
   "picks" : [ "Var (2.29 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Var (2.29 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "SAO Joao Ver",
   "awayTeam" : "SC Braga B",
   "picks" : [ "Alt (1.45 - %74)", "Yok (1.88 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.45 - %74)" : "won",
+    "Yok (1.88 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "Obolon Kiev",
   "awayTeam" : "Polissya Zhytomyr",
   "picks" : [ "MS2 (1.39 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-4",
+  "statuses" : {
+    "MS2 (1.39 - %58)" : "won"
+  }
 }, {
   "homeTeam" : "Arzignano V.",
   "awayTeam" : "AC Lumezzane",
   "picks" : [ "Alt (1.37 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-3",
+  "statuses" : {
+    "Alt (1.37 - %70)" : "lost"
+  }
 }, {
   "homeTeam" : "Citta Di C.",
   "awayTeam" : "Rimini 1912",
@@ -943,98 +964,133 @@
   "homeTeam" : "AC Renate",
   "awayTeam" : "C. Lecco",
   "picks" : [ "Alt (1.25 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Alt (1.25 - %74)" : "won"
+  }
 }, {
   "homeTeam" : "Siracusa",
   "awayTeam" : "Casarano",
   "picks" : [ "MS2 (2.2 - %57)", "Yok (1.8 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-1",
+  "statuses" : {
+    "MS2 (2.2 - %57)" : "lost",
+    "Yok (1.8 - %65)" : "lost"
+  }
 }, {
   "homeTeam" : "Napoli",
   "awayTeam" : "Inter",
   "picks" : [ "Var (1.53 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "Var (1.53 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "Stade Tunisien",
   "awayTeam" : "OCS de Safi",
   "picks" : [ "MS2 (3.04 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS2 (3.04 - %62)" : "lost"
+  }
 }, {
   "homeTeam" : "De Treffers",
   "awayTeam" : "Rijnsburgse Boys",
   "picks" : [ "MS2 (2.17 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (2.17 - %62)" : "lost"
+  }
 }, {
   "homeTeam" : "SD Gernika Club",
   "awayTeam" : "Ejea",
   "picks" : [ "Var (1.33 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Var (1.33 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "RSD Alcala",
   "awayTeam" : "Tenerife B",
   "picks" : [ "Alt (1.38 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.38 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "UP Langreo",
   "awayTeam" : "Atletico Astorga",
   "picks" : [ "Alt (1.34 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.34 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "St. Gallen",
   "awayTeam" : "Grasshoppers",
   "picks" : [ "Var (2.05 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-0",
+  "statuses" : {
+    "Var (2.05 - %65)" : "lost"
+  }
 }, {
   "homeTeam" : "Sion",
   "awayTeam" : "Thun",
   "picks" : [ "Var (1.81 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Var (1.81 - %74)" : "lost"
+  }
 }, {
   "homeTeam" : "Sarpsborg 08",
   "awayTeam" : "Kfum Oslo",
   "picks" : [ "Üst (1.61 - %65)", "Var (1.75 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Üst (1.61 - %65)" : "won",
+    "Var (1.75 - %77)" : "won"
+  }
 }, {
   "homeTeam" : "S. Rotterdam",
   "awayTeam" : "Telstar",
   "picks" : [ "Üst (1.35 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Üst (1.35 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "Trabzonspor",
   "awayTeam" : "Eyüpspor",
   "picks" : [ "MS1 (1.38 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.38 - %58)" : "won"
+  }
 }, {
   "homeTeam" : "Monaco",
   "awayTeam" : "Toulouse",
   "picks" : [ "Üst (1.41 - %77)", "Var (2.06 - %82)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Üst (1.41 - %77)" : "lost",
+    "Var (2.06 - %82)" : "lost"
+  }
 }, {
   "homeTeam" : "Santa Clara",
   "awayTeam" : "Avs Futebol Sad",
   "picks" : [ "MS1 (1.34 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.34 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "MB Rouisset",
   "awayTeam" : "Ben Aknoun",
   "picks" : [ "Alt (1.29 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.29 - %74)" : "won"
+  }
 }, {
   "homeTeam" : "R. Casablanca",
   "awayTeam" : "Olympique Dcheira",
@@ -1045,8 +1101,10 @@
   "homeTeam" : "Modern Sport Club",
   "awayTeam" : "Al Mokawloon",
   "picks" : [ "Alt (1.25 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.25 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "Bulle",
   "awayTeam" : "Kriens",
