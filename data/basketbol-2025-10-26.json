@@ -1,0 +1,85 @@
+[ {
+  "homeTeam" : "SC Corinthians P.",
+  "awayTeam" : "Defensor Sporting",
+  "picks" : [ "MS1 (1.19 - %95)", "165.5 Alt (1.63 - %78)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Charlotte",
+  "picks" : [ "MS1 (1.29 - %89)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Melbourne Utd",
+  "awayTeam" : "Adelaide 36ers",
+  "picks" : [ "MS1 (1.23 - %94)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Daegu Pegasus",
+  "awayTeam" : "Seoul SK Knights",
+  "picks" : [ "MS2 (1.2 - %78)", "150.5 Alt (1.64 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Akita",
+  "awayTeam" : "Sh. Susanoo",
+  "picks" : [ "MS2 (1.18 - %84)", "162.5 Üst (1.63 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kyoto Hannarizu",
+  "awayTeam" : "Alvark Tokyo",
+  "picks" : [ "MS2 (1.12 - %83)", "151.5 Alt (1.65 - %77)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Levanga Hokkaido",
+  "awayTeam" : "Sendai 89ers",
+  "picks" : [ "MS1 (1.43 - %88)", "162.5 Üst (1.62 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Parma Permsk",
+  "awayTeam" : "MBA Moscow",
+  "picks" : [ "MS1 (1.25 - %94)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Frankfurt",
+  "awayTeam" : "Mitteldeutscher",
+  "picks" : [ "169.5 Alt (1.65 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "San Miguel",
+  "awayTeam" : "Barangay Ginebra",
+  "picks" : [ "MS1 (1.51 - %100)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "ESB Villeneuve (K)",
+  "awayTeam" : "Charnay Basket (K)",
+  "picks" : [ "140.5 Alt (1.63 - %79)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Manchester Basketball",
+  "awayTeam" : "Surrey 89ers",
+  "picks" : [ "MS1 (1.13 - %86)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Brescia",
+  "awayTeam" : "Cantu",
+  "picks" : [ "166.5 Alt (1.62 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Galitos Barreiro",
+  "awayTeam" : "SC Braga",
+  "picks" : [ "MS1 (1.71 - %99)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
