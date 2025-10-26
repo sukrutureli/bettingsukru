@@ -415,8 +415,10 @@
   "homeTeam" : "Venda Football A.",
   "awayTeam" : "Midlands Wanderers",
   "picks" : [ "MS1 (1.57 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS1 (1.57 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "Ascoli",
   "awayTeam" : "Sambenedettese",
@@ -752,66 +754,90 @@
   "homeTeam" : "Sevilla Atl",
   "awayTeam" : "Hercules",
   "picks" : [ "Alt (1.28 - %86)", "Yok (2.25 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Alt (1.28 - %86)" : "won",
+    "Yok (2.25 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "Osasuna",
   "awayTeam" : "Celta Vigo",
   "picks" : [ "Alt (1.46 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "Alt (1.46 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "Naxxar Lions",
   "awayTeam" : "Hamrun Spartans",
   "picks" : [ "MS2 (1.21 - %59)", "Yok (1.58 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (1.21 - %59)" : "lost",
+    "Yok (1.58 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "U. S. Gilloise",
   "awayTeam" : "St. Truidense",
   "picks" : [ "MS1 (1.22 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.22 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Valerenga",
   "awayTeam" : "Stromsgodset",
   "picks" : [ "Var (2.36 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Var (2.36 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Cajamarca",
   "awayTeam" : "Alianza Huanuco",
   "picks" : [ "MS1 (1.86 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-2",
+  "statuses" : {
+    "MS1 (1.86 - %57)" : "won"
+  }
 }, {
   "homeTeam" : "Duisburg",
   "awayTeam" : "Weiss Essen",
   "picks" : [ "Var (1.77 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (1.77 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "FCSB",
   "awayTeam" : "UTA Arad",
   "picks" : [ "MS1 (1.28 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "MS1 (1.28 - %55)" : "won"
+  }
 }, {
   "homeTeam" : "Malagueno",
   "awayTeam" : "Aguilas",
   "picks" : [ "MS2 (2.02 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-3",
+  "statuses" : {
+    "MS2 (2.02 - %57)" : "won"
+  }
 }, {
   "homeTeam" : "El Nacional",
   "awayTeam" : "CSD Macara",
   "picks" : [ "MS2 (1.83 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS2 (1.83 - %77)" : "lost"
+  }
 }, {
   "homeTeam" : "Club Olimpia",
   "awayTeam" : "Guarani Asu",
   "picks" : [ "Alt (1.61 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-3",
+  "statuses" : {
+    "Alt (1.61 - %67)" : "lost"
+  }
 } ]

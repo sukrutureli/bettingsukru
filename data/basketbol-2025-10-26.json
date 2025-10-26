@@ -96,6 +96,8 @@
   "homeTeam" : "Galitos Barreiro",
   "awayTeam" : "SC Braga",
   "picks" : [ "MS1 (1.71 - %99)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "93-102",
+  "statuses" : {
+    "MS1 (1.71 - %99)" : "lost"
+  }
 } ]
