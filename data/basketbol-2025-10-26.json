@@ -2,14 +2,18 @@
   "homeTeam" : "SC Corinthians P.",
   "awayTeam" : "Defensor Sporting",
   "picks" : [ "MS1 (1.19 - %95)", "165.5 Alt (1.63 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "76-81",
+  "statuses" : {
+    "MS1 (1.19 - %95)" : "lost"
+  }
 }, {
   "homeTeam" : "Philadelphia",
   "awayTeam" : "Charlotte",
   "picks" : [ "MS1 (1.29 - %89)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "125-121",
+  "statuses" : {
+    "MS1 (1.29 - %89)" : "won"
+  }
 }, {
   "homeTeam" : "Melbourne Utd",
   "awayTeam" : "Adelaide 36ers",

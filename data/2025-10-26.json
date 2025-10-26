@@ -2,32 +2,42 @@
   "homeTeam" : "Recife",
   "awayTeam" : "Mirassol SP",
   "picks" : [ "MS2 (2.22 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS2 (2.22 - %60)" : "won"
+  }
 }, {
   "homeTeam" : "Cerro Largo",
   "awayTeam" : "R. Montevideo",
   "picks" : [ "Alt (1.33 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Alt (1.33 - %76)" : "lost"
+  }
 }, {
   "homeTeam" : "Monagas SC",
   "awayTeam" : "Dep. La Gua.",
   "picks" : [ "MS2 (1.89 - %59)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (1.89 - %59)" : "won"
+  }
 }, {
   "homeTeam" : "Richmond",
   "awayTeam" : "Forward M.",
   "picks" : [ "MS2 (2.02 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-1",
+  "statuses" : {
+    "MS2 (2.02 - %57)" : "lost"
+  }
 }, {
   "homeTeam" : "S. Georgia Tormenta",
   "awayTeam" : "Texoma",
   "picks" : [ "MS1 (1.25 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "MS1 (1.25 - %63)" : "won"
+  }
 }, {
   "homeTeam" : "Cancun",
   "awayTeam" : "Correcaminos",
@@ -38,26 +48,35 @@
   "homeTeam" : "M.D. Zacatecas",
   "awayTeam" : "Atlante",
   "picks" : [ "MS2 (2.28 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-4",
+  "statuses" : {
+    "MS2 (2.28 - %55)" : "won"
+  }
 }, {
   "homeTeam" : "Real Esteli",
   "awayTeam" : "Diriangen",
   "picks" : [ "Var (1.59 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Var (1.59 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "Oakland Roots SC",
   "awayTeam" : "Lexington SC",
   "picks" : [ "Var (1.68 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "Var (1.68 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "Heidelberg",
   "awayTeam" : "South Hobart",
   "picks" : [ "Üst (1.09 - %76)", "Yok (1.09 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "6-1",
+  "statuses" : {
+    "Üst (1.09 - %76)" : "won",
+    "Yok (1.09 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "Moreton City E.",
   "awayTeam" : "Sydney Oly.",
@@ -74,14 +93,20 @@
   "homeTeam" : "CS Herediano",
   "awayTeam" : "CS Cartagines",
   "picks" : [ "MS2 (3.18 - %59)", "Alt (1.51 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS2 (3.18 - %59)" : "lost",
+    "Alt (1.51 - %75)" : "lost"
+  }
 }, {
   "homeTeam" : "Metapan",
   "awayTeam" : "C.D. Cacahuatique",
   "picks" : [ "MS1 (1.62 - %71)", "Üst (2.02 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "MS1 (1.62 - %71)" : "lost",
+    "Üst (2.02 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "Cruz Azul",
   "awayTeam" : "Monterrey",
