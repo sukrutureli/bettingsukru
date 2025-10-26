@@ -111,92 +111,127 @@
   "homeTeam" : "Cruz Azul",
   "awayTeam" : "Monterrey",
   "picks" : [ "Var (1.98 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Var (1.98 - %74)" : "lost"
+  }
 }, {
   "homeTeam" : "M. Yamagata",
   "awayTeam" : "Omiya Ardija",
   "picks" : [ "Üst (1.45 - %67)", "Var (1.87 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Üst (1.45 - %67)" : "won",
+    "Var (1.87 - %77)" : "won"
+  }
 }, {
   "homeTeam" : "Incheon Utd",
   "awayTeam" : "Gyeongnam",
   "picks" : [ "MS1 (1.25 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "MS1 (1.25 - %55)" : "won"
+  }
 }, {
   "homeTeam" : "Busan",
   "awayTeam" : "Paju Citizen",
   "picks" : [ "Alt (1.44 - %75)", "Yok (1.88 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.44 - %75)" : "lost",
+    "Yok (1.88 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "Niigata",
   "awayTeam" : "Vissel Kobe",
   "picks" : [ "MS2 (1.47 - %60)", "Alt (1.65 - %82)", "Yok (1.71 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS2 (1.47 - %60)" : "lost",
+    "Alt (1.65 - %82)" : "lost",
+    "Yok (1.71 - %78)" : "lost"
+  }
 }, {
   "homeTeam" : "Shandong Taishan",
   "awayTeam" : "Shanghai Port",
   "picks" : [ "Var (3.0 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "Var (3.0 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "Seoul E Land",
   "awayTeam" : "Chungnam Asan",
   "picks" : [ "Alt (1.57 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-1",
+  "statuses" : {
+    "Alt (1.57 - %65)" : "lost"
+  }
 }, {
   "homeTeam" : "Arema",
   "awayTeam" : "Pusamania Borneo",
   "picks" : [ "MS2 (1.99 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-3",
+  "statuses" : {
+    "MS2 (1.99 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Genoa U20",
   "awayTeam" : "Lecce U20",
   "picks" : [ "MS1 (1.92 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS1 (1.92 - %57)" : "lost"
+  }
 }, {
   "homeTeam" : "Akron Tolyatti",
   "awayTeam" : "L. Moskova",
   "picks" : [ "MS2 (1.61 - %59)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (1.61 - %59)" : "lost"
+  }
 }, {
   "homeTeam" : "B. Münih U19",
   "awayTeam" : "Munich 1860 U19",
   "picks" : [ "MS1 (1.88 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.88 - %55)" : "won"
+  }
 }, {
   "homeTeam" : "Ming Chuan Uni.",
   "awayTeam" : "Taiwan Power C.",
   "picks" : [ "MS2 (1.31 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-4",
+  "statuses" : {
+    "MS2 (1.31 - %57)" : "won"
+  }
 }, {
   "homeTeam" : "Rot Weiss O. U19",
   "awayTeam" : "VfL Osnabruck U19",
   "picks" : [ "MS1 (1.75 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.75 - %57)" : "won"
+  }
 }, {
   "homeTeam" : "I. Eivissa",
   "awayTeam" : "CD Teruel",
   "picks" : [ "MS2 (4.79 - %56)", "Alt (1.41 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (4.79 - %56)" : "won",
+    "Alt (1.41 - %81)" : "won"
+  }
 }, {
   "homeTeam" : "UE Olot",
   "awayTeam" : "Girona B",
   "picks" : [ "Alt (1.33 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Alt (1.33 - %76)" : "lost"
+  }
 }, {
   "homeTeam" : "Salamanca",
   "awayTeam" : "Gimnastica S.",
@@ -207,104 +242,144 @@
   "homeTeam" : "Real Valladolid B",
   "awayTeam" : "SD Sarriana",
   "picks" : [ "Var (1.62 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "Var (1.62 - %65)" : "lost"
+  }
 }, {
   "homeTeam" : "GKS Tychy",
   "awayTeam" : "C. Glogow",
   "picks" : [ "MS2 (2.11 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (2.11 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "SC Poltava",
   "awayTeam" : "Kolos Kovalivka",
   "picks" : [ "Alt (1.52 - %76)", "Yok (1.76 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Alt (1.52 - %76)" : "lost",
+    "Yok (1.76 - %70)" : "lost"
+  }
 }, {
   "homeTeam" : "Twente",
   "awayTeam" : "Ajax",
   "picks" : [ "Üst (1.47 - %79)", "Var (1.95 - %82)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "Üst (1.47 - %79)" : "won",
+    "Var (1.95 - %82)" : "won"
+  }
 }, {
   "homeTeam" : "Reyady Abaseya",
   "awayTeam" : "Nejmeh SC",
   "picks" : [ "MS2 (1.19 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (1.19 - %61)" : "won"
+  }
 }, {
   "homeTeam" : "Guangzhou E Power",
   "awayTeam" : "Shaanxi Union",
   "picks" : [ "MS1 (1.45 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS1 (1.45 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "Trapani",
   "awayTeam" : "Audace Cerignola",
   "picks" : [ "Alt (1.42 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Alt (1.42 - %68)" : "lost"
+  }
 }, {
   "homeTeam" : "Egri",
   "awayTeam" : "Hatvan",
   "picks" : [ "MS1 (1.78 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.78 - %57)" : "won"
+  }
 }, {
   "homeTeam" : "Komarom Vse",
   "awayTeam" : "Dorogi",
   "picks" : [ "MS1 (2.11 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-3",
+  "statuses" : {
+    "MS1 (2.11 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "Mosonmagyar.",
   "awayTeam" : "Szombathelyi II",
   "picks" : [ "MS1 (1.27 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "MS1 (1.27 - %70)" : "lost"
+  }
 }, {
   "homeTeam" : "Bss Monor",
   "awayTeam" : "Gyulai",
   "picks" : [ "Üst (1.39 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Üst (1.39 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "Sokol Kleczew",
   "awayTeam" : "S. Stalowa",
   "picks" : [ "Üst (1.42 - %71)", "Var (1.91 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Üst (1.42 - %71)" : "lost",
+    "Var (1.91 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "Uthai Thani",
   "awayTeam" : "Ratchaburi",
   "picks" : [ "MS2 (1.97 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "MS2 (1.97 - %60)" : "won"
+  }
 }, {
   "homeTeam" : "Nizhny Nov.",
   "awayTeam" : "B. Kaliningrad",
   "picks" : [ "MS2 (1.79 - %59)", "Alt (1.42 - %74)", "Yok (2.04 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "MS2 (1.79 - %59)" : "lost",
+    "Alt (1.42 - %74)" : "won",
+    "Yok (2.04 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "Antwerp",
   "awayTeam" : "Club Brugge",
   "picks" : [ "MS2 (1.47 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (1.47 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "Kaiserslautern",
   "awayTeam" : "Nürnberg",
   "picks" : [ "Üst (1.45 - %75)", "Var (2.0 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Üst (1.45 - %75)" : "lost",
+    "Var (2.0 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "Hoffenheim II",
   "awayTeam" : "Erzgebirge A.",
   "picks" : [ "Var (2.16 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (2.16 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "Jaalan",
   "awayTeam" : "Salalah SC",
@@ -315,20 +390,27 @@
   "homeTeam" : "Samail SC",
   "awayTeam" : "Muscat",
   "picks" : [ "MS1 (1.47 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "MS1 (1.47 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "Kaizer Chiefs",
   "awayTeam" : "AS Simba",
   "picks" : [ "Alt (1.95 - %92)", "Yok (1.4 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "Alt (1.95 - %92)" : "lost",
+    "Yok (1.4 - %85)" : "lost"
+  }
 }, {
   "homeTeam" : "Sandhausen",
   "awayTeam" : "B. Alzenau",
   "picks" : [ "MS1 (1.48 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS1 (1.48 - %55)" : "won"
+  }
 }, {
   "homeTeam" : "Venda Football A.",
   "awayTeam" : "Midlands Wanderers",
@@ -339,14 +421,18 @@
   "homeTeam" : "Ascoli",
   "awayTeam" : "Sambenedettese",
   "picks" : [ "MS1 (1.25 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS1 (1.25 - %56)" : "won"
+  }
 }, {
   "homeTeam" : "AC Trento",
   "awayTeam" : "LR Vicenza V.",
   "picks" : [ "MS2 (1.42 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (1.42 - %60)" : "lost"
+  }
 }, {
   "homeTeam" : "Pro Vercelli",
   "awayTeam" : "Pergolettese",
@@ -357,80 +443,108 @@
   "homeTeam" : "Rosenborg",
   "awayTeam" : "Brann",
   "picks" : [ "MS2 (2.17 - %59)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "MS2 (2.17 - %59)" : "won"
+  }
 }, {
   "homeTeam" : "Wisla Krakow",
   "awayTeam" : "Stal Rzeszow",
   "picks" : [ "Üst (1.15 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Üst (1.15 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "AS Soliman",
   "awayTeam" : "Js Omrane",
   "picks" : [ "Alt (1.27 - %81)", "Yok (2.3 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.27 - %81)" : "won",
+    "Yok (2.3 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "CS Korba",
   "awayTeam" : "Kalaa Sport",
   "picks" : [ "Yok (1.98 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Yok (1.98 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "EO Sidi Bouzid",
   "awayTeam" : "Stade Gabesien",
   "picks" : [ "MS2 (2.38 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-6",
+  "statuses" : {
+    "MS2 (2.38 - %56)" : "won"
+  }
 }, {
   "homeTeam" : "Galatasaray",
   "awayTeam" : "Göztepe",
   "picks" : [ "MS1 (1.26 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS1 (1.26 - %57)" : "won"
+  }
 }, {
   "homeTeam" : "Bournemouth",
   "awayTeam" : "Nottingham F.",
   "picks" : [ "MS1 (1.6 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.6 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "Aston Villa",
   "awayTeam" : "Man. City",
   "picks" : [ "Var (1.86 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Var (1.86 - %65)" : "lost"
+  }
 }, {
   "homeTeam" : "Hellas Verona",
   "awayTeam" : "Cagliari",
   "picks" : [ "Alt (1.37 - %83)", "Yok (2.16 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Alt (1.37 - %83)" : "lost",
+    "Yok (2.16 - %75)" : "lost"
+  }
 }, {
   "homeTeam" : "Lille",
   "awayTeam" : "Metz",
   "picks" : [ "MS1 (1.2 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "6-1",
+  "statuses" : {
+    "MS1 (1.2 - %64)" : "won"
+  }
 }, {
   "homeTeam" : "VfB Oldenburg",
   "awayTeam" : "Bremer SV 1906",
   "picks" : [ "MS1 (1.12 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS1 (1.12 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "Paradou AC",
   "awayTeam" : "ES Mostaganem",
   "picks" : [ "Alt (1.29 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.29 - %85)" : "won"
+  }
 }, {
   "homeTeam" : "AS Khroub",
   "awayTeam" : "MO Constantine",
   "picks" : [ "Alt (1.4 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.4 - %71)" : "won"
+  }
 }, {
   "homeTeam" : "Goa",
   "awayTeam" : "Jamshedpur",
@@ -561,8 +675,10 @@
   "homeTeam" : "Shabana",
   "awayTeam" : "Mathare Utd",
   "picks" : [ "Alt (1.43 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Alt (1.43 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Talaea Gaish",
   "awayTeam" : "ZED",

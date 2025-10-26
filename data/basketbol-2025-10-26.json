@@ -30,26 +30,34 @@
   "homeTeam" : "Akita",
   "awayTeam" : "Sh. Susanoo",
   "picks" : [ "MS2 (1.18 - %84)", "162.5 Üst (1.63 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "76-79",
+  "statuses" : {
+    "MS2 (1.18 - %84)" : "won"
+  }
 }, {
   "homeTeam" : "Kyoto Hannarizu",
   "awayTeam" : "Alvark Tokyo",
   "picks" : [ "MS2 (1.12 - %83)", "151.5 Alt (1.65 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "73-94",
+  "statuses" : {
+    "MS2 (1.12 - %83)" : "won"
+  }
 }, {
   "homeTeam" : "Levanga Hokkaido",
   "awayTeam" : "Sendai 89ers",
   "picks" : [ "MS1 (1.43 - %88)", "162.5 Üst (1.62 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "97-95",
+  "statuses" : {
+    "MS1 (1.43 - %88)" : "won"
+  }
 }, {
   "homeTeam" : "Parma Permsk",
   "awayTeam" : "MBA Moscow",
   "picks" : [ "MS1 (1.25 - %94)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "82-70",
+  "statuses" : {
+    "MS1 (1.25 - %94)" : "won"
+  }
 }, {
   "homeTeam" : "Frankfurt",
   "awayTeam" : "Mitteldeutscher",
@@ -66,7 +74,7 @@
   "homeTeam" : "ESB Villeneuve (K)",
   "awayTeam" : "Charnay Basket (K)",
   "picks" : [ "140.5 Alt (1.63 - %79)" ],
-  "score" : "-",
+  "score" : "85-70",
   "statuses" : { }
 }, {
   "homeTeam" : "Manchester Basketball",
