@@ -68,8 +68,10 @@
   "homeTeam" : "San Miguel",
   "awayTeam" : "Barangay Ginebra",
   "picks" : [ "MS1 (1.51 - %100)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "83-81",
+  "statuses" : {
+    "MS1 (1.51 - %100)" : "won"
+  }
 }, {
   "homeTeam" : "ESB Villeneuve (K)",
   "awayTeam" : "Charnay Basket (K)",
@@ -80,13 +82,15 @@
   "homeTeam" : "Manchester Basketball",
   "awayTeam" : "Surrey 89ers",
   "picks" : [ "MS1 (1.13 - %86)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "90-95",
+  "statuses" : {
+    "MS1 (1.13 - %86)" : "lost"
+  }
 }, {
   "homeTeam" : "Brescia",
   "awayTeam" : "Cantu",
   "picks" : [ "166.5 Alt (1.62 - %62)" ],
-  "score" : "-",
+  "score" : "104-94",
   "statuses" : { }
 }, {
   "homeTeam" : "Galitos Barreiro",
