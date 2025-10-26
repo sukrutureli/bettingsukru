@@ -1,0 +1,157 @@
+[ {
+  "homeTeam" : "Phila. Union",
+  "awayTeam" : "Chicago Fire",
+  "picks" : [ "Üst (1.38 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "D. Union La Calera",
+  "awayTeam" : "Nublense",
+  "picks" : [ "Alt (1.44 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Montevideo",
+  "awayTeam" : "Nacional",
+  "picks" : [ "MS2 (1.26 - %73)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Carabobo",
+  "awayTeam" : "Dep. Tachira",
+  "picks" : [ "Alt (1.31 - %76)", "Yok (2.16 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Cavalry",
+  "awayTeam" : "York Utd",
+  "picks" : [ "Var (1.7 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Alajuelense",
+  "awayTeam" : "M. Per. Zeledon",
+  "picks" : [ "MS1 (1.31 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Punjab",
+  "awayTeam" : "Gokulam Kerala",
+  "picks" : [ "MS1 (1.63 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Persib Bandung",
+  "awayTeam" : "Persis Solo",
+  "picks" : [ "MS1 (1.21 - %69)", "Üst (1.55 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "City Football Club",
+  "awayTeam" : "AL Arabi (Bae)",
+  "picks" : [ "MS2 (1.46 - %57)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Slovenya (K)",
+  "awayTeam" : "Sırbistan (K)",
+  "picks" : [ "MS2 (2.47 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hyderabad",
+  "awayTeam" : "Mumbai City",
+  "picks" : [ "MS2 (1.55 - %69)", "Yok (1.47 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Smouha SC",
+  "awayTeam" : "El Gouna",
+  "picks" : [ "Alt (1.16 - %76)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kharitiyat",
+  "awayTeam" : "AL Waab",
+  "picks" : [ "Var (1.59 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Fateh SC",
+  "awayTeam" : "AL Riyadh",
+  "picks" : [ "Alt (1.67 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Khaleej Saihat",
+  "awayTeam" : "AL Taawoun",
+  "picks" : [ "Üst (1.62 - %87)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dinamo Tiflis",
+  "awayTeam" : "Kolkheti",
+  "picks" : [ "MS1 (1.13 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Bukayriyah",
+  "awayTeam" : "AL Wehda",
+  "picks" : [ "MS1 (1.98 - %59)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Tai",
+  "awayTeam" : "AL Ula",
+  "picks" : [ "MS2 (1.55 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Botosani",
+  "awayTeam" : "Hermannstadt",
+  "picks" : [ "MS1 (1.84 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "SJK Seinöjoen",
+  "awayTeam" : "Kuopion",
+  "picks" : [ "Üst (1.33 - %86)", "Var (2.29 - %86)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Akhmat Grozny",
+  "awayTeam" : "Sochi",
+  "picks" : [ "MS1 (1.39 - %55)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dfk Dainava",
+  "awayTeam" : "Hegelmann",
+  "picks" : [ "MS2 (1.37 - %62)", "Alt (1.63 - %76)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Suduva",
+  "awayTeam" : "Zalgiris Kaunas",
+  "picks" : [ "Alt (1.58 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Port Vale",
+  "awayTeam" : "Stockport",
+  "picks" : [ "Alt (1.42 - %77)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Moreirense",
+  "awayTeam" : "Porto",
+  "picks" : [ "MS2 (1.14 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "S. Ameliano",
+  "awayTeam" : "C. G. Caballero",
+  "picks" : [ "Var (1.48 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
