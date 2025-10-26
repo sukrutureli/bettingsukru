@@ -1,0 +1,19 @@
+[ {
+  "homeTeam" : "Miami",
+  "awayTeam" : "New York",
+  "picks" : [ "MS2 (1.44 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Charlotte",
+  "picks" : [ "MS1 (1.53 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "SC Corinthians P.",
+  "awayTeam" : "Quimsa S.",
+  "picks" : [ "156.5 Alt (1.63 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
