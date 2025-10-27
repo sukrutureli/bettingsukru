@@ -2,14 +2,18 @@
   "homeTeam" : "Miami",
   "awayTeam" : "New York",
   "picks" : [ "MS2 (1.44 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "115-107",
+  "statuses" : {
+    "MS2 (1.44 - %70)" : "lost"
+  }
 }, {
   "homeTeam" : "Washington",
   "awayTeam" : "Charlotte",
   "picks" : [ "MS1 (1.53 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "113-139",
+  "statuses" : {
+    "MS1 (1.53 - %72)" : "lost"
+  }
 }, {
   "homeTeam" : "SC Corinthians P.",
   "awayTeam" : "Quimsa S.",

@@ -8,32 +8,43 @@
   "homeTeam" : "D. Union La Calera",
   "awayTeam" : "Nublense",
   "picks" : [ "Alt (1.44 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "Alt (1.44 - %65)" : "lost"
+  }
 }, {
   "homeTeam" : "Montevideo",
   "awayTeam" : "Nacional",
   "picks" : [ "MS2 (1.26 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "MS2 (1.26 - %73)" : "lost"
+  }
 }, {
   "homeTeam" : "Carabobo",
   "awayTeam" : "Dep. Tachira",
   "picks" : [ "Alt (1.31 - %76)", "Yok (2.16 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Alt (1.31 - %76)" : "won",
+    "Yok (2.16 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "Cavalry",
   "awayTeam" : "York Utd",
   "picks" : [ "Var (1.7 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-1",
+  "statuses" : {
+    "Var (1.7 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Alajuelense",
   "awayTeam" : "M. Per. Zeledon",
   "picks" : [ "MS1 (1.31 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-2",
+  "statuses" : {
+    "MS1 (1.31 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Punjab",
   "awayTeam" : "Gokulam Kerala",
