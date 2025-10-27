@@ -187,18 +187,24 @@
   "homeTeam" : "Port Vale",
   "awayTeam" : "Stockport",
   "picks" : [ "Alt (1.42 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-3",
+  "statuses" : {
+    "Alt (1.42 - %77)" : "lost"
+  }
 }, {
   "homeTeam" : "Moreirense",
   "awayTeam" : "Porto",
   "picks" : [ "MS2 (1.14 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS2 (1.14 - %62)" : "won"
+  }
 }, {
   "homeTeam" : "S. Ameliano",
   "awayTeam" : "C. G. Caballero",
   "picks" : [ "Var (1.48 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-4",
+  "statuses" : {
+    "Var (1.48 - %65)" : "won"
+  }
 } ]
