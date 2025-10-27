@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Atlanta",
+  "picks" : [ "MS1 (1.78 - %89)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Urunday Universitario",
+  "awayTeam" : "Bigua de Villa Biarritz",
+  "picks" : [ "MS1 (1.96 - %88)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Phoenix",
+  "picks" : [ "231.5 Üst (1.63 - %84)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Ciclista Olimpico",
+  "awayTeam" : "Independiente de Oliva",
+  "picks" : [ "163.5 Üst (1.65 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "Denver",
+  "picks" : [ "MS1 (2.63 - %90)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "D. R. Del Mexico",
+  "awayTeam" : "Astros",
+  "picks" : [ "MS2 (1.32 - %81)", "165.5 Üst (1.65 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "Portland",
+  "picks" : [ "MS1 (1.85 - %61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Verona",
+  "awayTeam" : "Brindisi",
+  "picks" : [ "MS1 (1.36 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Anadolu Efes",
+  "picks" : [ "MS1 (1.38 - %100)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "Fenerbahçe",
+  "picks" : [ "MS1 (1.54 - %88)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
