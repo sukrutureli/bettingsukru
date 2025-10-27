@@ -1,0 +1,145 @@
+[ {
+  "homeTeam" : "Cincinnati",
+  "awayTeam" : "Columbus Cr.",
+  "picks" : [ "Var (2.17 - %79)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "N. Asuncion",
+  "awayTeam" : "Cerro Porteno",
+  "picks" : [ "Alt (1.42 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CS Maritimo U23",
+  "awayTeam" : "Academico V. U23",
+  "picks" : [ "MS2 (1.47 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Shire Endaselassie",
+  "awayTeam" : "Welwalu Adigrat",
+  "picks" : [ "MS1 (2.22 - %55)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Qadisiyah",
+  "awayTeam" : "AL Hazem",
+  "picks" : [ "MS1 (1.13 - %56)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Gareji",
+  "awayTeam" : "Samgurali Tskaltubo",
+  "picks" : [ "Var (1.58 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Leixoes U23",
+  "awayTeam" : "Vizela U23",
+  "picks" : [ "Üst (1.64 - %68)", "Var (1.62 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Rio Ave U23",
+  "awayTeam" : "Braga U23",
+  "picks" : [ "Var (1.8 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CSM Slatina",
+  "awayTeam" : "Cluj",
+  "picks" : [ "Üst (1.4 - %91)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Chojniczanka",
+  "awayTeam" : "Swit Skolwin",
+  "picks" : [ "Üst (1.54 - %77)", "Var (1.73 - %78)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Avusturya (K)",
+  "awayTeam" : "Çekya (K)",
+  "picks" : [ "MS2 (5.87 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Danimarka (K)",
+  "awayTeam" : "Finlandiya (K)",
+  "picks" : [ "Üst (1.37 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "İsveç (K)",
+  "awayTeam" : "İspanya (K)",
+  "picks" : [ "MS2 (1.24 - %62)", "Üst (1.36 - %75)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AE Kifisia",
+  "awayTeam" : "Kallithea Athén",
+  "picks" : [ "Alt (1.57 - %84)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Blau Weiss L.",
+  "awayTeam" : "Hartberg",
+  "picks" : [ "Üst (1.79 - %74)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kapfenberger",
+  "awayTeam" : "Altach",
+  "picks" : [ "Üst (1.37 - %82)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AS Nancy",
+  "awayTeam" : "SC Bastia",
+  "picks" : [ "Alt (1.39 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Troyes",
+  "awayTeam" : "Amiens",
+  "picks" : [ "MS1 (1.3 - %57)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "G'borough Tr.",
+  "awayTeam" : "Leek Town",
+  "picks" : [ "MS1 (1.49 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hednesford",
+  "awayTeam" : "Stockton Town",
+  "picks" : [ "Var (1.68 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Curzon Ashton",
+  "awayTeam" : "Kings Lynn",
+  "picks" : [ "Var (1.7 - %76)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bray Wanderers",
+  "awayTeam" : "UC Dublin",
+  "picks" : [ "Alt (1.79 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Wrexham",
+  "awayTeam" : "Cardiff City",
+  "picks" : [ "Üst (1.73 - %73)", "Var (1.63 - %76)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Tarxien Rainbows",
+  "awayTeam" : "Birkirkara",
+  "picks" : [ "MS2 (1.59 - %67)", "Yok (1.98 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
