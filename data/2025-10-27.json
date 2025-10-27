@@ -99,14 +99,18 @@
   "homeTeam" : "Kharitiyat",
   "awayTeam" : "AL Waab",
   "picks" : [ "Var (1.59 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-3",
+  "statuses" : {
+    "Var (1.59 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "AL Fateh SC",
   "awayTeam" : "AL Riyadh",
   "picks" : [ "Alt (1.67 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Alt (1.67 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "AL Khaleej Saihat",
   "awayTeam" : "AL Taawoun",
@@ -117,50 +121,68 @@
   "homeTeam" : "Dinamo Tiflis",
   "awayTeam" : "Kolkheti",
   "picks" : [ "MS1 (1.13 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS1 (1.13 - %62)" : "won"
+  }
 }, {
   "homeTeam" : "AL Bukayriyah",
   "awayTeam" : "AL Wehda",
   "picks" : [ "MS1 (1.98 - %59)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.98 - %59)" : "won"
+  }
 }, {
   "homeTeam" : "AL Tai",
   "awayTeam" : "AL Ula",
   "picks" : [ "MS2 (1.55 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-5",
+  "statuses" : {
+    "MS2 (1.55 - %60)" : "won"
+  }
 }, {
   "homeTeam" : "Botosani",
   "awayTeam" : "Hermannstadt",
   "picks" : [ "MS1 (1.84 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.84 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "SJK Seinöjoen",
   "awayTeam" : "Kuopion",
   "picks" : [ "Üst (1.33 - %86)", "Var (2.29 - %86)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Üst (1.33 - %86)" : "lost",
+    "Var (2.29 - %86)" : "lost"
+  }
 }, {
   "homeTeam" : "Akhmat Grozny",
   "awayTeam" : "Sochi",
   "picks" : [ "MS1 (1.39 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-4",
+  "statuses" : {
+    "MS1 (1.39 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "Dfk Dainava",
   "awayTeam" : "Hegelmann",
   "picks" : [ "MS2 (1.37 - %62)", "Alt (1.63 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "MS2 (1.37 - %62)" : "won",
+    "Alt (1.63 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "Suduva",
   "awayTeam" : "Zalgiris Kaunas",
   "picks" : [ "Alt (1.58 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.58 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Port Vale",
   "awayTeam" : "Stockport",
