@@ -49,38 +49,52 @@
   "homeTeam" : "Punjab",
   "awayTeam" : "Gokulam Kerala",
   "picks" : [ "MS1 (1.63 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "MS1 (1.63 - %60)" : "won"
+  }
 }, {
   "homeTeam" : "Persib Bandung",
   "awayTeam" : "Persis Solo",
   "picks" : [ "MS1 (1.21 - %69)", "Üst (1.55 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.21 - %69)" : "won",
+    "Üst (1.55 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "City Football Club",
   "awayTeam" : "AL Arabi (Bae)",
   "picks" : [ "MS2 (1.46 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS2 (1.46 - %57)" : "lost"
+  }
 }, {
   "homeTeam" : "Slovenya (K)",
   "awayTeam" : "Sırbistan (K)",
   "picks" : [ "MS2 (2.47 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-4",
+  "statuses" : {
+    "MS2 (2.47 - %60)" : "won"
+  }
 }, {
   "homeTeam" : "Hyderabad",
   "awayTeam" : "Mumbai City",
   "picks" : [ "MS2 (1.55 - %69)", "Yok (1.47 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-4",
+  "statuses" : {
+    "MS2 (1.55 - %69)" : "won",
+    "Yok (1.47 - %72)" : "lost"
+  }
 }, {
   "homeTeam" : "Smouha SC",
   "awayTeam" : "El Gouna",
   "picks" : [ "Alt (1.16 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Alt (1.16 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "Kharitiyat",
   "awayTeam" : "AL Waab",
