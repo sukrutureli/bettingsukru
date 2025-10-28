@@ -1,0 +1,91 @@
+[ {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Philadelphia",
+  "picks" : [ "MS2 (1.27 - %81)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "New York",
+  "picks" : [ "229.5 Üst (1.63 - %80)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hebraica Macabi",
+  "awayTeam" : "CA Penarol",
+  "picks" : [ "MS2 (1.08 - %100)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "LA Clippers",
+  "picks" : [ "224.5 Üst (1.6 - %81)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Daegu Pegasus",
+  "awayTeam" : "Dongbu Promy",
+  "picks" : [ "MS2 (1.41 - %77)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Altiri Chiba",
+  "awayTeam" : "Alvark Tokyo",
+  "picks" : [ "MS2 (1.18 - %63)", "158.5 Üst (1.61 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Nagasaki Velca",
+  "awayTeam" : "Kyoto Hannarizu",
+  "picks" : [ "160.5 Alt (1.65 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Gunma Crane",
+  "awayTeam" : "Brave Thunders",
+  "picks" : [ "159.5 Alt (1.63 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "KB Trepca",
+  "awayTeam" : "Anwil Wlocl.",
+  "picks" : [ "MS2 (1.06 - %88)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hap. Tel Aviv",
+  "awayTeam" : "Partizan",
+  "picks" : [ "MS1 (1.1 - %91)", "172.5 Üst (1.63 - %84)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kk Cedevita Zagreb Junior",
+  "awayTeam" : "Prievidza",
+  "picks" : [ "MS1 (1.26 - %95)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Flammes Carolo (K)",
+  "awayTeam" : "Sopron B. (K)",
+  "picks" : [ "145.5 Alt (1.64 - %78)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Vaerlose Bbk",
+  "awayTeam" : "Holbaek St.",
+  "picks" : [ "169.5 Üst (1.63 - %73)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "VL Pesaro",
+  "awayTeam" : "Pistoia",
+  "picks" : [ "MS1 (1.23 - %73)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Libertas Livorno",
+  "awayTeam" : "Urania Milano",
+  "picks" : [ "MS1 (1.29 - %77)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
