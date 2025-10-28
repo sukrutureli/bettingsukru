@@ -1,0 +1,109 @@
+[ {
+  "homeTeam" : "Club Aurora",
+  "awayTeam" : "Guabira M.",
+  "picks" : [ "MS2 (3.02 - %59)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "PAE Egaleo",
+  "awayTeam" : "Aris",
+  "picks" : [ "Alt (1.76 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Inter Escaldes",
+  "awayTeam" : "Rangers",
+  "picks" : [ "Üst (1.5 - %83)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AL Jabalain",
+  "awayTeam" : "AL Anwar",
+  "picks" : [ "MS1 (1.47 - %56)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Fastav Zlin",
+  "awayTeam" : "Slavia Prag",
+  "picks" : [ "MS1 (5.78 - %57)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Paide Flora",
+  "awayTeam" : "Tartu JK Tam.",
+  "picks" : [ "MS2 (7.97 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Ajka",
+  "awayTeam" : "Tiszakecske",
+  "picks" : [ "MS1 (2.65 - %55)", "Üst (1.63 - %84)", "Var (1.63 - %82)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "URA",
+  "awayTeam" : "Updf",
+  "picks" : [ "Alt (1.44 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Petrojet",
+  "awayTeam" : "El Ahly (Mıs)",
+  "picks" : [ "MS2 (1.19 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AS Roma",
+  "awayTeam" : "Parma",
+  "picks" : [ "MS1 (1.3 - %57)", "Alt (1.62 - %75)", "Yok (1.75 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Nice",
+  "awayTeam" : "Lille",
+  "picks" : [ "Var (1.83 - %75)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Brann",
+  "awayTeam" : "Bodo Glimt",
+  "picks" : [ "Üst (1.29 - %86)", "Var (2.4 - %83)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Mjondalen",
+  "awayTeam" : "Stabaek",
+  "picks" : [ "MS2 (1.39 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "St. Polten",
+  "awayTeam" : "Rapid Wien",
+  "picks" : [ "Var (1.84 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Basel",
+  "awayTeam" : "Zürih",
+  "picks" : [ "Üst (1.27 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Inter",
+  "awayTeam" : "Fiorentina",
+  "picks" : [ "MS1 (1.24 - %70)", "Üst (1.53 - %76)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Marsilya",
+  "awayTeam" : "Angers",
+  "picks" : [ "MS1 (1.09 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Toulouse",
+  "awayTeam" : "Rennes",
+  "picks" : [ "Var (1.7 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
