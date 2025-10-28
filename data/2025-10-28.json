@@ -34,32 +34,43 @@
   "homeTeam" : "AL Qadisiyah",
   "awayTeam" : "AL Hazem",
   "picks" : [ "MS1 (1.13 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS1 (1.13 - %56)" : "won"
+  }
 }, {
   "homeTeam" : "Gareji",
   "awayTeam" : "Samgurali Tskaltubo",
   "picks" : [ "Var (1.58 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-4",
+  "statuses" : {
+    "Var (1.58 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "Leixoes U23",
   "awayTeam" : "Vizela U23",
   "picks" : [ "Üst (1.64 - %68)", "Var (1.62 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "Üst (1.64 - %68)" : "won",
+    "Var (1.62 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "Rio Ave U23",
   "awayTeam" : "Braga U23",
   "picks" : [ "Var (1.8 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Var (1.8 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "CSM Slatina",
   "awayTeam" : "Cluj",
   "picks" : [ "Üst (1.4 - %91)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-4",
+  "statuses" : {
+    "Üst (1.4 - %91)" : "won"
+  }
 }, {
   "homeTeam" : "Chojniczanka",
   "awayTeam" : "Swit Skolwin",
@@ -70,14 +81,18 @@
   "homeTeam" : "Avusturya (K)",
   "awayTeam" : "Çekya (K)",
   "picks" : [ "MS2 (5.87 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS2 (5.87 - %68)" : "lost"
+  }
 }, {
   "homeTeam" : "Danimarka (K)",
   "awayTeam" : "Finlandiya (K)",
   "picks" : [ "Üst (1.37 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Üst (1.37 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "İsveç (K)",
   "awayTeam" : "İspanya (K)",
