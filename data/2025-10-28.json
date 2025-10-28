@@ -2,26 +2,34 @@
   "homeTeam" : "Cincinnati",
   "awayTeam" : "Columbus Cr.",
   "picks" : [ "Var (2.17 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Var (2.17 - %79)" : "lost"
+  }
 }, {
   "homeTeam" : "N. Asuncion",
   "awayTeam" : "Cerro Porteno",
   "picks" : [ "Alt (1.42 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.42 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "CS Maritimo U23",
   "awayTeam" : "Academico V. U23",
   "picks" : [ "MS2 (1.47 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (1.47 - %62)" : "lost"
+  }
 }, {
   "homeTeam" : "Shire Endaselassie",
   "awayTeam" : "Welwalu Adigrat",
   "picks" : [ "MS1 (2.22 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "MS1 (2.22 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "AL Qadisiyah",
   "awayTeam" : "AL Hazem",

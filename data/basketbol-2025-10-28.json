@@ -2,14 +2,18 @@
   "homeTeam" : "Chicago",
   "awayTeam" : "Atlanta",
   "picks" : [ "MS1 (1.78 - %89)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "128-123",
+  "statuses" : {
+    "MS1 (1.78 - %89)" : "won"
+  }
 }, {
   "homeTeam" : "Urunday Universitario",
   "awayTeam" : "Bigua de Villa Biarritz",
   "picks" : [ "MS1 (1.96 - %88)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "88-79",
+  "statuses" : {
+    "MS1 (1.96 - %88)" : "won"
+  }
 }, {
   "homeTeam" : "Utah",
   "awayTeam" : "Phoenix",
@@ -20,26 +24,32 @@
   "homeTeam" : "Ciclista Olimpico",
   "awayTeam" : "Independiente de Oliva",
   "picks" : [ "163.5 Üst (1.65 - %64)" ],
-  "score" : "-",
+  "score" : "73-79",
   "statuses" : { }
 }, {
   "homeTeam" : "Minnesota",
   "awayTeam" : "Denver",
   "picks" : [ "MS1 (2.63 - %90)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "114-127",
+  "statuses" : {
+    "MS1 (2.63 - %90)" : "lost"
+  }
 }, {
   "homeTeam" : "D. R. Del Mexico",
   "awayTeam" : "Astros",
   "picks" : [ "MS2 (1.32 - %81)", "165.5 Üst (1.65 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "68-69",
+  "statuses" : {
+    "MS2 (1.32 - %81)" : "won"
+  }
 }, {
   "homeTeam" : "LA Lakers",
   "awayTeam" : "Portland",
   "picks" : [ "MS1 (1.85 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "108-122",
+  "statuses" : {
+    "MS1 (1.85 - %61)" : "lost"
+  }
 }, {
   "homeTeam" : "Verona",
   "awayTeam" : "Brindisi",
