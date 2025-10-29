@@ -2,8 +2,10 @@
   "homeTeam" : "Club Aurora",
   "awayTeam" : "Guabira M.",
   "picks" : [ "MS2 (3.02 - %59)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "MS2 (3.02 - %59)" : "lost"
+  }
 }, {
   "homeTeam" : "PAE Egaleo",
   "awayTeam" : "Aris",
