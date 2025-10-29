@@ -20,14 +20,16 @@
   "homeTeam" : "Golden State",
   "awayTeam" : "LA Clippers",
   "picks" : [ "224.5 Üst (1.6 - %81)" ],
-  "score" : "-",
+  "score" : "98-79",
   "statuses" : { }
 }, {
   "homeTeam" : "Daegu Pegasus",
   "awayTeam" : "Dongbu Promy",
   "picks" : [ "MS2 (1.41 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "73-87",
+  "statuses" : {
+    "MS2 (1.41 - %77)" : "won"
+  }
 }, {
   "homeTeam" : "Altiri Chiba",
   "awayTeam" : "Alvark Tokyo",
@@ -38,13 +40,13 @@
   "homeTeam" : "Nagasaki Velca",
   "awayTeam" : "Kyoto Hannarizu",
   "picks" : [ "160.5 Alt (1.65 - %65)" ],
-  "score" : "-",
+  "score" : "91-73",
   "statuses" : { }
 }, {
   "homeTeam" : "Gunma Crane",
   "awayTeam" : "Brave Thunders",
   "picks" : [ "159.5 Alt (1.63 - %63)" ],
-  "score" : "-",
+  "score" : "79-83",
   "statuses" : { }
 }, {
   "homeTeam" : "KB Trepca",

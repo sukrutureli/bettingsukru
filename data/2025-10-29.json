@@ -26,20 +26,26 @@
   "homeTeam" : "AL Jabalain",
   "awayTeam" : "AL Anwar",
   "picks" : [ "MS1 (1.47 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS1 (1.47 - %56)" : "lost"
+  }
 }, {
   "homeTeam" : "Fastav Zlin",
   "awayTeam" : "Slavia Prag",
   "picks" : [ "MS1 (5.78 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-4",
+  "statuses" : {
+    "MS1 (5.78 - %57)" : "lost"
+  }
 }, {
   "homeTeam" : "Paide Flora",
   "awayTeam" : "Tartu JK Tam.",
   "picks" : [ "MS2 (7.97 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "MS2 (7.97 - %68)" : "lost"
+  }
 }, {
   "homeTeam" : "Ajka",
   "awayTeam" : "Tiszakecske",
@@ -50,14 +56,18 @@
   "homeTeam" : "URA",
   "awayTeam" : "Updf",
   "picks" : [ "Alt (1.44 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-2",
+  "statuses" : {
+    "Alt (1.44 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "Petrojet",
   "awayTeam" : "El Ahly (Mıs)",
   "picks" : [ "MS2 (1.19 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (1.19 - %65)" : "lost"
+  }
 }, {
   "homeTeam" : "AS Roma",
   "awayTeam" : "Parma",
