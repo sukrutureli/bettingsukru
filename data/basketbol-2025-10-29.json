@@ -52,25 +52,31 @@
   "homeTeam" : "KB Trepca",
   "awayTeam" : "Anwil Wlocl.",
   "picks" : [ "MS2 (1.06 - %88)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "87-97",
+  "statuses" : {
+    "MS2 (1.06 - %88)" : "won"
+  }
 }, {
   "homeTeam" : "Hap. Tel Aviv",
   "awayTeam" : "Partizan",
   "picks" : [ "MS1 (1.1 - %91)", "172.5 Üst (1.63 - %84)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "97-84",
+  "statuses" : {
+    "MS1 (1.1 - %91)" : "won"
+  }
 }, {
   "homeTeam" : "Kk Cedevita Zagreb Junior",
   "awayTeam" : "Prievidza",
   "picks" : [ "MS1 (1.26 - %95)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "88-85",
+  "statuses" : {
+    "MS1 (1.26 - %95)" : "won"
+  }
 }, {
   "homeTeam" : "Flammes Carolo (K)",
   "awayTeam" : "Sopron B. (K)",
   "picks" : [ "145.5 Alt (1.64 - %78)" ],
-  "score" : "-",
+  "score" : "72-62",
   "statuses" : { }
 }, {
   "homeTeam" : "Vaerlose Bbk",
@@ -82,12 +88,16 @@
   "homeTeam" : "VL Pesaro",
   "awayTeam" : "Pistoia",
   "picks" : [ "MS1 (1.23 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "82-73",
+  "statuses" : {
+    "MS1 (1.23 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "Libertas Livorno",
   "awayTeam" : "Urania Milano",
   "picks" : [ "MS1 (1.29 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "98-60",
+  "statuses" : {
+    "MS1 (1.29 - %77)" : "won"
+  }
 } ]
