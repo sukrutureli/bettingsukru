@@ -1,0 +1,37 @@
+[ {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Sacramento",
+  "picks" : [ "MS1 (1.29 - %85)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Indiana",
+  "picks" : [ "228.5 Üst (1.66 - %92)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Quimsa S.",
+  "awayTeam" : "Independiente de Oliva",
+  "picks" : [ "167.5 Üst (1.65 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Olimpia Milano",
+  "awayTeam" : "Paris",
+  "picks" : [ "MS2 (2.02 - %81)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "BC Dubai",
+  "picks" : [ "MS1 (1.17 - %98)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Ravenna Pie",
+  "awayTeam" : "San Severo",
+  "picks" : [ "157.5 Alt (1.6 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
