@@ -97,50 +97,69 @@
   "homeTeam" : "Al Ahli Dubai",
   "awayTeam" : "Sharjah",
   "picks" : [ "Alt (1.68 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Alt (1.68 - %69)" : "won"
+  }
 }, {
   "homeTeam" : "AL Bahrain",
   "awayTeam" : "Aali",
   "picks" : [ "Alt (1.64 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.64 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Malkiya Club",
   "awayTeam" : "Al Ahli SC Manama",
   "picks" : [ "Var (1.53 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (1.53 - %81)" : "won"
+  }
 }, {
   "homeTeam" : "Kuopion",
   "awayTeam" : "Gnistan",
   "picks" : [ "MS1 (1.13 - %73)", "Üst (1.2 - %84)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS1 (1.13 - %73)" : "lost",
+    "Üst (1.2 - %84)" : "lost"
+  }
 }, {
   "homeTeam" : "Fakel",
   "awayTeam" : "Arsenal Tula",
   "picks" : [ "MS2 (3.91 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "MS2 (3.91 - %58)" : "won"
+  }
 }, {
   "homeTeam" : "Al Ahli (Ürd)",
   "awayTeam" : "AL Hussein Irbid",
   "picks" : [ "MS2 (1.13 - %74)", "Yok (1.56 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS2 (1.13 - %74)" : "won",
+    "Yok (1.56 - %77)" : "lost"
+  }
 }, {
   "homeTeam" : "Tampereen I.",
   "awayTeam" : "HJK Helsinki",
   "picks" : [ "Üst (1.25 - %69)", "Var (2.58 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "Üst (1.25 - %69)" : "won",
+    "Var (2.58 - %78)" : "won"
+  }
 }, {
   "homeTeam" : "Zalaegerszeg",
   "awayTeam" : "Budafoki Mte",
   "picks" : [ "MS1 (1.19 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS1 (1.19 - %63)" : "won"
+  }
 }, {
   "homeTeam" : "Lugano",
   "awayTeam" : "Luzern",
