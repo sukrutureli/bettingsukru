@@ -1,0 +1,43 @@
+[ {
+  "homeTeam" : "Atenas Cord",
+  "awayTeam" : "Obera Tenis C.",
+  "picks" : [ "159.5 Üst (1.65 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CA San Lorenzo De Almagro",
+  "awayTeam" : "Racing de Chivilcoy",
+  "picks" : [ "MS2 (2.12 - %64)", "162.5 Üst (1.64 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Club Malvin",
+  "awayTeam" : "CA Goes",
+  "picks" : [ "MS1 (1.1 - %76)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Ferro Carril",
+  "awayTeam" : "Obras Sanita",
+  "picks" : [ "MS1 (1.32 - %73)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Fuerza Regia",
+  "awayTeam" : "Panteras de A.",
+  "picks" : [ "175.5 Üst (1.65 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Seoul SK Knights",
+  "awayTeam" : "Daegu Pegasus",
+  "picks" : [ "MS1 (1.77 - %75)", "152.5 Alt (1.65 - %78)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Tokyo Excellence",
+  "awayTeam" : "Yamagata Wyverns",
+  "picks" : [ "MS2 (1.72 - %61)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
