@@ -51,8 +51,10 @@
   "homeTeam" : "Los Angeles",
   "awayTeam" : "Austin",
   "picks" : [ "MS1 (1.24 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.24 - %55)" : "won"
+  }
 }, {
   "homeTeam" : "Tabora Utd",
   "awayTeam" : "Simba SC",
@@ -63,26 +65,34 @@
   "homeTeam" : "Bul",
   "awayTeam" : "Express",
   "picks" : [ "MS1 (1.32 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "MS1 (1.32 - %62)" : "lost"
+  }
 }, {
   "homeTeam" : "Esperance T.",
   "awayTeam" : "CA Bizertin",
   "picks" : [ "MS1 (1.07 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.07 - %55)" : "won"
+  }
 }, {
   "homeTeam" : "USM Khenchela",
   "awayTeam" : "MC Alger",
   "picks" : [ "Alt (1.18 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Alt (1.18 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "Ibri",
   "awayTeam" : "Sohar",
   "picks" : [ "MS2 (1.91 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-3",
+  "statuses" : {
+    "MS2 (1.91 - %62)" : "won"
+  }
 }, {
   "homeTeam" : "Al Ahli Dubai",
   "awayTeam" : "Sharjah",
