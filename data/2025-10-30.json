@@ -2,38 +2,51 @@
   "homeTeam" : "I. Medellin",
   "awayTeam" : "CA Bucaramanga",
   "picks" : [ "Var (1.62 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "Var (1.62 - %77)" : "lost"
+  }
 }, {
   "homeTeam" : "Penarol",
   "awayTeam" : "Plaza Colonia",
   "picks" : [ "MS1 (1.24 - %57)", "Üst (1.77 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.24 - %57)" : "won",
+    "Üst (1.77 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "J. Wilsterman",
   "awayTeam" : "GV San Jose",
   "picks" : [ "MS2 (1.82 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS2 (1.82 - %64)" : "lost"
+  }
 }, {
   "homeTeam" : "ABD (K)",
   "awayTeam" : "Yeni Zelanda (K)",
   "picks" : [ "Üst (1.06 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "6-0",
+  "statuses" : {
+    "Üst (1.06 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "Racing Club",
   "awayTeam" : "Flamengo",
   "picks" : [ "Alt (1.4 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.4 - %78)" : "won"
+  }
 }, {
   "homeTeam" : "Millonarios",
   "awayTeam" : "Once Caldas",
   "picks" : [ "Var (1.47 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Var (1.47 - %68)" : "lost"
+  }
 }, {
   "homeTeam" : "Los Angeles",
   "awayTeam" : "Austin",

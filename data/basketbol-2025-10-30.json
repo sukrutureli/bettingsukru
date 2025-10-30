@@ -2,19 +2,21 @@
   "homeTeam" : "Chicago",
   "awayTeam" : "Sacramento",
   "picks" : [ "MS1 (1.29 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "126-113",
+  "statuses" : {
+    "MS1 (1.29 - %85)" : "won"
+  }
 }, {
   "homeTeam" : "Dallas",
   "awayTeam" : "Indiana",
   "picks" : [ "228.5 Üst (1.66 - %92)" ],
-  "score" : "-",
+  "score" : "107-105",
   "statuses" : { }
 }, {
   "homeTeam" : "Quimsa S.",
   "awayTeam" : "Independiente de Oliva",
   "picks" : [ "167.5 Üst (1.65 - %70)" ],
-  "score" : "-",
+  "score" : "86-83",
   "statuses" : { }
 }, {
   "homeTeam" : "Olimpia Milano",
