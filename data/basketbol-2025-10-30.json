@@ -22,18 +22,22 @@
   "homeTeam" : "Olimpia Milano",
   "awayTeam" : "Paris",
   "picks" : [ "MS2 (2.02 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "86-77",
+  "statuses" : {
+    "MS2 (2.02 - %81)" : "lost"
+  }
 }, {
   "homeTeam" : "Valencia",
   "awayTeam" : "BC Dubai",
   "picks" : [ "MS1 (1.17 - %98)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-78",
+  "statuses" : {
+    "MS1 (1.17 - %98)" : "won"
+  }
 }, {
   "homeTeam" : "Ravenna Pie",
   "awayTeam" : "San Severo",
   "picks" : [ "157.5 Alt (1.6 - %69)" ],
-  "score" : "-",
+  "score" : "70-79",
   "statuses" : { }
 } ]

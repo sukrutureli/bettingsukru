@@ -164,14 +164,18 @@
   "homeTeam" : "Lugano",
   "awayTeam" : "Luzern",
   "picks" : [ "Var (2.08 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Var (2.08 - %79)" : "lost"
+  }
 }, {
   "homeTeam" : "AC Pisa",
   "awayTeam" : "Lazio",
   "picks" : [ "Yok (1.98 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Yok (1.98 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Nordsjælland",
   "awayTeam" : "Brondby",
@@ -188,12 +192,16 @@
   "homeTeam" : "Maritimo",
   "awayTeam" : "Uniao Leiria",
   "picks" : [ "Alt (1.52 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-3",
+  "statuses" : {
+    "Alt (1.52 - %72)" : "lost"
+  }
 }, {
   "homeTeam" : "Leixoes",
   "awayTeam" : "A. de Viseu",
   "picks" : [ "MS2 (2.39 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-5",
+  "statuses" : {
+    "MS2 (2.39 - %57)" : "won"
+  }
 } ]
