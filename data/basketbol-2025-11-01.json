@@ -1,0 +1,109 @@
+[ {
+  "homeTeam" : "Union de Santa Fe",
+  "awayTeam" : "Boca Juniors",
+  "picks" : [ "159.5 Üst (1.6 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "New York",
+  "picks" : [ "MS1 (2.2 - %82)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "San Martin C.",
+  "awayTeam" : "Argentino J.",
+  "picks" : [ "156.5 Alt (1.56 - %73)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "Utah",
+  "picks" : [ "236.5 Üst (1.61 - %81)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Umea",
+  "awayTeam" : "KFUM Nassjo",
+  "picks" : [ "173.5 Üst (1.65 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Promitheas",
+  "awayTeam" : "AS Karditsas",
+  "picks" : [ "MS2 (2.38 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Cluj Napoca",
+  "awayTeam" : "KK Igokea",
+  "picks" : [ "MS2 (2.53 - %83)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "BK Jip Pardubice",
+  "awayTeam" : "BK Gapa Hradec Kralove",
+  "picks" : [ "169.5 Üst (1.64 - %86)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Wilki Morskie Szczecin",
+  "awayTeam" : "Zielona Gora",
+  "picks" : [ "MS1 (1.13 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Helios Suns",
+  "awayTeam" : "Kk Sentjur",
+  "picks" : [ "MS1 (1.06 - %88)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "JL Bourg",
+  "awayTeam" : "Dijon Basket",
+  "picks" : [ "MS1 (1.17 - %78)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Vasco Da Gama",
+  "awayTeam" : "SC Braga",
+  "picks" : [ "164.5 Üst (1.64 - %77)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hamburg Towers",
+  "awayTeam" : "Bamberg",
+  "picks" : [ "MS2 (1.41 - %85)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Ujap Quimper 29",
+  "awayTeam" : "ASC Denain V.",
+  "picks" : [ "MS2 (1.7 - %75)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Legia Warsz.",
+  "awayTeam" : "Anwil Wlocl.",
+  "picks" : [ "MS1 (1.37 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Belfius Mons Hainaut",
+  "awayTeam" : "Excels Brus",
+  "picks" : [ "MS1 (1.93 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Basket Mestre 1958",
+  "awayTeam" : "R. Sebastiani Rieti",
+  "picks" : [ "MS2 (1.36 - %66)", "156.5 Üst (1.61 - %61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Urania Milano",
+  "awayTeam" : "Verona",
+  "picks" : [ "MS2 (1.21 - %81)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
