@@ -3,7 +3,9 @@
   "awayTeam" : "Obera Tenis C.",
   "picks" : [ "159.5 Üst (1.65 - %60)" ],
   "score" : "65-79",
-  "statuses" : { }
+  "statuses" : {
+    "159.5 Üst (1.65 - %60)" : "lost"
+  }
 }, {
   "homeTeam" : "CA San Lorenzo De Almagro",
   "awayTeam" : "Racing de Chivilcoy",
@@ -33,7 +35,9 @@
   "awayTeam" : "Panteras de A.",
   "picks" : [ "175.5 Üst (1.65 - %70)" ],
   "score" : "104-94",
-  "statuses" : { }
+  "statuses" : {
+    "175.5 Üst (1.65 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "Seoul SK Knights",
   "awayTeam" : "Daegu Pegasus",
