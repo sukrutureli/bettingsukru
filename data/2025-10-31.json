@@ -8,80 +8,110 @@
   "homeTeam" : "Brisbane Roar",
   "awayTeam" : "Melbourne City",
   "picks" : [ "Var (1.62 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Var (1.62 - %65)" : "lost"
+  }
 }, {
   "homeTeam" : "Marconi Stal",
   "awayTeam" : "Heidelberg",
   "picks" : [ "Üst (1.51 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Üst (1.51 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "Shanghai Port",
   "awayTeam" : "Zhejiang",
   "picks" : [ "Üst (1.09 - %88)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "Üst (1.09 - %88)" : "won"
+  }
 }, {
   "homeTeam" : "Hoang Anh",
   "awayTeam" : "Nam Dinh",
   "picks" : [ "Alt (1.54 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Alt (1.54 - %72)" : "lost"
+  }
 }, {
   "homeTeam" : "Al Najma",
   "awayTeam" : "AL Shabbab",
   "picks" : [ "Alt (1.45 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Alt (1.45 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "Wa Mostaganem",
   "awayTeam" : "RC Arbaa",
   "picks" : [ "MS1 (1.21 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS1 (1.21 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "USM EL Harrach",
   "awayTeam" : "WA Tlemcen",
   "picks" : [ "MS2 (3.85 - %55)", "Alt (1.37 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS2 (3.85 - %55)" : "lost",
+    "Alt (1.37 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "ASM Oran",
   "awayTeam" : "Js Tixeraine",
   "picks" : [ "MS1 (1.28 - %57)", "Alt (1.41 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.28 - %57)" : "won",
+    "Alt (1.41 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "GC Mascara",
   "awayTeam" : "JSM Tiaret",
   "picks" : [ "MS2 (1.89 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS2 (1.89 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "MSP Batna",
   "awayTeam" : "US Chaouia",
   "picks" : [ "Alt (1.33 - %76)", "Yok (2.1 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Alt (1.33 - %76)" : "won",
+    "Yok (2.1 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "US Biskra",
   "awayTeam" : "JS Bordj Menaiel",
   "picks" : [ "MS1 (1.28 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS1 (1.28 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "S. Wednesday U21",
   "awayTeam" : "Hull City U21",
   "picks" : [ "MS2 (1.71 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "MS2 (1.71 - %57)" : "won"
+  }
 }, {
   "homeTeam" : "Krka",
   "awayTeam" : "NK Krsko",
   "picks" : [ "MS1 (1.35 - %71)", "Üst (1.43 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS1 (1.35 - %71)" : "lost",
+    "Üst (1.43 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Shams Azar Qazvin",
   "awayTeam" : "M. Sepahan",

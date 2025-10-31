@@ -32,18 +32,22 @@
   "homeTeam" : "Fuerza Regia",
   "awayTeam" : "Panteras de A.",
   "picks" : [ "175.5 Üst (1.65 - %70)" ],
-  "score" : "-",
+  "score" : "104-94",
   "statuses" : { }
 }, {
   "homeTeam" : "Seoul SK Knights",
   "awayTeam" : "Daegu Pegasus",
   "picks" : [ "MS1 (1.77 - %75)", "152.5 Alt (1.65 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "79-71",
+  "statuses" : {
+    "MS1 (1.77 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "Tokyo Excellence",
   "awayTeam" : "Yamagata Wyverns",
   "picks" : [ "MS2 (1.72 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-78",
+  "statuses" : {
+    "MS2 (1.72 - %61)" : "lost"
+  }
 } ]
