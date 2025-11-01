@@ -11,7 +11,9 @@
   "awayTeam" : "New York",
   "picks" : [ "MS1 (2.2 - %82)" ],
   "score" : "135-125",
-  "statuses" : { }
+  "statuses" : {
+    "MS1 (2.2 - %82)" : "won"
+  }
 }, {
   "homeTeam" : "San Martin C.",
   "awayTeam" : "Argentino J.",
@@ -24,8 +26,10 @@
   "homeTeam" : "Phoenix",
   "awayTeam" : "Utah",
   "picks" : [ "236.5 Üst (1.61 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "118-96",
+  "statuses" : {
+    "236.5 Üst (1.61 - %81)" : "lost"
+  }
 }, {
   "homeTeam" : "Umea",
   "awayTeam" : "KFUM Nassjo",
