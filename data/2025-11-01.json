@@ -8,26 +8,34 @@
   "homeTeam" : "San Lorenzo",
   "awayTeam" : "Deportivo Riestra",
   "picks" : [ "Alt (1.08 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.08 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Montevideo",
   "awayTeam" : "Boston River",
   "picks" : [ "MS2 (2.05 - %59)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS2 (2.05 - %59)" : "lost"
+  }
 }, {
   "homeTeam" : "Dep. La Gua.",
   "awayTeam" : "Monagas SC",
   "picks" : [ "MS1 (1.49 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.49 - %64)" : "won"
+  }
 }, {
   "homeTeam" : "Delfin",
   "awayTeam" : "CD Cuenca",
   "picks" : [ "Alt (1.31 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Alt (1.31 - %71)" : "won"
+  }
 }, {
   "homeTeam" : "Gyeongnam",
   "awayTeam" : "Seoul E Land",

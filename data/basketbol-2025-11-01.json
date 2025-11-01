@@ -2,20 +2,24 @@
   "homeTeam" : "Union de Santa Fe",
   "awayTeam" : "Boca Juniors",
   "picks" : [ "159.5 Üst (1.6 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "77-100",
+  "statuses" : {
+    "159.5 Üst (1.6 - %60)" : "won"
+  }
 }, {
   "homeTeam" : "Chicago",
   "awayTeam" : "New York",
   "picks" : [ "MS1 (2.2 - %82)" ],
-  "score" : "-",
+  "score" : "135-125",
   "statuses" : { }
 }, {
   "homeTeam" : "San Martin C.",
   "awayTeam" : "Argentino J.",
   "picks" : [ "156.5 Alt (1.56 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "94-78",
+  "statuses" : {
+    "156.5 Alt (1.56 - %73)" : "lost"
+  }
 }, {
   "homeTeam" : "Phoenix",
   "awayTeam" : "Utah",
