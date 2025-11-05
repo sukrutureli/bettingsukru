@@ -44,56 +44,76 @@
   "homeTeam" : "Ibaraki Robots",
   "awayTeam" : "Levanga Hokkaido",
   "picks" : [ "MS2 (1.22 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-84",
+  "statuses" : {
+    "MS2 (1.22 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Alvark Tokyo",
   "awayTeam" : "Sendai 89ers",
   "picks" : [ "MS1 (1.28 - %73)", "154.5 Üst (1.63 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "94-80",
+  "statuses" : {
+    "MS1 (1.28 - %73)" : "won",
+    "154.5 Üst (1.63 - %81)" : "won"
+  }
 }, {
   "homeTeam" : "Utsunomiya Brex",
   "awayTeam" : "Yokohama",
   "picks" : [ "160.5 Üst (1.63 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "86-76",
+  "statuses" : {
+    "160.5 Üst (1.63 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Hiroshima Dr.",
   "awayTeam" : "San En Neophoenix",
   "picks" : [ "167.5 Alt (1.59 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-72",
+  "statuses" : {
+    "167.5 Alt (1.59 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "Sun Rockers Shibuya",
   "awayTeam" : "Sh. Susanoo",
   "picks" : [ "MS2 (1.22 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "77-74",
+  "statuses" : {
+    "MS2 (1.22 - %81)" : "lost"
+  }
 }, {
   "homeTeam" : "Koshigaya Alphas",
   "awayTeam" : "Brave Thunders",
   "picks" : [ "MS1 (1.36 - %87)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "76-65",
+  "statuses" : {
+    "MS1 (1.36 - %87)" : "won"
+  }
 }, {
   "homeTeam" : "R. G. K. Okinaw",
   "awayTeam" : "Toyama Grouses",
   "picks" : [ "164.5 Alt (1.65 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "91-81",
+  "statuses" : {
+    "164.5 Alt (1.65 - %61)" : "lost"
+  }
 }, {
   "homeTeam" : "Ulanbator Xac Broncos",
   "awayTeam" : "LG Sakers",
   "picks" : [ "162.5 Alt (1.66 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "105-77",
+  "statuses" : {
+    "162.5 Alt (1.66 - %60)" : "lost"
+  }
 }, {
   "homeTeam" : "Rain or Shine",
   "awayTeam" : "Phoenix Puls",
   "picks" : [ "MS1 (1.31 - %73)", "209.5 Alt (1.59 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "91-80",
+  "statuses" : {
+    "MS1 (1.31 - %73)" : "won",
+    "209.5 Alt (1.59 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "Panathinaikos BC (K)",
   "awayTeam" : "Neptunas Klaipeda (K)",
