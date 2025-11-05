@@ -5,8 +5,8 @@ on:
   push:
     branches: [ main ]
     paths:
-      - "data/*.html"
-      - "./*.html"
+      - "*.html"         # kök dizindeki tüm html dosyaları
+      - "data/*.html"    # data klasöründeki html dosyaları
 
 jobs:
   notify:
@@ -16,13 +16,24 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Send HTML file via Telegram
+      - name: Send HTML files via Telegram
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          FILE_PATH=$(find public -name "*.html" | head -n 1)
-          curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendDocument" \
-            -F chat_id="$TELEGRAM_CHAT_ID" \
-            -F document="@$FILE_PATH" \
-            -F caption="📊 Günlük Rapor - $(date +'%d.%m.%Y')"
+          echo "🔍 HTML dosyaları aranıyor..."
+          FILES=$(find . -maxdepth 2 -type f -name "*.html")
+
+          if [ -z "$FILES" ]; then
+            echo "⚠️ Hiç HTML dosyası bulunamadı!"
+            exit 0
+          fi
+
+          for FILE in $FILES; do
+            echo "📤 Gönderiliyor: $FILE"
+            curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendDocument" \
+              -F chat_id="$TELEGRAM_CHAT_ID" \
+              -F document="@$FILE" \
+              -F caption="📊 $(basename "$FILE") - $(date +'%d.%m.%Y')"
+            echo "✅ Gönderildi: $FILE"
+          done
