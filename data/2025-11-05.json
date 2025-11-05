@@ -1,87 +1,19 @@
 [ {
-  "homeTeam" : "A. Puerto C.",
-  "awayTeam" : "Monagas SC",
-  "picks" : [ "MS1 (1.45 - %73)" ],
-  "score" : "3-2",
-  "statuses" : {
-    "MS1 (1.45 - %73)" : "won"
-  }
-}, {
-  "homeTeam" : "2 Korriku U19",
-  "awayTeam" : "Hibernians U19",
-  "picks" : [ "MS2 (1.07 - %64)" ],
-  "score" : "1-0",
-  "statuses" : {
-    "MS2 (1.07 - %64)" : "lost"
-  }
-}, {
-  "homeTeam" : "Johor Darul",
-  "awayTeam" : "Shanghai S.",
-  "picks" : [ "Üst (1.42 - %83)" ],
-  "score" : "3-1",
-  "statuses" : {
-    "Üst (1.42 - %83)" : "won"
-  }
-}, {
-  "homeTeam" : "Eastern Sports",
-  "awayTeam" : "Ratchaburi",
-  "picks" : [ "MS2 (1.47 - %65)" ],
-  "score" : "0-7",
-  "statuses" : {
-    "MS2 (1.47 - %65)" : "won"
-  }
-}, {
-  "homeTeam" : "Orenburg",
-  "awayTeam" : "Krasnodar",
-  "picks" : [ "Yok (1.85 - %76)" ],
-  "score" : "1-3",
-  "statuses" : {
-    "Yok (1.85 - %76)" : "lost"
-  }
-}, {
-  "homeTeam" : "Maroons",
-  "awayTeam" : "URA",
-  "picks" : [ "Alt (1.31 - %78)" ],
-  "score" : "0-0",
-  "statuses" : {
-    "Alt (1.31 - %78)" : "won"
-  }
-}, {
-  "homeTeam" : "Fiorentina U19",
-  "awayTeam" : "Legia Varşova U19",
-  "picks" : [ "Var (1.2 - %80)" ],
-  "score" : "3-2",
-  "statuses" : {
-    "Var (1.2 - %80)" : "won"
-  }
-}, {
-  "homeTeam" : "Hassania A.",
-  "awayTeam" : "Wydad",
-  "picks" : [ "MS2 (1.58 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
-  "homeTeam" : "Newcastle Utd U19",
-  "awayTeam" : "Ath. Bilbao U19",
-  "picks" : [ "MS2 (1.41 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
-  "homeTeam" : "Puskas Akademia U19",
-  "awayTeam" : "SK Brann U19",
-  "picks" : [ "Var (1.27 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
   "homeTeam" : "Durban City 2024",
   "awayTeam" : "Marumo Gallants",
-  "picks" : [ "Alt (1.15 - %73)" ],
+  "picks" : [ "Alt (1.14 - %73)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Leyton Orient London U21",
+  "awayTeam" : "Blackburn R. U21",
+  "picks" : [ "Var (1.16 - %78)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "Altrincham",
   "awayTeam" : "Boston Utd",
-  "picks" : [ "Var (1.51 - %72)" ],
+  "picks" : [ "Var (1.53 - %72)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -93,13 +25,13 @@
 }, {
   "homeTeam" : "Farnborough",
   "awayTeam" : "Torquay",
-  "picks" : [ "Alt (1.7 - %75)" ],
+  "picks" : [ "Alt (1.68 - %75)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "Ajax",
   "awayTeam" : "Galatasaray",
-  "picks" : [ "MS2 (1.85 - %62)" ],
+  "picks" : [ "MS2 (1.88 - %62)" ],
   "score" : "-",
   "statuses" : { }
 } ]
