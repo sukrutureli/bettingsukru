@@ -1,0 +1,103 @@
+[ {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Brooklyn",
+  "picks" : [ "MS1 (1.18 - %78)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Regatas Corrientes",
+  "awayTeam" : "Quimsa S.",
+  "picks" : [ "158.5 Alt (1.66 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Washington",
+  "picks" : [ "233.5 Alt (1.62 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Houston",
+  "picks" : [ "MS2 (1.11 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Denver",
+  "awayTeam" : "Miami",
+  "picks" : [ "MS1 (1.06 - %74)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Golden State",
+  "picks" : [ "223.5 Üst (1.63 - %75)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Oklahoma",
+  "picks" : [ "228.5 Üst (1.62 - %61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "San Antonio",
+  "picks" : [ "226.5 Üst (1.61 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Tasmania Jackjumpers",
+  "awayTeam" : "Melbourne Phoenix",
+  "picks" : [ "MS2 (1.5 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Mobis Phoebus",
+  "awayTeam" : "Goyang Orions",
+  "picks" : [ "MS1 (1.38 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Randers Cimb.",
+  "awayTeam" : "Horsens IC",
+  "picks" : [ "166.5 Üst (1.65 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "BK Amager",
+  "awayTeam" : "Naestved",
+  "picks" : [ "193.5 Alt (1.61 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "BC Dubai",
+  "awayTeam" : "Hap. Tel Aviv",
+  "picks" : [ "169.5 Alt (1.64 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Vaerlose Bbk",
+  "awayTeam" : "Copenhagen Wolfpack",
+  "picks" : [ "MS2 (1.47 - %75)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Thor Thorl",
+  "awayTeam" : "IR Reykjavik",
+  "picks" : [ "186.5 Alt (1.65 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "UMFN Njardvik",
+  "awayTeam" : "Stjarnan",
+  "picks" : [ "192.5 Alt (1.59 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Bayern Münih",
+  "picks" : [ "175.5 Alt (1.65 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
