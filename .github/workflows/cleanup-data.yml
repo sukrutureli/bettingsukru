@@ -1,16 +1,16 @@
-name: Cleanup Old JSON Files (by Date in Filename)
+name: Cleanup Old Files (JSON + HTML by Date in Filename)
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # UTC 02:00 -> Türkiye saati 05:00 civarı, her gün çalışır
-  workflow_dispatch:        # Manuel tetikleme seçeneği
+    - cron: '0 2 * * *'   # UTC 02:00 → Türkiye 05:00
+  workflow_dispatch:
 
 permissions:
-  contents: write           # Commit/push yapabilmek için gerekli izin
+  contents: write
 
 jobs:
   cleanup:
-    name: Delete old JSONs
+    name: Delete old JSON and HTML files
     runs-on: ubuntu-latest
 
     steps:
@@ -22,7 +22,7 @@ jobs:
       - name: Show current date
         run: date -u
 
-      - name: Delete JSON files older than 7 days (based on date in filename)
+      - name: Delete JSON/HTML files older than 7 days (based on date in filename)
         run: |
           echo "🧹 Starting cleanup in ./data ..."
           if [ ! -d "data" ]; then
@@ -30,23 +30,23 @@ jobs:
             exit 0
           fi
 
-          # Kesim tarihi: 6 gün önce (bugün + son 6 gün kalacak)
+          # Kesim tarihi: son 6 gün kalsın, 7+ gün öncesini sil
           CUTOFF=$(date -u -d '6 days ago' +%Y-%m-%d)
           echo "Cutoff date: $CUTOFF"
 
           deleted_any=false
 
-          # Tüm .json dosyaları üzerinde dön
-          find data/ -type f -name "*.json" | while read -r file; do
+          # 🔹 Hem .json hem .html dosyalarını tara
+          find data/ -type f \( -name "*.json" -o -name "*.html" \) | while read -r file; do
             filename=$(basename "$file")
 
-            # YYYY-MM-DD formatındaki tarihi yakala
+            # Dosya adındaki YYYY-MM-DD formatlı tarihi al
             datepart=$(echo "$filename" | grep -Eo '[0-9]{4}-[0-9]{2}-[0-9]{2}' || true)
             if [ -z "$datepart" ]; then
               continue
             fi
 
-            # Tarihi karşılaştır (ASCII kıyaslama yeterli)
+            # Tarihi karşılaştır (lexicographic comparison yeterli)
             if [[ "$datepart" < "$CUTOFF" ]]; then
               echo "🗑️  Deleting $file (date $datepart < cutoff $CUTOFF)"
               rm -f "$file"
@@ -54,7 +54,6 @@ jobs:
             fi
           done
 
-          # Eğer hiçbir dosya silinmediyse bilgi ver
           if [ "$deleted_any" = false ]; then
             echo "✅ No files to delete."
           fi
@@ -69,7 +68,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "🟢 No changes to commit."
           else
-            git commit -m "Auto-cleanup: removed JSON files older than 7 days"
+            git commit -m "Auto-cleanup: removed JSON/HTML files older than 7 days"
             git push
             echo "✅ Changes pushed."
           fi
