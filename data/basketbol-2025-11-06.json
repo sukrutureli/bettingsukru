@@ -2,26 +2,34 @@
   "homeTeam" : "Indiana",
   "awayTeam" : "Brooklyn",
   "picks" : [ "MS1 (1.18 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "103-112",
+  "statuses" : {
+    "MS1 (1.18 - %78)" : "lost"
+  }
 }, {
   "homeTeam" : "Regatas Corrientes",
   "awayTeam" : "Quimsa S.",
   "picks" : [ "158.5 Alt (1.66 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "66-75",
+  "statuses" : {
+    "158.5 Alt (1.66 - %62)" : "won"
+  }
 }, {
   "homeTeam" : "Boston",
   "awayTeam" : "Washington",
   "picks" : [ "233.5 Alt (1.62 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "136-107",
+  "statuses" : {
+    "233.5 Alt (1.62 - %62)" : "lost"
+  }
 }, {
   "homeTeam" : "Memphis",
   "awayTeam" : "Houston",
   "picks" : [ "MS2 (1.11 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "109-124",
+  "statuses" : {
+    "MS2 (1.11 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Denver",
   "awayTeam" : "Miami",

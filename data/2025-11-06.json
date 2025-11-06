@@ -2,14 +2,18 @@
   "homeTeam" : "Gremio P.",
   "awayTeam" : "Cruzeiro MG",
   "picks" : [ "Alt (1.53 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Alt (1.53 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "Unan Managua",
   "awayTeam" : "Managua",
   "picks" : [ "MS2 (1.36 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-3",
+  "statuses" : {
+    "MS2 (1.36 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "Rajasthan Utd",
   "awayTeam" : "Hyderabad",
