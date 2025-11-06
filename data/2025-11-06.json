@@ -1,79 +1,25 @@
 [ {
-  "homeTeam" : "Gremio P.",
-  "awayTeam" : "Cruzeiro MG",
-  "picks" : [ "Alt (1.53 - %73)" ],
-  "score" : "0-1",
-  "statuses" : {
-    "Alt (1.53 - %73)" : "won"
-  }
-}, {
-  "homeTeam" : "Unan Managua",
-  "awayTeam" : "Managua",
-  "picks" : [ "MS2 (1.36 - %72)" ],
-  "score" : "0-3",
-  "statuses" : {
-    "MS2 (1.36 - %72)" : "won"
-  }
-}, {
-  "homeTeam" : "Rajasthan Utd",
-  "awayTeam" : "Hyderabad",
-  "picks" : [ "MS1 (2.07 - %73)" ],
-  "score" : "2-2",
-  "statuses" : {
-    "MS1 (2.07 - %73)" : "lost"
-  }
-}, {
-  "homeTeam" : "Malavan Bandar A.",
-  "awayTeam" : "Shams Azar Qazvin",
-  "picks" : [ "Alt (1.17 - %87)" ],
-  "score" : "0-0",
-  "statuses" : {
-    "Alt (1.17 - %87)" : "won"
-  }
-}, {
-  "homeTeam" : "Stade Tunisien",
-  "awayTeam" : "Club Africain",
-  "picks" : [ "Alt (1.19 - %76)" ],
-  "score" : "0-0",
-  "statuses" : {
-    "Alt (1.19 - %76)" : "won"
-  }
-}, {
-  "homeTeam" : "A. Minsk U19",
-  "awayTeam" : "Lida",
-  "picks" : [ "Var (1.39 - %74)" ],
-  "score" : "0-2",
-  "statuses" : {
-    "Var (1.39 - %74)" : "lost"
-  }
-}, {
-  "homeTeam" : "Samsunspor",
-  "awayTeam" : "Hamrun Spartans",
-  "picks" : [ "MS1 (1.06 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
   "homeTeam" : "Noah",
   "awayTeam" : "Sigma Olomouc",
-  "picks" : [ "Alt (1.64 - %76)" ],
+  "picks" : [ "Alt (1.57 - %76)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "AS Far Rabat",
   "awayTeam" : "Fus Rabat",
-  "picks" : [ "MS1 (1.52 - %67)" ],
+  "picks" : [ "MS1 (1.64 - %66)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "PAOK",
   "awayTeam" : "Young Boys",
-  "picks" : [ "Üst (1.47 - %83)" ],
+  "picks" : [ "Üst (1.28 - %83)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "BK Hacken",
   "awayTeam" : "Strasbourg",
-  "picks" : [ "Var (1.38 - %78)" ],
+  "picks" : [ "Var (1.37 - %78)" ],
   "score" : "-",
   "statuses" : { }
 } ]
