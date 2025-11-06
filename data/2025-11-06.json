@@ -2,24 +2,32 @@
   "homeTeam" : "Noah",
   "awayTeam" : "Sigma Olomouc",
   "picks" : [ "Alt (1.57 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.57 - %76)" : "lost"
+  }
 }, {
   "homeTeam" : "AS Far Rabat",
   "awayTeam" : "Fus Rabat",
   "picks" : [ "MS1 (1.64 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS1 (1.64 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "PAOK",
   "awayTeam" : "Young Boys",
   "picks" : [ "Üst (1.27 - %83)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "Üst (1.27 - %83)" : "won"
+  }
 }, {
   "homeTeam" : "BK Hacken",
   "awayTeam" : "Strasbourg",
   "picks" : [ "Var (1.37 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Var (1.37 - %78)" : "won"
+  }
 } ]
