@@ -1,0 +1,169 @@
+[ {
+  "homeTeam" : "Atenas Cord",
+  "awayTeam" : "La Union Formosa",
+  "picks" : [ "MS2 (1.49 - %60)", "160.5 Alt (1.61 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "LA Clippers",
+  "picks" : [ "224.5 Üst (1.65 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Cairns Taipans",
+  "awayTeam" : "Illawarra Hawks",
+  "picks" : [ "MS2 (1.28 - %68)", "182.5 Alt (1.63 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Anyang KGC",
+  "awayTeam" : "Seoul SK Knights",
+  "picks" : [ "MS1 (1.31 - %74)", "148.5 Üst (1.61 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Tokyo Excellence",
+  "awayTeam" : "Ehime O. V.",
+  "picks" : [ "MS2 (1.2 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Parma Permsk",
+  "awayTeam" : "BK Uralmash Yekaterinburg",
+  "picks" : [ "MS1 (1.42 - %92)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Anadolu Efes",
+  "awayTeam" : "Olimpia Milano",
+  "picks" : [ "MS1 (1.28 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bayreuth",
+  "awayTeam" : "Sbb Baskets Wolmirstedt",
+  "picks" : [ "MS1 (1.13 - %83)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CB Islas Canarias (K)",
+  "awayTeam" : "Porta XI Ensino (K)",
+  "picks" : [ "141.5 Üst (1.59 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Tigers Tubingen",
+  "awayTeam" : "LTI Giessen",
+  "picks" : [ "MS1 (1.63 - %80)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bochum",
+  "awayTeam" : "Paderborn Baskets",
+  "picks" : [ "MS1 (1.07 - %84)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "PS Karlsruhe Lions",
+  "awayTeam" : "VFL Kirchheim Knights",
+  "picks" : [ "MS1 (1.47 - %77)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Giants Leverkusen",
+  "awayTeam" : "Gottingen",
+  "picks" : [ "MS2 (1.41 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bremerhaven",
+  "awayTeam" : "Artland Dragons",
+  "picks" : [ "MS1 (1.1 - %81)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Braunschweig",
+  "awayTeam" : "Hamburg Towers",
+  "picks" : [ "MS1 (1.23 - %89)", "170.5 Alt (1.61 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Uni Baskets Munster",
+  "awayTeam" : "Rheinstars Cologne",
+  "picks" : [ "MS1 (1.07 - %75)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Ujap Quimper 29",
+  "awayTeam" : "Caen Basket",
+  "picks" : [ "MS1 (1.47 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "ASC Denain V.",
+  "awayTeam" : "Stade Rochelais B.",
+  "picks" : [ "160.5 Üst (1.64 - %73)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AIX Maurienne",
+  "awayTeam" : "Pau Orthez",
+  "picks" : [ "169.5 Üst (1.65 - %61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Poitiers Basket 86",
+  "awayTeam" : "Rouen Metropole B.",
+  "picks" : [ "MS1 (1.16 - %89)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Czarni Slupsk",
+  "awayTeam" : "Miasto Szkla",
+  "picks" : [ "165.5 Üst (1.59 - %77)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Pall Udinese",
+  "awayTeam" : "Reyer Venezia",
+  "picks" : [ "MS2 (1.28 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Spirou Charleroi",
+  "awayTeam" : "Den Bosch",
+  "picks" : [ "MS2 (1.47 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "A. S. Alsace",
+  "awayTeam" : "ADA Blois Basket 41",
+  "picks" : [ "MS2 (1.46 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Vendee Challans B.",
+  "awayTeam" : "Orleans",
+  "picks" : [ "MS2 (1.05 - %78)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "UMF Grindavik",
+  "awayTeam" : "Keflavik",
+  "picks" : [ "MS1 (1.13 - %85)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Reggiana Emilia",
+  "awayTeam" : "Treviso",
+  "picks" : [ "MS1 (1.23 - %84)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "AE Sedis Basquet (K)",
+  "awayTeam" : "Univ. de Ferrol (K)",
+  "picks" : [ "MS2 (1.9 - %68)", "142.5 Üst (1.66 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
