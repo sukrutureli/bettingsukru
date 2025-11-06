@@ -34,32 +34,42 @@
   "homeTeam" : "Denver",
   "awayTeam" : "Miami",
   "picks" : [ "MS1 (1.06 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "122-112",
+  "statuses" : {
+    "MS1 (1.06 - %74)" : "won"
+  }
 }, {
   "homeTeam" : "Sacramento",
   "awayTeam" : "Golden State",
   "picks" : [ "223.5 Üst (1.63 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "121-116",
+  "statuses" : {
+    "223.5 Üst (1.63 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "Portland",
   "awayTeam" : "Oklahoma",
   "picks" : [ "228.5 Üst (1.62 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "121-119",
+  "statuses" : {
+    "228.5 Üst (1.62 - %61)" : "won"
+  }
 }, {
   "homeTeam" : "LA Lakers",
   "awayTeam" : "San Antonio",
   "picks" : [ "226.5 Üst (1.61 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "118-116",
+  "statuses" : {
+    "226.5 Üst (1.61 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Tasmania Jackjumpers",
   "awayTeam" : "Melbourne Phoenix",
   "picks" : [ "MS2 (1.5 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "102-103",
+  "statuses" : {
+    "MS2 (1.5 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "Mobis Phoebus",
   "awayTeam" : "Goyang Orions",
