@@ -74,8 +74,10 @@
   "homeTeam" : "Mobis Phoebus",
   "awayTeam" : "Goyang Orions",
   "picks" : [ "MS1 (1.38 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "74-68",
+  "statuses" : {
+    "MS1 (1.38 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "Randers Cimb.",
   "awayTeam" : "Horsens IC",

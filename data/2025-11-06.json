@@ -18,26 +18,34 @@
   "homeTeam" : "Rajasthan Utd",
   "awayTeam" : "Hyderabad",
   "picks" : [ "MS1 (2.07 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS1 (2.07 - %73)" : "lost"
+  }
 }, {
   "homeTeam" : "Malavan Bandar A.",
   "awayTeam" : "Shams Azar Qazvin",
   "picks" : [ "Alt (1.17 - %87)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.17 - %87)" : "won"
+  }
 }, {
   "homeTeam" : "Stade Tunisien",
   "awayTeam" : "Club Africain",
   "picks" : [ "Alt (1.19 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.19 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "A. Minsk U19",
   "awayTeam" : "Lida",
   "picks" : [ "Var (1.39 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Var (1.39 - %74)" : "lost"
+  }
 }, {
   "homeTeam" : "Samsunspor",
   "awayTeam" : "Hamrun Spartans",
