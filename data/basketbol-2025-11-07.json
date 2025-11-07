@@ -45,8 +45,10 @@
   "homeTeam" : "Parma Permsk",
   "awayTeam" : "BK Uralmash Yekaterinburg",
   "picks" : [ "MS1 (1.42 - %92)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "87-88",
+  "statuses" : {
+    "MS1 (1.42 - %92)" : "lost"
+  }
 }, {
   "homeTeam" : "Anadolu Efes",
   "awayTeam" : "Olimpia Milano",
