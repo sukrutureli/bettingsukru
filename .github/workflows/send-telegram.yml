@@ -16,14 +16,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 2   # 🔹 diff alabilmek için en az 2 commit gerekli
+          fetch-depth: 2   # diff alabilmek için en az 2 commit gerekli
 
       - name: Detect changed HTML files
         id: detect
         run: |
           echo "🔍 Değişen veya yeni eklenen HTML dosyaları tespit ediliyor..."
           
-          # Değişiklikleri bul: son commit ile bir önceki commit arası fark
           CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '\.html$' || true)
 
           if [ -z "$CHANGED_FILES" ]; then
@@ -41,18 +40,32 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TZ: Europe/Istanbul   # 🔹 Tarih/saat Istanbul'a göre
+          TZ: Europe/Istanbul
         run: |
           while read FILE; do
             if [ -f "$FILE" ]; then
-              echo "📤 Gönderiliyor: $FILE"
+              BASENAME=$(basename "$FILE")
+
+              # 🔹 Emoji seçimi
+              if [[ "$BASENAME" == *"futbol"* ]]; then
+                ICON="⚽"
+              elif [[ "$BASENAME" == *"basketbol"* ]]; then
+                ICON="🏀"
+              elif [[ "$FILE" == data/* ]]; then
+                ICON="📊"
+              else
+                ICON="📁"
+              fi
+
+              CAPTION="$ICON $(basename "$FILE") - $(date +'%d.%m.%Y %H:%M')"
+
+              echo "📤 Gönderiliyor: $BASENAME ($ICON)"
               curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendDocument" \
                 -F chat_id="$TELEGRAM_CHAT_ID" \
                 -F document="@$FILE" \
-                -F caption="📊 $(basename "$FILE") - $(date +'%d.%m.%Y %H:%M') (İstanbul)"
+                -F caption="$CAPTION"
               echo "✅ Gönderildi: $FILE"
             else
-              echo "⚠️ Dosya bulunamadı (belki silinmiş): $FILE"
+              echo "⚠️ Dosya bulunamadı (silinmiş olabilir): $FILE"
             fi
           done < changed.txt
-
