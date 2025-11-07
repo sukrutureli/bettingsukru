@@ -49,10 +49,10 @@ jobs:
               # 🔹 Emoji seçimi
               if [[ "$BASENAME" == *"futbol"* ]]; then
                 ICON="⚽"
-              elif [[ "$BASENAME" == *"basketbol"* ]]; then
-                ICON="🏀"
               elif [[ "$FILE" == data/* ]]; then
                 ICON="📊"
+              elif [[ "$BASENAME" == *"basketbol"* ]]; then
+                ICON="🏀"
               else
                 ICON="📁"
               fi
