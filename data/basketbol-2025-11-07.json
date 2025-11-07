@@ -2,8 +2,11 @@
   "homeTeam" : "Atenas Cord",
   "awayTeam" : "La Union Formosa",
   "picks" : [ "MS2 (1.49 - %60)", "160.5 Alt (1.61 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "70-87",
+  "statuses" : {
+    "MS2 (1.49 - %60)" : "won",
+    "160.5 Alt (1.61 - %60)" : "won"
+  }
 }, {
   "homeTeam" : "Phoenix",
   "awayTeam" : "LA Clippers",

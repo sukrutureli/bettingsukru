@@ -2,8 +2,10 @@
   "homeTeam" : "Ceara CE",
   "awayTeam" : "Fortaleza CE",
   "picks" : [ "Alt (1.44 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Alt (1.44 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "Chador Malu Y.",
   "awayTeam" : "Aluminium A.",
