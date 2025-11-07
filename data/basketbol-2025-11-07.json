@@ -11,26 +11,36 @@
   "homeTeam" : "Phoenix",
   "awayTeam" : "LA Clippers",
   "picks" : [ "224.5 Üst (1.65 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "115-102",
+  "statuses" : {
+    "224.5 Üst (1.65 - %68)" : "lost"
+  }
 }, {
   "homeTeam" : "Cairns Taipans",
   "awayTeam" : "Illawarra Hawks",
   "picks" : [ "MS2 (1.28 - %68)", "182.5 Alt (1.63 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "90-107",
+  "statuses" : {
+    "MS2 (1.28 - %68)" : "won",
+    "182.5 Alt (1.63 - %64)" : "lost"
+  }
 }, {
   "homeTeam" : "Anyang KGC",
   "awayTeam" : "Seoul SK Knights",
   "picks" : [ "MS1 (1.31 - %74)", "148.5 Üst (1.61 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "66-68",
+  "statuses" : {
+    "MS1 (1.31 - %74)" : "lost",
+    "148.5 Üst (1.61 - %64)" : "lost"
+  }
 }, {
   "homeTeam" : "Tokyo Excellence",
   "awayTeam" : "Ehime O. V.",
   "picks" : [ "MS2 (1.2 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "77-90",
+  "statuses" : {
+    "MS2 (1.2 - %71)" : "won"
+  }
 }, {
   "homeTeam" : "Parma Permsk",
   "awayTeam" : "BK Uralmash Yekaterinburg",
