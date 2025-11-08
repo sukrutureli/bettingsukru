@@ -236,104 +236,140 @@
   "homeTeam" : "Gornik Walbrzych",
   "awayTeam" : "GTK Gliwice",
   "picks" : [ "162.5 Alt (1.62 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "90-81",
+  "statuses" : {
+    "162.5 Alt (1.62 - %64)" : "lost"
+  }
 }, {
   "homeTeam" : "Edirne DSİ (K)",
   "awayTeam" : "Fenerbahçe Gelişim (K)",
   "picks" : [ "MS2 (1.06 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "66-70",
+  "statuses" : {
+    "MS2 (1.06 - %55)" : "won"
+  }
 }, {
   "homeTeam" : "Instituto de Cordoba",
   "awayTeam" : "La Union Formosa",
   "picks" : [ "MS1 (1.1 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "71-83",
+  "statuses" : {
+    "MS1 (1.1 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "SC Jena",
   "awayTeam" : "Niners Chemnitz",
   "picks" : [ "171.5 Alt (1.67 - %59)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "85-72",
+  "statuses" : {
+    "171.5 Alt (1.67 - %59)" : "won"
+  }
 }, {
   "homeTeam" : "Uppsala",
   "awayTeam" : "Umea",
   "picks" : [ "170.5 Alt (1.63 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "95-80",
+  "statuses" : {
+    "170.5 Alt (1.63 - %56)" : "lost"
+  }
 }, {
   "homeTeam" : "Decin",
   "awayTeam" : "BK Opava",
   "picks" : [ "MS2 (1.22 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-75",
+  "statuses" : {
+    "MS2 (1.22 - %78)" : "lost"
+  }
 }, {
   "homeTeam" : "Atomeromu SE",
   "awayTeam" : "Duna Aszfalt",
   "picks" : [ "167.5 Üst (1.61 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "81-72",
+  "statuses" : {
+    "167.5 Üst (1.61 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "Ovarense",
   "awayTeam" : "Imortal BC",
   "picks" : [ "MS1 (1.11 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "72-71",
+  "statuses" : {
+    "MS1 (1.11 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "BK Inter Bratislava",
   "awayTeam" : "Prievidza",
   "picks" : [ "MS2 (2.36 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-84",
+  "statuses" : {
+    "MS2 (2.36 - %63)" : "won"
+  }
 }, {
   "homeTeam" : "Klosterneubu",
   "awayTeam" : "Kapfenberg",
   "picks" : [ "MS1 (1.34 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "86-80",
+  "statuses" : {
+    "MS1 (1.34 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "KK Sencur",
   "awayTeam" : "Zlatorog Lasko",
   "picks" : [ "175.5 Üst (1.65 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "110-72",
+  "statuses" : {
+    "175.5 Üst (1.65 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "UCAM Murcia",
   "awayTeam" : "Manresa",
   "picks" : [ "MS1 (1.13 - %86)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-65",
+  "statuses" : {
+    "MS1 (1.13 - %86)" : "won"
+  }
 }, {
   "homeTeam" : "Legnano Knights",
   "awayTeam" : "E. Vigevano",
   "picks" : [ "154.5 Üst (1.63 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "63-65",
+  "statuses" : {
+    "154.5 Üst (1.63 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "Asd Loreto Basket",
   "awayTeam" : "Andrea Imola",
   "picks" : [ "MS2 (1.44 - %68)", "145.5 Üst (1.61 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "67-72",
+  "statuses" : {
+    "MS2 (1.44 - %68)" : "won",
+    "145.5 Üst (1.61 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "F. Szombathely",
   "awayTeam" : "Szedeak",
   "picks" : [ "166.5 Alt (1.64 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "100-83",
+  "statuses" : {
+    "166.5 Alt (1.64 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "Kormend",
   "awayTeam" : "Alba Fehervar",
   "picks" : [ "187.5 Alt (1.62 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "108-96",
+  "statuses" : {
+    "187.5 Alt (1.62 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "Debreceni Eac",
   "awayTeam" : "NKA Universitas Pecs",
   "picks" : [ "MS1 (1.28 - %71)", "159.5 Üst (1.63 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "87-83",
+  "statuses" : {
+    "MS1 (1.28 - %71)" : "won",
+    "159.5 Üst (1.63 - %61)" : "won"
+  }
 }, {
   "homeTeam" : "MBK Handlova",
   "awayTeam" : "Komarno",
@@ -344,8 +380,10 @@
   "homeTeam" : "BK Iskra Svit",
   "awayTeam" : "BKM Lucenec",
   "picks" : [ "170.5 Alt (1.65 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "88-100",
+  "statuses" : {
+    "170.5 Alt (1.65 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "Obradoiro",
   "awayTeam" : "CB Tizona",
