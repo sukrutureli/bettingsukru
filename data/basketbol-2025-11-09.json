@@ -1,0 +1,259 @@
+[ {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Dallas",
+  "picks" : [ "233.5 Alt (1.67 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Toronto",
+  "picks" : [ "236.5 Alt (1.65 - %55)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Portland",
+  "picks" : [ "241.5 Alt (1.65 - %58)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "LA Lakers",
+  "picks" : [ "228.5 Üst (1.6 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Denver",
+  "awayTeam" : "Indiana",
+  "picks" : [ "234.5 Alt (1.65 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Fuerza Regia",
+  "awayTeam" : "D. R. Del Mexico",
+  "picks" : [ "MS1 (1.11 - %90)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "San En Neophoenix",
+  "awayTeam" : "R. G. K. Okinaw",
+  "picks" : [ "MS2 (1.05 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Kagoshima Rebnise",
+  "awayTeam" : "Yamagata Wyverns",
+  "picks" : [ "MS1 (1.1 - %88)", "160.5 Alt (1.63 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Fukushima",
+  "awayTeam" : "Fukui Blowwinds",
+  "picks" : [ "MS1 (1.3 - %90)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "KT Sonicboom",
+  "awayTeam" : "Goyang Orions",
+  "picks" : [ "MS1 (1.24 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Mobis Phoebus",
+  "awayTeam" : "Anyang KGC",
+  "picks" : [ "150.5 Üst (1.65 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sun Rockers Shibuya",
+  "awayTeam" : "Alvark Tokyo",
+  "picks" : [ "148.5 Üst (1.61 - %74)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Levanga Hokkaido",
+  "awayTeam" : "Shiga Lake Stars",
+  "picks" : [ "MS1 (1.26 - %85)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hiroshima Dr.",
+  "awayTeam" : "Utsunomiya Brex",
+  "picks" : [ "MS2 (1.37 - %71)", "166.5 Alt (1.65 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Iwate Big Bulls",
+  "awayTeam" : "Shinsh Brave",
+  "picks" : [ "MS2 (1.25 - %65)", "144.5 Üst (1.65 - %55)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sydney Kings",
+  "awayTeam" : "N. Z. Breakers",
+  "picks" : [ "180.5 Alt (1.6 - %61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Seahorses Mikawa",
+  "awayTeam" : "Sendai 89ers",
+  "picks" : [ "MS1 (1.17 - %81)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "F. Eagles Nagoya",
+  "awayTeam" : "Koshigaya Alphas",
+  "picks" : [ "151.5 Üst (1.63 - %56)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Chiba Jets",
+  "awayTeam" : "Sh. Susanoo",
+  "picks" : [ "157.5 Alt (1.63 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Força Lleida",
+  "awayTeam" : "Baskonia",
+  "picks" : [ "173.5 Alt (1.66 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Olympiakos",
+  "awayTeam" : "AS Karditsas",
+  "picks" : [ "163.5 Alt (1.61 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "B. Girona",
+  "awayTeam" : "Barcelona",
+  "picks" : [ "173.5 Alt (1.61 - %58)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "VL Pesaro",
+  "awayTeam" : "Basket Scafati 1969",
+  "picks" : [ "MS1 (1.24 - %81)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Rasta Vechta",
+  "awayTeam" : "Bayern Münih",
+  "picks" : [ "165.5 Üst (1.63 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "LTI Giessen",
+  "awayTeam" : "Giants Leverkusen",
+  "picks" : [ "161.5 Üst (1.62 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bayreuth",
+  "awayTeam" : "C. Merlins",
+  "picks" : [ "MS2 (1.18 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dziki Warshawa",
+  "awayTeam" : "Dabrowa Gorn.",
+  "picks" : [ "170.5 Alt (1.62 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Paderborn Baskets",
+  "awayTeam" : "Bremerhaven",
+  "picks" : [ "MS2 (1.16 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CB Granada",
+  "awayTeam" : "Valencia",
+  "picks" : [ "177.5 Alt (1.66 - %59)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "VFL Kirchheim Knights",
+  "awayTeam" : "Tigers Tubingen",
+  "picks" : [ "MS2 (1.41 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Artland Dragons",
+  "awayTeam" : "Phoenix Hagen",
+  "picks" : [ "MS2 (1.18 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sokol Pisek",
+  "awayTeam" : "BK Jip Pardubice",
+  "picks" : [ "175.5 Üst (1.66 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bakery Basket Piacenza",
+  "awayTeam" : "Orlandina",
+  "picks" : [ "MS2 (1.28 - %56)", "153.5 Üst (1.61 - %61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Club Melilla",
+  "awayTeam" : "Lucentum Alicante",
+  "picks" : [ "MS2 (1.36 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Zielona Gora",
+  "awayTeam" : "Legia Warsz.",
+  "picks" : [ "158.5 Alt (1.63 - %56)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bilbao Basket",
+  "awayTeam" : "Zaragoza",
+  "picks" : [ "172.5 Alt (1.6 - %55)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Derthona Basket",
+  "awayTeam" : "Varese",
+  "picks" : [ "174.5 Alt (1.66 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Fulgor Fidenza",
+  "awayTeam" : "Assigeco Piacenza",
+  "picks" : [ "MS2 (1.44 - %55)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Power Basket Nocera",
+  "awayTeam" : "Virtus Gvm Roma 1960",
+  "picks" : [ "MS2 (1.09 - %73)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Vicenza",
+  "awayTeam" : "Agrigento",
+  "picks" : [ "MS1 (1.16 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Estudiantes",
+  "awayTeam" : "Leyma Basquet Coruna",
+  "picks" : [ "170.5 Alt (1.63 - %55)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Limoges CSP",
+  "picks" : [ "175.5 Alt (1.65 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CP Esgueira",
+  "awayTeam" : "Vasco Da Gama",
+  "picks" : [ "MS1 (1.2 - %74)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
