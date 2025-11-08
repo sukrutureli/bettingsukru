@@ -2,38 +2,51 @@
   "homeTeam" : "Washington",
   "awayTeam" : "Cleveland",
   "picks" : [ "240.5 Alt (1.65 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "114-148",
+  "statuses" : {
+    "240.5 Alt (1.65 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "Orlando",
   "awayTeam" : "Boston",
   "picks" : [ "MS2 (1.97 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "123-110",
+  "statuses" : {
+    "MS2 (1.97 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "San Antonio",
   "awayTeam" : "Houston",
   "picks" : [ "MS2 (1.35 - %62)", "224.5 Üst (1.66 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "121-110",
+  "statuses" : {
+    "MS2 (1.35 - %62)" : "lost",
+    "224.5 Üst (1.66 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "Memphis",
   "awayTeam" : "Dallas",
   "picks" : [ "232.5 Alt (1.65 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "118-104",
+  "statuses" : {
+    "232.5 Alt (1.65 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "Ciclista Olimpico",
   "awayTeam" : "Union de Santa Fe",
   "picks" : [ "160.5 Alt (1.67 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "96-70",
+  "statuses" : {
+    "160.5 Alt (1.67 - %56)" : "lost"
+  }
 }, {
   "homeTeam" : "Fuerza Regia",
   "awayTeam" : "D. R. Del Mexico",
   "picks" : [ "MS1 (1.11 - %86)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "100-83",
+  "statuses" : {
+    "MS1 (1.11 - %86)" : "won"
+  }
 }, {
   "homeTeam" : "KT Sonicboom",
   "awayTeam" : "KCC Egis",

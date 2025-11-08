@@ -2,20 +2,26 @@
   "homeTeam" : "Athletic Club MG",
   "awayTeam" : "Ferroviaria",
   "picks" : [ "Var (1.69 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Var (1.69 - %64)" : "won"
+  }
 }, {
   "homeTeam" : "CD Cuenca",
   "awayTeam" : "CSD Macara",
   "picks" : [ "MS2 (3.45 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "MS2 (3.45 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Sydney Oly.",
   "awayTeam" : "Moreton City E.",
   "picks" : [ "Var (1.27 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-3",
+  "statuses" : {
+    "Var (1.27 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "Mazatlan",
   "awayTeam" : "Necaxa",
