@@ -832,72 +832,96 @@
   "homeTeam" : "Sunderland",
   "awayTeam" : "Arsenal",
   "picks" : [ "Alt (1.59 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Alt (1.59 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "Tenerife",
   "awayTeam" : "Ath Bilbao B",
   "picks" : [ "MS1 (1.43 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS1 (1.43 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "Volendam",
   "awayTeam" : "NAC Breda",
   "picks" : [ "Var (1.4 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Var (1.4 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "LKS Lodz",
   "awayTeam" : "Puszcza",
   "picks" : [ "Var (1.49 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-3",
+  "statuses" : {
+    "Var (1.49 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "Wieczysta Krakow",
   "awayTeam" : "Stal Rzeszow",
   "picks" : [ "Var (1.37 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Var (1.37 - %72)" : "won"
+  }
 }, {
   "homeTeam" : "Stal Mielec",
   "awayTeam" : "Pogon Siedl.",
   "picks" : [ "MS2 (2.34 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "MS2 (2.34 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "C. Brugge U23",
   "awayTeam" : "Lierse K.",
   "picks" : [ "Var (1.37 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Var (1.37 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "CODM Meknes",
   "awayTeam" : "US Yacoub Mansour",
   "picks" : [ "Alt (1.32 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.32 - %64)" : "won"
+  }
 }, {
   "homeTeam" : "Paredes",
   "awayTeam" : "SC Braga B",
   "picks" : [ "Alt (1.39 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Alt (1.39 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "Servette",
   "awayTeam" : "Thun",
   "picks" : [ "MS2 (2.87 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (2.87 - %62)" : "won"
+  }
 }, {
   "homeTeam" : "Antwerp",
   "awayTeam" : "RAAL La Louviere",
   "picks" : [ "Alt (1.5 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "Alt (1.5 - %85)" : "lost"
+  }
 }, {
   "homeTeam" : "Santa Clara",
   "awayTeam" : "Sporting CP",
   "picks" : [ "MS2 (1.25 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS2 (1.25 - %71)" : "won"
+  }
 } ]

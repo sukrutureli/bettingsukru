@@ -374,8 +374,10 @@
   "homeTeam" : "MBK Handlova",
   "awayTeam" : "Komarno",
   "picks" : [ "160.5 Üst (1.65 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "82-92",
+  "statuses" : {
+    "160.5 Üst (1.65 - %58)" : "won"
+  }
 }, {
   "homeTeam" : "BK Iskra Svit",
   "awayTeam" : "BKM Lucenec",
@@ -388,102 +390,137 @@
   "homeTeam" : "Obradoiro",
   "awayTeam" : "CB Tizona",
   "picks" : [ "174.5 Alt (1.59 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "93-68",
+  "statuses" : {
+    "174.5 Alt (1.59 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Fuenlabrada",
   "awayTeam" : "Oviedo",
   "picks" : [ "MS1 (1.07 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "71-92",
+  "statuses" : {
+    "MS1 (1.07 - %78)" : "lost"
+  }
 }, {
   "homeTeam" : "CB Breogan",
   "awayTeam" : "Gran Canaria",
   "picks" : [ "MS2 (1.72 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "81-92",
+  "statuses" : {
+    "MS2 (1.72 - %62)" : "won"
+  }
 }, {
   "homeTeam" : "Club Ourense",
   "awayTeam" : "Basket Cartagena",
   "picks" : [ "MS1 (1.15 - %90)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "91-65",
+  "statuses" : {
+    "MS1 (1.15 - %90)" : "won"
+  }
 }, {
   "homeTeam" : "Kosice Wolves",
   "awayTeam" : "Nitra Blue Wings",
   "picks" : [ "MS2 (1.12 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-93",
+  "statuses" : {
+    "MS2 (1.12 - %64)" : "won"
+  }
 }, {
   "homeTeam" : "Jamtland",
   "awayTeam" : "Sodertalje",
   "picks" : [ "173.5 Üst (1.66 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "101-89",
+  "statuses" : {
+    "173.5 Üst (1.66 - %56)" : "won"
+  }
 }, {
   "homeTeam" : "Innova Chef Cb Zamora",
   "awayTeam" : "CD Maristas Palencia",
   "picks" : [ "MS2 (1.11 - %55)", "168.5 Alt (1.65 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "77-102",
+  "statuses" : {
+    "MS2 (1.11 - %55)" : "won",
+    "168.5 Alt (1.65 - %57)" : "lost"
+  }
 }, {
   "homeTeam" : "Kk Rogaska",
   "awayTeam" : "Helios Suns",
   "picks" : [ "162.5 Üst (1.62 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "81-84",
+  "statuses" : {
+    "162.5 Üst (1.62 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Z. Leiden",
   "awayTeam" : "Donar Groningen",
   "picks" : [ "MS1 (1.11 - %89)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "101-72",
+  "statuses" : {
+    "MS1 (1.11 - %89)" : "won"
+  }
 }, {
   "homeTeam" : "Roche Vendee (K)",
   "awayTeam" : "ESB Villeneuve (K)",
   "picks" : [ "MS2 (1.08 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "70-73",
+  "statuses" : {
+    "MS2 (1.08 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "Charnay Basket (K)",
   "awayTeam" : "Lattes Montp (K)",
   "picks" : [ "142.5 Üst (1.63 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "50-68",
+  "statuses" : {
+    "142.5 Üst (1.63 - %65)" : "lost"
+  }
 }, {
   "homeTeam" : "UF Angers Basket (K)",
   "awayTeam" : "SAS Toulouse (K)",
   "picks" : [ "MS1 (1.05 - %83)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-60",
+  "statuses" : {
+    "MS1 (1.05 - %83)" : "won"
+  }
 }, {
   "homeTeam" : "Gravelines",
   "awayTeam" : "Asvel Vil.",
   "picks" : [ "168.5 Alt (1.62 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "62-83",
+  "statuses" : {
+    "168.5 Alt (1.62 - %63)" : "won"
+  }
 }, {
   "homeTeam" : "Leuven Bears",
   "awayTeam" : "Excels Brus",
   "picks" : [ "167.5 Alt (1.6 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "83-88",
+  "statuses" : {
+    "167.5 Alt (1.6 - %73)" : "lost"
+  }
 }, {
   "homeTeam" : "Andorra",
   "awayTeam" : "Unicaja Malaga",
   "picks" : [ "MS2 (1.11 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "98-74",
+  "statuses" : {
+    "MS2 (1.11 - %78)" : "lost"
+  }
 }, {
   "homeTeam" : "Juvecaserta 2021",
   "awayTeam" : "Latina",
   "picks" : [ "155.5 Alt (1.61 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-73",
+  "statuses" : {
+    "155.5 Alt (1.61 - %57)" : "won"
+  }
 }, {
   "homeTeam" : "Dany Basket Quarrata",
   "awayTeam" : "Rekico Faenza",
   "picks" : [ "MS2 (1.37 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "79-71",
+  "statuses" : {
+    "MS2 (1.37 - %65)" : "lost"
+  }
 } ]
