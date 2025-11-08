@@ -26,92 +26,122 @@
   "homeTeam" : "Mazatlan",
   "awayTeam" : "Necaxa",
   "picks" : [ "Var (1.35 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (1.35 - %75)" : "won"
+  }
 }, {
   "homeTeam" : "Gyeongju",
   "awayTeam" : "Ulsan Citizen",
   "picks" : [ "Alt (1.47 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Alt (1.47 - %74)" : "lost"
+  }
 }, {
   "homeTeam" : "Siheung Citi.",
   "awayTeam" : "Paju Citizen",
   "picks" : [ "Alt (1.52 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Alt (1.52 - %81)" : "won"
+  }
 }, {
   "homeTeam" : "Kashima",
   "awayTeam" : "Yokohama",
   "picks" : [ "MS1 (1.49 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.49 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "Tokyo Verdy",
   "awayTeam" : "Fukuoka",
   "picks" : [ "Alt (1.23 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.23 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "Tochigi City",
   "awayTeam" : "Kamatamare S.",
   "picks" : [ "MS1 (1.27 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS1 (1.27 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "Liaoning S.",
   "awayTeam" : "Foshan Nanshi",
   "picks" : [ "MS1 (1.12 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-0",
+  "statuses" : {
+    "MS1 (1.12 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Suzhou Jinfu",
   "awayTeam" : "Jiangxi Dingnan Utd.",
   "picks" : [ "Alt (1.37 - %82)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.37 - %82)" : "won"
+  }
 }, {
   "homeTeam" : "Arema",
   "awayTeam" : "Persija Jakarta",
   "picks" : [ "Var (1.49 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Var (1.49 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Parnu JK Vap",
   "awayTeam" : "Flora T.",
   "picks" : [ "MS2 (1.13 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-3",
+  "statuses" : {
+    "MS2 (1.13 - %69)" : "won"
+  }
 }, {
   "homeTeam" : "Mes Sungun Varzaghan",
   "awayTeam" : "Besat Kermanshah",
   "picks" : [ "Yok (1.33 - %80)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Yok (1.33 - %80)" : "won"
+  }
 }, {
   "homeTeam" : "Shahrdari Noshahr",
   "awayTeam" : "Palayesh Naft B. A.",
   "picks" : [ "Alt (1.17 - %84)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Alt (1.17 - %84)" : "won"
+  }
 }, {
   "homeTeam" : "Metalist 1925",
   "awayTeam" : "Zorya Luhansk",
   "picks" : [ "Alt (1.37 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-3",
+  "statuses" : {
+    "Alt (1.37 - %81)" : "lost"
+  }
 }, {
   "homeTeam" : "Ario Eslamshahr",
   "awayTeam" : "N. Zamini Tehran",
   "picks" : [ "Alt (1.13 - %84)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.13 - %84)" : "won"
+  }
 }, {
   "homeTeam" : "Fard",
   "awayTeam" : "Navad Urmia",
   "picks" : [ "Alt (1.14 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.14 - %85)" : "won"
+  }
 }, {
   "homeTeam" : "Mes Shahr e B.",
   "awayTeam" : "Damash Gilan",
@@ -122,236 +152,314 @@
   "homeTeam" : "A. Bielefeld",
   "awayTeam" : "Karlsruhe",
   "picks" : [ "Var (1.33 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "Var (1.33 - %75)" : "lost"
+  }
 }, {
   "homeTeam" : "Fulham U21",
   "awayTeam" : "Tottenham U21",
   "picks" : [ "Var (1.14 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (1.14 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "Banik Lehota Pod",
   "awayTeam" : "Liptovsky Mikulas",
   "picks" : [ "Var (1.43 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Var (1.43 - %77)" : "won"
+  }
 }, {
   "homeTeam" : "Uthai Thani",
   "awayTeam" : "Muang Thong Utd",
   "picks" : [ "Var (1.39 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "Var (1.39 - %56)" : "won"
+  }
 }, {
   "homeTeam" : "AL Mabarrah",
   "awayTeam" : "AL Tadamon Sour",
   "picks" : [ "Alt (1.52 - %82)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-3",
+  "statuses" : {
+    "Alt (1.52 - %82)" : "lost"
+  }
 }, {
   "homeTeam" : "Hull City",
   "awayTeam" : "Portsmouth",
   "picks" : [ "MS1 (1.88 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-2",
+  "statuses" : {
+    "MS1 (1.88 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Colchester",
   "awayTeam" : "Bromley",
   "picks" : [ "Var (1.48 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Var (1.48 - %78)" : "lost"
+  }
 }, {
   "homeTeam" : "Aldershot",
   "awayTeam" : "Forest Green",
   "picks" : [ "Var (1.39 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "Var (1.39 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "AL Orubah",
   "awayTeam" : "AL Ula",
   "picks" : [ "Var (1.54 - %84)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Var (1.54 - %84)" : "lost"
+  }
 }, {
   "homeTeam" : "Schweinfurt",
   "awayTeam" : "Hoffenheim II",
   "picks" : [ "MS2 (1.47 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS2 (1.47 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "Ingolstadt",
   "awayTeam" : "Weiss Essen",
   "picks" : [ "Var (1.29 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Var (1.29 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "Bocholt",
   "awayTeam" : "M'Gladbach II",
   "picks" : [ "Var (1.31 - %75)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Var (1.31 - %75)" : "lost"
+  }
 }, {
   "homeTeam" : "Bayern Münih II",
   "awayTeam" : "V. Aschaffen.",
   "picks" : [ "Var (1.44 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-1",
+  "statuses" : {
+    "Var (1.44 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "Hankofen Hailing",
   "awayTeam" : "Nürnberg (Amt)",
   "picks" : [ "MS2 (1.21 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "MS2 (1.21 - %74)" : "won"
+  }
 }, {
   "homeTeam" : "TSV S. Augsburg",
   "awayTeam" : "Illertissen",
   "picks" : [ "MS2 (1.58 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS2 (1.58 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "Barockstadt",
   "awayTeam" : "Grossaspach",
   "picks" : [ "Var (1.24 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Var (1.24 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "B. Alzenau",
   "awayTeam" : "Homburg Saar",
   "picks" : [ "MS2 (1.24 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (1.24 - %72)" : "lost"
+  }
 }, {
   "homeTeam" : "Sandhausen",
   "awayTeam" : "SGV Freiberg",
   "picks" : [ "Var (1.19 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Var (1.19 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "FA 2000",
   "awayTeam" : "Sundby BK",
   "picks" : [ "MS1 (1.44 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.44 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "NK Dubrava",
   "awayTeam" : "NK Dugopolje",
   "picks" : [ "Alt (1.37 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.37 - %78)" : "won"
+  }
 }, {
   "homeTeam" : "CD Teruel",
   "awayTeam" : "Cartagena",
   "picks" : [ "Alt (1.25 - %78)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.25 - %78)" : "lost"
+  }
 }, {
   "homeTeam" : "FK Panevezys",
   "awayTeam" : "Zalgiris Vilnius",
   "picks" : [ "MS2 (1.44 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS2 (1.44 - %62)" : "lost"
+  }
 }, {
   "homeTeam" : "Siauliai",
   "awayTeam" : "Dziugas",
   "picks" : [ "Var (1.46 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Var (1.46 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "NK Krsko",
   "awayTeam" : "Nd Dravinja",
   "picks" : [ "MS2 (1.67 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS2 (1.67 - %64)" : "lost"
+  }
 }, {
   "homeTeam" : "Schwarz Weiss B.",
   "awayTeam" : "Aus. Lustenau",
   "picks" : [ "Alt (1.85 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.85 - %79)" : "lost"
+  }
 }, {
   "homeTeam" : "USM Khenchela",
   "awayTeam" : "ES Mostaganem",
   "picks" : [ "Alt (1.17 - %83)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.17 - %83)" : "won"
+  }
 }, {
   "homeTeam" : "AC Renate",
   "awayTeam" : "Virt. Verona",
   "picks" : [ "Alt (1.42 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.42 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "CA Bizertin",
   "awayTeam" : "Etoile Sahel",
   "picks" : [ "Alt (1.24 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Alt (1.24 - %81)" : "won"
+  }
 }, {
   "homeTeam" : "AS Gabes",
   "awayTeam" : "AS Soliman",
   "picks" : [ "Alt (1.18 - %79)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Alt (1.18 - %79)" : "won"
+  }
 }, {
   "homeTeam" : "D. Minsk",
   "awayTeam" : "A. Dzerzhinsk",
   "picks" : [ "MS1 (1.29 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS1 (1.29 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Carmarthen",
   "awayTeam" : "Trethomas Bluebirds",
   "picks" : [ "MS1 (1.42 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS1 (1.42 - %73)" : "lost"
+  }
 }, {
   "homeTeam" : "Llantwit Major",
   "awayTeam" : "Newport City",
   "picks" : [ "Alt (1.65 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Alt (1.65 - %57)" : "lost"
+  }
 }, {
   "homeTeam" : "Brentford U21",
   "awayTeam" : "Watford U21",
   "picks" : [ "Var (1.28 - %80)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "Var (1.28 - %80)" : "lost"
+  }
 }, {
   "homeTeam" : "Vasteraas",
   "awayTeam" : "Varbergs",
   "picks" : [ "MS1 (1.27 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-1",
+  "statuses" : {
+    "MS1 (1.27 - %77)" : "won"
+  }
 }, {
   "homeTeam" : "Utsiktens",
   "awayTeam" : "Umea",
   "picks" : [ "Var (1.36 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-4",
+  "statuses" : {
+    "Var (1.36 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Trelleborgs",
   "awayTeam" : "Orebro SK",
   "picks" : [ "Var (1.45 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (1.45 - %58)" : "won"
+  }
 }, {
   "homeTeam" : "Husqvarna",
   "awayTeam" : "Rosengaard",
   "picks" : [ "MS1 (1.59 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-0",
+  "statuses" : {
+    "MS1 (1.59 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Paradiso",
   "awayTeam" : "Kriens",
   "picks" : [ "MS2 (1.57 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "MS2 (1.57 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "NK Aluminij K.",
   "awayTeam" : "NK Domzale",
   "picks" : [ "Var (1.39 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "Var (1.39 - %71)" : "won"
+  }
 }, {
   "homeTeam" : "Union Berlin",
   "awayTeam" : "Bayern Münih",
