@@ -286,21 +286,25 @@
   "homeTeam" : "Bilbao Basket",
   "awayTeam" : "Zaragoza",
   "picks" : [ "172.5 Alt (1.6 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "106-75",
+  "statuses" : {
+    "172.5 Alt (1.6 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "Derthona Basket",
   "awayTeam" : "Varese",
   "picks" : [ "174.5 Alt (1.66 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "90-87",
+  "statuses" : {
+    "174.5 Alt (1.66 - %60)" : "lost"
+  }
 }, {
   "homeTeam" : "Fulgor Fidenza",
   "awayTeam" : "Assigeco Piacenza",
   "picks" : [ "MS2 (1.44 - %55)" ],
-  "score" : "68-68",
+  "score" : "72-76",
   "statuses" : {
-    "MS2 (1.44 - %55)" : "lost"
+    "MS2 (1.44 - %55)" : "won"
   }
 }, {
   "homeTeam" : "Power Basket Nocera",
@@ -322,18 +326,24 @@
   "homeTeam" : "Estudiantes",
   "awayTeam" : "Leyma Basquet Coruna",
   "picks" : [ "170.5 Alt (1.63 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "87-92",
+  "statuses" : {
+    "170.5 Alt (1.63 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "Paris",
   "awayTeam" : "Limoges CSP",
   "picks" : [ "175.5 Alt (1.65 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "115-93",
+  "statuses" : {
+    "175.5 Alt (1.65 - %60)" : "lost"
+  }
 }, {
   "homeTeam" : "CP Esgueira",
   "awayTeam" : "Vasco Da Gama",
   "picks" : [ "MS1 (1.2 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "107-103",
+  "statuses" : {
+    "MS1 (1.2 - %74)" : "won"
+  }
 } ]
