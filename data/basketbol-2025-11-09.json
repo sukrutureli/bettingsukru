@@ -213,58 +213,75 @@
   "homeTeam" : "Dziki Warshawa",
   "awayTeam" : "Dabrowa Gorn.",
   "picks" : [ "170.5 Alt (1.62 - %66)" ],
-  "score" : "85-85",
+  "score" : "96-93",
   "statuses" : {
-    "170.5 Alt (1.62 - %66)" : "won"
+    "170.5 Alt (1.62 - %66)" : "lost"
   }
 }, {
   "homeTeam" : "Paderborn Baskets",
   "awayTeam" : "Bremerhaven",
   "picks" : [ "MS2 (1.16 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "69-91",
+  "statuses" : {
+    "MS2 (1.16 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "CB Granada",
   "awayTeam" : "Valencia",
   "picks" : [ "177.5 Alt (1.66 - %59)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "85-79",
+  "statuses" : {
+    "177.5 Alt (1.66 - %59)" : "won"
+  }
 }, {
   "homeTeam" : "VFL Kirchheim Knights",
   "awayTeam" : "Tigers Tubingen",
   "picks" : [ "MS2 (1.41 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "83-62",
+  "statuses" : {
+    "MS2 (1.41 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "Artland Dragons",
   "awayTeam" : "Phoenix Hagen",
   "picks" : [ "MS2 (1.18 - %72)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "110-109",
+  "statuses" : {
+    "MS2 (1.18 - %72)" : "lost"
+  }
 }, {
   "homeTeam" : "Sokol Pisek",
   "awayTeam" : "BK Jip Pardubice",
   "picks" : [ "175.5 Üst (1.66 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "87-78",
+  "statuses" : {
+    "175.5 Üst (1.66 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "Bakery Basket Piacenza",
   "awayTeam" : "Orlandina",
   "picks" : [ "MS2 (1.28 - %56)", "153.5 Üst (1.61 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "64-95",
+  "statuses" : {
+    "MS2 (1.28 - %56)" : "won",
+    "153.5 Üst (1.61 - %61)" : "won"
+  }
 }, {
   "homeTeam" : "Club Melilla",
   "awayTeam" : "Lucentum Alicante",
   "picks" : [ "MS2 (1.36 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "79-90",
+  "statuses" : {
+    "MS2 (1.36 - %63)" : "won"
+  }
 }, {
   "homeTeam" : "Zielona Gora",
   "awayTeam" : "Legia Warsz.",
   "picks" : [ "158.5 Alt (1.63 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "71-88",
+  "statuses" : {
+    "158.5 Alt (1.63 - %56)" : "lost"
+  }
 }, {
   "homeTeam" : "Bilbao Basket",
   "awayTeam" : "Zaragoza",
@@ -281,20 +298,26 @@
   "homeTeam" : "Fulgor Fidenza",
   "awayTeam" : "Assigeco Piacenza",
   "picks" : [ "MS2 (1.44 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "68-68",
+  "statuses" : {
+    "MS2 (1.44 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "Power Basket Nocera",
   "awayTeam" : "Virtus Gvm Roma 1960",
   "picks" : [ "MS2 (1.09 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "74-79",
+  "statuses" : {
+    "MS2 (1.09 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "Vicenza",
   "awayTeam" : "Agrigento",
   "picks" : [ "MS1 (1.16 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "83-79",
+  "statuses" : {
+    "MS1 (1.16 - %70)" : "won"
+  }
 }, {
   "homeTeam" : "Estudiantes",
   "awayTeam" : "Leyma Basquet Coruna",
