@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "Crb Al",
+  "awayTeam" : "Operario",
+  "picks" : [ "MS1 (1.47 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CA Sarmiento",
+  "awayTeam" : "Instituto",
+  "picks" : [ "Alt (1.21 - %85)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Cobresal",
+  "awayTeam" : "Everton DV",
+  "picks" : [ "MS1 (1.74 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Fortaleza CE",
+  "awayTeam" : "Gremio P.",
+  "picks" : [ "Alt (1.6 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Atl Tucuman",
+  "awayTeam" : "Godoy Cruz",
+  "picks" : [ "Alt (1.35 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CA Tigre",
+  "awayTeam" : "Estudiantes",
+  "picks" : [ "Alt (1.2 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Nam Dinh",
+  "awayTeam" : "Ha Noi",
+  "picks" : [ "MS2 (2.57 - %60)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Esbjerg",
+  "awayTeam" : "Middelfart",
+  "picks" : [ "MS1 (1.51 - %66)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "St Ives Town",
+  "awayTeam" : "Banbury Utd",
+  "picks" : [ "MS1 (2.1 - %54)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Chelmsford C.",
+  "awayTeam" : "Hornchurch",
+  "picks" : [ "Var (1.51 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
