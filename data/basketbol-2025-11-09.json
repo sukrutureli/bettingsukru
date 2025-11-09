@@ -34,140 +34,189 @@
   "homeTeam" : "Denver",
   "awayTeam" : "Indiana",
   "picks" : [ "234.5 Alt (1.65 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "117-100",
+  "statuses" : {
+    "234.5 Alt (1.65 - %62)" : "won"
+  }
 }, {
   "homeTeam" : "Fuerza Regia",
   "awayTeam" : "D. R. Del Mexico",
   "picks" : [ "MS1 (1.11 - %90)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-90",
+  "statuses" : {
+    "MS1 (1.11 - %90)" : "lost"
+  }
 }, {
   "homeTeam" : "San En Neophoenix",
   "awayTeam" : "R. G. K. Okinaw",
   "picks" : [ "MS2 (1.05 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "83-81",
+  "statuses" : {
+    "MS2 (1.05 - %66)" : "lost"
+  }
 }, {
   "homeTeam" : "Kagoshima Rebnise",
   "awayTeam" : "Yamagata Wyverns",
   "picks" : [ "MS1 (1.1 - %88)", "160.5 Alt (1.63 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "82-84",
+  "statuses" : {
+    "MS1 (1.1 - %88)" : "lost",
+    "160.5 Alt (1.63 - %64)" : "lost"
+  }
 }, {
   "homeTeam" : "Fukushima",
   "awayTeam" : "Fukui Blowwinds",
   "picks" : [ "MS1 (1.3 - %90)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "87-84",
+  "statuses" : {
+    "MS1 (1.3 - %90)" : "won"
+  }
 }, {
   "homeTeam" : "KT Sonicboom",
   "awayTeam" : "Goyang Orions",
   "picks" : [ "MS1 (1.24 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "63-85",
+  "statuses" : {
+    "MS1 (1.24 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "Mobis Phoebus",
   "awayTeam" : "Anyang KGC",
   "picks" : [ "150.5 Üst (1.65 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "50-76",
+  "statuses" : {
+    "150.5 Üst (1.65 - %62)" : "lost"
+  }
 }, {
   "homeTeam" : "Sun Rockers Shibuya",
   "awayTeam" : "Alvark Tokyo",
   "picks" : [ "148.5 Üst (1.61 - %74)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "90-91",
+  "statuses" : {
+    "148.5 Üst (1.61 - %74)" : "won"
+  }
 }, {
   "homeTeam" : "Levanga Hokkaido",
   "awayTeam" : "Shiga Lake Stars",
   "picks" : [ "MS1 (1.26 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "108-99",
+  "statuses" : {
+    "MS1 (1.26 - %85)" : "won"
+  }
 }, {
   "homeTeam" : "Hiroshima Dr.",
   "awayTeam" : "Utsunomiya Brex",
   "picks" : [ "MS2 (1.37 - %71)", "166.5 Alt (1.65 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "103-76",
+  "statuses" : {
+    "MS2 (1.37 - %71)" : "lost",
+    "166.5 Alt (1.65 - %64)" : "lost"
+  }
 }, {
   "homeTeam" : "Iwate Big Bulls",
   "awayTeam" : "Shinsh Brave",
   "picks" : [ "MS2 (1.25 - %65)", "144.5 Üst (1.65 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "70-65",
+  "statuses" : {
+    "MS2 (1.25 - %65)" : "lost",
+    "144.5 Üst (1.65 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "Sydney Kings",
   "awayTeam" : "N. Z. Breakers",
   "picks" : [ "180.5 Alt (1.6 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "79-72",
+  "statuses" : {
+    "180.5 Alt (1.6 - %61)" : "won"
+  }
 }, {
   "homeTeam" : "Seahorses Mikawa",
   "awayTeam" : "Sendai 89ers",
   "picks" : [ "MS1 (1.17 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "101-72",
+  "statuses" : {
+    "MS1 (1.17 - %81)" : "won"
+  }
 }, {
   "homeTeam" : "F. Eagles Nagoya",
   "awayTeam" : "Koshigaya Alphas",
   "picks" : [ "151.5 Üst (1.63 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "64-82",
+  "statuses" : {
+    "151.5 Üst (1.63 - %56)" : "lost"
+  }
 }, {
   "homeTeam" : "Chiba Jets",
   "awayTeam" : "Sh. Susanoo",
   "picks" : [ "157.5 Alt (1.63 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "96-82",
+  "statuses" : {
+    "157.5 Alt (1.63 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "Força Lleida",
   "awayTeam" : "Baskonia",
   "picks" : [ "173.5 Alt (1.66 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "86-80",
+  "statuses" : {
+    "173.5 Alt (1.66 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Olympiakos",
   "awayTeam" : "AS Karditsas",
   "picks" : [ "163.5 Alt (1.61 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "102-82",
+  "statuses" : {
+    "163.5 Alt (1.61 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "B. Girona",
   "awayTeam" : "Barcelona",
   "picks" : [ "173.5 Alt (1.61 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "96-78",
+  "statuses" : {
+    "173.5 Alt (1.61 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "VL Pesaro",
   "awayTeam" : "Basket Scafati 1969",
   "picks" : [ "MS1 (1.24 - %81)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "71-69",
+  "statuses" : {
+    "MS1 (1.24 - %81)" : "won"
+  }
 }, {
   "homeTeam" : "Rasta Vechta",
   "awayTeam" : "Bayern Münih",
   "picks" : [ "165.5 Üst (1.63 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "74-77",
+  "statuses" : {
+    "165.5 Üst (1.63 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "LTI Giessen",
   "awayTeam" : "Giants Leverkusen",
   "picks" : [ "161.5 Üst (1.62 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "97-71",
+  "statuses" : {
+    "161.5 Üst (1.62 - %62)" : "won"
+  }
 }, {
   "homeTeam" : "Bayreuth",
   "awayTeam" : "C. Merlins",
   "picks" : [ "MS2 (1.18 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "63-79",
+  "statuses" : {
+    "MS2 (1.18 - %62)" : "won"
+  }
 }, {
   "homeTeam" : "Dziki Warshawa",
   "awayTeam" : "Dabrowa Gorn.",
   "picks" : [ "170.5 Alt (1.62 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "85-85",
+  "statuses" : {
+    "170.5 Alt (1.62 - %66)" : "won"
+  }
 }, {
   "homeTeam" : "Paderborn Baskets",
   "awayTeam" : "Bremerhaven",
