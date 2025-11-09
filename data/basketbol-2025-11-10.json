@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "Boston",
+  "picks" : [ "227.5 Üst (1.62 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Brooklyn",
+  "picks" : [ "227.5 Üst (1.66 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Racing de Chivilcoy",
+  "awayTeam" : "CA Platense",
+  "picks" : [ "MS1 (1.24 - %80)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Gimnasia",
+  "awayTeam" : "Regatas Corrientes",
+  "picks" : [ "150.5 Alt (1.61 - %69)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Quimsa S.",
+  "awayTeam" : "Union de Santa Fe",
+  "picks" : [ "164.5 Alt (1.64 - %62)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "LG Sakers",
+  "awayTeam" : "KCC Egis",
+  "picks" : [ "149.5 Üst (1.63 - %57)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Seahorses Mikawa",
+  "awayTeam" : "Sendai 89ers",
+  "picks" : [ "MS1 (1.07 - %89)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "KK Podcetrtek",
+  "awayTeam" : "KK Triglav Kranj",
+  "picks" : [ "163.5 Alt (1.64 - %55)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
