@@ -2,26 +2,34 @@
   "homeTeam" : "Washington",
   "awayTeam" : "Dallas",
   "picks" : [ "233.5 Alt (1.67 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "105-111",
+  "statuses" : {
+    "233.5 Alt (1.67 - %71)" : "won"
+  }
 }, {
   "homeTeam" : "Philadelphia",
   "awayTeam" : "Toronto",
   "picks" : [ "236.5 Alt (1.65 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "130-120",
+  "statuses" : {
+    "236.5 Alt (1.65 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "Miami",
   "awayTeam" : "Portland",
   "picks" : [ "241.5 Alt (1.65 - %58)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "136-131",
+  "statuses" : {
+    "241.5 Alt (1.65 - %58)" : "lost"
+  }
 }, {
   "homeTeam" : "Atlanta",
   "awayTeam" : "LA Lakers",
   "picks" : [ "228.5 Üst (1.6 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "122-102",
+  "statuses" : {
+    "228.5 Üst (1.6 - %67)" : "lost"
+  }
 }, {
   "homeTeam" : "Denver",
   "awayTeam" : "Indiana",

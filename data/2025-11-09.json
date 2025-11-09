@@ -2,44 +2,58 @@
   "homeTeam" : "Independiente D.",
   "awayTeam" : "Uni. Catolica",
   "picks" : [ "Var (1.49 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Var (1.49 - %76)" : "lost"
+  }
 }, {
   "homeTeam" : "Olancho",
   "awayTeam" : "Lobos Upnfm",
   "picks" : [ "Var (1.49 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (1.49 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "O'Higgins",
   "awayTeam" : "Nublense",
   "picks" : [ "MS1 (1.57 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-2",
+  "statuses" : {
+    "MS1 (1.57 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "Pittsburgh R.",
   "awayTeam" : "Detroit City",
   "picks" : [ "Alt (1.36 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.36 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "Inter Miami",
   "awayTeam" : "Nashville SC",
   "picks" : [ "Var (1.33 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "Var (1.33 - %85)" : "lost"
+  }
 }, {
   "homeTeam" : "Angel Firpo",
   "awayTeam" : "CD Fas",
   "picks" : [ "Var (1.55 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "Var (1.55 - %76)" : "won"
+  }
 }, {
   "homeTeam" : "CA Bucaramanga",
   "awayTeam" : "CD La Equidad",
   "picks" : [ "MS1 (1.13 - %73)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "MS1 (1.13 - %73)" : "won"
+  }
 }, {
   "homeTeam" : "Preston Lions",
   "awayTeam" : "Canberra",
