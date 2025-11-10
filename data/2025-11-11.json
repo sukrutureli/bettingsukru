@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "Botafogo",
+  "awayTeam" : "Amazonas",
+  "picks" : [ "Alt (1.33 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CA Tembetary",
+  "awayTeam" : "N. Asuncion",
+  "picks" : [ "Alt (1.56 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Argentinos J.",
+  "awayTeam" : "Belgrano",
+  "picks" : [ "Alt (1.44 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "I. Medellin",
+  "awayTeam" : "Envigado",
+  "picks" : [ "MS1 (1.31 - %76)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Barnsley",
+  "awayTeam" : "Lincoln City",
+  "picks" : [ "Üst (1.54 - %61)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Doncaster",
+  "awayTeam" : "Bradford",
+  "picks" : [ "Var (1.44 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bamber Bridge",
+  "awayTeam" : "G'borough Tr.",
+  "picks" : [ "Alt (1.54 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Horsham",
+  "awayTeam" : "Hampton & Richmond",
+  "picks" : [ "MS1 (1.52 - %77)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Worthing",
+  "awayTeam" : "AFC Totton",
+  "picks" : [ "Üst (1.43 - %80)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Marine",
+  "awayTeam" : "Telford Utd",
+  "picks" : [ "Var (1.5 - %70)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
