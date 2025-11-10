@@ -1,61 +1,19 @@
 [ {
-  "homeTeam" : "Crb Al",
-  "awayTeam" : "Operario",
-  "picks" : [ "MS1 (1.47 - %62)" ],
-  "score" : "2-2",
-  "statuses" : {
-    "MS1 (1.47 - %62)" : "lost"
-  }
+  "homeTeam" : "Cong An Nhan Dan",
+  "awayTeam" : "Hong Linh",
+  "picks" : [ "Alt (2.08 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
 }, {
-  "homeTeam" : "CA Sarmiento",
-  "awayTeam" : "Instituto",
-  "picks" : [ "Alt (1.21 - %85)" ],
-  "score" : "2-1",
-  "statuses" : {
-    "Alt (1.21 - %85)" : "lost"
-  }
-}, {
-  "homeTeam" : "Cobresal",
-  "awayTeam" : "Everton DV",
-  "picks" : [ "MS1 (1.74 - %69)" ],
-  "score" : "1-2",
-  "statuses" : {
-    "MS1 (1.74 - %69)" : "lost"
-  }
-}, {
-  "homeTeam" : "Fortaleza CE",
-  "awayTeam" : "Gremio P.",
-  "picks" : [ "Alt (1.6 - %70)" ],
-  "score" : "2-2",
-  "statuses" : {
-    "Alt (1.6 - %70)" : "lost"
-  }
-}, {
-  "homeTeam" : "Atl Tucuman",
-  "awayTeam" : "Godoy Cruz",
-  "picks" : [ "Alt (1.35 - %71)" ],
-  "score" : "2-1",
-  "statuses" : {
-    "Alt (1.35 - %71)" : "lost"
-  }
-}, {
-  "homeTeam" : "CA Tigre",
-  "awayTeam" : "Estudiantes",
-  "picks" : [ "Alt (1.2 - %68)" ],
-  "score" : "1-0",
-  "statuses" : {
-    "Alt (1.2 - %68)" : "won"
-  }
-}, {
-  "homeTeam" : "Nam Dinh",
-  "awayTeam" : "Ha Noi",
-  "picks" : [ "MS2 (2.57 - %60)" ],
+  "homeTeam" : "Js Omrane",
+  "awayTeam" : "Olympique B.",
+  "picks" : [ "Yok (1.2 - %56)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "Esbjerg",
   "awayTeam" : "Middelfart",
-  "picks" : [ "MS1 (1.51 - %66)" ],
+  "picks" : [ "MS1 (1.49 - %66)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -67,7 +25,19 @@
 }, {
   "homeTeam" : "Chelmsford C.",
   "awayTeam" : "Hornchurch",
-  "picks" : [ "Var (1.51 - %72)" ],
+  "picks" : [ "Var (1.53 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "S. Ameliano",
+  "awayTeam" : "CS 2 de Mayo",
+  "picks" : [ "Alt (1.44 - %67)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "A. Deportiva Tarm",
+  "awayTeam" : "CD Los Chankas",
+  "picks" : [ "Alt (1.84 - %72)" ],
   "score" : "-",
   "statuses" : { }
 } ]
