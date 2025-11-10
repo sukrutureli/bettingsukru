@@ -1,0 +1,97 @@
+[ {
+  "homeTeam" : "Bigua de Villa Biarritz",
+  "awayTeam" : "Club Un. At",
+  "picks" : [ "MS1 (1.32 - %65)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Cleveland",
+  "picks" : [ "247.5 Alt (1.63 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Milwaukee",
+  "picks" : [ "230.5 Alt (1.61 - %56)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "Atlanta",
+  "picks" : [ "220.5 Üst (1.62 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Polzela",
+  "awayTeam" : "Kk Krka",
+  "picks" : [ "167.5 Alt (1.59 - %55)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "Szolnoki Olaj Kk",
+  "picks" : [ "157.5 Üst (1.64 - %72)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Slask Wroclaw",
+  "awayTeam" : "Hamburg Towers",
+  "picks" : [ "172.5 Alt (1.63 - %56)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Aris",
+  "awayTeam" : "Bahçeşehir Koleji",
+  "picks" : [ "165.5 Alt (1.64 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Boulazac Dord.",
+  "awayTeam" : "Gravelines",
+  "picks" : [ "166.5 Alt (1.63 - %59)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Donar Groningen",
+  "awayTeam" : "Leuven Bears",
+  "picks" : [ "161.5 Üst (1.66 - %56)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "M. Tel Aviv",
+  "picks" : [ "170.5 Üst (1.6 - %68)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dijon Basket",
+  "awayTeam" : "Cibona Zagreb",
+  "picks" : [ "163.5 Alt (1.63 - %59)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hap. Tel Aviv",
+  "awayTeam" : "Baskonia",
+  "picks" : [ "177.5 Alt (1.61 - %71)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "Real Madrid",
+  "picks" : [ "177.5 Alt (1.62 - %64)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Partizan",
+  "awayTeam" : "Monaco",
+  "picks" : [ "167.5 Üst (1.63 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Panathinaikos",
+  "picks" : [ "178.5 Alt (1.63 - %63)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
