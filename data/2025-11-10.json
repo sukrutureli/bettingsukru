@@ -2,38 +2,50 @@
   "homeTeam" : "Crb Al",
   "awayTeam" : "Operario",
   "picks" : [ "MS1 (1.47 - %62)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS1 (1.47 - %62)" : "lost"
+  }
 }, {
   "homeTeam" : "CA Sarmiento",
   "awayTeam" : "Instituto",
   "picks" : [ "Alt (1.21 - %85)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Alt (1.21 - %85)" : "lost"
+  }
 }, {
   "homeTeam" : "Cobresal",
   "awayTeam" : "Everton DV",
   "picks" : [ "MS1 (1.74 - %69)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS1 (1.74 - %69)" : "lost"
+  }
 }, {
   "homeTeam" : "Fortaleza CE",
   "awayTeam" : "Gremio P.",
   "picks" : [ "Alt (1.6 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Alt (1.6 - %70)" : "lost"
+  }
 }, {
   "homeTeam" : "Atl Tucuman",
   "awayTeam" : "Godoy Cruz",
   "picks" : [ "Alt (1.35 - %71)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Alt (1.35 - %71)" : "lost"
+  }
 }, {
   "homeTeam" : "CA Tigre",
   "awayTeam" : "Estudiantes",
   "picks" : [ "Alt (1.2 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.2 - %68)" : "won"
+  }
 }, {
   "homeTeam" : "Nam Dinh",
   "awayTeam" : "Ha Noi",
