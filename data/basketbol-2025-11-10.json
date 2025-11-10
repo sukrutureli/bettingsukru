@@ -2,8 +2,10 @@
   "homeTeam" : "LG Sakers",
   "awayTeam" : "KCC Egis",
   "picks" : [ "149.5 Üst (1.64 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "83-61",
+  "statuses" : {
+    "149.5 Üst (1.64 - %57)" : "lost"
+  }
 }, {
   "homeTeam" : "KK Podcetrtek",
   "awayTeam" : "KK Triglav Kranj",
