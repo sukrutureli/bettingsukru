@@ -1,44 +1,4 @@
 [ {
-  "homeTeam" : "Orlando",
-  "awayTeam" : "Boston",
-  "picks" : [ "227.5 Üst (1.62 - %68)" ],
-  "score" : "107-111",
-  "statuses" : {
-    "227.5 Üst (1.62 - %68)" : "lost"
-  }
-}, {
-  "homeTeam" : "New York",
-  "awayTeam" : "Brooklyn",
-  "picks" : [ "227.5 Üst (1.66 - %72)" ],
-  "score" : "134-98",
-  "statuses" : {
-    "227.5 Üst (1.66 - %72)" : "won"
-  }
-}, {
-  "homeTeam" : "Racing de Chivilcoy",
-  "awayTeam" : "CA Platense",
-  "picks" : [ "MS1 (1.24 - %80)" ],
-  "score" : "75-80",
-  "statuses" : {
-    "MS1 (1.24 - %80)" : "lost"
-  }
-}, {
-  "homeTeam" : "Gimnasia",
-  "awayTeam" : "Regatas Corrientes",
-  "picks" : [ "150.5 Alt (1.61 - %69)" ],
-  "score" : "101-70",
-  "statuses" : {
-    "150.5 Alt (1.61 - %69)" : "lost"
-  }
-}, {
-  "homeTeam" : "Quimsa S.",
-  "awayTeam" : "Union de Santa Fe",
-  "picks" : [ "164.5 Alt (1.64 - %62)" ],
-  "score" : "76-86",
-  "statuses" : {
-    "164.5 Alt (1.64 - %62)" : "won"
-  }
-}, {
   "homeTeam" : "LG Sakers",
   "awayTeam" : "KCC Egis",
   "picks" : [ "149.5 Üst (1.63 - %57)" ],
@@ -53,7 +13,7 @@
 }, {
   "homeTeam" : "KK Podcetrtek",
   "awayTeam" : "KK Triglav Kranj",
-  "picks" : [ "163.5 Alt (1.64 - %55)" ],
+  "picks" : [ "164.5 Alt (1.63 - %57)" ],
   "score" : "-",
   "statuses" : { }
 } ]
