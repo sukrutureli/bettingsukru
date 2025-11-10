@@ -1,19 +1,13 @@
 [ {
   "homeTeam" : "LG Sakers",
   "awayTeam" : "KCC Egis",
-  "picks" : [ "149.5 Üst (1.63 - %57)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
-  "homeTeam" : "Seahorses Mikawa",
-  "awayTeam" : "Sendai 89ers",
-  "picks" : [ "MS1 (1.07 - %89)" ],
+  "picks" : [ "149.5 Üst (1.64 - %57)" ],
   "score" : "-",
   "statuses" : { }
 }, {
   "homeTeam" : "KK Podcetrtek",
   "awayTeam" : "KK Triglav Kranj",
-  "picks" : [ "164.5 Alt (1.63 - %57)" ],
+  "picks" : [ "165.5 Alt (1.61 - %60)" ],
   "score" : "-",
   "statuses" : { }
 } ]
