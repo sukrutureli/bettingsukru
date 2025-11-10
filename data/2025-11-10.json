@@ -1,25 +1,7 @@
 [ {
-  "homeTeam" : "Cong An Nhan Dan",
-  "awayTeam" : "Hong Linh",
-  "picks" : [ "Alt (2.08 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
-  "homeTeam" : "Js Omrane",
-  "awayTeam" : "Olympique B.",
-  "picks" : [ "Yok (1.2 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
   "homeTeam" : "Esbjerg",
   "awayTeam" : "Middelfart",
   "picks" : [ "MS1 (1.49 - %66)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
-  "homeTeam" : "St Ives Town",
-  "awayTeam" : "Banbury Utd",
-  "picks" : [ "MS1 (2.1 - %54)" ],
   "score" : "-",
   "statuses" : { }
 }, {
@@ -32,12 +14,6 @@
   "homeTeam" : "S. Ameliano",
   "awayTeam" : "CS 2 de Mayo",
   "picks" : [ "Alt (1.44 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
-}, {
-  "homeTeam" : "A. Deportiva Tarm",
-  "awayTeam" : "CD Los Chankas",
-  "picks" : [ "Alt (1.84 - %72)" ],
   "score" : "-",
   "statuses" : { }
 } ]
