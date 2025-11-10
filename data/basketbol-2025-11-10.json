@@ -10,6 +10,8 @@
   "homeTeam" : "KK Podcetrtek",
   "awayTeam" : "KK Triglav Kranj",
   "picks" : [ "165.5 Alt (1.61 - %60)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "60-95",
+  "statuses" : {
+    "165.5 Alt (1.61 - %60)" : "won"
+  }
 } ]
