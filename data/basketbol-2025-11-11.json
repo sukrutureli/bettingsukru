@@ -26,8 +26,10 @@
   "homeTeam" : "LA Clippers",
   "awayTeam" : "Atlanta",
   "picks" : [ "220.5 Üst (1.62 - %63)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "102-105",
+  "statuses" : {
+    "220.5 Üst (1.62 - %63)" : "lost"
+  }
 }, {
   "homeTeam" : "Polzela",
   "awayTeam" : "Kk Krka",
