@@ -34,14 +34,18 @@
   "homeTeam" : "Barnsley",
   "awayTeam" : "Lincoln City",
   "picks" : [ "Üst (1.54 - %61)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Üst (1.54 - %61)" : "lost"
+  }
 }, {
   "homeTeam" : "Doncaster",
   "awayTeam" : "Bradford",
   "picks" : [ "Var (1.44 - %64)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "Var (1.44 - %64)" : "won"
+  }
 }, {
   "homeTeam" : "Bamber Bridge",
   "awayTeam" : "G'borough Tr.",
@@ -52,18 +56,24 @@
   "homeTeam" : "Horsham",
   "awayTeam" : "Hampton & Richmond",
   "picks" : [ "MS1 (1.52 - %77)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "MS1 (1.52 - %77)" : "lost"
+  }
 }, {
   "homeTeam" : "Worthing",
   "awayTeam" : "AFC Totton",
   "picks" : [ "Üst (1.43 - %80)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "4-0",
+  "statuses" : {
+    "Üst (1.43 - %80)" : "won"
+  }
 }, {
   "homeTeam" : "Marine",
   "awayTeam" : "Telford Utd",
   "picks" : [ "Var (1.5 - %70)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Var (1.5 - %70)" : "won"
+  }
 } ]
