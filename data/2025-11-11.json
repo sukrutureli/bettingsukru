@@ -2,26 +2,34 @@
   "homeTeam" : "Botafogo",
   "awayTeam" : "Amazonas",
   "picks" : [ "Alt (1.33 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.33 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "CA Tembetary",
   "awayTeam" : "N. Asuncion",
   "picks" : [ "Alt (1.56 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Alt (1.56 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "Argentinos J.",
   "awayTeam" : "Belgrano",
   "picks" : [ "Alt (1.44 - %67)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.44 - %67)" : "won"
+  }
 }, {
   "homeTeam" : "I. Medellin",
   "awayTeam" : "Envigado",
   "picks" : [ "MS1 (1.31 - %76)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS1 (1.31 - %76)" : "lost"
+  }
 }, {
   "homeTeam" : "Barnsley",
   "awayTeam" : "Lincoln City",

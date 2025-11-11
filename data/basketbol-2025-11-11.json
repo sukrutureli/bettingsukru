@@ -2,20 +2,26 @@
   "homeTeam" : "Bigua de Villa Biarritz",
   "awayTeam" : "Club Un. At",
   "picks" : [ "MS1 (1.32 - %65)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-78",
+  "statuses" : {
+    "MS1 (1.32 - %65)" : "won"
+  }
 }, {
   "homeTeam" : "Miami",
   "awayTeam" : "Cleveland",
   "picks" : [ "247.5 Alt (1.63 - %68)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "140-138",
+  "statuses" : {
+    "247.5 Alt (1.63 - %68)" : "lost"
+  }
 }, {
   "homeTeam" : "Dallas",
   "awayTeam" : "Milwaukee",
   "picks" : [ "230.5 Alt (1.61 - %56)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "114-116",
+  "statuses" : {
+    "230.5 Alt (1.61 - %56)" : "won"
+  }
 }, {
   "homeTeam" : "LA Clippers",
   "awayTeam" : "Atlanta",
