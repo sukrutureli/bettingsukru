@@ -34,8 +34,10 @@
   "homeTeam" : "Polzela",
   "awayTeam" : "Kk Krka",
   "picks" : [ "167.5 Alt (1.59 - %55)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-98",
+  "statuses" : {
+    "167.5 Alt (1.59 - %55)" : "lost"
+  }
 }, {
   "homeTeam" : "BK Levicki Patrioti",
   "awayTeam" : "Szolnoki Olaj Kk",
