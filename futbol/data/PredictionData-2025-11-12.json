@@ -1,0 +1,19 @@
+[ {
+  "homeTeam" : "Bulgaristan U19",
+  "awayTeam" : "Macaristan U19",
+  "picks" : [ "Alt (1.54 - 57.3%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Rusya",
+  "awayTeam" : "Peru",
+  "picks" : [ "MS1 (1.33 - 75.7%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "B. Münih (K)",
+  "awayTeam" : "Arsenal (K)",
+  "picks" : [ "Üst (1.35 - 82.2%)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]

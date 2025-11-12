@@ -1,0 +1,19 @@
+[ {
+  "name" : "Bulgaristan U19 - Macaristan U19",
+  "time" : "19:00",
+  "predictions" : [ "Alt (1.54 - 57.3%)" ],
+  "score" : "1-0",
+  "mbs" : 2
+}, {
+  "name" : "Rusya - Peru",
+  "time" : "20:00",
+  "predictions" : [ "MS1 (1.33 - 75.7%)" ],
+  "score" : "4-0",
+  "mbs" : 1
+}, {
+  "name" : "B. Münih (K) - Arsenal (K)",
+  "time" : "20:45",
+  "predictions" : [ "Üst (1.35 - 82.2%)" ],
+  "score" : "5-1",
+  "mbs" : 1
+} ]

@@ -1,0 +1,20 @@
+[ {
+  "teamName" : "Finland. U19 - İzlanda U19",
+  "originalMatchUrl" : "https://istatistik.nesine.com/2433247",
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Finland. U19",
+    "awayTeam" : "İzlanda U19",
+    "homeScore" : 0,
+    "awayScore" : 1,
+    "matchDate" : "2019",
+    "tournament" : "HAZ",
+    "season" : null,
+    "matchType" : "rekabet-gecmisi",
+    "originalUrl" : "https://istatistik.nesine.com/2433247/ozet",
+    "status" : "finished",
+    "totalGoals" : 1,
+    "scoreString" : "0-1",
+    "matchString" : "Finland. U19 vs İzlanda U19",
+    "result" : "A"
+  } ],
+  "lastUpdated"
