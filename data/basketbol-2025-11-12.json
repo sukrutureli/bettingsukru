@@ -90,96 +90,128 @@
   "homeTeam" : "Aek",
   "awayTeam" : "Vef Riga",
   "picks" : [ "157.5 Alt (1.65 - 56.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "95-64",
+  "statuses" : {
+    "157.5 Alt (1.65 - 56.6%)" : "lost"
+  }
 }, {
   "homeTeam" : "Kalev",
   "awayTeam" : "Neftchi IK",
   "picks" : [ "168.5 Üst (1.63 - 63.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "88-82",
+  "statuses" : {
+    "168.5 Üst (1.63 - 63.6%)" : "won"
+  }
 }, {
   "homeTeam" : "Iraklis",
   "awayTeam" : "BC Spartak Pleven",
   "picks" : [ "164.5 Alt (1.62 - 58.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "72-69",
+  "statuses" : {
+    "164.5 Alt (1.62 - 58.9%)" : "won"
+  }
 }, {
   "homeTeam" : "Naestved",
   "awayTeam" : "Svendborg",
   "picks" : [ "MS1 (1.56 - 67.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "106-78",
+  "statuses" : {
+    "MS1 (1.56 - 67.8%)" : "won"
+  }
 }, {
   "homeTeam" : "Trieste",
   "awayTeam" : "Derthona Basket",
   "picks" : [ "MS2 (1.81 - 55.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "91-81",
+  "statuses" : {
+    "MS2 (1.81 - 55.6%)" : "lost"
+  }
 }, {
   "homeTeam" : "Olimpia Milano",
   "awayTeam" : "Asvel Vil.",
   "picks" : [ "160.5 Alt (1.67 - 59.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-72",
+  "statuses" : {
+    "160.5 Alt (1.67 - 59.6%)" : "won"
+  }
 }, {
   "homeTeam" : "Bayern Münih",
   "awayTeam" : "Barcelona",
   "picks" : [ "MS1 (1.53 - 80.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "74-75",
+  "statuses" : {
+    "MS1 (1.53 - 80.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "Sporting CP",
   "awayTeam" : "Rasta Vechta",
   "picks" : [ "MS1 (1.77 - 90.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-75",
+  "statuses" : {
+    "MS1 (1.77 - 90.5%)" : "won"
+  }
 }, {
   "homeTeam" : "Urania Milano",
   "awayTeam" : "Pistoia",
   "picks" : [ "157.5 Alt (1.64 - 55.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "92-77",
+  "statuses" : {
+    "157.5 Alt (1.64 - 55.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Basket Scafati 1969",
   "awayTeam" : "Torino",
   "picks" : [ "154.5 Alt (1.62 - 56.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-67",
+  "statuses" : {
+    "154.5 Alt (1.62 - 56.2%)" : "won"
+  }
 }, {
   "homeTeam" : "Ueb Cividale",
   "awayTeam" : "Benedetto Cento",
   "picks" : [ "159.5 Üst (1.63 - 55.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "74-68",
+  "statuses" : {
+    "159.5 Üst (1.63 - 55.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Assigeco Piacenza",
   "awayTeam" : "Herons Basket",
   "picks" : [ "MS2 (1.45 - 72.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "85-84",
+  "statuses" : {
+    "MS2 (1.45 - 72.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "Chiusi",
   "awayTeam" : "San Severo",
   "picks" : [ "155.5 Alt (1.67 - 55.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "65-75",
+  "statuses" : {
+    "155.5 Alt (1.67 - 55.8%)" : "won"
+  }
 }, {
   "homeTeam" : "Porto",
   "awayTeam" : "Tartu",
   "picks" : [ "167.5 Üst (1.64 - 66.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "71-90",
+  "statuses" : {
+    "167.5 Üst (1.64 - 66.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Talos Ruvo DI Puglia",
   "awayTeam" : "Roseto Shark",
   "picks" : [ "MS1 (1.41 - 72.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "88-81",
+  "statuses" : {
+    "MS1 (1.41 - 72.3%)" : "won"
+  }
 }, {
   "homeTeam" : "E. Vigevano",
   "awayTeam" : "Treviglio Brianza Basket",
   "picks" : [ "158.5 Üst (1.6 - 56.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-63",
+  "statuses" : {
+    "158.5 Üst (1.6 - 56.9%)" : "lost"
+  }
 } ]

@@ -18,6 +18,8 @@
   "homeTeam" : "B. Münih (K)",
   "awayTeam" : "Arsenal (K)",
   "picks" : [ "Üst (1.4 - 82.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-2",
+  "statuses" : {
+    "Üst (1.4 - 82.2%)" : "won"
+  }
 } ]
