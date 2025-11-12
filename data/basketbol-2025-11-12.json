@@ -10,32 +10,42 @@
   "homeTeam" : "Utah",
   "awayTeam" : "Indiana",
   "picks" : [ "232.5 Alt (1.65 - 78.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "152-128",
+  "statuses" : {
+    "232.5 Alt (1.65 - 78.1%)" : "lost"
+  }
 }, {
   "homeTeam" : "Terrafirma Dyip",
   "awayTeam" : "Phoenix Puls",
   "picks" : [ "198.5 Alt (1.63 - 62.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "76-107",
+  "statuses" : {
+    "198.5 Alt (1.63 - 62.5%)" : "won"
+  }
 }, {
   "homeTeam" : "Samsung Thunders",
   "awayTeam" : "LG Sakers",
   "picks" : [ "153.5 Üst (1.63 - 64.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "83-95",
+  "statuses" : {
+    "153.5 Üst (1.63 - 64.7%)" : "won"
+  }
 }, {
   "homeTeam" : "Koshigaya Alphas",
   "awayTeam" : "Chiba Jets",
   "picks" : [ "150.5 Alt (1.59 - 56.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "89-90",
+  "statuses" : {
+    "150.5 Alt (1.59 - 56.9%)" : "lost"
+  }
 }, {
   "homeTeam" : "Hiroshima Dr.",
   "awayTeam" : "Seahorses Mikawa",
   "picks" : [ "166.5 Alt (1.61 - 59.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-88",
+  "statuses" : {
+    "166.5 Alt (1.61 - 59.8%)" : "lost"
+  }
 }, {
   "homeTeam" : "BC Kutaisi",
   "awayTeam" : "Peristeri",
