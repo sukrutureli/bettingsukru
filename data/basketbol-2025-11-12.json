@@ -2,8 +2,10 @@
   "homeTeam" : "Boca Juniors",
   "awayTeam" : "Regatas Corrientes",
   "picks" : [ "157.5 Alt (1.62 - 58.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "74-81",
+  "statuses" : {
+    "157.5 Alt (1.62 - 58.1%)" : "won"
+  }
 }, {
   "homeTeam" : "Utah",
   "awayTeam" : "Indiana",
