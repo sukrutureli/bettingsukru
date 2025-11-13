@@ -50,32 +50,42 @@
   "homeTeam" : "Oklahoma",
   "awayTeam" : "LA Lakers",
   "picks" : [ "229.5 Üst (1.59 - 67.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "121-92",
+  "statuses" : {
+    "229.5 Üst (1.59 - 67.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "Sacramento",
   "awayTeam" : "Atlanta",
   "picks" : [ "MS2 (1.38 - 67.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "100-133",
+  "statuses" : {
+    "MS2 (1.38 - 67.2%)" : "won"
+  }
 }, {
   "homeTeam" : "LA Clippers",
   "awayTeam" : "Denver",
   "picks" : [ "MS2 (1.44 - 73.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "116-130",
+  "statuses" : {
+    "MS2 (1.44 - 73.8%)" : "won"
+  }
 }, {
   "homeTeam" : "Tasmania Jackjumpers",
   "awayTeam" : "Adelaide 36ers",
   "picks" : [ "MS2 (1.32 - 56.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "86-97",
+  "statuses" : {
+    "MS2 (1.32 - 56.7%)" : "won"
+  }
 }, {
   "homeTeam" : "Goyang Orions",
   "awayTeam" : "Daegu Pegasus",
   "picks" : [ "151.5 Alt (1.59 - 55.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "93-82",
+  "statuses" : {
+    "151.5 Alt (1.59 - 55.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "Kızıl Yıldız",
   "awayTeam" : "Monaco",
