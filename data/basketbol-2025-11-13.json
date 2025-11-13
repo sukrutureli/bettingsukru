@@ -90,30 +90,40 @@
   "homeTeam" : "Kızıl Yıldız",
   "awayTeam" : "Monaco",
   "picks" : [ "170.5 Üst (1.64 - 60.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "91-79",
+  "statuses" : {
+    "170.5 Üst (1.64 - 60.1%)" : "lost"
+  }
 }, {
   "homeTeam" : "Caen Basket",
   "awayTeam" : "AIX Maurienne",
   "picks" : [ "167.5 Üst (1.62 - 59.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "106-96",
+  "statuses" : {
+    "167.5 Üst (1.62 - 59.5%)" : "won"
+  }
 }, {
   "homeTeam" : "Stjarnan",
   "awayTeam" : "Armann",
   "picks" : [ "190.5 Alt (1.65 - 58.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "114-88",
+  "statuses" : {
+    "190.5 Alt (1.65 - 58.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Paris",
   "awayTeam" : "Valencia",
   "picks" : [ "184.5 Alt (1.65 - 73.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "90-86",
+  "statuses" : {
+    "184.5 Alt (1.65 - 73.8%)" : "won"
+  }
 }, {
   "homeTeam" : "M. Tel Aviv",
   "awayTeam" : "Baskonia",
   "picks" : [ "182.5 Alt (1.65 - 64.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "89-83",
+  "statuses" : {
+    "182.5 Alt (1.65 - 64.0%)" : "won"
+  }
 } ]
