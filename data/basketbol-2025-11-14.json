@@ -1,0 +1,73 @@
+[ {
+  "homeTeam" : "Independiente de Oliva",
+  "awayTeam" : "Ferro Carril",
+  "picks" : [ "MS2 (1.62 - 55.6%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Atlanta",
+  "picks" : [ "233.5 Alt (1.65 - 61.4%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Sodertalje",
+  "awayTeam" : "Jamtland",
+  "picks" : [ "171.5 Üst (1.64 - 72.5%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Norrkoping",
+  "awayTeam" : "KFUM Nassjo",
+  "picks" : [ "179.5 Üst (1.65 - 72.1%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Asvel Vil.",
+  "awayTeam" : "Partizan",
+  "picks" : [ "162.5 Alt (1.65 - 66.7%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Hyeres Toulon",
+  "awayTeam" : "Saint Chamond",
+  "picks" : [ "167.5 Alt (1.66 - 61.3%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Roanne Chorale",
+  "awayTeam" : "Antibes Shar",
+  "picks" : [ "168.5 Üst (1.62 - 56.8%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Cholet",
+  "awayTeam" : "Nanterre 92",
+  "picks" : [ "167.5 Üst (1.65 - 62.6%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Excels Brus",
+  "awayTeam" : "Spirou Charleroi",
+  "picks" : [ "170.5 Alt (1.63 - 57.8%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Vendee Challans B.",
+  "awayTeam" : "ALM Evreux Basket",
+  "picks" : [ "MS1 (1.55 - 64.7%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Valur Reykjavik",
+  "awayTeam" : "Alftanes",
+  "picks" : [ "MS2 (1.61 - 70.5%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "CD Maristas Palencia",
+  "awayTeam" : "Oviedo",
+  "picks" : [ "163.5 Alt (1.64 - 58.9%)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
