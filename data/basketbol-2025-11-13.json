@@ -2,38 +2,50 @@
   "homeTeam" : "New York",
   "awayTeam" : "Orlando",
   "picks" : [ "226.5 Üst (1.6 - 79.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "107-124",
+  "statuses" : {
+    "226.5 Üst (1.6 - 79.2%)" : "won"
+  }
 }, {
   "homeTeam" : "Detroit",
   "awayTeam" : "Chicago",
   "picks" : [ "MS1 (1.74 - 86.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "124-113",
+  "statuses" : {
+    "MS1 (1.74 - 86.4%)" : "won"
+  }
 }, {
   "homeTeam" : "Penarol Mar",
   "awayTeam" : "San Martin C.",
   "picks" : [ "153.5 Üst (1.61 - 68.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-72",
+  "statuses" : {
+    "153.5 Üst (1.61 - 68.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "Miami",
   "awayTeam" : "Cleveland",
   "picks" : [ "239.5 Üst (1.65 - 69.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "116-130",
+  "statuses" : {
+    "239.5 Üst (1.65 - 69.9%)" : "won"
+  }
 }, {
   "homeTeam" : "San Antonio",
   "awayTeam" : "Golden State",
   "picks" : [ "MS1 (1.39 - 79.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "120-125",
+  "statuses" : {
+    "MS1 (1.39 - 79.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "Dallas",
   "awayTeam" : "Phoenix",
   "picks" : [ "MS2 (1.5 - 71.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "114-123",
+  "statuses" : {
+    "MS2 (1.5 - 71.1%)" : "won"
+  }
 }, {
   "homeTeam" : "Oklahoma",
   "awayTeam" : "LA Lakers",
