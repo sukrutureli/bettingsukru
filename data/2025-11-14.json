@@ -50,8 +50,10 @@
   "homeTeam" : "Ermenistan U21",
   "awayTeam" : "Karadağ U21",
   "picks" : [ "MS2 (1.52 - 66.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS2 (1.52 - 66.9%)" : "won"
+  }
 }, {
   "homeTeam" : "Katar SC",
   "awayTeam" : "Al Shahaniya",

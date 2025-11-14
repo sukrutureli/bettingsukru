@@ -10,8 +10,10 @@
   "homeTeam" : "Utah",
   "awayTeam" : "Atlanta",
   "picks" : [ "233.5 Alt (1.65 - 61.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "122-132",
+  "statuses" : {
+    "233.5 Alt (1.65 - 61.4%)" : "lost"
+  }
 }, {
   "homeTeam" : "Sodertalje",
   "awayTeam" : "Jamtland",
