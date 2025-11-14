@@ -2,8 +2,10 @@
   "homeTeam" : "Independiente de Oliva",
   "awayTeam" : "Ferro Carril",
   "picks" : [ "MS2 (1.62 - 55.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "87-75",
+  "statuses" : {
+    "MS2 (1.62 - 55.6%)" : "lost"
+  }
 }, {
   "homeTeam" : "Utah",
   "awayTeam" : "Atlanta",
