@@ -58,20 +58,26 @@
   "homeTeam" : "Katar SC",
   "awayTeam" : "Al Shahaniya",
   "picks" : [ "Var (1.31 - 73.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Var (1.31 - 73.9%)" : "lost"
+  }
 }, {
   "homeTeam" : "Suudi Arabistan",
   "awayTeam" : "Fildişi Sahili",
   "picks" : [ "Alt (1.45 - 65.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.45 - 65.5%)" : "won"
+  }
 }, {
   "homeTeam" : "Finlandiya",
   "awayTeam" : "Malta",
   "picks" : [ "Üst (1.49 - 59.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Üst (1.49 - 59.9%)" : "lost"
+  }
 }, {
   "homeTeam" : "Hollanda U21",
   "awayTeam" : "Slovenya U21",
