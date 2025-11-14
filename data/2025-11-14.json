@@ -82,54 +82,72 @@
   "homeTeam" : "Hollanda U21",
   "awayTeam" : "Slovenya U21",
   "picks" : [ "Yok (1.33 - 69.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Yok (1.33 - 69.2%)" : "won"
+  }
 }, {
   "homeTeam" : "Fremad Amager",
   "awayTeam" : "Skive IK",
   "picks" : [ "Alt (1.55 - 59.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Alt (1.55 - 59.8%)" : "won"
+  }
 }, {
   "homeTeam" : "Cannes",
   "awayTeam" : "Annecy",
   "picks" : [ "Alt (1.59 - 66.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.59 - 66.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Real Valladolid",
   "awayTeam" : "Las Palmas",
   "picks" : [ "Alt (1.37 - 66.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Alt (1.37 - 66.3%)" : "won"
+  }
 }, {
   "homeTeam" : "Forli",
   "awayTeam" : "Citta Di C.",
   "picks" : [ "Alt (1.42 - 59.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "Alt (1.42 - 59.6%)" : "lost"
+  }
 }, {
   "homeTeam" : "SS Arezzo",
   "awayTeam" : "Bra",
   "picks" : [ "Üst (1.5 - 68.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Üst (1.5 - 68.6%)" : "won"
+  }
 }, {
   "homeTeam" : "Cebelitarık",
   "awayTeam" : "Karadağ",
   "picks" : [ "Yok (1.33 - 58.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Yok (1.33 - 58.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "Lüksemburg",
   "awayTeam" : "Almanya",
   "picks" : [ "Yok (1.32 - 76.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Yok (1.32 - 76.3%)" : "won"
+  }
 }, {
   "homeTeam" : "Slovakya",
   "awayTeam" : "Kuzey İrlanda",
   "picks" : [ "Alt (1.35 - 60.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.35 - 60.9%)" : "won"
+  }
 } ]

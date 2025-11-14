@@ -18,26 +18,34 @@
   "homeTeam" : "Sodertalje",
   "awayTeam" : "Jamtland",
   "picks" : [ "171.5 Üst (1.64 - 72.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "90-82",
+  "statuses" : {
+    "171.5 Üst (1.64 - 72.5%)" : "won"
+  }
 }, {
   "homeTeam" : "Norrkoping",
   "awayTeam" : "KFUM Nassjo",
   "picks" : [ "179.5 Üst (1.65 - 72.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "110-91",
+  "statuses" : {
+    "179.5 Üst (1.65 - 72.1%)" : "won"
+  }
 }, {
   "homeTeam" : "Asvel Vil.",
   "awayTeam" : "Partizan",
   "picks" : [ "162.5 Alt (1.65 - 66.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "88-87",
+  "statuses" : {
+    "162.5 Alt (1.65 - 66.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Hyeres Toulon",
   "awayTeam" : "Saint Chamond",
   "picks" : [ "167.5 Alt (1.66 - 61.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "96-90",
+  "statuses" : {
+    "167.5 Alt (1.66 - 61.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "Roanne Chorale",
   "awayTeam" : "Antibes Shar",
@@ -48,30 +56,40 @@
   "homeTeam" : "Cholet",
   "awayTeam" : "Nanterre 92",
   "picks" : [ "167.5 Üst (1.65 - 62.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "76-78",
+  "statuses" : {
+    "167.5 Üst (1.65 - 62.6%)" : "lost"
+  }
 }, {
   "homeTeam" : "Excels Brus",
   "awayTeam" : "Spirou Charleroi",
   "picks" : [ "170.5 Alt (1.63 - 57.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "88-69",
+  "statuses" : {
+    "170.5 Alt (1.63 - 57.8%)" : "won"
+  }
 }, {
   "homeTeam" : "Vendee Challans B.",
   "awayTeam" : "ALM Evreux Basket",
   "picks" : [ "MS1 (1.55 - 64.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "79-86",
+  "statuses" : {
+    "MS1 (1.55 - 64.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Valur Reykjavik",
   "awayTeam" : "Alftanes",
   "picks" : [ "MS2 (1.61 - 70.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "92-80",
+  "statuses" : {
+    "MS2 (1.61 - 70.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "CD Maristas Palencia",
   "awayTeam" : "Oviedo",
   "picks" : [ "163.5 Alt (1.64 - 58.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "88-80",
+  "statuses" : {
+    "163.5 Alt (1.64 - 58.9%)" : "lost"
+  }
 } ]
