@@ -98,38 +98,50 @@
   "homeTeam" : "Instituto de Cordoba",
   "awayTeam" : "Ferro Carril",
   "picks" : [ "160.5 Üst (1.6 - 60.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-89",
+  "statuses" : {
+    "160.5 Üst (1.6 - 60.7%)" : "won"
+  }
 }, {
   "homeTeam" : "Vitoria",
   "awayTeam" : "Ovarense",
   "picks" : [ "MS2 (1.36 - 74.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "77-94",
+  "statuses" : {
+    "MS2 (1.36 - 74.8%)" : "won"
+  }
 }, {
   "homeTeam" : "Szedeak",
   "awayTeam" : "Ose Lions",
   "picks" : [ "163.5 Üst (1.61 - 64.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "67-75",
+  "statuses" : {
+    "163.5 Üst (1.61 - 64.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "KK Bosna Royal Sarajevo",
   "awayTeam" : "Spartak Subotica",
   "picks" : [ "161.5 Alt (1.62 - 67.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "72-57",
+  "statuses" : {
+    "161.5 Alt (1.62 - 67.4%)" : "won"
+  }
 }, {
   "homeTeam" : "BKM Lucenec",
   "awayTeam" : "MBK Handlova",
   "picks" : [ "161.5 Üst (1.61 - 66.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "85-79",
+  "statuses" : {
+    "161.5 Üst (1.61 - 66.0%)" : "won"
+  }
 }, {
   "homeTeam" : "BC Maroussi Athens",
   "awayTeam" : "Aek",
   "picks" : [ "MS2 (1.35 - 56.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "82-103",
+  "statuses" : {
+    "MS2 (1.35 - 56.0%)" : "won"
+  }
 }, {
   "homeTeam" : "BK Jip Pardubice",
   "awayTeam" : "BK Opava",
@@ -140,20 +152,26 @@
   "homeTeam" : "Kk Krka",
   "awayTeam" : "KK Podcetrtek",
   "picks" : [ "171.5 Alt (1.64 - 67.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "100-79",
+  "statuses" : {
+    "171.5 Alt (1.64 - 67.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "Saint Quentin",
   "awayTeam" : "Sluc Nancy Basket",
   "picks" : [ "167.5 Üst (1.63 - 58.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "72-84",
+  "statuses" : {
+    "167.5 Üst (1.63 - 58.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Komarno",
   "awayTeam" : "BK Inter Bratislava",
   "picks" : [ "167.5 Alt (1.66 - 58.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-82",
+  "statuses" : {
+    "167.5 Alt (1.66 - 58.0%)" : "won"
+  }
 }, {
   "homeTeam" : "ASD Luiss Roma",
   "awayTeam" : "Aurora Jesi",
