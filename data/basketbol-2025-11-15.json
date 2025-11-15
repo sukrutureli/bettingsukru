@@ -176,54 +176,72 @@
   "homeTeam" : "ASD Luiss Roma",
   "awayTeam" : "Aurora Jesi",
   "picks" : [ "145.5 Üst (1.62 - 70.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "66-82",
+  "statuses" : {
+    "145.5 Üst (1.62 - 70.4%)" : "won"
+  }
 }, {
   "homeTeam" : "Estela",
   "awayTeam" : "CB Tizona",
   "picks" : [ "171.5 Alt (1.61 - 59.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-91",
+  "statuses" : {
+    "171.5 Alt (1.61 - 59.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Gran Canaria",
   "awayTeam" : "Joventut Badalona",
   "picks" : [ "MS1 (1.52 - 65.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-92",
+  "statuses" : {
+    "MS1 (1.52 - 65.1%)" : "lost"
+  }
 }, {
   "homeTeam" : "Z. Leiden",
   "awayTeam" : "BC Oostende",
   "picks" : [ "MS1 (1.81 - 88.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "98-90",
+  "statuses" : {
+    "MS1 (1.81 - 88.5%)" : "won"
+  }
 }, {
   "homeTeam" : "JL Bourg",
   "awayTeam" : "Paris",
   "picks" : [ "178.5 Alt (1.65 - 61.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "75-91",
+  "statuses" : {
+    "178.5 Alt (1.65 - 61.1%)" : "won"
+  }
 }, {
   "homeTeam" : "Cremona",
   "awayTeam" : "Trieste",
   "picks" : [ "172.5 Üst (1.65 - 66.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "113-94",
+  "statuses" : {
+    "172.5 Üst (1.65 - 66.6%)" : "won"
+  }
 }, {
   "homeTeam" : "Urania Milano",
   "awayTeam" : "VL Pesaro",
   "picks" : [ "MS2 (1.35 - 62.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "72-93",
+  "statuses" : {
+    "MS2 (1.35 - 62.2%)" : "won"
+  }
 }, {
   "homeTeam" : "Siaz Basket",
   "awayTeam" : "Montecatiniterme",
   "picks" : [ "154.5 Üst (1.6 - 63.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "62-84",
+  "statuses" : {
+    "154.5 Üst (1.6 - 63.9%)" : "lost"
+  }
 }, {
   "homeTeam" : "San Pablo Burgos",
   "awayTeam" : "Andorra",
   "picks" : [ "178.5 Alt (1.64 - 55.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "86-93",
+  "statuses" : {
+    "178.5 Alt (1.64 - 55.4%)" : "lost"
+  }
 } ]
