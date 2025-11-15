@@ -10,92 +10,122 @@
   "homeTeam" : "Sassuolo Calcio (K)",
   "awayTeam" : "Ternana (K)",
   "picks" : [ "Üst (1.39 - 66.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Üst (1.39 - 66.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Banik Lehota Pod",
   "awayTeam" : "Povazska Bystric",
   "picks" : [ "Var (1.38 - 68.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Var (1.38 - 68.5%)" : "won"
+  }
 }, {
   "homeTeam" : "Bayreuth",
   "awayTeam" : "Ansbach",
   "picks" : [ "Var (1.36 - 56.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "Var (1.36 - 56.5%)" : "won"
+  }
 }, {
   "homeTeam" : "Hankofen Hailing",
   "awayTeam" : "Buchbach",
   "picks" : [ "MS2 (1.64 - 60.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-4",
+  "statuses" : {
+    "MS2 (1.64 - 60.8%)" : "won"
+  }
 }, {
   "homeTeam" : "TSV S. Augsburg",
   "awayTeam" : "Nürnberg (Amt)",
   "picks" : [ "MS2 (1.53 - 64.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "MS2 (1.53 - 64.1%)" : "won"
+  }
 }, {
   "homeTeam" : "Hessen Kassel",
   "awayTeam" : "Offenbacher",
   "picks" : [ "Var (1.32 - 81.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Var (1.32 - 81.4%)" : "won"
+  }
 }, {
   "homeTeam" : "TSV Schott Mainz",
   "awayTeam" : "Eintracht Trier",
   "picks" : [ "MS2 (1.72 - 70.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (1.72 - 70.9%)" : "lost"
+  }
 }, {
   "homeTeam" : "NK Bsk Bijelo Brdo",
   "awayTeam" : "HNK Orijent 1919",
   "picks" : [ "Alt (1.33 - 64.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "Alt (1.33 - 64.4%)" : "lost"
+  }
 }, {
   "homeTeam" : "Hrvace",
   "awayTeam" : "NK Dubrava",
   "picks" : [ "Alt (1.48 - 67.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.48 - 67.9%)" : "won"
+  }
 }, {
   "homeTeam" : "NK Dugopolje",
   "awayTeam" : "NK Karlovac 1919",
   "picks" : [ "Alt (1.4 - 64.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.4 - 64.4%)" : "won"
+  }
 }, {
   "homeTeam" : "Real Madrid B",
   "awayTeam" : "CP Cacereno Sad",
   "picks" : [ "MS1 (1.42 - 69.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "MS1 (1.42 - 69.2%)" : "won"
+  }
 }, {
   "homeTeam" : "Nd Dravinja",
   "awayTeam" : "NK Jesenice",
   "picks" : [ "Üst (1.49 - 81.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Üst (1.49 - 81.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "Casarano",
   "awayTeam" : "Calcio Catania",
   "picks" : [ "MS2 (1.73 - 72.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "MS2 (1.73 - 72.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Kuzey İrlanda U19",
   "awayTeam" : "Azerbaycan U19",
   "picks" : [ "Üst (1.42 - 63.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Üst (1.42 - 63.9%)" : "lost"
+  }
 }, {
   "homeTeam" : "Parma Calcio (K)",
   "awayTeam" : "Fiorentina (K)",
   "picks" : [ "MS2 (1.32 - 64.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS2 (1.32 - 64.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Katwijk",
   "awayTeam" : "De Treffers",

@@ -18,62 +18,82 @@
   "homeTeam" : "Dallas",
   "awayTeam" : "LA Clippers",
   "picks" : [ "MS1 (1.87 - 76.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "127-133",
+  "statuses" : {
+    "MS1 (1.87 - 76.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "San Antonio",
   "awayTeam" : "Golden State",
   "picks" : [ "233.5 Üst (1.62 - 55.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "108-109",
+  "statuses" : {
+    "233.5 Üst (1.62 - 55.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Yokohama",
   "awayTeam" : "Shiga Lake Stars",
   "picks" : [ "161.5 Üst (1.63 - 65.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "89-80",
+  "statuses" : {
+    "161.5 Üst (1.63 - 65.5%)" : "won"
+  }
 }, {
   "homeTeam" : "Brave Thunders",
   "awayTeam" : "Ibaraki Robots",
   "picks" : [ "154.5 Üst (1.59 - 60.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "72-77",
+  "statuses" : {
+    "154.5 Üst (1.59 - 60.4%)" : "lost"
+  }
 }, {
   "homeTeam" : "Yamagata Wyverns",
   "awayTeam" : "Fukui Blowwinds",
   "picks" : [ "166.5 Alt (1.6 - 64.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "55-77",
+  "statuses" : {
+    "166.5 Alt (1.6 - 64.3%)" : "won"
+  }
 }, {
   "homeTeam" : "Rizing Fukuoka",
   "awayTeam" : "Kumamoto V.",
   "picks" : [ "148.5 Alt (1.67 - 63.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-72",
+  "statuses" : {
+    "148.5 Alt (1.67 - 63.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Meralco",
   "awayTeam" : "Macau Black",
   "picks" : [ "169.5 Üst (1.59 - 75.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "92-74",
+  "statuses" : {
+    "169.5 Üst (1.59 - 75.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "Start Lublin",
   "awayTeam" : "Zielona Gora",
   "picks" : [ "161.5 Alt (1.62 - 62.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "77-91",
+  "statuses" : {
+    "161.5 Alt (1.62 - 62.8%)" : "lost"
+  }
 }, {
   "homeTeam" : "Avtodor Sara",
   "awayTeam" : "Parma Permsk",
   "picks" : [ "MS2 (1.41 - 73.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "67-75",
+  "statuses" : {
+    "MS2 (1.41 - 73.7%)" : "won"
+  }
 }, {
   "homeTeam" : "Dabrowa Gorn.",
   "awayTeam" : "Trefl Sopot",
   "picks" : [ "171.5 Alt (1.66 - 61.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "93-81",
+  "statuses" : {
+    "171.5 Alt (1.66 - 61.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "Instituto de Cordoba",
   "awayTeam" : "Ferro Carril",
