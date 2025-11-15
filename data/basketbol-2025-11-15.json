@@ -2,14 +2,18 @@
   "homeTeam" : "Detroit",
   "awayTeam" : "Philadelphia",
   "picks" : [ "MS1 (1.35 - 78.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "114-105",
+  "statuses" : {
+    "MS1 (1.35 - 78.3%)" : "won"
+  }
 }, {
   "homeTeam" : "Milwaukee",
   "awayTeam" : "Charlotte",
   "picks" : [ "239.5 Alt (1.64 - 76.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "147-134",
+  "statuses" : {
+    "239.5 Alt (1.64 - 76.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "Dallas",
   "awayTeam" : "LA Clippers",

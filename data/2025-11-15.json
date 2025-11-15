@@ -2,8 +2,10 @@
   "homeTeam" : "Atl Lanus",
   "awayTeam" : "Atl Tucuman",
   "picks" : [ "MS1 (1.65 - 59.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-1",
+  "statuses" : {
+    "MS1 (1.65 - 59.1%)" : "won"
+  }
 }, {
   "homeTeam" : "Sassuolo Calcio (K)",
   "awayTeam" : "Ternana (K)",
