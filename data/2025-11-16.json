@@ -104,86 +104,114 @@
   "homeTeam" : "Al Mesaimeer",
   "awayTeam" : "Al Khoor",
   "picks" : [ "Var (1.42 - 67.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-3",
+  "statuses" : {
+    "Var (1.42 - 67.6%)" : "won"
+  }
 }, {
   "homeTeam" : "Unia Skier",
   "awayTeam" : "KKS Kalisz",
   "picks" : [ "MS1 (1.32 - 74.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "MS1 (1.32 - 74.8%)" : "lost"
+  }
 }, {
   "homeTeam" : "AL Jazira (Bae)",
   "awayTeam" : "Al Wasl",
   "picks" : [ "Alt (1.55 - 61.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.55 - 61.0%)" : "won"
+  }
 }, {
   "homeTeam" : "NAC Breda (K)",
   "awayTeam" : "Excelsior (K)",
   "picks" : [ "Üst (1.44 - 59.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Üst (1.44 - 59.2%)" : "won"
+  }
 }, {
   "homeTeam" : "Utrecht (K)",
   "awayTeam" : "AZ Alkmaar (K)",
   "picks" : [ "Var (1.44 - 71.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-3",
+  "statuses" : {
+    "Var (1.44 - 71.7%)" : "won"
+  }
 }, {
   "homeTeam" : "Union Irun",
   "awayTeam" : "SD Logrones",
   "picks" : [ "Alt (1.33 - 69.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Alt (1.33 - 69.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "Tudelano",
   "awayTeam" : "SD Gernika Club",
   "picks" : [ "Alt (1.33 - 60.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.33 - 60.7%)" : "won"
+  }
 }, {
   "homeTeam" : "Salerm Puente Genil",
   "awayTeam" : "CD Extremadura",
   "picks" : [ "Alt (1.32 - 74.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Alt (1.32 - 74.7%)" : "won"
+  }
 }, {
   "homeTeam" : "Numancia",
   "awayTeam" : "Coruxo",
   "picks" : [ "MS1 (1.36 - 68.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "MS1 (1.36 - 68.4%)" : "lost"
+  }
 }, {
   "homeTeam" : "LR Vicenza V.",
   "awayTeam" : "AC Renate",
   "picks" : [ "Alt (1.47 - 59.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.47 - 59.1%)" : "won"
+  }
 }, {
   "homeTeam" : "C. Lecco",
   "awayTeam" : "PRO Patria",
   "picks" : [ "Alt (1.33 - 57.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.33 - 57.6%)" : "won"
+  }
 }, {
   "homeTeam" : "Pontedera",
   "awayTeam" : "US Pianese",
   "picks" : [ "Alt (1.41 - 67.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Alt (1.41 - 67.3%)" : "won"
+  }
 }, {
   "homeTeam" : "Aurora",
   "awayTeam" : "Xelaju",
   "picks" : [ "Alt (1.43 - 64.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-2",
+  "statuses" : {
+    "Alt (1.43 - 64.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "Terrassa",
   "awayTeam" : "UE Sant Andreu",
   "picks" : [ "Var (1.59 - 73.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Var (1.59 - 73.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "Ath Bilbao B",
   "awayTeam" : "Arenteiro",

@@ -122,92 +122,122 @@
   "homeTeam" : "Massagno",
   "awayTeam" : "Union Neuchatel",
   "picks" : [ "171.5 Üst (1.62 - 78.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "53-95",
+  "statuses" : {
+    "171.5 Üst (1.62 - 78.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "Finlandiya (K)",
   "awayTeam" : "İsveç (K)",
   "picks" : [ "MS2 (1.55 - 66.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "86-77",
+  "statuses" : {
+    "MS2 (1.55 - 66.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "Varese",
   "awayTeam" : "Cantu",
   "picks" : [ "MS2 (1.81 - 58.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "91-82",
+  "statuses" : {
+    "MS2 (1.81 - 58.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "Sheffield Sharks",
   "awayTeam" : "Manchester Basketball",
   "picks" : [ "MS1 (1.38 - 62.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "98-79",
+  "statuses" : {
+    "MS1 (1.38 - 62.9%)" : "won"
+  }
 }, {
   "homeTeam" : "Reggiana Emilia",
   "awayTeam" : "Reyer Venezia",
   "picks" : [ "MS2 (1.49 - 70.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "79-89",
+  "statuses" : {
+    "MS2 (1.49 - 70.0%)" : "won"
+  }
 }, {
   "homeTeam" : "Treviglio Brianza Basket",
   "awayTeam" : "Orlandina",
   "picks" : [ "156.5 Üst (1.61 - 56.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "88-92",
+  "statuses" : {
+    "156.5 Üst (1.61 - 56.5%)" : "won"
+  }
 }, {
   "homeTeam" : "Gladiators Trier",
   "awayTeam" : "Bayern Münih",
   "picks" : [ "169.5 Alt (1.66 - 55.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-96",
+  "statuses" : {
+    "169.5 Alt (1.66 - 55.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Iberojet Pa",
   "awayTeam" : "Club Ourense",
   "picks" : [ "MS2 (1.78 - 58.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "83-76",
+  "statuses" : {
+    "MS2 (1.78 - 58.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Rimini",
   "awayTeam" : "Talos Ruvo DI Puglia",
   "picks" : [ "161.5 Üst (1.65 - 61.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-58",
+  "statuses" : {
+    "161.5 Üst (1.65 - 61.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "Forli",
   "awayTeam" : "Verona",
   "picks" : [ "MS1 (1.72 - 65.5%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "74-85",
+  "statuses" : {
+    "MS1 (1.72 - 65.5%)" : "lost"
+  }
 }, {
   "homeTeam" : "Basket 1971",
   "awayTeam" : "Basket Scafati 1969",
   "picks" : [ "164.5 Alt (1.67 - 60.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "95-93",
+  "statuses" : {
+    "164.5 Alt (1.67 - 60.8%)" : "lost"
+  }
 }, {
   "homeTeam" : "Paffoni Omegna",
   "awayTeam" : "Assigeco Piacenza",
   "picks" : [ "162.5 Alt (1.65 - 57.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "98-78",
+  "statuses" : {
+    "162.5 Alt (1.65 - 57.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "S. Golfo Piombino",
   "awayTeam" : "Andrea Imola",
   "picks" : [ "148.5 Üst (1.65 - 63.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "55-64",
+  "statuses" : {
+    "148.5 Üst (1.65 - 63.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "Chiusi",
   "awayTeam" : "Rekico Faenza",
   "picks" : [ "MS2 (1.56 - 57.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-81",
+  "statuses" : {
+    "MS2 (1.56 - 57.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Fulgor Fidenza",
   "awayTeam" : "P. Fiorenzuola",
   "picks" : [ "147.5 Üst (1.6 - 62.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "55-59",
+  "statuses" : {
+    "147.5 Üst (1.6 - 62.9%)" : "lost"
+  }
 }, {
   "homeTeam" : "Le Mans",
   "awayTeam" : "Monaco",
