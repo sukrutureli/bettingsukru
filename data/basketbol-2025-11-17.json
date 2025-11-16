@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Houston",
+  "awayTeam" : "Orlando",
+  "picks" : [ "223.5 Üst (1.61 - 74.3%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "La Union Formosa",
+  "awayTeam" : "Ciclista Olimpico",
+  "picks" : [ "162.5 Alt (1.63 - 60.0%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Portland",
+  "picks" : [ "237.5 Alt (1.64 - 57.8%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Chicago",
+  "picks" : [ "244.5 Alt (1.65 - 65.8%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bucheon Hana (K)",
+  "awayTeam" : "Woori Bank H. (K)",
+  "picks" : [ "122.5 Alt (1.64 - 73.1%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Fmp",
+  "awayTeam" : "BC Dubai",
+  "picks" : [ "165.5 Üst (1.62 - 65.6%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Latina",
+  "awayTeam" : "Virtus Gvm Roma 1960",
+  "picks" : [ "151.5 Alt (1.6 - 55.2%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Alba Berlin",
+  "awayTeam" : "SC Jena",
+  "picks" : [ "168.5 Alt (1.6 - 61.9%)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
