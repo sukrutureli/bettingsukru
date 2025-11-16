@@ -1,0 +1,37 @@
+[ {
+  "homeTeam" : "New Old Boys",
+  "awayTeam" : "Racing Club",
+  "picks" : [ "Alt (1.46 - 78.2%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Almanya U20",
+  "awayTeam" : "İtalya U20",
+  "picks" : [ "Üst (1.35 - 71.2%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Foggia",
+  "awayTeam" : "Cavese 1919",
+  "picks" : [ "Yok (1.49 - 69.0%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bracknell Town",
+  "awayTeam" : "Hav. Waterloo",
+  "picks" : [ "Var (1.35 - 72.4%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Barwell",
+  "awayTeam" : "Stratford",
+  "picks" : [ "Üst (1.57 - 62.0%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Belgrano",
+  "awayTeam" : "Union Santa Fe",
+  "picks" : [ "Alt (1.32 - 82.7%)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
