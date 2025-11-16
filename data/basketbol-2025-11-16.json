@@ -26,74 +26,98 @@
   "homeTeam" : "Illawarra Hawks",
   "awayTeam" : "Sydney Kings",
   "picks" : [ "MS2 (1.85 - 69.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "71-98",
+  "statuses" : {
+    "MS2 (1.85 - 69.7%)" : "won"
+  }
 }, {
   "homeTeam" : "Goyang Orions",
   "awayTeam" : "Samsung Thunders",
   "picks" : [ "MS1 (1.65 - 76.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "72-75",
+  "statuses" : {
+    "MS1 (1.65 - 76.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "Anyang KGC",
   "awayTeam" : "LG Sakers",
   "picks" : [ "147.5 Üst (1.63 - 70.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "70-78",
+  "statuses" : {
+    "147.5 Üst (1.63 - 70.1%)" : "won"
+  }
 }, {
   "homeTeam" : "Sun Rockers Shibuya",
   "awayTeam" : "Saga Ballooners",
   "picks" : [ "155.5 Üst (1.61 - 60.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "94-73",
+  "statuses" : {
+    "155.5 Üst (1.61 - 60.9%)" : "won"
+  }
 }, {
   "homeTeam" : "Yokohama",
   "awayTeam" : "Shiga Lake Stars",
   "picks" : [ "161.5 Üst (1.65 - 73.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "68-91",
+  "statuses" : {
+    "161.5 Üst (1.65 - 73.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Toyama Grouses",
   "awayTeam" : "Osaka Evessa",
   "picks" : [ "178.5 Üst (1.66 - 66.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "92-97",
+  "statuses" : {
+    "178.5 Üst (1.66 - 66.1%)" : "won"
+  }
 }, {
   "homeTeam" : "Yamagata Wyverns",
   "awayTeam" : "Fukui Blowwinds",
   "picks" : [ "164.5 Alt (1.65 - 71.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "74-89",
+  "statuses" : {
+    "164.5 Alt (1.65 - 71.4%)" : "won"
+  }
 }, {
   "homeTeam" : "Busan BNK Sum (K)",
   "awayTeam" : "Incheon Shinhan (K)",
   "picks" : [ "129.5 Alt (1.64 - 72.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "65-54",
+  "statuses" : {
+    "129.5 Alt (1.64 - 72.6%)" : "won"
+  }
 }, {
   "homeTeam" : "Rizing Fukuoka",
   "awayTeam" : "Kumamoto V.",
   "picks" : [ "151.5 Alt (1.61 - 64.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "58-82",
+  "statuses" : {
+    "151.5 Alt (1.61 - 64.3%)" : "won"
+  }
 }, {
   "homeTeam" : "Aomori Watts",
   "awayTeam" : "Tokyo Excellence",
   "picks" : [ "MS2 (1.35 - 80.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "61-81",
+  "statuses" : {
+    "MS2 (1.35 - 80.9%)" : "won"
+  }
 }, {
   "homeTeam" : "Sassari",
   "awayTeam" : "A. Basket Trento",
   "picks" : [ "MS1 (1.41 - 88.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "89-88",
+  "statuses" : {
+    "MS1 (1.41 - 88.3%)" : "won"
+  }
 }, {
   "homeTeam" : "Valencia",
   "awayTeam" : "Tenerife",
   "picks" : [ "177.5 Alt (1.65 - 68.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "96-79",
+  "statuses" : {
+    "177.5 Alt (1.65 - 68.6%)" : "won"
+  }
 }, {
   "homeTeam" : "Massagno",
   "awayTeam" : "Union Neuchatel",

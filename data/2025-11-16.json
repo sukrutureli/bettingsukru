@@ -34,32 +34,42 @@
   "homeTeam" : "Machida Zelvia",
   "awayTeam" : "Tokyo",
   "picks" : [ "Alt (1.46 - 79.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-0",
+  "statuses" : {
+    "Alt (1.46 - 79.8%)" : "won"
+  }
 }, {
   "homeTeam" : "Real Valladolid B",
   "awayTeam" : "Marino Luanco",
   "picks" : [ "Alt (1.43 - 63.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Alt (1.43 - 63.3%)" : "won"
+  }
 }, {
   "homeTeam" : "Fuenlabrada",
   "awayTeam" : "Navalcarnero",
   "picks" : [ "Alt (1.39 - 67.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-0",
+  "statuses" : {
+    "Alt (1.39 - 67.0%)" : "won"
+  }
 }, {
   "homeTeam" : "Slask W. II",
   "awayTeam" : "Jastrzebie",
   "picks" : [ "Üst (1.39 - 76.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Üst (1.39 - 76.9%)" : "won"
+  }
 }, {
   "homeTeam" : "Naestved",
   "awayTeam" : "VSK Aarhus",
   "picks" : [ "MS1 (1.38 - 74.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "MS1 (1.38 - 74.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "A. Von 1893",
   "awayTeam" : "SSV Jeddeloh II",
@@ -70,20 +80,26 @@
   "homeTeam" : "CS Avion",
   "awayTeam" : "Torcy",
   "picks" : [ "Alt (1.51 - 71.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-2",
+  "statuses" : {
+    "Alt (1.51 - 71.6%)" : "won"
+  }
 }, {
   "homeTeam" : "AD Ceuta",
   "awayTeam" : "Leganes",
   "picks" : [ "Alt (1.41 - 65.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.41 - 65.7%)" : "lost"
+  }
 }, {
   "homeTeam" : "Altamura",
   "awayTeam" : "Salernitana",
   "picks" : [ "Alt (1.54 - 65.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.54 - 65.8%)" : "lost"
+  }
 }, {
   "homeTeam" : "Al Mesaimeer",
   "awayTeam" : "Al Khoor",
