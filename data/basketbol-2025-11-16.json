@@ -242,12 +242,16 @@
   "homeTeam" : "Le Mans",
   "awayTeam" : "Monaco",
   "picks" : [ "175.5 Alt (1.64 - 58.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "84-93",
+  "statuses" : {
+    "175.5 Alt (1.64 - 58.6%)" : "lost"
+  }
 }, {
   "homeTeam" : "Barcelona",
   "awayTeam" : "Baskonia",
   "picks" : [ "174.5 Alt (1.64 - 60.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "91-83",
+  "statuses" : {
+    "174.5 Alt (1.64 - 60.8%)" : "won"
+  }
 } ]
