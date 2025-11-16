@@ -2,26 +2,34 @@
   "homeTeam" : "ABD",
   "awayTeam" : "Paraguay",
   "picks" : [ "Alt (1.4 - 63.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-1",
+  "statuses" : {
+    "Alt (1.4 - 63.0%)" : "lost"
+  }
 }, {
   "homeTeam" : "San Lorenzo",
   "awayTeam" : "CA Sarmiento",
   "picks" : [ "Alt (1.3 - 72.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-1",
+  "statuses" : {
+    "Alt (1.3 - 72.3%)" : "won"
+  }
 }, {
   "homeTeam" : "Irapuato",
   "awayTeam" : "M.D. Zacatecas",
   "picks" : [ "Var (1.5 - 66.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "2-2",
+  "statuses" : {
+    "Var (1.5 - 66.8%)" : "won"
+  }
 }, {
   "homeTeam" : "CD Marquense",
   "awayTeam" : "Deportivo Mixco",
   "picks" : [ "Alt (1.33 - 71.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Alt (1.33 - 71.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "Machida Zelvia",
   "awayTeam" : "Tokyo",

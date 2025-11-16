@@ -2,20 +2,26 @@
   "homeTeam" : "Club Un. At",
   "awayTeam" : "Urunday Universitario",
   "picks" : [ "170.5 Alt (1.59 - 65.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "77-101",
+  "statuses" : {
+    "170.5 Alt (1.59 - 65.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "Boca Juniors",
   "awayTeam" : "CA San Lorenzo De Almagro",
   "picks" : [ "163.5 Üst (1.62 - 58.8%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "78-74",
+  "statuses" : {
+    "163.5 Üst (1.62 - 58.8%)" : "lost"
+  }
 }, {
   "homeTeam" : "Charlotte",
   "awayTeam" : "Oklahoma",
   "picks" : [ "224.5 Üst (1.65 - 69.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "96-109",
+  "statuses" : {
+    "224.5 Üst (1.65 - 69.4%)" : "lost"
+  }
 }, {
   "homeTeam" : "Illawarra Hawks",
   "awayTeam" : "Sydney Kings",
