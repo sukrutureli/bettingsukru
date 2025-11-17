@@ -2,8 +2,10 @@
   "homeTeam" : "New Old Boys",
   "awayTeam" : "Racing Club",
   "picks" : [ "Alt (1.46 - 78.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-1",
+  "statuses" : {
+    "Alt (1.46 - 78.2%)" : "won"
+  }
 }, {
   "homeTeam" : "Almanya U20",
   "awayTeam" : "İtalya U20",
