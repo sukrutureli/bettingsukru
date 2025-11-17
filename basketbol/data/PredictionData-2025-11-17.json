@@ -3,23 +3,31 @@
   "awayTeam" : "BC Dubai",
   "picks" : [ "166.5 Üst (1.65 - 63.0%)" ],
   "score" : "-",
-  "statuses" : { }
+  "statuses" : {
+    "166.5 Üst (1.65 - 63.0%)" : "pending"
+  }
 }, {
   "homeTeam" : "BK Olomoucko",
   "awayTeam" : "Furnir Dubrava",
   "picks" : [ "MS2 (1.56 - 66.8%)" ],
   "score" : "-",
-  "statuses" : { }
+  "statuses" : {
+    "MS2 (1.56 - 66.8%)" : "pending"
+  }
 }, {
   "homeTeam" : "Latina",
   "awayTeam" : "Virtus Gvm Roma 1960",
   "picks" : [ "151.5 Alt (1.61 - 55.2%)" ],
   "score" : "-",
-  "statuses" : { }
+  "statuses" : {
+    "151.5 Alt (1.61 - 55.2%)" : "pending"
+  }
 }, {
   "homeTeam" : "Alba Berlin",
   "awayTeam" : "SC Jena",
   "picks" : [ "168.5 Alt (1.6 - 61.9%)" ],
   "score" : "-",
-  "statuses" : { }
+  "statuses" : {
+    "168.5 Alt (1.6 - 61.9%)" : "pending"
+  }
 } ]
