@@ -146,6 +146,7 @@
     "scoreString" : "80-78",
     "result" : "H"
   } ],
+  "totalMatches" : 14,
   "allMatches" : [ {
     "homeTeam" : "BC Dubai",
     "awayTeam" : "FMP",
@@ -287,7 +288,6 @@
     "scoreString" : "80-78",
     "result" : "H"
   } ],
-  "totalMatches" : 14,
   "ms2" : 0.5,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
@@ -483,6 +483,7 @@
     "scoreString" : "92-99",
     "result" : "A"
   } ],
+  "totalMatches" : 18,
   "allMatches" : [ {
     "homeTeam" : "KK Cedevita",
     "awayTeam" : "Kızılyıldız",
@@ -664,7 +665,6 @@
     "scoreString" : "92-99",
     "result" : "A"
   } ],
-  "totalMatches" : 18,
   "ms2" : 0.5166666666666666,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
@@ -800,6 +800,7 @@
     "scoreString" : "82-70",
     "result" : "H"
   } ],
+  "totalMatches" : 12,
   "allMatches" : [ {
     "homeTeam" : "Ankaragücü",
     "awayTeam" : "Darüşşafaka",
@@ -921,7 +922,6 @@
     "scoreString" : "82-70",
     "result" : "H"
   } ],
-  "totalMatches" : 12,
   "ms2" : 0.3333333333333333,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
@@ -1077,6 +1077,7 @@
     "scoreString" : "98-83",
     "result" : "H"
   } ],
+  "totalMatches" : 14,
   "allMatches" : [ {
     "homeTeam" : "Olomoucko",
     "awayTeam" : "Furnir Dubra",
@@ -1218,7 +1219,6 @@
     "scoreString" : "98-83",
     "result" : "H"
   } ],
-  "totalMatches" : 14,
   "ms2" : 0.6,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
@@ -1414,6 +1414,7 @@
     "scoreString" : "73-71",
     "result" : "H"
   } ],
+  "totalMatches" : 18,
   "allMatches" : [ {
     "homeTeam" : "Oldenburg",
     "awayTeam" : "Rasta Vechta",
@@ -1595,7 +1596,6 @@
     "scoreString" : "73-71",
     "result" : "H"
   } ],
-  "totalMatches" : 18,
   "ms2" : 0.6666666666666667,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
@@ -1751,6 +1751,7 @@
     "scoreString" : "78-72",
     "result" : "H"
   } ],
+  "totalMatches" : 14,
   "allMatches" : [ {
     "homeTeam" : "Latina",
     "awayTeam" : "Virtus Roma",
@@ -1892,7 +1893,6 @@
     "scoreString" : "78-72",
     "result" : "H"
   } ],
-  "totalMatches" : 14,
   "ms2" : 0.625,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
@@ -2088,6 +2088,7 @@
     "scoreString" : "79-87",
     "result" : "A"
   } ],
+  "totalMatches" : 18,
   "allMatches" : [ {
     "homeTeam" : "Boras",
     "awayTeam" : "Nassjo",
@@ -2269,7 +2270,6 @@
     "scoreString" : "79-87",
     "result" : "A"
   } ],
-  "totalMatches" : 18,
   "ms2" : 0.6833333333333333,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
@@ -2415,6 +2415,7 @@
     "scoreString" : "83-87",
     "result" : "A"
   } ],
+  "totalMatches" : 13,
   "allMatches" : [ {
     "homeTeam" : "SC Jena",
     "awayTeam" : "Alba Berlin",
@@ -2546,7 +2547,6 @@
     "scoreString" : "83-87",
     "result" : "A"
   } ],
-  "totalMatches" : 13,
   "ms2" : 0.3333333333333333,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
@@ -2742,6 +2742,7 @@
     "scoreString" : "83-102",
     "result" : "A"
   } ],
+  "totalMatches" : 18,
   "allMatches" : [ {
     "homeTeam" : "Treviso",
     "awayTeam" : "V. Bologna",
@@ -2923,7 +2924,6 @@
     "scoreString" : "83-102",
     "result" : "A"
   } ],
-  "totalMatches" : 18,
   "ms2" : 0.7583333333333333,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
