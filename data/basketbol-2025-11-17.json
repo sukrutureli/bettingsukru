@@ -50,12 +50,16 @@
   "homeTeam" : "Latina",
   "awayTeam" : "Virtus Gvm Roma 1960",
   "picks" : [ "151.5 Alt (1.6 - 55.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "80-89",
+  "statuses" : {
+    "151.5 Alt (1.6 - 55.2%)" : "lost"
+  }
 }, {
   "homeTeam" : "Alba Berlin",
   "awayTeam" : "SC Jena",
   "picks" : [ "168.5 Alt (1.6 - 61.9%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "91-78",
+  "statuses" : {
+    "168.5 Alt (1.6 - 61.9%)" : "lost"
+  }
 } ]

@@ -18,24 +18,32 @@
   "homeTeam" : "Foggia",
   "awayTeam" : "Cavese 1919",
   "picks" : [ "Yok (1.49 - 69.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Yok (1.49 - 69.0%)" : "won"
+  }
 }, {
   "homeTeam" : "Bracknell Town",
   "awayTeam" : "Hav. Waterloo",
   "picks" : [ "Var (1.35 - 72.4%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "3-0",
+  "statuses" : {
+    "Var (1.35 - 72.4%)" : "lost"
+  }
 }, {
   "homeTeam" : "Barwell",
   "awayTeam" : "Stratford",
   "picks" : [ "Üst (1.57 - 62.0%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-2",
+  "statuses" : {
+    "Üst (1.57 - 62.0%)" : "won"
+  }
 }, {
   "homeTeam" : "Belgrano",
   "awayTeam" : "Union Santa Fe",
   "picks" : [ "Alt (1.32 - 82.7%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "0-0",
+  "statuses" : {
+    "Alt (1.32 - 82.7%)" : "won"
+  }
 } ]
