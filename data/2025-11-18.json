@@ -1,0 +1,73 @@
+[ {
+  "homeTeam" : "CS Emelec",
+  "awayTeam" : "LDU Quito",
+  "picks" : [ "Yok (1.52 - 74.1%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Pakistan",
+  "awayTeam" : "Suriye",
+  "picks" : [ "Yok (1.48 - 81.4%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Azerbaycan U19",
+  "awayTeam" : "Malta U19",
+  "picks" : [ "Üst (1.39 - 62.9%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Türkmenistan",
+  "awayTeam" : "Tayvan",
+  "picks" : [ "Üst (1.33 - 74.1%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Bangladeş",
+  "awayTeam" : "Hindistan",
+  "picks" : [ "Alt (1.38 - 58.1%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Faroe Adaları U19",
+  "awayTeam" : "Bulgaristan U19",
+  "picks" : [ "Yok (1.31 - 79.0%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Wimborne",
+  "awayTeam" : "Gosport",
+  "picks" : [ "Var (1.47 - 81.1%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Basingstoke",
+  "awayTeam" : "Gloucester",
+  "picks" : [ "Var (1.35 - 80.0%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Berkhamsted",
+  "awayTeam" : "Uxbridge",
+  "picks" : [ "Var (1.41 - 79.2%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Worcester City",
+  "awayTeam" : "Stourbridge",
+  "picks" : [ "Üst (1.51 - 75.6%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Needham",
+  "awayTeam" : "Royston Town",
+  "picks" : [ "MS1 (1.47 - 65.4%)" ],
+  "score" : "-",
+  "statuses" : { }
+}, {
+  "homeTeam" : "Leiston",
+  "awayTeam" : "Bishop´s Stortford",
+  "picks" : [ "Var (1.41 - 79.9%)" ],
+  "score" : "-",
+  "statuses" : { }
+} ]
