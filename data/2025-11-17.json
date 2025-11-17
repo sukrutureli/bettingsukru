@@ -10,8 +10,10 @@
   "homeTeam" : "Almanya U20",
   "awayTeam" : "İtalya U20",
   "picks" : [ "Üst (1.35 - 71.2%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "5-0",
+  "statuses" : {
+    "Üst (1.35 - 71.2%)" : "won"
+  }
 }, {
   "homeTeam" : "Foggia",
   "awayTeam" : "Cavese 1919",
