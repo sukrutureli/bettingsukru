@@ -22,36 +22,41 @@ jobs:
       - name: Show current date
         run: date -u
 
-      - name: Delete JSON/HTML files older than 7 days (based on date in filename)
+      - name: Cleanup futbol/data and basketbol/data (older than 2 days)
         run: |
-          echo "🧹 Starting cleanup in ./data ..."
-          if [ ! -d "data" ]; then
-            echo "⚠️ data directory not found, skipping."
-            exit 0
-          fi
-
-          # Kesim tarihi: son 6 gün kalsın, 7+ gün öncesini sil
-          CUTOFF=$(date -u -d '6 days ago' +%Y-%m-%d)
+          # === PARAMETRELER ===
+          CUTOFF=$(date -u -d '1 days ago' +%Y-%m-%d)
           echo "Cutoff date: $CUTOFF"
 
           deleted_any=false
 
-          # 🔹 Hem .json hem .html dosyalarını tara
-          find data/ -type f \( -name "*.json" -o -name "*.html" \) | while read -r file; do
-            filename=$(basename "$file")
+          CLEAN_DIRS=("futbol/data" "basketbol/data")
 
-            # Dosya adındaki YYYY-MM-DD formatlı tarihi al
-            datepart=$(echo "$filename" | grep -Eo '[0-9]{4}-[0-9]{2}-[0-9]{2}' || true)
-            if [ -z "$datepart" ]; then
+          for DIR in "${CLEAN_DIRS[@]}"; do
+            echo "🧹 Checking directory: $DIR"
+
+            if [ ! -d "$DIR" ]; then
+              echo "⚠️ Directory not found, skipping: $DIR"
               continue
             fi
 
-            # Tarihi karşılaştır (lexicographic comparison yeterli)
-            if [[ "$datepart" < "$CUTOFF" ]]; then
-              echo "🗑️  Deleting $file (date $datepart < cutoff $CUTOFF)"
-              rm -f "$file"
-              deleted_any=true
-            fi
+            # JSON + HTML dosyaları tara
+            find "$DIR" -type f \( -name "*.json" -o -name "*.html" \) | while read -r file; do
+              filename=$(basename "$file")
+
+              # Dosya adındaki tarihe bak
+              datepart=$(echo "$filename" | grep -Eo '[0-9]{4}-[0-9]{2}-[0-9]{2}' || true)
+              if [ -z "$datepart" ]; then
+                continue
+              fi
+
+              # Karşılaştır
+              if [[ "$datepart" < "$CUTOFF" ]]; then
+                echo "🗑️  Deleting $file (date $datepart < cutoff $CUTOFF)"
+                rm -f "$file"
+                deleted_any=true
+              fi
+            done
           done
 
           if [ "$deleted_any" = false ]; then
@@ -68,7 +73,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "🟢 No changes to commit."
           else
-            git commit -m "Auto-cleanup: removed JSON/HTML files older than 7 days"
+            git commit -m "Auto-cleanup: removed files older than 2 days"
             git push
             echo "✅ Changes pushed."
           fi
