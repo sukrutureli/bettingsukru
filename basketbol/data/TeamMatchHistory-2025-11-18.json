@@ -3,6 +3,17 @@
   "teamEv" : "BK Uralmash",
   "teamDep" : "Loko. Kuban",
   "detailUrl" : "https://istatistik.nesine.com/2447625",
+  "odds" : {
+    "ms1" : 2.0,
+    "ms2" : 1.38,
+    "h1Value" : 3.5,
+    "h2Value" : 0.0,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Loko. Kuban",
     "awayTeam" : "BK Uralmash",
@@ -151,18 +162,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 18,
-  "ms1" : 0.275,
-  "ms2" : 0.5,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.65,
   "alt" : 0.35,
+  "ms1" : 0.275,
+  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Letonya - Estonya",
   "teamEv" : "Letonya",
   "teamDep" : "Estonya",
   "detailUrl" : "https://istatistik.nesine.com/2447674",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 17.15,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 144.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Estonya",
     "awayTeam" : "Letonya",
@@ -271,130 +293,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 13,
-  "ms1" : 0.75,
-  "ms2" : 0.25,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.41666666666666663,
   "alt" : 0.5833333333333334,
-  "max" : "MS1"
-}, {
-  "teamName" : "Ukrayna - Azerbaycan",
-  "teamEv" : "Ukrayna",
-  "teamDep" : "Azerbaycan",
-  "detailUrl" : "https://istatistik.nesine.com/2447816",
-  "rekabetGecmisi" : [ ],
-  "sonMaclarHome" : [ {
-    "homeTeam" : "Ukrayna",
-    "awayTeam" : "Bulgaristan",
-    "homeScore" : 60,
-    "awayScore" : 80,
-    "matchDate" : "15 Kas",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "Karadağ",
-    "awayTeam" : "Ukrayna",
-    "homeScore" : 65,
-    "awayScore" : 71,
-    "matchDate" : "12 Kas",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "Ukrayna",
-    "awayTeam" : "K. Makedonya",
-    "homeScore" : 74,
-    "awayScore" : 72,
-    "matchDate" : "9 Şub",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "Portekiz",
-    "awayTeam" : "Ukrayna",
-    "homeScore" : 60,
-    "awayScore" : 57,
-    "matchDate" : "6 Şub",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "Ukrayna",
-    "awayTeam" : "Sırbistan",
-    "homeScore" : 53,
-    "awayScore" : 79,
-    "matchDate" : "10 Kas",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "K. Makedonya",
-    "awayTeam" : "Ukrayna",
-    "homeScore" : 49,
-    "awayScore" : 98,
-    "matchDate" : "7 Kas",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  } ],
-  "sonMaclarAway" : [ {
-    "homeTeam" : "Azerbaycan",
-    "awayTeam" : "Karadağ",
-    "homeScore" : 62,
-    "awayScore" : 104,
-    "matchDate" : "15 Kas",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "Azerbaycan",
-    "awayTeam" : "Bulgaristan",
-    "homeScore" : 48,
-    "awayScore" : 141,
-    "matchDate" : "12 Kas",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "Azerbaycan",
-    "awayTeam" : "Polonya",
-    "homeScore" : 34,
-    "awayScore" : 88,
-    "matchDate" : "9 Şub",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "Belçika",
-    "awayTeam" : "Azerbaycan",
-    "homeScore" : 97,
-    "awayScore" : 24,
-    "matchDate" : "6 Şub",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "Azerbaycan",
-    "awayTeam" : "Litvanya",
-    "homeScore" : 47,
-    "awayScore" : 108,
-    "matchDate" : "10 Kas",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  }, {
-    "homeTeam" : "Polonya",
-    "awayTeam" : "Azerbaycan",
-    "homeScore" : 105,
-    "awayScore" : 51,
-    "matchDate" : "7 Kas",
-    "tournament" : "AVR",
-    "matchType" : "son-maclari"
-  } ],
-  "totalMatches" : 12,
   "ms1" : 0.75,
   "ms2" : 0.25,
-  "infoEnough" : false,
-  "infoEnoughWithoutRekabet" : true,
-  "ust" : 0.16666666666666666,
-  "alt" : 0.8333333333333334,
-  "max" : "Alt"
+  "max" : "MS1"
 }, {
   "teamName" : "KK Triglav K - Krka",
   "teamEv" : "KK Triglav K",
   "teamDep" : "Krka",
   "detailUrl" : "https://istatistik.nesine.com/2457623",
+  "odds" : {
+    "ms1" : 3.82,
+    "ms2" : 0.0,
+    "h1Value" : 9.5,
+    "h2Value" : 0.0,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 161.5,
+    "over" : 1.6,
+    "under" : 1.67
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Krka",
     "awayTeam" : "KK Triglav K",
@@ -543,18 +464,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 18,
-  "ms1" : 0.5416666666666666,
-  "ms2" : 0.3833333333333333,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.4666666666666667,
   "alt" : 0.5333333333333333,
+  "ms1" : 0.5416666666666666,
+  "ms2" : 0.3833333333333333,
   "max" : "MS1"
 }, {
   "teamName" : "Zenit - Nizhny",
   "teamEv" : "Zenit",
   "teamDep" : "Nizhny",
   "detailUrl" : "https://istatistik.nesine.com/2447699",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 9.9,
+    "h1Value" : 0.0,
+    "h2Value" : 17.5,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 161.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Nizhny",
     "awayTeam" : "Zenit",
@@ -703,18 +635,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 18,
-  "ms1" : 0.6083333333333334,
-  "ms2" : 0.31666666666666665,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.39166666666666666,
   "alt" : 0.6083333333333334,
+  "ms1" : 0.6083333333333334,
+  "ms2" : 0.31666666666666665,
   "max" : "MS1"
 }, {
   "teamName" : "Cluj Napoca - H. Jerusalem",
   "teamEv" : "Cluj Napoca",
   "teamDep" : "H. Jerusalem",
   "detailUrl" : "https://istatistik.nesine.com/2447564",
+  "odds" : {
+    "ms1" : 1.66,
+    "ms2" : 1.6,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 181.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Cluj Napoca",
     "awayTeam" : "H. Jerusalem",
@@ -831,18 +774,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 14,
-  "ms1" : 0.425,
-  "ms2" : 0.5,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.22499999999999998,
   "alt" : 0.775,
+  "ms1" : 0.425,
+  "ms2" : 0.5,
   "max" : "Alt"
 }, {
   "teamName" : "Neptunas - Aris",
   "teamEv" : "Neptunas",
   "teamDep" : "Aris",
   "detailUrl" : "https://istatistik.nesine.com/2447713",
+  "odds" : {
+    "ms1" : 1.53,
+    "ms2" : 1.74,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 175.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "Juventus U.",
@@ -943,18 +897,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 12,
-  "ms1" : 0.6666666666666666,
-  "ms2" : 0.3333333333333333,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.41666666666666663,
   "alt" : 0.5833333333333334,
+  "ms1" : 0.6666666666666666,
+  "ms2" : 0.3333333333333333,
   "max" : "MS1"
 }, {
   "teamName" : "Galatasaray - Trieste",
   "teamEv" : "Galatasaray",
   "teamDep" : "Trieste",
   "detailUrl" : "https://istatistik.nesine.com/2447762",
+  "odds" : {
+    "ms1" : 1.07,
+    "ms2" : 3.45,
+    "h1Value" : 0.0,
+    "h2Value" : 8.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 178.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Trieste",
     "awayTeam" : "Galatasaray",
@@ -1063,18 +1028,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 13,
-  "ms1" : 0.5833333333333334,
-  "ms2" : 0.41666666666666663,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.3333333333333333,
   "alt" : 0.6666666666666667,
+  "ms1" : 0.5833333333333334,
+  "ms2" : 0.41666666666666663,
   "max" : "Alt"
 }, {
   "teamName" : "CSKA Moskova - Parma Permsk",
   "teamEv" : "CSKA Moskova",
   "teamDep" : "Parma Permsk",
   "detailUrl" : "https://istatistik.nesine.com/2454030",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.55,
+    "h1Value" : 0.0,
+    "h2Value" : 15.5,
+    "h1" : 1.67,
+    "h2" : 1.59,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Parma Permsk",
     "awayTeam" : "CSKA Moskova",
@@ -1223,18 +1199,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 18,
-  "ms1" : 0.6833333333333333,
-  "ms2" : 0.31666666666666665,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5916666666666667,
   "alt" : 0.4083333333333333,
+  "ms1" : 0.6833333333333333,
+  "ms2" : 0.31666666666666665,
   "max" : "MS1"
 }, {
   "teamName" : "Romanya - Slovakya",
   "teamEv" : "Romanya",
   "teamDep" : "Slovakya",
   "detailUrl" : "https://istatistik.nesine.com/2447494",
+  "odds" : {
+    "ms1" : 7.67,
+    "ms2" : 0.0,
+    "h1Value" : 15.5,
+    "h2Value" : 0.0,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 136.5,
+    "over" : 1.67,
+    "under" : 1.6
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Slovakya",
     "awayTeam" : "Romanya",
@@ -1351,18 +1338,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 14,
-  "ms1" : 0.22499999999999998,
-  "ms2" : 0.7749999999999999,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.625,
   "alt" : 0.375,
+  "ms1" : 0.22499999999999998,
+  "ms2" : 0.7749999999999999,
   "max" : "MS2"
 }, {
   "teamName" : "Hırvatistan - K. Makedonya",
   "teamEv" : "Hırvatistan",
   "teamDep" : "K. Makedonya",
   "detailUrl" : "https://istatistik.nesine.com/2447549",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.03,
+    "h1Value" : 0.0,
+    "h2Value" : 14.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Hırvatistan",
     "awayTeam" : "K. Makedonya",
@@ -1487,18 +1485,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 15,
-  "ms1" : 0.775,
-  "ms2" : 0.22499999999999998,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.4833333333333334,
   "alt" : 0.5166666666666666,
+  "ms1" : 0.775,
+  "ms2" : 0.22499999999999998,
   "max" : "MS1"
 }, {
   "teamName" : "Norveç - B. Britanya",
   "teamEv" : "Norveç",
   "teamDep" : "B. Britanya",
   "detailUrl" : "https://istatistik.nesine.com/2447632",
+  "odds" : {
+    "ms1" : 17.1,
+    "ms2" : 0.0,
+    "h1Value" : 33.5,
+    "h2Value" : 0.0,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 135.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "İsviçre",
@@ -1575,18 +1584,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 9,
-  "ms1" : 0.5833333333333334,
-  "ms2" : 0.41666666666666663,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.6666666666666666,
   "alt" : 0.33333333333333337,
+  "ms1" : 0.5833333333333334,
+  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "Bulgaristan - Karadağ",
   "teamEv" : "Bulgaristan",
   "teamDep" : "Karadağ",
   "detailUrl" : "https://istatistik.nesine.com/2447643",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 8.47,
+    "h1Value" : 0.0,
+    "h2Value" : 16.5,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 145.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "Ukrayna",
@@ -1687,18 +1707,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 12,
-  "ms1" : 0.6666666666666667,
-  "ms2" : 0.25,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
   "alt" : 0.5,
+  "ms1" : 0.6666666666666667,
+  "ms2" : 0.25,
   "max" : "MS1"
 }, {
   "teamName" : "A.Heidelberg - Promitheas",
   "teamEv" : "A.Heidelberg",
   "teamDep" : "Promitheas",
   "detailUrl" : "https://istatistik.nesine.com/2447562",
+  "odds" : {
+    "ms1" : 1.68,
+    "ms2" : 1.59,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.67,
+    "hOverUnderValue" : 166.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Promitheas",
     "awayTeam" : "A.Heidelberg",
@@ -1807,18 +1838,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 13,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.5833333333333334,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.3333333333333333,
   "alt" : 0.6666666666666667,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.5833333333333334,
   "max" : "Alt"
 }, {
   "teamName" : "Danimarka - Yunanistan",
   "teamEv" : "Danimarka",
   "teamDep" : "Yunanistan",
   "detailUrl" : "https://istatistik.nesine.com/2447595",
+  "odds" : {
+    "ms1" : 3.47,
+    "ms2" : 1.06,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.69,
+    "h2" : 1.58,
+    "hOverUnderValue" : 148.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Yunanistan",
     "awayTeam" : "Danimarka",
@@ -1927,18 +1969,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 13,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.6666666666666667,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5833333333333333,
   "alt" : 0.41666666666666674,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.6666666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "Legia Wars. - BC Rytas",
   "teamEv" : "Legia Wars.",
   "teamDep" : "BC Rytas",
   "detailUrl" : "https://istatistik.nesine.com/2447654",
+  "odds" : {
+    "ms1" : 2.41,
+    "ms2" : 1.23,
+    "h1Value" : 5.5,
+    "h2Value" : 0.0,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "BC Rytas",
     "awayTeam" : "Legia Wars.",
@@ -2055,18 +2108,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 14,
-  "ms1" : 0.45,
-  "ms2" : 0.55,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.575,
   "alt" : 0.42500000000000004,
+  "ms1" : 0.45,
+  "ms2" : 0.55,
   "max" : "Üst"
 }, {
   "teamName" : "Buducnost - Ulm",
   "teamEv" : "Buducnost",
   "teamDep" : "Ulm",
   "detailUrl" : "https://istatistik.nesine.com/2506363",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.88,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Ulm",
     "awayTeam" : "Buducnost",
@@ -2215,18 +2279,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 18,
-  "ms1" : 0.7666666666666666,
-  "ms2" : 0.2,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.4083333333333333,
   "alt" : 0.5916666666666667,
+  "ms1" : 0.7666666666666666,
+  "ms2" : 0.2,
   "max" : "MS1"
 }, {
   "teamName" : "Slask - Bahçeşehir",
   "teamEv" : "Slask",
   "teamDep" : "Bahçeşehir",
   "detailUrl" : "https://istatistik.nesine.com/2506365",
+  "odds" : {
+    "ms1" : 4.01,
+    "ms2" : 0.0,
+    "h1Value" : 9.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "Slask",
@@ -2327,18 +2402,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 12,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.6666666666666667,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.41666666666666663,
   "alt" : 0.5833333333333334,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.6666666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "Lüksemburg - Bosna Hersek",
   "teamEv" : "Lüksemburg",
   "teamDep" : "Bosna Hersek",
   "detailUrl" : "https://istatistik.nesine.com/2447525",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.07,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.59,
+    "h2" : 1.69,
+    "hOverUnderValue" : 145.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Bosna Hersek",
     "awayTeam" : "Lüksemburg",
@@ -2455,18 +2541,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 14,
-  "ms1" : 0.775,
-  "ms2" : 0.225,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.15,
   "alt" : 0.85,
+  "ms1" : 0.775,
+  "ms2" : 0.225,
   "max" : "Alt"
 }, {
   "teamName" : "İsviçre - Avusturya",
   "teamEv" : "İsviçre",
   "teamDep" : "Avusturya",
   "detailUrl" : "https://istatistik.nesine.com/2447755",
+  "odds" : {
+    "ms1" : 1.12,
+    "ms2" : 2.99,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 132.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "İsviçre",
@@ -2567,18 +2664,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 12,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.5833333333333334,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
   "alt" : 0.5,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.5833333333333334,
   "max" : "MS2"
 }, {
   "teamName" : "Dziki Warsha - KB Peja",
   "teamEv" : "Dziki Warsha",
   "teamDep" : "KB Peja",
   "detailUrl" : "https://istatistik.nesine.com/2447717",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.28,
+    "h1Value" : 0.0,
+    "h2Value" : 12.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "Dziki Warsha",
@@ -2679,18 +2787,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 12,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.5,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.6666666666666666,
   "alt" : 0.33333333333333337,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "S. Uppsala - BC Lulea",
   "teamEv" : "S. Uppsala",
   "teamDep" : "BC Lulea",
   "detailUrl" : "https://istatistik.nesine.com/2447531",
+  "odds" : {
+    "ms1" : 7.95,
+    "ms2" : 0.0,
+    "h1Value" : 15.5,
+    "h2Value" : 0.0,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "S. Uppsala",
     "awayTeam" : "BC Lulea",
@@ -2799,18 +2918,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 13,
-  "ms1" : 0.16666666666666666,
-  "ms2" : 0.8333333333333334,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
   "alt" : 0.5,
+  "ms1" : 0.16666666666666666,
+  "ms2" : 0.8333333333333334,
   "max" : "MS2"
 }, {
   "teamName" : "Jamtland B. - Norrkoping",
   "teamEv" : "Jamtland B.",
   "teamDep" : "Norrkoping",
   "detailUrl" : "https://istatistik.nesine.com/2447614",
+  "odds" : {
+    "ms1" : 2.1,
+    "ms2" : 1.34,
+    "h1Value" : 3.5,
+    "h2Value" : 0.0,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 187.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Jamtland B.",
     "awayTeam" : "Norrkoping",
@@ -2959,18 +3089,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 18,
-  "ms1" : 0.33333333333333337,
-  "ms2" : 0.6666666666666667,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5416666666666666,
   "alt" : 0.45833333333333337,
+  "ms1" : 0.33333333333333337,
+  "ms2" : 0.6666666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "Koping Stars - Uppsala",
   "teamEv" : "Koping Stars",
   "teamDep" : "Uppsala",
   "detailUrl" : "https://istatistik.nesine.com/2447651",
+  "odds" : {
+    "ms1" : 2.14,
+    "ms2" : 1.32,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.58,
+    "h2" : 1.7,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Koping Stars",
     "awayTeam" : "Uppsala",
@@ -3119,18 +3260,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 18,
-  "ms1" : 0.2,
-  "ms2" : 0.725,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5416666666666666,
   "alt" : 0.45833333333333337,
+  "ms1" : 0.2,
+  "ms2" : 0.725,
   "max" : "MS2"
 }, {
   "teamName" : "Hollanda - Slovenya",
   "teamEv" : "Hollanda",
   "teamDep" : "Slovenya",
   "detailUrl" : "https://istatistik.nesine.com/2447563",
+  "odds" : {
+    "ms1" : 3.04,
+    "ms2" : 1.11,
+    "h1Value" : 7.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 144.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "Letonya",
@@ -3231,18 +3383,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 12,
-  "ms1" : 0.3333333333333333,
-  "ms2" : 0.6666666666666666,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
-  "ust" : 0.5,
-  "alt" : 0.5,
+  "ust" : 0.5833333333333333,
+  "alt" : 0.41666666666666674,
+  "ms1" : 0.3333333333333333,
+  "ms2" : 0.6666666666666666,
   "max" : "MS2"
 }, {
   "teamName" : "Trento - Niners Chem.",
   "teamEv" : "Trento",
   "teamDep" : "Niners Chem.",
   "detailUrl" : "https://istatistik.nesine.com/2447512",
+  "odds" : {
+    "ms1" : 1.46,
+    "ms2" : 1.85,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "Sassari",
@@ -3343,18 +3506,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 12,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.5833333333333334,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.75,
   "alt" : 0.25,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.5833333333333334,
   "max" : "Üst"
 }, {
   "teamName" : "Le Mans - Gran Canaria",
   "teamEv" : "Le Mans",
   "teamDep" : "Gran Canaria",
   "detailUrl" : "https://istatistik.nesine.com/2447663",
+  "odds" : {
+    "ms1" : 1.46,
+    "ms2" : 1.85,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.53,
+    "h2" : 1.74,
+    "hOverUnderValue" : 164.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Gran Canaria",
     "awayTeam" : "Le Mans",
@@ -3463,18 +3637,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 13,
-  "ms1" : 0.41666666666666663,
-  "ms2" : 0.5833333333333333,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.6666666666666667,
   "alt" : 0.33333333333333326,
+  "ms1" : 0.41666666666666663,
+  "ms2" : 0.5833333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Dijon - KB Bashkimi",
   "teamEv" : "Dijon",
   "teamDep" : "KB Bashkimi",
   "detailUrl" : "https://istatistik.nesine.com/2445588",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.83,
+    "h1Value" : 0.0,
+    "h2Value" : 14.5,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "KB Bashkimi",
     "awayTeam" : "Dijon",
@@ -3583,18 +3768,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 13,
-  "ms1" : 0.25,
-  "ms2" : 0.5833333333333334,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
-  "ust" : 1.0,
-  "alt" : 0.0,
-  "max" : "Üst"
+  "ust" : 0.41666666666666663,
+  "alt" : 0.5833333333333334,
+  "ms1" : 0.25,
+  "ms2" : 0.5833333333333334,
+  "max" : "MS2"
 }, {
   "teamName" : "Orleans - Caen Basket",
   "teamEv" : "Orleans",
   "teamDep" : "Caen Basket",
   "detailUrl" : "https://istatistik.nesine.com/2324233",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.93,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 160.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Caen Basket",
     "awayTeam" : "Orleans",
@@ -3719,18 +3915,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 15,
-  "ms1" : 0.775,
-  "ms2" : 0.15,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.4083333333333333,
   "alt" : 0.5916666666666667,
+  "ms1" : 0.775,
+  "ms2" : 0.15,
   "max" : "MS1"
 }, {
   "teamName" : "Portekiz - İzlanda",
   "teamEv" : "Portekiz",
   "teamDep" : "İzlanda",
   "detailUrl" : "https://istatistik.nesine.com/2447807",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.41,
+    "h1Value" : 0.0,
+    "h2Value" : 10.5,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 132.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "İzlanda",
     "awayTeam" : "Portekiz",
@@ -3847,18 +4054,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 14,
-  "ms1" : 0.65,
-  "ms2" : 0.35000000000000003,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.6,
   "alt" : 0.4,
+  "ms1" : 0.65,
+  "ms2" : 0.35000000000000003,
   "max" : "MS1"
 }, {
   "teamName" : "Antibes - Stade Roc.",
   "teamEv" : "Antibes",
   "teamDep" : "Stade Roc.",
   "detailUrl" : "https://istatistik.nesine.com/2324045",
+  "odds" : {
+    "ms1" : 1.5,
+    "ms2" : 1.79,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 160.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Antibes",
     "awayTeam" : "Stade Roc.",
@@ -3975,18 +4193,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 14,
-  "ms1" : 0.5,
-  "ms2" : 0.5,
   "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5,
   "alt" : 0.5,
+  "ms1" : 0.5,
+  "ms2" : 0.5,
   "max" : "MS1"
 }, {
   "teamName" : "Phoenix Brus - Keila Coolbe",
   "teamEv" : "Phoenix Brus",
   "teamDep" : "Keila Coolbe",
   "detailUrl" : "https://istatistik.nesine.com/2447571",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.63,
+    "h1Value" : 0.0,
+    "h2Value" : 13.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 161.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "Phoenix Brus",
@@ -4087,18 +4316,29 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 12,
-  "ms1" : 0.6666666666666667,
-  "ms2" : 0.3333333333333333,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.6666666666666667,
   "alt" : 0.33333333333333326,
+  "ms1" : 0.6666666666666667,
+  "ms2" : 0.3333333333333333,
   "max" : "MS1"
 }, {
   "teamName" : "Polonya - Kıbrıs Rum K",
   "teamEv" : "Polonya",
   "teamDep" : "Kıbrıs Rum K",
   "detailUrl" : "https://istatistik.nesine.com/2447647",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 17.15,
+    "h1Value" : 0.0,
+    "h2Value" : 41.5,
+    "h1" : 1.65,
+    "h2" : 1.61,
+    "hOverUnderValue" : 134.5,
+    "over" : 1.67,
+    "under" : 1.59
+  },
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
     "homeTeam" : "Polonya",
@@ -4167,11 +4407,11 @@
     "matchType" : "son-maclari"
   } ],
   "totalMatches" : 8,
-  "ms1" : 0.8333333333333333,
-  "ms2" : 0.16666666666666666,
   "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
   "alt" : 0.5,
+  "ms1" : 0.8333333333333333,
+  "ms2" : 0.16666666666666666,
   "max" : "MS1"
 } ]

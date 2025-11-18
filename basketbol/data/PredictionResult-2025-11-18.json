@@ -24,18 +24,6 @@
   "scoreline" : "80-65"
 }, {
   "algorithm" : "BasketEnsembleModel",
-  "homeTeam" : "Ukrayna",
-  "awayTeam" : "Azerbaycan",
-  "pHome" : 0.9318366548817966,
-  "pDraw" : 0.0,
-  "pAway" : 0.06816334511820343,
-  "pOver25" : 0.1602013235352906,
-  "pBttsYes" : 0.0,
-  "pick" : "MS1 | Alt",
-  "confidence" : 0.95,
-  "scoreline" : "83-60"
-}, {
-  "algorithm" : "BasketEnsembleModel",
   "homeTeam" : "KK Triglav K",
   "awayTeam" : "Krka",
   "pHome" : 0.8087967916298106,
@@ -125,7 +113,7 @@
   "pHome" : 0.9286835184327648,
   "pDraw" : 0.0,
   "pAway" : 0.07131648156723525,
-  "pOver25" : 0.5340669347697304,
+  "pOver25" : 0.5060300441241572,
   "pBttsYes" : 0.0,
   "pick" : "MS1 | Sınırda",
   "confidence" : 0.95,
@@ -293,9 +281,9 @@
   "pHome" : 0.3794173797073189,
   "pDraw" : 0.0,
   "pAway" : 0.6205826202926811,
-  "pOver25" : 0.43338164620236636,
+  "pOver25" : 0.4607408133235522,
   "pBttsYes" : 0.0,
-  "pick" : "MS2 | Alt",
+  "pick" : "MS2 | Sınırda",
   "confidence" : 0.6484937389480994,
   "scoreline" : "71-73"
 }, {
@@ -329,9 +317,9 @@
   "pHome" : 0.4895421481259007,
   "pDraw" : 0.0,
   "pAway" : 0.5104578518740994,
-  "pOver25" : 0.5,
+  "pOver25" : 0.5522314224761472,
   "pBttsYes" : 0.0,
-  "pick" : "Yakın | Sınırda",
+  "pick" : "Yakın | Üst",
   "confidence" : 0.5737303151970549,
   "scoreline" : "83-83"
 }, {
@@ -377,7 +365,7 @@
   "pHome" : 0.8614607161439126,
   "pDraw" : 0.0,
   "pAway" : 0.13853928385608738,
-  "pOver25" : 0.7438412256887772,
+  "pOver25" : 0.7218254684040735,
   "pBttsYes" : 0.0,
   "pick" : "MS1 | Üst",
   "confidence" : 0.915532229549832,

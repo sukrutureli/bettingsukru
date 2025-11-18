@@ -16,15 +16,15 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.9,
-    "ms2" : 1.43,
-    "h1Value" : 2.5,
+    "ms1" : 2.0,
+    "ms2" : 1.38,
+    "h1Value" : 3.5,
     "h2Value" : 0.0,
     "h1" : 1.65,
-    "h2" : 1.61,
+    "h2" : 1.62,
     "hOverUnderValue" : 165.5,
-    "over" : 1.62,
-    "under" : 1.65
+    "over" : 1.63,
+    "under" : 1.63
   },
   "avgPointsForHome" : 77.66666666666667,
   "avgPointsForAway" : 88.83333333333333,
@@ -61,37 +61,6 @@
   "avgPointsForAway" : 33.0,
   "h2hAvgTotalPoints" : 117.0
 }, {
-  "homeTeam" : "Ukrayna",
-  "awayTeam" : "Azerbaycan",
-  "homeStats" : {
-    "avgPointsFor" : 68.83333333333333,
-    "avgPointsAgainst" : 67.5,
-    "avgTotalPoints" : 136.33333333333334,
-    "ppg" : 1.5,
-    "empty" : false
-  },
-  "awayStats" : {
-    "avgPointsFor" : 44.333333333333336,
-    "avgPointsAgainst" : 107.16666666666667,
-    "avgTotalPoints" : 151.5,
-    "ppg" : 1.0,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 0.0,
-    "ms2" : 17.15,
-    "h1Value" : 0.0,
-    "h2Value" : 0.0,
-    "h1" : 0.0,
-    "h2" : 0.0,
-    "hOverUnderValue" : 157.5,
-    "over" : 1.65,
-    "under" : 1.61
-  },
-  "avgPointsForHome" : 0.0,
-  "avgPointsForAway" : 0.0,
-  "h2hAvgTotalPoints" : 0.0
-}, {
   "homeTeam" : "KK Triglav K",
   "awayTeam" : "Krka",
   "homeStats" : {
@@ -109,12 +78,12 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 3.83,
+    "ms1" : 3.82,
     "ms2" : 0.0,
     "h1Value" : 9.5,
     "h2Value" : 0.0,
-    "h1" : 1.62,
-    "h2" : 1.65,
+    "h1" : 1.63,
+    "h2" : 1.64,
     "hOverUnderValue" : 161.5,
     "over" : 1.6,
     "under" : 1.67
@@ -141,11 +110,11 @@
   },
   "odds" : {
     "ms1" : 0.0,
-    "ms2" : 10.4,
+    "ms2" : 9.9,
     "h1Value" : 0.0,
-    "h2Value" : 18.5,
-    "h1" : 1.65,
-    "h2" : 1.61,
+    "h2Value" : 17.5,
+    "h1" : 1.59,
+    "h2" : 1.68,
     "hOverUnderValue" : 161.5,
     "over" : 1.6,
     "under" : 1.66
@@ -171,15 +140,15 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.65,
-    "ms2" : 1.61,
+    "ms1" : 1.66,
+    "ms2" : 1.6,
     "h1Value" : 1.5,
     "h2Value" : 0.0,
-    "h1" : 1.57,
-    "h2" : 1.71,
+    "h1" : 1.58,
+    "h2" : 1.69,
     "hOverUnderValue" : 181.5,
-    "over" : 1.66,
-    "under" : 1.6
+    "over" : 1.6,
+    "under" : 1.66
   },
   "avgPointsForHome" : 80.0,
   "avgPointsForAway" : 82.0,
@@ -234,11 +203,11 @@
   },
   "odds" : {
     "ms1" : 1.07,
-    "ms2" : 3.46,
+    "ms2" : 3.45,
     "h1Value" : 0.0,
     "h2Value" : 8.5,
-    "h1" : 1.6,
-    "h2" : 1.66,
+    "h1" : 1.64,
+    "h2" : 1.63,
     "hOverUnderValue" : 178.5,
     "over" : 1.63,
     "under" : 1.64
@@ -295,15 +264,15 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 7.49,
+    "ms1" : 7.67,
     "ms2" : 0.0,
     "h1Value" : 15.5,
     "h2Value" : 0.0,
-    "h1" : 1.59,
-    "h2" : 1.67,
+    "h1" : 1.6,
+    "h2" : 1.66,
     "hOverUnderValue" : 136.5,
     "over" : 1.67,
-    "under" : 1.59
+    "under" : 1.6
   },
   "avgPointsForHome" : 64.5,
   "avgPointsForAway" : 91.5,
@@ -327,14 +296,14 @@
   },
   "odds" : {
     "ms1" : 0.0,
-    "ms2" : 7.55,
+    "ms2" : 7.03,
     "h1Value" : 0.0,
-    "h2Value" : 15.5,
-    "h1" : 1.61,
-    "h2" : 1.65,
-    "hOverUnderValue" : 151.5,
-    "over" : 1.59,
-    "under" : 1.67
+    "h2Value" : 14.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.62,
+    "under" : 1.65
   },
   "avgPointsForHome" : 92.66666666666667,
   "avgPointsForAway" : 45.333333333333336,
@@ -450,12 +419,12 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 3.7,
-    "ms2" : 0.0,
-    "h1Value" : 9.5,
+    "ms1" : 3.47,
+    "ms2" : 1.06,
+    "h1Value" : 8.5,
     "h2Value" : 0.0,
-    "h1" : 1.59,
-    "h2" : 1.68,
+    "h1" : 1.69,
+    "h2" : 1.58,
     "hOverUnderValue" : 148.5,
     "over" : 1.62,
     "under" : 1.65
@@ -481,12 +450,12 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 2.34,
-    "ms2" : 1.25,
+    "ms1" : 2.41,
+    "ms2" : 1.23,
     "h1Value" : 5.5,
     "h2Value" : 0.0,
-    "h1" : 1.57,
-    "h2" : 1.7,
+    "h1" : 1.61,
+    "h2" : 1.65,
     "hOverUnderValue" : 169.5,
     "over" : 1.62,
     "under" : 1.65
@@ -512,12 +481,12 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.05,
-    "ms2" : 3.58,
+    "ms1" : 0.0,
+    "ms2" : 3.88,
     "h1Value" : 0.0,
-    "h2Value" : 8.5,
-    "h1" : 1.59,
-    "h2" : 1.67,
+    "h2Value" : 9.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
     "hOverUnderValue" : 170.5,
     "over" : 1.65,
     "under" : 1.62
@@ -575,11 +544,11 @@
   },
   "odds" : {
     "ms1" : 0.0,
-    "ms2" : 4.16,
+    "ms2" : 4.07,
     "h1Value" : 0.0,
-    "h2Value" : 10.5,
-    "h1" : 1.67,
-    "h2" : 1.59,
+    "h2Value" : 9.5,
+    "h1" : 1.59,
+    "h2" : 1.69,
     "hOverUnderValue" : 145.5,
     "over" : 1.6,
     "under" : 1.66
@@ -698,15 +667,15 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 2.11,
-    "ms2" : 1.33,
+    "ms1" : 2.1,
+    "ms2" : 1.34,
     "h1Value" : 3.5,
     "h2Value" : 0.0,
     "h1" : 1.68,
     "h2" : 1.59,
     "hOverUnderValue" : 187.5,
-    "over" : 1.62,
-    "under" : 1.65
+    "over" : 1.66,
+    "under" : 1.6
   },
   "avgPointsForHome" : 86.0,
   "avgPointsForAway" : 87.16666666666667,
@@ -766,9 +735,9 @@
     "h2Value" : 0.0,
     "h1" : 1.59,
     "h2" : 1.68,
-    "hOverUnderValue" : 145.5,
-    "over" : 1.63,
-    "under" : 1.64
+    "hOverUnderValue" : 144.5,
+    "over" : 1.61,
+    "under" : 1.65
   },
   "avgPointsForHome" : 0.0,
   "avgPointsForAway" : 0.0,
@@ -854,14 +823,14 @@
   },
   "odds" : {
     "ms1" : 0.0,
-    "ms2" : 6.23,
+    "ms2" : 6.83,
     "h1Value" : 0.0,
     "h2Value" : 14.5,
-    "h1" : 1.64,
-    "h2" : 1.63,
-    "hOverUnderValue" : 0.0,
-    "over" : 0.0,
-    "under" : 0.0
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.62,
+    "under" : 1.65
   },
   "avgPointsForHome" : 68.0,
   "avgPointsForAway" : 68.0,
@@ -916,7 +885,7 @@
   },
   "odds" : {
     "ms1" : 0.0,
-    "ms2" : 4.42,
+    "ms2" : 4.41,
     "h1Value" : 0.0,
     "h2Value" : 10.5,
     "h1" : 1.66,
@@ -946,14 +915,14 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.46,
-    "ms2" : 1.86,
+    "ms1" : 1.5,
+    "ms2" : 1.79,
     "h1Value" : 0.0,
-    "h2Value" : 2.5,
-    "h1" : 1.63,
-    "h2" : 1.64,
+    "h2Value" : 1.5,
+    "h1" : 1.58,
+    "h2" : 1.69,
     "hOverUnderValue" : 160.5,
-    "over" : 1.6,
+    "over" : 1.59,
     "under" : 1.67
   },
   "avgPointsForHome" : 75.0,
@@ -983,9 +952,9 @@
     "h2Value" : 13.5,
     "h1" : 1.62,
     "h2" : 1.65,
-    "hOverUnderValue" : 160.5,
-    "over" : 1.64,
-    "under" : 1.63
+    "hOverUnderValue" : 161.5,
+    "over" : 1.65,
+    "under" : 1.61
   },
   "avgPointsForHome" : 0.0,
   "avgPointsForAway" : 0.0,
@@ -1012,11 +981,11 @@
     "ms2" : 17.15,
     "h1Value" : 0.0,
     "h2Value" : 41.5,
-    "h1" : 1.61,
-    "h2" : 1.65,
+    "h1" : 1.65,
+    "h2" : 1.61,
     "hOverUnderValue" : 134.5,
-    "over" : 1.59,
-    "under" : 1.67
+    "over" : 1.67,
+    "under" : 1.59
   },
   "avgPointsForHome" : 0.0,
   "avgPointsForAway" : 0.0,
