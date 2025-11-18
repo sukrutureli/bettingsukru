@@ -1,0 +1,116 @@
+[ {
+  "name" : "Atlanta - Detroit",
+  "time" : "03:30",
+  "predictions" : [ "229.5 Üst (1.66 - 60.7%)" ],
+  "score" : "119-116"
+}, {
+  "name" : "LA Lakers - Utah",
+  "time" : "06:30",
+  "predictions" : [ "238.5 Alt (1.65 - 58.3%)" ],
+  "score" : "121-115"
+}, {
+  "name" : "Portland - Phoenix",
+  "time" : "07:00",
+  "predictions" : [ "MS2 (1.81 - 68.5%)" ],
+  "score" : "117-121"
+}, {
+  "name" : "Adelaide 36ers - Illawarra Hawks",
+  "time" : "11:30",
+  "predictions" : [ "184.5 Alt (1.61 - 66.8%)" ],
+  "score" : "93-86"
+}, {
+  "name" : "Yongin Samsung L. (K) - Cheongju KB Stars (K)",
+  "time" : "13:00",
+  "predictions" : [ "123.5 Alt (1.59 - 68.8%)" ],
+  "score" : "60-57"
+}, {
+  "name" : "Mobis Phoebus - Seoul SK Knights",
+  "time" : "13:00",
+  "predictions" : [ "MS2 (1.41 - 57.0%)" ],
+  "score" : "76-77"
+}, {
+  "name" : "Türk Telekom - Beşiktaş",
+  "time" : "19:00",
+  "predictions" : [ "MS1 (1.61 - 84.6%)" ],
+  "score" : "90-82"
+}, {
+  "name" : "Tartu - Antwerp",
+  "time" : "20:00",
+  "predictions" : [ "167.5 Üst (1.62 - 60.1%)" ],
+  "score" : "84-88"
+}, {
+  "name" : "Csm Corona Brasov - AEK Larnaca",
+  "time" : "20:00",
+  "predictions" : [ "MS2 (1.79 - 73.0%)" ],
+  "score" : "81-86"
+}, {
+  "name" : "CSM Oradea - Petkim Spor",
+  "time" : "20:00",
+  "predictions" : [ "161.5 Alt (1.6 - 58.2%)" ],
+  "score" : "80-79"
+}, {
+  "name" : "Usti nad Labem - BK Jip Pardubice",
+  "time" : "20:00",
+  "predictions" : [ "MS2 (1.37 - 59.5%)" ],
+  "score" : "88-90"
+}, {
+  "name" : "Szedeak - Duna Aszfalt",
+  "time" : "20:00",
+  "predictions" : [ "MS2 (1.48 - 56.4%)" ],
+  "score" : "80-81"
+}, {
+  "name" : "Zalakeramia ZTE - Kormend",
+  "time" : "20:00",
+  "predictions" : [ "MS2 (1.87 - 56.8%)" ],
+  "score" : "92-93"
+}, {
+  "name" : "Panionios - Lietkabelis",
+  "time" : "20:30",
+  "predictions" : [ "MS2 (1.56 - 57.5%)" ],
+  "score" : "84-86"
+}, {
+  "name" : "Kalev - Trefl Sopot",
+  "time" : "20:30",
+  "predictions" : [ "168.5 Üst (1.6 - 65.0%)" ],
+  "score" : "89-86"
+}, {
+  "name" : "KK Igokea - Wurzburg",
+  "time" : "21:00",
+  "predictions" : [ "MS1 (1.3 - 87.5%)" ],
+  "score" : "87-77"
+}, {
+  "name" : "Rasta Vechta - Sassari",
+  "time" : "21:00",
+  "predictions" : [ "MS2 (1.84 - 60.3%)" ],
+  "score" : "84-86"
+}, {
+  "name" : "Prievidza - Kk Cedevita Zagreb Junior",
+  "time" : "21:00",
+  "predictions" : [ "169.5 Alt (1.63 - 61.8%)" ],
+  "score" : "87-78"
+}, {
+  "name" : "Alkar Sinj - Kapfenberg",
+  "time" : "21:00",
+  "predictions" : [ "MS2 (1.68 - 81.4%)" ],
+  "score" : "77-85"
+}, {
+  "name" : "KK Bosna Royal Sarajevo - Rilski",
+  "time" : "21:30",
+  "predictions" : [ "156.5 Alt (1.64 - 72.0%)" ],
+  "score" : "76-72"
+}, {
+  "name" : "Gladiators Trier - SC Jena",
+  "time" : "22:00",
+  "predictions" : [ "MS1 (1.3 - 73.0%)" ],
+  "score" : "89-84"
+}, {
+  "name" : "London Lions - JL Bourg",
+  "time" : "22:30",
+  "predictions" : [ "160.5 Üst (1.6 - 61.5%)" ],
+  "score" : "87-78"
+}, {
+  "name" : "Dinamo Zagreb - Gimle BK",
+  "time" : "22:30",
+  "predictions" : [ "176.5 Alt (1.61 - 59.3%)" ],
+  "score" : "88-85"
+} ]
