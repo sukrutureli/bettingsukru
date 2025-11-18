@@ -1,18 +1,26 @@
 [ {
-  "homeTeam" : "Neptunas K.",
-  "awayTeam" : "Aris",
-  "picks" : [ "MS1 (1.53 - 83.0%)" ],
+  "homeTeam" : "Cluj Napoca",
+  "awayTeam" : "Hapoel Jerusalem",
+  "picks" : [ "182.5 Alt (1.64 - 56.1%)" ],
   "score" : "-",
   "statuses" : {
-    "MS1 (1.53 - 83.0%)" : "pending"
+    "182.5 Alt (1.64 - 56.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Neptunas K.",
+  "awayTeam" : "Aris",
+  "picks" : [ "MS1 (1.72 - 83.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.72 - 83.0%)" : "pending"
   }
 }, {
   "homeTeam" : "MLP A. Heidelberg",
   "awayTeam" : "Promitheas",
-  "picks" : [ "166.5 Alt (1.63 - 64.6%)" ],
+  "picks" : [ "166.5 Alt (1.64 - 64.6%)" ],
   "score" : "-",
   "statuses" : {
-    "166.5 Alt (1.63 - 64.6%)" : "pending"
+    "166.5 Alt (1.64 - 64.6%)" : "pending"
   }
 }, {
   "homeTeam" : "Legia Warsz.",
@@ -25,10 +33,10 @@
 }, {
   "homeTeam" : "Lüksemburg (K)",
   "awayTeam" : "Bosna Hersek (K)",
-  "picks" : [ "145.5 Alt (1.66 - 76.7%)" ],
+  "picks" : [ "144.5 Alt (1.6 - 74.7%)" ],
   "score" : "-",
   "statuses" : {
-    "145.5 Alt (1.66 - 76.7%)" : "pending"
+    "144.5 Alt (1.6 - 74.7%)" : "pending"
   }
 }, {
   "homeTeam" : "Dziki Warshawa",
@@ -41,18 +49,18 @@
 }, {
   "homeTeam" : "Jamtland",
   "awayTeam" : "Norrkoping",
-  "picks" : [ "MS2 (1.34 - 66.9%)" ],
+  "picks" : [ "MS2 (1.51 - 66.9%)" ],
   "score" : "-",
   "statuses" : {
-    "MS2 (1.34 - 66.9%)" : "pending"
+    "MS2 (1.51 - 66.9%)" : "pending"
   }
 }, {
   "homeTeam" : "Koping Stars",
   "awayTeam" : "Uppsala",
-  "picks" : [ "MS2 (1.32 - 67.4%)" ],
+  "picks" : [ "MS2 (1.31 - 67.4%)" ],
   "score" : "-",
   "statuses" : {
-    "MS2 (1.32 - 67.4%)" : "pending"
+    "MS2 (1.31 - 67.4%)" : "pending"
   }
 }, {
   "homeTeam" : "A. Basket Trento",
