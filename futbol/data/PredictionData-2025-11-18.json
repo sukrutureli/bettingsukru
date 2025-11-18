@@ -1,18 +1,18 @@
 [ {
-  "homeTeam" : "HB Chelghoum L.",
-  "awayTeam" : "MSP Batna",
-  "picks" : [ "Alt (1.36 - 63.2%)" ],
-  "score" : "-",
-  "statuses" : {
-    "Alt (1.36 - 63.2%)" : "pending"
-  }
-}, {
   "homeTeam" : "Bangladeş",
   "awayTeam" : "Hindistan",
-  "picks" : [ "Alt (1.33 - 58.1%)" ],
+  "picks" : [ "Alt (1.39 - 58.1%)" ],
   "score" : "-",
   "statuses" : {
-    "Alt (1.33 - 58.1%)" : "pending"
+    "Alt (1.39 - 58.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Faroe Adaları U19",
+  "awayTeam" : "Bulgaristan U19",
+  "picks" : [ "Yok (1.3 - 79.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Yok (1.3 - 79.0%)" : "pending"
   }
 }, {
   "homeTeam" : "Cebelitarık U21",
@@ -33,18 +33,10 @@
 }, {
   "homeTeam" : "Basingstoke",
   "awayTeam" : "Gloucester",
-  "picks" : [ "Var (1.39 - 80.0%)" ],
+  "picks" : [ "Var (1.4 - 80.0%)" ],
   "score" : "-",
   "statuses" : {
-    "Var (1.39 - 80.0%)" : "pending"
-  }
-}, {
-  "homeTeam" : "Berkhamsted",
-  "awayTeam" : "Uxbridge",
-  "picks" : [ "Var (1.45 - 79.2%)" ],
-  "score" : "-",
-  "statuses" : {
-    "Var (1.45 - 79.2%)" : "pending"
+    "Var (1.4 - 80.0%)" : "pending"
   }
 }, {
   "homeTeam" : "Worcester City",
@@ -57,10 +49,10 @@
 }, {
   "homeTeam" : "Needham",
   "awayTeam" : "Royston Town",
-  "picks" : [ "MS1 (1.6 - 64.9%)" ],
+  "picks" : [ "MS1 (1.55 - 65.1%)" ],
   "score" : "-",
   "statuses" : {
-    "MS1 (1.6 - 64.9%)" : "pending"
+    "MS1 (1.55 - 65.1%)" : "pending"
   }
 }, {
   "homeTeam" : "Leiston",
