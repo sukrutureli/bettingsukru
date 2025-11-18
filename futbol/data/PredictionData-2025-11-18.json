@@ -1,0 +1,73 @@
+[ {
+  "homeTeam" : "HB Chelghoum L.",
+  "awayTeam" : "MSP Batna",
+  "picks" : [ "Alt (1.36 - 63.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.36 - 63.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bangladeş",
+  "awayTeam" : "Hindistan",
+  "picks" : [ "Alt (1.33 - 58.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 58.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cebelitarık U21",
+  "awayTeam" : "Azerbaycan U21",
+  "picks" : [ "Üst (1.3 - 80.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.3 - 80.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Wimborne",
+  "awayTeam" : "Gosport",
+  "picks" : [ "Var (1.47 - 81.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.47 - 81.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Basingstoke",
+  "awayTeam" : "Gloucester",
+  "picks" : [ "Var (1.39 - 80.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.39 - 80.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Berkhamsted",
+  "awayTeam" : "Uxbridge",
+  "picks" : [ "Var (1.45 - 79.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.45 - 79.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Worcester City",
+  "awayTeam" : "Stourbridge",
+  "picks" : [ "Üst (1.51 - 75.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.51 - 75.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Needham",
+  "awayTeam" : "Royston Town",
+  "picks" : [ "MS1 (1.6 - 64.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.6 - 64.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Leiston",
+  "awayTeam" : "Bishop´s Stortford",
+  "picks" : [ "Var (1.41 - 79.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.41 - 79.9%)" : "pending"
+  }
+} ]
