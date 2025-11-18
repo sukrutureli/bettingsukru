@@ -5,8 +5,8 @@ on:
   push:
     branches: [ main ]
     paths:
-      - "*.html"
-      - "data/*.html"
+      - "futbol/futbol.html"
+      - "basketbol/basketbol.html"
 
 jobs:
   notify:
@@ -16,20 +16,20 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 2   # diff alabilmek için en az 2 commit gerekli
+          fetch-depth: 2   # diff için gerekli
 
       - name: Detect changed HTML files
         id: detect
         run: |
-          echo "🔍 Değişen veya yeni eklenen HTML dosyaları tespit ediliyor..."
-          
-          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '\.html$' || true)
+          echo "🔍 Değişen HTML dosyaları kontrol ediliyor..."
+
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '^(futbol/futbol\.html|basketbol/basketbol\.html)$' || true)
 
           if [ -z "$CHANGED_FILES" ]; then
-            echo "⚠️ Hiç yeni/değişen HTML dosyası yok."
+            echo "⚠️ Hiç değişiklik yok."
             echo "found=false" >> $GITHUB_OUTPUT
           else
-            echo "📂 Bulunan dosyalar:"
+            echo "📂 Değişen dosyalar:"
             echo "$CHANGED_FILES"
             echo "$CHANGED_FILES" > changed.txt
             echo "found=true" >> $GITHUB_OUTPUT
@@ -46,26 +46,25 @@ jobs:
             if [ -f "$FILE" ]; then
               BASENAME=$(basename "$FILE")
 
-              # 🔹 Emoji seçimi
-              if [[ "$BASENAME" == *"futbol"* ]]; then
+              # 🔹 İkon seçimi
+              if [[ "$FILE" == futbol/futbol.html ]]; then
                 ICON="⚽"
-              elif [[ "$FILE" == data/* ]]; then
-                ICON="📊"
-              elif [[ "$BASENAME" == *"basketbol"* ]]; then
+              elif [[ "$FILE" == basketbol/basketbol.html ]]; then
                 ICON="🏀"
               else
                 ICON="📁"
               fi
 
-              CAPTION="$ICON $(basename "$FILE") - $(date +'%d.%m.%Y %H:%M')"
+              CAPTION="$ICON $BASENAME - $(date +'%d.%m.%Y %H:%M')"
 
-              echo "📤 Gönderiliyor: $BASENAME ($ICON)"
+              echo "📤 Gönderiliyor: $FILE ($ICON)"
               curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendDocument" \
                 -F chat_id="$TELEGRAM_CHAT_ID" \
                 -F document="@$FILE" \
                 -F caption="$CAPTION"
+
               echo "✅ Gönderildi: $FILE"
             else
-              echo "⚠️ Dosya bulunamadı (silinmiş olabilir): $FILE"
+              echo "⚠️ Dosya bulunamadı: $FILE"
             fi
           done < changed.txt
