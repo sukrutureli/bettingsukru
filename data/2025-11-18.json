@@ -2,8 +2,10 @@
   "homeTeam" : "CS Emelec",
   "awayTeam" : "LDU Quito",
   "picks" : [ "Yok (1.52 - 74.1%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "1-2",
+  "statuses" : {
+    "Yok (1.52 - 74.1%)" : "lost"
+  }
 }, {
   "homeTeam" : "Pakistan",
   "awayTeam" : "Suriye",

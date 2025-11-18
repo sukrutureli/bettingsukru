@@ -2,14 +2,18 @@
   "homeTeam" : "Miami",
   "awayTeam" : "New York",
   "picks" : [ "MS2 (1.78 - 64.6%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "115-113",
+  "statuses" : {
+    "MS2 (1.78 - 64.6%)" : "lost"
+  }
 }, {
   "homeTeam" : "Minnesota",
   "awayTeam" : "Dallas",
   "picks" : [ "231.5 Üst (1.65 - 64.3%)" ],
-  "score" : "-",
-  "statuses" : { }
+  "score" : "120-96",
+  "statuses" : {
+    "231.5 Üst (1.65 - 64.3%)" : "lost"
+  }
 }, {
   "homeTeam" : "Dongbu Promy",
   "awayTeam" : "Goyang Orions",
