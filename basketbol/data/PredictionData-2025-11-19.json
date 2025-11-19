@@ -2,9 +2,9 @@
   "homeTeam" : "Adelaide 36ers",
   "awayTeam" : "Illawarra Hawks",
   "picks" : [ "185.5 Alt (1.63 - 69.2%)" ],
-  "score" : "-",
+  "score" : "97-85",
   "statuses" : {
-    "185.5 Alt (1.63 - 69.2%)" : "pending"
+    "185.5 Alt (1.63 - 69.2%)" : "won"
   }
 }, {
   "homeTeam" : "Yongin Samsung L. (K)",
