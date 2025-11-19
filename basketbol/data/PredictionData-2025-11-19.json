@@ -26,57 +26,57 @@
   "homeTeam" : "Türk Telekom",
   "awayTeam" : "Beşiktaş",
   "picks" : [ "MS1 (1.61 - 84.6%)" ],
-  "score" : "-",
+  "score" : "84-93",
   "statuses" : {
-    "MS1 (1.61 - 84.6%)" : "pending"
+    "MS1 (1.61 - 84.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Tartu",
   "awayTeam" : "Antwerp",
   "picks" : [ "167.5 Üst (1.66 - 60.1%)" ],
-  "score" : "-",
+  "score" : "81-91",
   "statuses" : {
-    "167.5 Üst (1.66 - 60.1%)" : "pending"
+    "167.5 Üst (1.66 - 60.1%)" : "won"
   }
 }, {
   "homeTeam" : "Csm Corona Brasov",
   "awayTeam" : "AEK Larnaca",
   "picks" : [ "MS2 (1.79 - 73.0%)" ],
-  "score" : "-",
+  "score" : "83-90",
   "statuses" : {
-    "MS2 (1.79 - 73.0%)" : "pending"
+    "MS2 (1.79 - 73.0%)" : "won"
   }
 }, {
   "homeTeam" : "CSM Oradea",
   "awayTeam" : "Petkim Spor",
   "picks" : [ "161.5 Alt (1.6 - 58.2%)" ],
-  "score" : "-",
+  "score" : "77-71",
   "statuses" : {
-    "161.5 Alt (1.6 - 58.2%)" : "pending"
+    "161.5 Alt (1.6 - 58.2%)" : "won"
   }
 }, {
   "homeTeam" : "Usti nad Labem",
   "awayTeam" : "BK Jip Pardubice",
   "picks" : [ "MS2 (1.37 - 59.5%)" ],
-  "score" : "-",
+  "score" : "84-98",
   "statuses" : {
-    "MS2 (1.37 - 59.5%)" : "pending"
+    "MS2 (1.37 - 59.5%)" : "won"
   }
 }, {
   "homeTeam" : "Szedeak",
   "awayTeam" : "Duna Aszfalt",
   "picks" : [ "MS2 (1.48 - 56.4%)" ],
-  "score" : "-",
+  "score" : "68-67",
   "statuses" : {
-    "MS2 (1.48 - 56.4%)" : "pending"
+    "MS2 (1.48 - 56.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Zalakeramia ZTE",
   "awayTeam" : "Kormend",
   "picks" : [ "MS2 (1.87 - 56.8%)" ],
-  "score" : "-",
+  "score" : "87-76",
   "statuses" : {
-    "MS2 (1.87 - 56.8%)" : "pending"
+    "MS2 (1.87 - 56.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Panionios",

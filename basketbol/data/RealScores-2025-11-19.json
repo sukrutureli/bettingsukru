@@ -110,4 +110,76 @@
   "homeTeam" : "New Taipei Kings",
   "awayTeam" : "LG Sakers",
   "score" : "93-87"
+}, {
+  "homeTeam" : "Türk Telekom",
+  "awayTeam" : "Beşiktaş",
+  "score" : "84-93"
+}, {
+  "homeTeam" : "Neftchi IK",
+  "awayTeam" : "Absheron BC",
+  "score" : "86-95"
+}, {
+  "homeTeam" : "Anorthosis Famagusta",
+  "awayTeam" : "F. Szombathely",
+  "score" : "79-87"
+}, {
+  "homeTeam" : "Basket Brno",
+  "awayTeam" : "Peristeri",
+  "score" : "73-87"
+}, {
+  "homeTeam" : "Tartu",
+  "awayTeam" : "Antwerp",
+  "score" : "81-91"
+}, {
+  "homeTeam" : "Rostock Seawolves",
+  "awayTeam" : "Porto",
+  "score" : "96-68"
+}, {
+  "homeTeam" : "Csm Corona Brasov",
+  "awayTeam" : "AEK Larnaca",
+  "score" : "83-90"
+}, {
+  "homeTeam" : "CSM Oradea",
+  "awayTeam" : "Petkim Spor",
+  "score" : "77-71"
+}, {
+  "homeTeam" : "Anwil Wlocl.",
+  "awayTeam" : "KB Trepca",
+  "score" : "96-78"
+}, {
+  "homeTeam" : "Usti nad Labem",
+  "awayTeam" : "BK Jip Pardubice",
+  "score" : "84-98"
+}, {
+  "homeTeam" : "Nymburk",
+  "awayTeam" : "BK NH Ostrava",
+  "score" : "112-84"
+}, {
+  "homeTeam" : "BK Opava",
+  "awayTeam" : "BK Gapa Hradec Kralove",
+  "score" : "86-73"
+}, {
+  "homeTeam" : "Szedeak",
+  "awayTeam" : "Duna Aszfalt",
+  "score" : "68-67"
+}, {
+  "homeTeam" : "Zalakeramia ZTE",
+  "awayTeam" : "Kormend",
+  "score" : "87-76"
+}, {
+  "homeTeam" : "Atomeromu SE",
+  "awayTeam" : "Soproni Sordogok",
+  "score" : "94-72"
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "BKM Lucenec",
+  "score" : "99-82"
+}, {
+  "homeTeam" : "MBA Moscow",
+  "awayTeam" : "Avtodor Sara",
+  "score" : "77-73"
+}, {
+  "homeTeam" : "Unics Kazan",
+  "awayTeam" : "Enisey Krasnoyarsk",
+  "score" : "88-74"
 } ]
