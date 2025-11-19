@@ -18,9 +18,9 @@
   "homeTeam" : "Mobis Phoebus",
   "awayTeam" : "Seoul SK Knights",
   "picks" : [ "MS2 (1.36 - 57.0%)" ],
-  "score" : "-",
+  "score" : "68-89",
   "statuses" : {
-    "MS2 (1.36 - 57.0%)" : "pending"
+    "MS2 (1.36 - 57.0%)" : "won"
   }
 }, {
   "homeTeam" : "Türk Telekom",
