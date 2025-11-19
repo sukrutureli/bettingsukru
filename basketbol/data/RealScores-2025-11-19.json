@@ -1,0 +1,93 @@
+[ {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "Golden State",
+  "score" : "121-113"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "Detroit",
+  "score" : "112-120"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Boston",
+  "score" : "99-113"
+}, {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "Memphis",
+  "score" : "111-101"
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "Utah",
+  "score" : "140-126"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Phoenix",
+  "score" : "110-127"
+}, {
+  "homeTeam" : "Kentucky Wildcats",
+  "awayTeam" : "Michigan State Spartans",
+  "score" : "66-83"
+}, {
+  "homeTeam" : "North Carolina Tar Heels",
+  "awayTeam" : "Navy Midshipmen",
+  "score" : "73-61"
+}, {
+  "homeTeam" : "Arkansas Razorbacks",
+  "awayTeam" : "Winthrop Eagles",
+  "score" : "84-83"
+}, {
+  "homeTeam" : "Duke Blue Devils",
+  "awayTeam" : "Kansas Jayhawks",
+  "score" : "78-66"
+}, {
+  "homeTeam" : "UCLA Bruins",
+  "awayTeam" : "Sacramento State Hornets",
+  "score" : "79-48"
+}, {
+  "homeTeam" : "Michigan Wolverines (K)",
+  "awayTeam" : "Binghamton Bearcats",
+  "score" : "120-50"
+}, {
+  "homeTeam" : "Kentucky Wildcats (K)",
+  "awayTeam" : "Purdue Boilermakers(K)",
+  "score" : "76-35"
+}, {
+  "homeTeam" : "Memphis Tigers (K)",
+  "awayTeam" : "Ole Mississippi Rebels (K)",
+  "score" : "64-73"
+}, {
+  "homeTeam" : "USC Trojans (K)",
+  "awayTeam" : "Portland Pilots (K)",
+  "score" : "78-51"
+}, {
+  "homeTeam" : "Racing de Chivilcoy",
+  "awayTeam" : "Gimnasia",
+  "score" : "70-93"
+}, {
+  "homeTeam" : "San Martin C.",
+  "awayTeam" : "Instituto de Cordoba",
+  "score" : "75-63"
+}, {
+  "homeTeam" : "Minas",
+  "awayTeam" : "CA Paulistano",
+  "score" : "94-63"
+}, {
+  "homeTeam" : "B. Cearense",
+  "awayTeam" : "SAO Jose Dos Campos",
+  "score" : "77-86"
+}, {
+  "homeTeam" : "Unifacisa",
+  "awayTeam" : "Bauru Basket",
+  "score" : "86-66"
+}, {
+  "homeTeam" : "Botafogo",
+  "awayTeam" : "Universo Brasilia",
+  "score" : "70-82"
+}, {
+  "homeTeam" : "CD Espanol Osorno",
+  "awayTeam" : "CD Universidad De Concepcion",
+  "score" : "93-78"
+}, {
+  "homeTeam" : "Club Malvin",
+  "awayTeam" : "Hebraica Macabi",
+  "score" : "52-61"
+} ]
