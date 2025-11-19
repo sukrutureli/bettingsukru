@@ -178,4 +178,52 @@
   "homeTeam" : "Gaddafi",
   "awayTeam" : "Uganda Police",
   "score" : "0-2"
+}, {
+  "homeTeam" : "Young Boys (K)",
+  "awayTeam" : "AC Sparta Prag (K)",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "ZNK Pomurje (K)",
+  "awayTeam" : "Nordsjaelland (K)",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Fortuna H. (K)",
+  "awayTeam" : "Breidablik (K)",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "RC Strasbourg (K)",
+  "awayTeam" : "St. Etienne (K)",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Asante Kotoko",
+  "awayTeam" : "Young Apostles",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "NK Karlovac 1919",
+  "awayTeam" : "D. Zagreb",
+  "score" : "0-7"
+}, {
+  "homeTeam" : "CD Coria",
+  "awayTeam" : "Orihuela",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Universidad Nacional U21",
+  "awayTeam" : "Pachuca U21",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Juarez U21",
+  "awayTeam" : "Santos Laguna U21",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Remo Stars",
+  "awayTeam" : "Kano Pillars",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "GKS Katowice (K)",
+  "awayTeam" : "Pogon Tczew (K)",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Farense U23",
+  "awayTeam" : "Estrela A. U23",
+  "score" : "4-0"
 } ]
