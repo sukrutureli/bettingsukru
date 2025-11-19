@@ -1,10 +1,10 @@
 [ {
   "homeTeam" : "Adelaide 36ers",
   "awayTeam" : "Illawarra Hawks",
-  "picks" : [ "185.5 Alt (1.6 - 69.2%)" ],
+  "picks" : [ "185.5 Alt (1.63 - 69.2%)" ],
   "score" : "-",
   "statuses" : {
-    "185.5 Alt (1.6 - 69.2%)" : "pending"
+    "185.5 Alt (1.63 - 69.2%)" : "pending"
   }
 }, {
   "homeTeam" : "Yongin Samsung L. (K)",
@@ -17,10 +17,10 @@
 }, {
   "homeTeam" : "Mobis Phoebus",
   "awayTeam" : "Seoul SK Knights",
-  "picks" : [ "MS2 (1.41 - 57.0%)" ],
+  "picks" : [ "MS2 (1.36 - 57.0%)" ],
   "score" : "-",
   "statuses" : {
-    "MS2 (1.41 - 57.0%)" : "pending"
+    "MS2 (1.36 - 57.0%)" : "pending"
   }
 }, {
   "homeTeam" : "Türk Telekom",

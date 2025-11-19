@@ -11,8 +11,8 @@
     "h1" : 1.64,
     "h2" : 1.63,
     "hOverUnderValue" : 185.5,
-    "over" : 1.66,
-    "under" : 1.6
+    "over" : 1.64,
+    "under" : 1.63
   },
   "rekabetGecmisi" : [ {
     "homeTeam" : "Adelaide 36",
@@ -163,11 +163,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.39166666666666666,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.16666666666666666,
-  "ms1" : 0.5333333333333333,
   "alt" : 0.8333333333333334,
+  "infoEnough" : true,
+  "ms1" : 0.5333333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Yongin - Cheongju KB",
@@ -334,11 +334,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.4666666666666667,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.275,
-  "ms1" : 0.5333333333333333,
   "alt" : 0.725,
+  "infoEnough" : true,
+  "ms1" : 0.5333333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Phoebus - SK Knights",
@@ -346,15 +346,15 @@
   "teamDep" : "SK Knights",
   "detailUrl" : "https://istatistik.nesine.com/2449032",
   "odds" : {
-    "ms1" : 1.95,
-    "ms2" : 1.41,
+    "ms1" : 2.04,
+    "ms2" : 1.36,
     "h1Value" : 3.5,
     "h2Value" : 0.0,
-    "h1" : 1.59,
-    "h2" : 1.69,
+    "h1" : 1.65,
+    "h2" : 1.62,
     "hOverUnderValue" : 151.5,
-    "over" : 1.63,
-    "under" : 1.64
+    "over" : 1.66,
+    "under" : 1.6
   },
   "rekabetGecmisi" : [ {
     "homeTeam" : "SK Knights",
@@ -505,11 +505,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.6666666666666666,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.45833333333333337,
-  "ms1" : 0.2583333333333333,
   "alt" : 0.5416666666666666,
+  "infoEnough" : true,
+  "ms1" : 0.2583333333333333,
   "max" : "MS2"
 }, {
   "teamName" : "Anyang KGC - KT Sonicboom",
@@ -517,12 +517,12 @@
   "teamDep" : "KT Sonicboom",
   "detailUrl" : "https://istatistik.nesine.com/2449077",
   "odds" : {
-    "ms1" : 1.16,
-    "ms2" : 2.78,
+    "ms1" : 1.17,
+    "ms2" : 2.74,
     "h1Value" : 0.0,
     "h2Value" : 6.5,
-    "h1" : 1.63,
-    "h2" : 1.63,
+    "h1" : 1.65,
+    "h2" : 1.62,
     "hOverUnderValue" : 146.5,
     "over" : 1.63,
     "under" : 1.64
@@ -676,11 +676,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.35000000000000003,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.6499999999999999,
-  "ms1" : 0.575,
   "alt" : 0.3500000000000001,
+  "infoEnough" : true,
+  "ms1" : 0.575,
   "max" : "Üst"
 }, {
   "teamName" : "Taipei Kings - LG Sakers",
@@ -688,15 +688,15 @@
   "teamDep" : "LG Sakers",
   "detailUrl" : "https://istatistik.nesine.com/2448871",
   "odds" : {
-    "ms1" : 1.07,
-    "ms2" : 3.44,
+    "ms1" : 1.1,
+    "ms2" : 3.2,
     "h1Value" : 0.0,
     "h2Value" : 7.5,
-    "h1" : 1.6,
-    "h2" : 1.66,
+    "h1" : 1.69,
+    "h2" : 1.58,
     "hOverUnderValue" : 171.5,
-    "over" : 1.65,
-    "under" : 1.62
+    "over" : 1.64,
+    "under" : 1.63
   },
   "rekabetGecmisi" : [ {
     "homeTeam" : "LG Sakers",
@@ -807,11 +807,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.5833333333333333,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
-  "ms1" : 0.41666666666666663,
   "alt" : 0.5,
+  "infoEnough" : false,
+  "ms1" : 0.41666666666666663,
   "max" : "MS2"
 }, {
   "teamName" : "Neftchi IK - Absheron",
@@ -938,11 +938,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.3333333333333333,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5833333333333333,
-  "ms1" : 0.5833333333333334,
   "alt" : 0.41666666666666674,
+  "infoEnough" : false,
+  "ms1" : 0.5833333333333334,
   "max" : "MS1"
 }, {
   "teamName" : "Türk Telekom - Beşiktaş",
@@ -1109,11 +1109,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.45833333333333337,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.4833333333333334,
-  "ms1" : 0.5416666666666666,
   "alt" : 0.5166666666666666,
+  "infoEnough" : true,
+  "ms1" : 0.5416666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "Unics Kazan - Enisey",
@@ -1280,11 +1280,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.375,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.575,
-  "ms1" : 0.5499999999999999,
   "alt" : 0.42500000000000004,
+  "infoEnough" : true,
+  "ms1" : 0.5499999999999999,
   "max" : "Üst"
 }, {
   "teamName" : "A. Famagusta - Szombathely",
@@ -1292,11 +1292,11 @@
   "teamDep" : "Szombathely",
   "detailUrl" : "https://istatistik.nesine.com/2448791",
   "odds" : {
-    "ms1" : 13.95,
+    "ms1" : 13.9,
     "ms2" : 0.0,
     "h1Value" : 24.5,
     "h2Value" : 0.0,
-    "h1" : 1.59,
+    "h1" : 1.6,
     "h2" : 1.67,
     "hOverUnderValue" : 162.5,
     "over" : 1.65,
@@ -1411,11 +1411,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.8333333333333334,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
-  "ms1" : 0.16666666666666666,
   "alt" : 0.5,
+  "infoEnough" : false,
+  "ms1" : 0.16666666666666666,
   "max" : "MS2"
 }, {
   "teamName" : "Basket Brno - Peristeri",
@@ -1542,11 +1542,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.41666666666666663,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.3333333333333333,
-  "ms1" : 0.5833333333333333,
   "alt" : 0.6666666666666667,
+  "infoEnough" : false,
+  "ms1" : 0.5833333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Tartu - Antwerp",
@@ -1689,11 +1689,11 @@
   } ],
   "totalMatches" : 15,
   "ms2" : 0.5166666666666666,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5583333333333333,
-  "ms1" : 0.4083333333333333,
   "alt" : 0.44166666666666665,
+  "infoEnough" : true,
+  "ms1" : 0.4083333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Csm Corona - AEK Larnaca",
@@ -1820,11 +1820,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.75,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
-  "ms1" : 0.25,
   "alt" : 0.5,
+  "infoEnough" : false,
+  "ms1" : 0.25,
   "max" : "MS2"
 }, {
   "teamName" : "Rostock Seaw - Porto",
@@ -1951,11 +1951,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.41666666666666663,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.41666666666666663,
-  "ms1" : 0.5833333333333333,
   "alt" : 0.5833333333333334,
+  "infoEnough" : false,
+  "ms1" : 0.5833333333333333,
   "max" : "Alt"
 }, {
   "teamName" : "Oradea - Petkim Spor",
@@ -2082,11 +2082,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.41666666666666663,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.25,
-  "ms1" : 0.5833333333333334,
   "alt" : 0.75,
+  "infoEnough" : false,
+  "ms1" : 0.5833333333333334,
   "max" : "Alt"
 }, {
   "teamName" : "Sluneta - Pardubice",
@@ -2253,11 +2253,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.5583333333333333,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.4666666666666667,
-  "ms1" : 0.44166666666666665,
   "alt" : 0.5333333333333333,
+  "infoEnough" : true,
+  "ms1" : 0.44166666666666665,
   "max" : "MS2"
 }, {
   "teamName" : "Nymburk - Ostrava",
@@ -2424,11 +2424,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.3,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.6083333333333334,
-  "ms1" : 0.7,
   "alt" : 0.3916666666666666,
+  "infoEnough" : true,
+  "ms1" : 0.7,
   "max" : "MS1"
 }, {
   "teamName" : "Praha - Basket Brno",
@@ -2436,12 +2436,12 @@
   "teamDep" : "Basket Brno",
   "detailUrl" : "https://istatistik.nesine.com/2448855",
   "odds" : {
-    "ms1" : 6.53,
+    "ms1" : 6.56,
     "ms2" : 0.0,
     "h1Value" : 13.5,
     "h2Value" : 0.0,
     "h1" : 1.59,
-    "h2" : 1.69,
+    "h2" : 1.68,
     "hOverUnderValue" : 171.5,
     "over" : 1.6,
     "under" : 1.66
@@ -2595,11 +2595,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.7749999999999999,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.6166666666666667,
-  "ms1" : 0.22499999999999998,
   "alt" : 0.3833333333333333,
+  "infoEnough" : true,
+  "ms1" : 0.22499999999999998,
   "max" : "MS2"
 }, {
   "teamName" : "Olomoucko - Sokol Pisek",
@@ -2766,11 +2766,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.6499999999999999,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.35,
-  "ms1" : 0.31666666666666665,
   "alt" : 0.65,
+  "infoEnough" : true,
+  "ms1" : 0.31666666666666665,
   "max" : "Alt"
 }, {
   "teamName" : "BK Opava - BK Gapa Hrad",
@@ -2897,11 +2897,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.3333333333333333,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5833333333333333,
-  "ms1" : 0.6666666666666667,
   "alt" : 0.41666666666666674,
+  "infoEnough" : false,
+  "ms1" : 0.6666666666666667,
   "max" : "MS1"
 }, {
   "teamName" : "Szedeak - Duna Aszfalt",
@@ -3068,11 +3068,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.7083333333333334,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.4833333333333333,
-  "ms1" : 0.2916666666666667,
   "alt" : 0.5166666666666667,
+  "infoEnough" : true,
+  "ms1" : 0.2916666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "Zalakeramia - BC Kormend",
@@ -3239,11 +3239,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.6666666666666666,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.575,
-  "ms1" : 0.3333333333333333,
   "alt" : 0.42500000000000004,
+  "infoEnough" : true,
+  "ms1" : 0.3333333333333333,
   "max" : "MS2"
 }, {
   "teamName" : "Atomerömü - Sopron KC",
@@ -3410,11 +3410,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.4666666666666667,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5,
-  "ms1" : 0.5166666666666666,
   "alt" : 0.5,
+  "infoEnough" : true,
+  "ms1" : 0.5166666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "BK Levicki - BKM Lucenec",
@@ -3423,14 +3423,14 @@
   "detailUrl" : "https://istatistik.nesine.com/2450780",
   "odds" : {
     "ms1" : 0.0,
-    "ms2" : 8.15,
+    "ms2" : 8.38,
     "h1Value" : 0.0,
     "h2Value" : 16.5,
-    "h1" : 1.65,
+    "h1" : 1.64,
     "h2" : 1.62,
-    "hOverUnderValue" : 168.5,
-    "over" : 1.61,
-    "under" : 1.65
+    "hOverUnderValue" : 169.5,
+    "over" : 1.64,
+    "under" : 1.63
   },
   "rekabetGecmisi" : [ {
     "homeTeam" : "BKM Lucenec",
@@ -3581,11 +3581,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.3,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.3333333333333333,
-  "ms1" : 0.7,
   "alt" : 0.6666666666666667,
+  "infoEnough" : true,
+  "ms1" : 0.7,
   "max" : "MS1"
 }, {
   "teamName" : "KK Cedevita - Hamburg",
@@ -3736,11 +3736,11 @@
   } ],
   "totalMatches" : 16,
   "ms2" : 0.125,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.475,
-  "ms1" : 0.8,
   "alt" : 0.525,
+  "infoEnough" : true,
+  "ms1" : 0.8,
   "max" : "MS1"
 }, {
   "teamName" : "Panionios - Lietkabelis",
@@ -3859,11 +3859,11 @@
   } ],
   "totalMatches" : 12,
   "ms2" : 0.6666666666666666,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5833333333333333,
-  "ms1" : 0.3333333333333333,
   "alt" : 0.41666666666666674,
+  "infoEnough" : false,
+  "ms1" : 0.3333333333333333,
   "max" : "MS2"
 }, {
   "teamName" : "KK Cibona - R.Emilia",
@@ -3990,11 +3990,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.25,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.3333333333333333,
-  "ms1" : 0.75,
   "alt" : 0.6666666666666667,
+  "infoEnough" : false,
+  "ms1" : 0.75,
   "max" : "MS1"
 }, {
   "teamName" : "Kalev - Trefl Sopot",
@@ -4121,11 +4121,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.41666666666666663,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.6666666666666667,
-  "ms1" : 0.5833333333333333,
   "alt" : 0.33333333333333326,
+  "infoEnough" : false,
+  "ms1" : 0.5833333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Anwil Wloc. - KB Trepca",
@@ -4252,11 +4252,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.3333333333333333,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5833333333333333,
-  "ms1" : 0.6666666666666666,
   "alt" : 0.41666666666666674,
+  "infoEnough" : false,
+  "ms1" : 0.6666666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "Svendborg R. - Bears A.",
@@ -4265,7 +4265,7 @@
   "detailUrl" : "https://istatistik.nesine.com/2448842",
   "odds" : {
     "ms1" : 0.0,
-    "ms2" : 17.0,
+    "ms2" : 16.7,
     "h1Value" : 0.0,
     "h2Value" : 29.5,
     "h1" : 1.6,
@@ -4423,11 +4423,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.22499999999999998,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5416666666666666,
-  "ms1" : 0.775,
   "alt" : 0.45833333333333337,
+  "infoEnough" : true,
+  "ms1" : 0.775,
   "max" : "MS1"
 }, {
   "teamName" : "Igokea - Wurzburg",
@@ -4570,11 +4570,11 @@
   } ],
   "totalMatches" : 15,
   "ms2" : 0.25,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5916666666666667,
-  "ms1" : 0.6,
   "alt" : 0.4083333333333333,
+  "infoEnough" : true,
+  "ms1" : 0.6,
   "max" : "MS1"
 }, {
   "teamName" : "Pelister - Keravnos S.",
@@ -4701,11 +4701,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.6666666666666666,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
-  "ms1" : 0.3333333333333333,
   "alt" : 0.5,
+  "infoEnough" : false,
+  "ms1" : 0.3333333333333333,
   "max" : "MS2"
 }, {
   "teamName" : "Rasta Vechta - Sassari",
@@ -4832,11 +4832,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.8333333333333333,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.41666666666666663,
-  "ms1" : 0.16666666666666666,
   "alt" : 0.5833333333333334,
+  "infoEnough" : false,
+  "ms1" : 0.16666666666666666,
   "max" : "MS2"
 }, {
   "teamName" : "BC Prievidza - Cedevita Z.",
@@ -4963,11 +4963,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.41666666666666663,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.3333333333333333,
-  "ms1" : 0.5,
   "alt" : 0.6666666666666667,
+  "infoEnough" : false,
+  "ms1" : 0.5,
   "max" : "Alt"
 }, {
   "teamName" : "Decin - SK Slavia Pr",
@@ -5134,11 +5134,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.2,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.31666666666666665,
-  "ms1" : 0.8,
   "alt" : 0.6833333333333333,
+  "infoEnough" : true,
+  "ms1" : 0.8,
   "max" : "MS1"
 }, {
   "teamName" : "Kopenhagen B - Holbaek St.",
@@ -5305,11 +5305,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.24166666666666664,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.6166666666666667,
-  "ms1" : 0.7416666666666667,
   "alt" : 0.3833333333333333,
+  "infoEnough" : true,
+  "ms1" : 0.7416666666666667,
   "max" : "MS1"
 }, {
   "teamName" : "Alkar Sinj - Kapfenberg",
@@ -5428,11 +5428,11 @@
   } ],
   "totalMatches" : 12,
   "ms2" : 0.8333333333333334,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
-  "ms1" : 0.08333333333333333,
   "alt" : 0.5,
+  "infoEnough" : false,
+  "ms1" : 0.08333333333333333,
   "max" : "MS2"
 }, {
   "teamName" : "PAOK - Braunschweig",
@@ -5440,12 +5440,12 @@
   "teamDep" : "Braunschweig",
   "detailUrl" : "https://istatistik.nesine.com/2449090",
   "odds" : {
-    "ms1" : 1.14,
-    "ms2" : 2.87,
+    "ms1" : 1.15,
+    "ms2" : 2.8,
     "h1Value" : 0.0,
     "h2Value" : 6.5,
     "h1" : 1.6,
-    "h2" : 1.67,
+    "h2" : 1.66,
     "hOverUnderValue" : 162.5,
     "over" : 1.61,
     "under" : 1.65
@@ -5559,11 +5559,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.41666666666666663,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.41666666666666663,
-  "ms1" : 0.5833333333333334,
   "alt" : 0.5833333333333334,
+  "infoEnough" : false,
+  "ms1" : 0.5833333333333334,
   "max" : "MS1"
 }, {
   "teamName" : "KK Bosna - Rilski",
@@ -5690,11 +5690,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.25,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.16666666666666666,
-  "ms1" : 0.75,
   "alt" : 0.8333333333333334,
+  "infoEnough" : false,
+  "ms1" : 0.75,
   "max" : "Alt"
 }, {
   "teamName" : "Villeurbanne - Monaco",
@@ -5861,11 +5861,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.5333333333333333,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5916666666666667,
-  "ms1" : 0.39166666666666666,
   "alt" : 0.4083333333333333,
+  "infoEnough" : true,
+  "ms1" : 0.39166666666666666,
   "max" : "Üst"
 }, {
   "teamName" : "R.Venezia - Manresa",
@@ -5984,11 +5984,11 @@
   } ],
   "totalMatches" : 12,
   "ms2" : 0.25,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.3333333333333333,
-  "ms1" : 0.75,
   "alt" : 0.6666666666666667,
+  "infoEnough" : false,
+  "ms1" : 0.75,
   "max" : "MS1"
 }, {
   "teamName" : "Trier - SC Jena",
@@ -6155,11 +6155,11 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.39166666666666666,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.5166666666666666,
-  "ms1" : 0.5166666666666666,
   "alt" : 0.4833333333333334,
+  "infoEnough" : true,
+  "ms1" : 0.5166666666666666,
   "max" : "MS1"
 }, {
   "teamName" : "Cholet - Bursaspor",
@@ -6286,11 +6286,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.41666666666666663,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.4166666666666667,
-  "ms1" : 0.5,
   "alt" : 0.5833333333333333,
+  "infoEnough" : false,
+  "ms1" : 0.5,
   "max" : "Alt"
 }, {
   "teamName" : "Spartak Subo - Benfica L.",
@@ -6417,11 +6417,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.75,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5833333333333334,
-  "ms1" : 0.25,
   "alt" : 0.41666666666666663,
+  "infoEnough" : false,
+  "ms1" : 0.25,
   "max" : "MS2"
 }, {
   "teamName" : "Bilbao - BC Kutaisi",
@@ -6564,11 +6564,11 @@
   } ],
   "totalMatches" : 15,
   "ms2" : 0.375,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.4083333333333333,
-  "ms1" : 0.625,
   "alt" : 0.5916666666666667,
+  "infoEnough" : true,
+  "ms1" : 0.625,
   "max" : "MS1"
 }, {
   "teamName" : "Zaragoza - Bakken Bears",
@@ -6580,7 +6580,7 @@
     "ms2" : 9.69,
     "h1Value" : 0.0,
     "h2Value" : 19.5,
-    "h1" : 1.66,
+    "h1" : 1.67,
     "h2" : 1.6,
     "hOverUnderValue" : 176.5,
     "over" : 1.61,
@@ -6695,11 +6695,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.75,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.3333333333333333,
-  "ms1" : 0.25,
   "alt" : 0.6666666666666667,
+  "infoEnough" : false,
+  "ms1" : 0.25,
   "max" : "MS2"
 }, {
   "teamName" : "Manchester B - KB Prishtina",
@@ -6707,12 +6707,12 @@
   "teamDep" : "KB Prishtina",
   "detailUrl" : "https://istatistik.nesine.com/2448946",
   "odds" : {
-    "ms1" : 1.29,
-    "ms2" : 2.23,
+    "ms1" : 1.28,
+    "ms2" : 2.27,
     "h1Value" : 0.0,
     "h2Value" : 4.5,
-    "h1" : 1.64,
-    "h2" : 1.63,
+    "h1" : 1.62,
+    "h2" : 1.65,
     "hOverUnderValue" : 164.5,
     "over" : 1.66,
     "under" : 1.6
@@ -6818,11 +6818,11 @@
   } ],
   "totalMatches" : 12,
   "ms2" : 0.5833333333333333,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.41666666666666663,
-  "ms1" : 0.41666666666666663,
   "alt" : 0.5833333333333334,
+  "infoEnough" : false,
+  "ms1" : 0.41666666666666663,
   "max" : "Alt"
 }, {
   "teamName" : "London Lions - Jl Bourg",
@@ -6941,11 +6941,11 @@
   } ],
   "totalMatches" : 12,
   "ms2" : 0.5,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5833333333333333,
-  "ms1" : 0.5,
   "alt" : 0.41666666666666674,
+  "infoEnough" : false,
+  "ms1" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Sporting CP - CS Valcea",
@@ -7072,11 +7072,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.3333333333333333,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.16666666666666666,
-  "ms1" : 0.6666666666666667,
   "alt" : 0.8333333333333334,
+  "infoEnough" : false,
+  "ms1" : 0.6666666666666667,
   "max" : "Alt"
 }, {
   "teamName" : "Murcia - Start Lublin",
@@ -7211,11 +7211,11 @@
   } ],
   "totalMatches" : 14,
   "ms2" : 0.15,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.55,
-  "ms1" : 0.85,
   "alt" : 0.44999999999999996,
+  "infoEnough" : true,
+  "ms1" : 0.85,
   "max" : "MS1"
 }, {
   "teamName" : "D. Zagreb - Gimle BK",
@@ -7334,11 +7334,11 @@
   } ],
   "totalMatches" : 12,
   "ms2" : 0.5833333333333334,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.3333333333333333,
-  "ms1" : 0.41666666666666663,
   "alt" : 0.6666666666666667,
+  "infoEnough" : false,
+  "ms1" : 0.41666666666666663,
   "max" : "Alt"
 }, {
   "teamName" : "Badalona - Hapoel Holon",
@@ -7465,11 +7465,11 @@
   } ],
   "totalMatches" : 13,
   "ms2" : 0.5,
-  "infoEnough" : false,
   "infoEnoughWithoutRekabet" : true,
   "ust" : 0.5,
-  "ms1" : 0.41666666666666663,
   "alt" : 0.5,
+  "infoEnough" : false,
+  "ms1" : 0.41666666666666663,
   "max" : "MS2"
 }, {
   "teamName" : "Polzela - KD Ilirija",
@@ -7636,10 +7636,10 @@
   } ],
   "totalMatches" : 18,
   "ms2" : 0.6833333333333333,
-  "infoEnough" : true,
   "infoEnoughWithoutRekabet" : false,
   "ust" : 0.6083333333333334,
-  "ms1" : 0.24166666666666664,
   "alt" : 0.3916666666666666,
+  "infoEnough" : true,
+  "ms1" : 0.24166666666666664,
   "max" : "MS2"
 } ]
