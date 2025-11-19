@@ -10,9 +10,9 @@
   "homeTeam" : "Yongin Samsung L. (K)",
   "awayTeam" : "Cheongju KB Stars (K)",
   "picks" : [ "123.5 Alt (1.64 - 68.8%)" ],
-  "score" : "-",
+  "score" : "61-82",
   "statuses" : {
-    "123.5 Alt (1.64 - 68.8%)" : "pending"
+    "123.5 Alt (1.64 - 68.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Mobis Phoebus",
