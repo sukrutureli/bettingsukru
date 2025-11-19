@@ -1,42 +1,18 @@
 [ {
-  "homeTeam" : "Atlanta",
-  "awayTeam" : "Detroit",
-  "picks" : [ "229.5 Üst (1.66 - 60.7%)" ],
-  "score" : "-",
-  "statuses" : {
-    "229.5 Üst (1.66 - 60.7%)" : "pending"
-  }
-}, {
-  "homeTeam" : "LA Lakers",
-  "awayTeam" : "Utah",
-  "picks" : [ "238.5 Alt (1.65 - 58.3%)" ],
-  "score" : "-",
-  "statuses" : {
-    "238.5 Alt (1.65 - 58.3%)" : "pending"
-  }
-}, {
-  "homeTeam" : "Portland",
-  "awayTeam" : "Phoenix",
-  "picks" : [ "MS2 (1.81 - 68.5%)" ],
-  "score" : "-",
-  "statuses" : {
-    "MS2 (1.81 - 68.5%)" : "pending"
-  }
-}, {
   "homeTeam" : "Adelaide 36ers",
   "awayTeam" : "Illawarra Hawks",
-  "picks" : [ "184.5 Alt (1.61 - 66.8%)" ],
+  "picks" : [ "185.5 Alt (1.6 - 69.2%)" ],
   "score" : "-",
   "statuses" : {
-    "184.5 Alt (1.61 - 66.8%)" : "pending"
+    "185.5 Alt (1.6 - 69.2%)" : "pending"
   }
 }, {
   "homeTeam" : "Yongin Samsung L. (K)",
   "awayTeam" : "Cheongju KB Stars (K)",
-  "picks" : [ "123.5 Alt (1.59 - 68.8%)" ],
+  "picks" : [ "123.5 Alt (1.64 - 68.8%)" ],
   "score" : "-",
   "statuses" : {
-    "123.5 Alt (1.59 - 68.8%)" : "pending"
+    "123.5 Alt (1.64 - 68.8%)" : "pending"
   }
 }, {
   "homeTeam" : "Mobis Phoebus",
@@ -57,10 +33,10 @@
 }, {
   "homeTeam" : "Tartu",
   "awayTeam" : "Antwerp",
-  "picks" : [ "167.5 Üst (1.62 - 60.1%)" ],
+  "picks" : [ "167.5 Üst (1.66 - 60.1%)" ],
   "score" : "-",
   "statuses" : {
-    "167.5 Üst (1.62 - 60.1%)" : "pending"
+    "167.5 Üst (1.66 - 60.1%)" : "pending"
   }
 }, {
   "homeTeam" : "Csm Corona Brasov",
@@ -105,18 +81,18 @@
 }, {
   "homeTeam" : "Panionios",
   "awayTeam" : "Lietkabelis",
-  "picks" : [ "MS2 (1.56 - 57.5%)" ],
+  "picks" : [ "MS2 (1.52 - 57.5%)" ],
   "score" : "-",
   "statuses" : {
-    "MS2 (1.56 - 57.5%)" : "pending"
+    "MS2 (1.52 - 57.5%)" : "pending"
   }
 }, {
   "homeTeam" : "Kalev",
   "awayTeam" : "Trefl Sopot",
-  "picks" : [ "168.5 Üst (1.6 - 65.0%)" ],
+  "picks" : [ "168.5 Üst (1.61 - 65.0%)" ],
   "score" : "-",
   "statuses" : {
-    "168.5 Üst (1.6 - 65.0%)" : "pending"
+    "168.5 Üst (1.61 - 65.0%)" : "pending"
   }
 }, {
   "homeTeam" : "KK Igokea",
@@ -145,10 +121,10 @@
 }, {
   "homeTeam" : "Alkar Sinj",
   "awayTeam" : "Kapfenberg",
-  "picks" : [ "MS2 (1.68 - 81.4%)" ],
+  "picks" : [ "MS2 (1.51 - 81.4%)" ],
   "score" : "-",
   "statuses" : {
-    "MS2 (1.68 - 81.4%)" : "pending"
+    "MS2 (1.51 - 81.4%)" : "pending"
   }
 }, {
   "homeTeam" : "KK Bosna Royal Sarajevo",
