@@ -2,9 +2,9 @@
   "homeTeam" : "NK Fuzinar",
   "awayTeam" : "NK Race",
   "picks" : [ "Var (1.54 - 70.4%)" ],
-  "score" : "-",
+  "score" : "5-0",
   "statuses" : {
-    "Var (1.54 - 70.4%)" : "pending"
+    "Var (1.54 - 70.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Asante Kotoko",
