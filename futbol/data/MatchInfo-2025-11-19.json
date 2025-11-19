@@ -3,13 +3,13 @@
   "time" : "11:00",
   "detailUrl" : "https://istatistik.nesine.com/2448843",
   "odds" : {
-    "ms1" : 1.29,
-    "msX" : 3.81,
-    "ms2" : 5.65,
-    "over25" : 1.41,
-    "under25" : 1.96,
-    "bttsYes" : 1.56,
-    "bttsNo" : 1.75,
+    "ms1" : 1.32,
+    "msX" : 3.8,
+    "ms2" : 5.24,
+    "over25" : 1.47,
+    "under25" : 1.88,
+    "bttsYes" : 1.59,
+    "bttsNo" : 1.71,
     "mbs" : 3
   },
   "index" : 0,
@@ -20,12 +20,12 @@
   "detailUrl" : "https://istatistik.nesine.com/2447833",
   "odds" : {
     "ms1" : 17.45,
-    "msX" : 9.64,
+    "msX" : 9.73,
     "ms2" : 0.0,
-    "over25" : 1.2,
-    "under25" : 2.6,
-    "bttsYes" : 2.75,
-    "bttsNo" : 1.18,
+    "over25" : 1.14,
+    "under25" : 2.92,
+    "bttsYes" : 2.41,
+    "bttsNo" : 1.25,
     "mbs" : 2
   },
   "index" : 1,
@@ -36,31 +36,15 @@
   "detailUrl" : "https://istatistik.nesine.com/2448993",
   "odds" : {
     "ms1" : 1.06,
-    "msX" : 5.52,
-    "ms2" : 10.65,
+    "msX" : 5.77,
+    "ms2" : 10.35,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.71,
-    "bttsNo" : 1.59,
+    "bttsYes" : 1.69,
+    "bttsNo" : 1.6,
     "mbs" : 3
   },
   "index" : 2,
-  "mbs" : 0
-}, {
-  "name" : "FTC Filakovo - AS Trencin",
-  "time" : "15:00",
-  "detailUrl" : "https://istatistik.nesine.com/2484566",
-  "odds" : {
-    "ms1" : 12.35,
-    "msX" : 6.54,
-    "ms2" : 0.0,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 1.88,
-    "bttsNo" : 1.46,
-    "mbs" : 3
-  },
-  "index" : 3,
   "mbs" : 0
 }, {
   "name" : "Jadran Dekani - NK Malecnik",
@@ -76,7 +60,7 @@
     "bttsNo" : 0.0,
     "mbs" : 3
   },
-  "index" : 4,
+  "index" : 3,
   "mbs" : 0
 }, {
   "name" : "Ib Khemis El Khechna - AS Khroub",
@@ -92,7 +76,7 @@
     "bttsNo" : 1.47,
     "mbs" : 3
   },
-  "index" : 5,
+  "index" : 4,
   "mbs" : 0
 }, {
   "name" : "Calvary - Updf",
@@ -108,7 +92,7 @@
     "bttsNo" : 1.45,
     "mbs" : 3
   },
-  "index" : 6,
+  "index" : 5,
   "mbs" : 0
 }, {
   "name" : "Gaddafi - Uganda Police",
@@ -124,7 +108,7 @@
     "bttsNo" : 1.49,
     "mbs" : 3
   },
-  "index" : 7,
+  "index" : 6,
   "mbs" : 0
 }, {
   "name" : "NK Fuzinar - NK Race",
@@ -134,29 +118,29 @@
     "ms1" : 2.56,
     "msX" : 2.84,
     "ms2" : 2.11,
-    "over25" : 1.76,
-    "under25" : 1.54,
-    "bttsYes" : 1.57,
-    "bttsNo" : 1.73,
+    "over25" : 1.73,
+    "under25" : 1.57,
+    "bttsYes" : 1.54,
+    "bttsNo" : 1.76,
     "mbs" : 3
   },
-  "index" : 8,
+  "index" : 7,
   "mbs" : 0
 }, {
   "name" : "Asante Kotoko - Young Apostles",
   "time" : "18:00",
   "detailUrl" : "https://istatistik.nesine.com/2519035",
   "odds" : {
-    "ms1" : 1.22,
-    "msX" : 3.67,
-    "ms2" : 8.16,
-    "over25" : 2.05,
-    "under25" : 1.37,
-    "bttsYes" : 2.48,
-    "bttsNo" : 1.23,
+    "ms1" : 1.2,
+    "msX" : 3.74,
+    "ms2" : 8.55,
+    "over25" : 2.08,
+    "under25" : 1.36,
+    "bttsYes" : 2.57,
+    "bttsNo" : 1.21,
     "mbs" : 3
   },
-  "index" : 9,
+  "index" : 8,
   "mbs" : 0
 }, {
   "name" : "Remo Stars - Kano Pillars",
@@ -172,7 +156,7 @@
     "bttsNo" : 1.33,
     "mbs" : 3
   },
-  "index" : 10,
+  "index" : 9,
   "mbs" : 0
 }, {
   "name" : "Farense U23 - Estrela A. U23",
@@ -188,39 +172,39 @@
     "bttsNo" : 1.88,
     "mbs" : 3
   },
-  "index" : 11,
+  "index" : 10,
   "mbs" : 0
 }, {
   "name" : "NK Karlovac 1919 - D. Zagreb",
   "time" : "19:00",
   "detailUrl" : "https://istatistik.nesine.com/2448914",
   "odds" : {
-    "ms1" : 6.26,
-    "msX" : 4.15,
-    "ms2" : 1.23,
-    "over25" : 1.45,
-    "under25" : 1.9,
-    "bttsYes" : 1.67,
-    "bttsNo" : 1.62,
+    "ms1" : 7.1,
+    "msX" : 4.47,
+    "ms2" : 1.18,
+    "over25" : 1.43,
+    "under25" : 1.94,
+    "bttsYes" : 1.73,
+    "bttsNo" : 1.57,
     "mbs" : 3
   },
-  "index" : 12,
+  "index" : 11,
   "mbs" : 0
 }, {
   "name" : "CD Coria - Orihuela",
   "time" : "19:00",
   "detailUrl" : "https://istatistik.nesine.com/2506364",
   "odds" : {
-    "ms1" : 2.09,
-    "msX" : 2.64,
-    "ms2" : 2.79,
+    "ms1" : 2.16,
+    "msX" : 2.61,
+    "ms2" : 2.7,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.92,
-    "bttsNo" : 1.44,
+    "bttsYes" : 1.9,
+    "bttsNo" : 1.45,
     "mbs" : 3
   },
-  "index" : 13,
+  "index" : 12,
   "mbs" : 0
 }, {
   "name" : "Juventus (K) - O. Lyon (K)",
@@ -230,45 +214,45 @@
     "ms1" : 12.3,
     "msX" : 6.37,
     "ms2" : 0.0,
-    "over25" : 1.21,
-    "under25" : 2.55,
-    "bttsYes" : 1.78,
-    "bttsNo" : 1.53,
+    "over25" : 1.2,
+    "under25" : 2.6,
+    "bttsYes" : 1.76,
+    "bttsNo" : 1.54,
     "mbs" : 1
   },
-  "index" : 14,
+  "index" : 13,
   "mbs" : 0
 }, {
   "name" : "Wolfsburg (K) - Man. Utd (K)",
   "time" : "20:45",
   "detailUrl" : "https://istatistik.nesine.com/2449091",
   "odds" : {
-    "ms1" : 2.08,
-    "msX" : 3.17,
-    "ms2" : 2.4,
+    "ms1" : 2.12,
+    "msX" : 3.14,
+    "ms2" : 2.36,
     "over25" : 1.47,
     "under25" : 1.88,
-    "bttsYes" : 1.39,
+    "bttsYes" : 1.38,
     "bttsNo" : 2.03,
     "mbs" : 1
   },
-  "index" : 15,
+  "index" : 14,
   "mbs" : 0
 }, {
   "name" : "Blooming - Cdt Real Oruro",
   "time" : "22:00",
   "detailUrl" : "https://istatistik.nesine.com/2536778",
   "odds" : {
-    "ms1" : 1.25,
-    "msX" : 4.15,
-    "ms2" : 5.82,
+    "ms1" : 1.24,
+    "msX" : 4.14,
+    "ms2" : 6.08,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.53,
-    "bttsNo" : 1.79,
+    "bttsYes" : 1.54,
+    "bttsNo" : 1.77,
     "mbs" : 3
   },
-  "index" : 16,
+  "index" : 15,
   "mbs" : 0
 }, {
   "name" : "Caerau Ely - Trefelin",
@@ -284,7 +268,7 @@
     "bttsNo" : 2.16,
     "mbs" : 3
   },
-  "index" : 17,
+  "index" : 16,
   "mbs" : 0
 }, {
   "name" : "Dumbarton - Stenhousemuir",
@@ -300,7 +284,7 @@
     "bttsNo" : 2.25,
     "mbs" : 3
   },
-  "index" : 18,
+  "index" : 17,
   "mbs" : 0
 }, {
   "name" : "Atl Grau - S. Cristal",
@@ -316,7 +300,7 @@
     "bttsNo" : 1.81,
     "mbs" : 3
   },
-  "index" : 19,
+  "index" : 18,
   "mbs" : 0
 }, {
   "name" : "Paris (K) - Benfica (K)",
@@ -332,7 +316,7 @@
     "bttsNo" : 1.96,
     "mbs" : 1
   },
-  "index" : 20,
+  "index" : 19,
   "mbs" : 0
 }, {
   "name" : "Arsenal (K) - Real Madrid (K)",
@@ -348,7 +332,7 @@
     "bttsNo" : 1.95,
     "mbs" : 1
   },
-  "index" : 21,
+  "index" : 20,
   "mbs" : 0
 }, {
   "name" : "Valerenga (K) - St. Polten (K)",
@@ -364,6 +348,6 @@
     "bttsNo" : 1.54,
     "mbs" : 1
   },
-  "index" : 22,
+  "index" : 21,
   "mbs" : 0
 } ]

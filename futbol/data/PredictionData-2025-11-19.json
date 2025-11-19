@@ -1,17 +1,17 @@
 [ {
   "homeTeam" : "NK Fuzinar",
   "awayTeam" : "NK Race",
-  "picks" : [ "Var (1.57 - 70.4%)" ],
+  "picks" : [ "Var (1.54 - 70.4%)" ],
   "score" : "-",
   "statuses" : {
-    "Var (1.57 - 70.4%)" : "pending"
+    "Var (1.54 - 70.4%)" : "pending"
   }
 }, {
   "homeTeam" : "Asante Kotoko",
   "awayTeam" : "Young Apostles",
-  "picks" : [ "Alt (1.37 - 62.3%)" ],
+  "picks" : [ "Alt (1.36 - 62.3%)" ],
   "score" : "-",
   "statuses" : {
-    "Alt (1.37 - 62.3%)" : "pending"
+    "Alt (1.36 - 62.3%)" : "pending"
   }
 } ]

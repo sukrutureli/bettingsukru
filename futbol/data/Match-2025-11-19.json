@@ -28,13 +28,13 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.29,
-    "msX" : 3.81,
-    "ms2" : 5.65,
-    "over25" : 1.41,
-    "under25" : 1.96,
-    "bttsYes" : 1.56,
-    "bttsNo" : 1.75,
+    "ms1" : 1.32,
+    "msX" : 3.8,
+    "ms2" : 5.24,
+    "over25" : 1.47,
+    "under25" : 1.88,
+    "bttsYes" : 1.59,
+    "bttsNo" : 1.71,
     "mbs" : 3
   }
 }, {
@@ -68,12 +68,12 @@
   },
   "odds" : {
     "ms1" : 17.45,
-    "msX" : 9.64,
+    "msX" : 9.73,
     "ms2" : 0.0,
-    "over25" : 1.2,
-    "under25" : 2.6,
-    "bttsYes" : 2.75,
-    "bttsNo" : 1.18,
+    "over25" : 1.14,
+    "under25" : 2.92,
+    "bttsYes" : 2.41,
+    "bttsNo" : 1.25,
     "mbs" : 2
   }
 }, {
@@ -107,51 +107,12 @@
   },
   "odds" : {
     "ms1" : 1.06,
-    "msX" : 5.52,
-    "ms2" : 10.65,
+    "msX" : 5.77,
+    "ms2" : 10.35,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.71,
-    "bttsNo" : 1.59,
-    "mbs" : 3
-  }
-}, {
-  "homeTeam" : "FTC Filakovo",
-  "awayTeam" : "Trencin",
-  "homeStats" : {
-    "teamName" : "",
-    "avgGF" : 2.1666666666666665,
-    "avgGA" : 1.5,
-    "rating100" : 64.0,
-    "last5Points" : 12.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 0,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 2.0,
-    "empty" : false
-  },
-  "awayStats" : {
-    "teamName" : "",
-    "avgGF" : 1.0,
-    "avgGA" : 1.5,
-    "rating100" : 39.0,
-    "last5Points" : 7.0,
-    "last5Count" : 6,
-    "h2hWins" : 0,
-    "h2hCount" : 0,
-    "h2hWinRate" : 0.0,
-    "avgPointsPerMatch" : 1.1666666666666667,
-    "empty" : false
-  },
-  "odds" : {
-    "ms1" : 12.35,
-    "msX" : 6.54,
-    "ms2" : 0.0,
-    "over25" : 0.0,
-    "under25" : 0.0,
-    "bttsYes" : 1.88,
-    "bttsNo" : 1.46,
+    "bttsYes" : 1.69,
+    "bttsNo" : 1.6,
     "mbs" : 3
   }
 }, {
@@ -343,10 +304,10 @@
     "ms1" : 2.56,
     "msX" : 2.84,
     "ms2" : 2.11,
-    "over25" : 1.76,
-    "under25" : 1.54,
-    "bttsYes" : 1.57,
-    "bttsNo" : 1.73,
+    "over25" : 1.73,
+    "under25" : 1.57,
+    "bttsYes" : 1.54,
+    "bttsNo" : 1.76,
     "mbs" : 3
   }
 }, {
@@ -379,13 +340,13 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.22,
-    "msX" : 3.67,
-    "ms2" : 8.16,
-    "over25" : 2.05,
-    "under25" : 1.37,
-    "bttsYes" : 2.48,
-    "bttsNo" : 1.23,
+    "ms1" : 1.2,
+    "msX" : 3.74,
+    "ms2" : 8.55,
+    "over25" : 2.08,
+    "under25" : 1.36,
+    "bttsYes" : 2.57,
+    "bttsNo" : 1.21,
     "mbs" : 3
   }
 }, {
@@ -496,13 +457,13 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 6.26,
-    "msX" : 4.15,
-    "ms2" : 1.23,
-    "over25" : 1.45,
-    "under25" : 1.9,
-    "bttsYes" : 1.67,
-    "bttsNo" : 1.62,
+    "ms1" : 7.1,
+    "msX" : 4.47,
+    "ms2" : 1.18,
+    "over25" : 1.43,
+    "under25" : 1.94,
+    "bttsYes" : 1.73,
+    "bttsNo" : 1.57,
     "mbs" : 3
   }
 }, {
@@ -535,13 +496,13 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 2.09,
-    "msX" : 2.64,
-    "ms2" : 2.79,
+    "ms1" : 2.16,
+    "msX" : 2.61,
+    "ms2" : 2.7,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.92,
-    "bttsNo" : 1.44,
+    "bttsYes" : 1.9,
+    "bttsNo" : 1.45,
     "mbs" : 3
   }
 }, {
@@ -577,10 +538,10 @@
     "ms1" : 12.3,
     "msX" : 6.37,
     "ms2" : 0.0,
-    "over25" : 1.21,
-    "under25" : 2.55,
-    "bttsYes" : 1.78,
-    "bttsNo" : 1.53,
+    "over25" : 1.2,
+    "under25" : 2.6,
+    "bttsYes" : 1.76,
+    "bttsNo" : 1.54,
     "mbs" : 1
   }
 }, {
@@ -613,12 +574,12 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 2.08,
-    "msX" : 3.17,
-    "ms2" : 2.4,
+    "ms1" : 2.12,
+    "msX" : 3.14,
+    "ms2" : 2.36,
     "over25" : 1.47,
     "under25" : 1.88,
-    "bttsYes" : 1.39,
+    "bttsYes" : 1.38,
     "bttsNo" : 2.03,
     "mbs" : 1
   }
@@ -652,13 +613,13 @@
     "empty" : false
   },
   "odds" : {
-    "ms1" : 1.25,
-    "msX" : 4.15,
-    "ms2" : 5.82,
+    "ms1" : 1.24,
+    "msX" : 4.14,
+    "ms2" : 6.08,
     "over25" : 0.0,
     "under25" : 0.0,
-    "bttsYes" : 1.53,
-    "bttsNo" : 1.79,
+    "bttsYes" : 1.54,
+    "bttsNo" : 1.77,
     "mbs" : 3
   }
 }, {

@@ -1,5 +1,7 @@
 [ {
   "teamName" : "Stallion L. - Lion City S.",
+  "teamEv" : "Stallion L.",
+  "teamDep" : "Lion City S.",
   "originalMatchUrl" : "https://istatistik.nesine.com/2448843",
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
@@ -126,7 +128,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 11,
-  "ms2" : 0.55,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -139,9 +140,12 @@
   "lossCount" : 11,
   "winRate" : 0.0,
   "ms1" : 0.45,
+  "ms2" : 0.55,
   "max" : "Üst"
 }, {
   "teamName" : "Laos - Vietnam",
+  "teamEv" : "Laos",
+  "teamDep" : "Vietnam",
   "originalMatchUrl" : "https://istatistik.nesine.com/2447833",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Vietnam",
@@ -345,7 +349,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
-  "ms2" : 0.85,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : true,
@@ -358,9 +361,12 @@
   "lossCount" : 18,
   "winRate" : 0.0,
   "ms1" : 0.15,
+  "ms2" : 0.85,
   "max" : "Üst"
 }, {
   "teamName" : "Melbourne C. - Ho Chi Minh",
+  "teamEv" : "Melbourne C.",
+  "teamDep" : "Ho Chi Minh",
   "originalMatchUrl" : "https://istatistik.nesine.com/2448993",
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
@@ -498,7 +504,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
-  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : false,
@@ -511,162 +516,12 @@
   "lossCount" : 10,
   "winRate" : 0.0,
   "ms1" : 0.5,
+  "ms2" : 0.3333333333333333,
   "max" : "Yok"
 }, {
-  "teamName" : "FTC Filakovo - Trencin",
-  "originalMatchUrl" : "https://istatistik.nesine.com/2484566",
-  "rekabetGecmisi" : [ ],
-  "sonMaclarHome" : [ {
-    "homeTeam" : "Novohrad L.",
-    "awayTeam" : "FTC Filakovo",
-    "homeScore" : 2,
-    "awayScore" : 0,
-    "matchDate" : "1 Kas",
-    "tournament" : "3.",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "FTC Filakovo",
-    "awayTeam" : "Dukla Bystri",
-    "homeScore" : 1,
-    "awayScore" : 3,
-    "matchDate" : "26 Eki",
-    "tournament" : "3.",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "TJ Jednota",
-    "awayTeam" : "FTC Filakovo",
-    "homeScore" : 0,
-    "awayScore" : 2,
-    "matchDate" : "19 Eki",
-    "tournament" : "3.",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "FTC Filakovo",
-    "awayTeam" : "Tu Kosice",
-    "homeScore" : 5,
-    "awayScore" : 2,
-    "matchDate" : "15 Eki",
-    "tournament" : "SVKK",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "FTC Filakovo",
-    "awayTeam" : "MSK Martin",
-    "homeScore" : 3,
-    "awayScore" : 1,
-    "matchDate" : "12 Eki",
-    "tournament" : "3.",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "FTC Filakovo",
-    "awayTeam" : "K Nove Mesto",
-    "homeScore" : 2,
-    "awayScore" : 1,
-    "matchDate" : "5 Eki",
-    "tournament" : "3.",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  } ],
-  "sonMaclarAway" : [ {
-    "homeTeam" : "Trencin",
-    "awayTeam" : "Kosice",
-    "homeScore" : 2,
-    "awayScore" : 0,
-    "matchDate" : "8 Kas",
-    "tournament" : "SVK",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "S. Trnava",
-    "awayTeam" : "Trencin",
-    "homeScore" : 4,
-    "awayScore" : 0,
-    "matchDate" : "2 Kas",
-    "tournament" : "SVK",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "Trencin",
-    "awayTeam" : "Komarno",
-    "homeScore" : 0,
-    "awayScore" : 1,
-    "matchDate" : "25 Eki",
-    "tournament" : "SVK",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "Malzenice",
-    "awayTeam" : "Trencin",
-    "homeScore" : 1,
-    "awayScore" : 3,
-    "matchDate" : "22 Eki",
-    "tournament" : "SVKK",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "Trencin",
-    "awayTeam" : "MFK Skalica",
-    "homeScore" : 1,
-    "awayScore" : 1,
-    "matchDate" : "18 Eki",
-    "tournament" : "SVK",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  }, {
-    "homeTeam" : "Zemplin",
-    "awayTeam" : "Trencin",
-    "homeScore" : 2,
-    "awayScore" : 0,
-    "matchDate" : "4 Eki",
-    "tournament" : "SVK",
-    "season" : null,
-    "matchType" : "son-maclari",
-    "originalUrl" : "https://istatistik.nesine.com/2484566/ozet",
-    "status" : "finished"
-  } ],
-  "totalMatches" : 12,
-  "ms2" : 0.3333333333333333,
-  "winCount" : 0,
-  "drawCount" : 1,
-  "infoEnough" : false,
-  "infoEnoughWithoutRekabet" : true,
-  "var" : 0.5,
-  "ust" : 0.5,
-  "ms0" : 0.08333333333333343,
-  "alt" : 0.5,
-  "yok" : 0.5,
-  "lossCount" : 11,
-  "winRate" : 0.0,
-  "ms1" : 0.5833333333333333,
-  "max" : "MS1"
-}, {
   "teamName" : "NK Dekani - NK Malecnik",
+  "teamEv" : "NK Dekani",
+  "teamDep" : "NK Malecnik",
   "originalMatchUrl" : "https://istatistik.nesine.com/2519047",
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
@@ -760,7 +615,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 8,
-  "ms2" : 0.5833333333333333,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -773,9 +627,12 @@
   "lossCount" : 7,
   "winRate" : 0.0,
   "ms1" : 0.3333333333333333,
+  "ms2" : 0.5833333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Ib Khemis El - AS Khroub",
+  "teamEv" : "Ib Khemis El",
+  "teamDep" : "AS Khroub",
   "originalMatchUrl" : "https://istatistik.nesine.com/2519045",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Ib Khemis El",
@@ -979,7 +836,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
-  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : true,
@@ -992,9 +848,12 @@
   "lossCount" : 14,
   "winRate" : 0.0,
   "ms1" : 0.4833333333333333,
+  "ms2" : 0.3333333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Calvary - Updf",
+  "teamEv" : "Calvary",
+  "teamDep" : "Updf",
   "originalMatchUrl" : "https://istatistik.nesine.com/2448770",
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
@@ -1121,7 +980,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 11,
-  "ms2" : 0.48333333333333334,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -1134,9 +992,12 @@
   "lossCount" : 10,
   "winRate" : 0.0,
   "ms1" : 0.4166666666666667,
+  "ms2" : 0.48333333333333334,
   "max" : "Üst"
 }, {
   "teamName" : "Gadaffi - Uganda Polic",
+  "teamEv" : "Gadaffi",
+  "teamDep" : "Uganda Polic",
   "originalMatchUrl" : "https://istatistik.nesine.com/2448979",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Gadaffi",
@@ -1296,7 +1157,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
-  "ms2" : 0.375,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -1309,9 +1169,12 @@
   "lossCount" : 9,
   "winRate" : 0.0,
   "ms1" : 0.3,
+  "ms2" : 0.375,
   "max" : "Var"
 }, {
   "teamName" : "Fuzinar R. - NK Race",
+  "teamEv" : "Fuzinar R.",
+  "teamDep" : "NK Race",
   "originalMatchUrl" : "https://istatistik.nesine.com/2519027",
   "rekabetGecmisi" : [ {
     "homeTeam" : "NK Race",
@@ -1460,7 +1323,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
-  "ms2" : 0.16666666666666666,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : false,
@@ -1473,9 +1335,12 @@
   "lossCount" : 7,
   "winRate" : 0.0,
   "ms1" : 0.41666666666666663,
+  "ms2" : 0.16666666666666666,
   "max" : "Var"
 }, {
   "teamName" : "A. Kotoko - Young Apostl",
+  "teamEv" : "A. Kotoko",
+  "teamDep" : "Young Apostl",
   "originalMatchUrl" : "https://istatistik.nesine.com/2519035",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Young Apostl",
@@ -1635,7 +1500,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
-  "ms2" : 0.375,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -1648,9 +1512,12 @@
   "lossCount" : 9,
   "winRate" : 0.0,
   "ms1" : 0.3,
+  "ms2" : 0.375,
   "max" : "Alt"
 }, {
   "teamName" : "Remo Stars - Kano Pillars",
+  "teamEv" : "Remo Stars",
+  "teamDep" : "Kano Pillars",
   "originalMatchUrl" : "https://istatistik.nesine.com/2489596",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Remo Stars",
@@ -1854,7 +1721,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
-  "ms2" : 0.4083333333333333,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -1867,9 +1733,12 @@
   "lossCount" : 15,
   "winRate" : 0.0,
   "ms1" : 0.425,
+  "ms2" : 0.4083333333333333,
   "max" : "Var"
 }, {
   "teamName" : "Farense - Estrela",
+  "teamEv" : "Farense",
+  "teamDep" : "Estrela",
   "originalMatchUrl" : "https://istatistik.nesine.com/2519655",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Estrela",
@@ -2073,7 +1942,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
-  "ms2" : 0.25833333333333336,
   "winCount" : 0,
   "drawCount" : 6,
   "infoEnough" : true,
@@ -2086,9 +1954,12 @@
   "lossCount" : 12,
   "winRate" : 0.0,
   "ms1" : 0.4666666666666667,
+  "ms2" : 0.25833333333333336,
   "max" : "Alt"
 }, {
   "teamName" : "Karlovac - D. Zagreb",
+  "teamEv" : "Karlovac",
+  "teamDep" : "D. Zagreb",
   "originalMatchUrl" : "https://istatistik.nesine.com/2448914",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Karlovac",
@@ -2259,7 +2130,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 15,
-  "ms2" : 0.475,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -2272,9 +2142,12 @@
   "lossCount" : 12,
   "winRate" : 0.0,
   "ms1" : 0.3,
+  "ms2" : 0.475,
   "max" : "Üst"
 }, {
   "teamName" : "Coria - Orihuela",
+  "teamEv" : "Coria",
+  "teamDep" : "Orihuela",
   "originalMatchUrl" : "https://istatistik.nesine.com/2506364",
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
@@ -2412,7 +2285,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
-  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : false,
@@ -2425,9 +2297,12 @@
   "lossCount" : 11,
   "winRate" : 0.0,
   "ms1" : 0.5833333333333333,
+  "ms2" : 0.3333333333333333,
   "max" : "Üst"
 }, {
   "teamName" : "Juventus T. - Olympique L.",
+  "teamEv" : "Juventus T.",
+  "teamDep" : "Olympique L.",
   "originalMatchUrl" : "https://istatistik.nesine.com/2448742",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Olympique L.",
@@ -2631,7 +2506,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
-  "ms2" : 0.65,
   "winCount" : 0,
   "drawCount" : 2,
   "infoEnough" : true,
@@ -2644,9 +2518,12 @@
   "lossCount" : 16,
   "winRate" : 0.0,
   "ms1" : 0.31666666666666665,
+  "ms2" : 0.65,
   "max" : "Üst"
 }, {
   "teamName" : "Wolfsburg - Man. Utd",
+  "teamEv" : "Wolfsburg",
+  "teamDep" : "Man. Utd",
   "originalMatchUrl" : "https://istatistik.nesine.com/2449091",
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
@@ -2784,7 +2661,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
-  "ms2" : 0.5,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -2797,9 +2673,12 @@
   "lossCount" : 12,
   "winRate" : 0.0,
   "ms1" : 0.5,
+  "ms2" : 0.5,
   "max" : "Üst"
 }, {
   "teamName" : "Blooming - Cdt Real Oru",
+  "teamEv" : "Blooming",
+  "teamDep" : "Cdt Real Oru",
   "originalMatchUrl" : "https://istatistik.nesine.com/2536778",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Blooming",
@@ -2948,7 +2827,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 13,
-  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 4,
   "infoEnough" : false,
@@ -2961,9 +2839,12 @@
   "lossCount" : 9,
   "winRate" : 0.0,
   "ms1" : 0.25,
+  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "Caerau Ely - Trefelin BGC",
+  "teamEv" : "Caerau Ely",
+  "teamDep" : "Trefelin BGC",
   "originalMatchUrl" : "https://istatistik.nesine.com/2506386",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Caerau Ely",
@@ -3167,7 +3048,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
-  "ms2" : 0.575,
   "winCount" : 0,
   "drawCount" : 1,
   "infoEnough" : true,
@@ -3180,9 +3060,12 @@
   "lossCount" : 17,
   "winRate" : 0.0,
   "ms1" : 0.35,
+  "ms2" : 0.575,
   "max" : "Yok"
 }, {
   "teamName" : "Dumbarton - Stenhouse.",
+  "teamEv" : "Dumbarton",
+  "teamDep" : "Stenhouse.",
   "originalMatchUrl" : "https://istatistik.nesine.com/2531902",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Stenhouse.",
@@ -3386,7 +3269,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
-  "ms2" : 0.45833333333333337,
   "winCount" : 0,
   "drawCount" : 5,
   "infoEnough" : true,
@@ -3399,9 +3281,12 @@
   "lossCount" : 13,
   "winRate" : 0.0,
   "ms1" : 0.22499999999999998,
+  "ms2" : 0.45833333333333337,
   "max" : "Üst"
 }, {
   "teamName" : "Atl. Grau - S. Cristal",
+  "teamEv" : "Atl. Grau",
+  "teamDep" : "S. Cristal",
   "originalMatchUrl" : "https://istatistik.nesine.com/2529257",
   "rekabetGecmisi" : [ {
     "homeTeam" : "S. Cristal",
@@ -3605,7 +3490,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 18,
-  "ms2" : 0.5916666666666667,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -3618,9 +3502,12 @@
   "lossCount" : 15,
   "winRate" : 0.0,
   "ms1" : 0.24166666666666667,
+  "ms2" : 0.5916666666666667,
   "max" : "MS2"
 }, {
   "teamName" : "Paris - Benfica L.",
+  "teamEv" : "Paris",
+  "teamDep" : "Benfica L.",
   "originalMatchUrl" : "https://istatistik.nesine.com/2448807",
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
@@ -3758,7 +3645,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
-  "ms2" : 0.41666666666666663,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : false,
@@ -3771,9 +3657,12 @@
   "lossCount" : 9,
   "winRate" : 0.0,
   "ms1" : 0.3333333333333333,
+  "ms2" : 0.41666666666666663,
   "max" : "Üst"
 }, {
   "teamName" : "Arsenal WFC - Real Madrid",
+  "teamEv" : "Arsenal WFC",
+  "teamDep" : "Real Madrid",
   "originalMatchUrl" : "https://istatistik.nesine.com/2448942",
   "rekabetGecmisi" : [ {
     "homeTeam" : "Arsenal WFC",
@@ -3933,7 +3822,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 14,
-  "ms2" : 0.425,
   "winCount" : 0,
   "drawCount" : 3,
   "infoEnough" : true,
@@ -3946,9 +3834,12 @@
   "lossCount" : 11,
   "winRate" : 0.0,
   "ms1" : 0.35000000000000003,
+  "ms2" : 0.425,
   "max" : "Yok"
 }, {
   "teamName" : "Vaalerenga - St. Polten",
+  "teamEv" : "Vaalerenga",
+  "teamDep" : "St. Polten",
   "originalMatchUrl" : "https://istatistik.nesine.com/2449021",
   "rekabetGecmisi" : [ ],
   "sonMaclarHome" : [ {
@@ -4086,7 +3977,6 @@
     "status" : "finished"
   } ],
   "totalMatches" : 12,
-  "ms2" : 0.3333333333333333,
   "winCount" : 0,
   "drawCount" : 0,
   "infoEnough" : false,
@@ -4099,5 +3989,6 @@
   "lossCount" : 12,
   "winRate" : 0.0,
   "ms1" : 0.6666666666666667,
+  "ms2" : 0.3333333333333333,
   "max" : "Yok"
 } ]
