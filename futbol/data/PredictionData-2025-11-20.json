@@ -26,24 +26,24 @@
   "homeTeam" : "Norrby",
   "awayTeam" : "Utsiktens",
   "picks" : [ "Üst (1.5 - 78.1%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Üst (1.5 - 78.1%)" : "pending"
+    "Üst (1.5 - 78.1%)" : "won"
   }
 }, {
   "homeTeam" : "Hammarby Talang FF",
   "awayTeam" : "Orebro SK",
   "picks" : [ "Var (1.41 - 81.4%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.41 - 81.4%)" : "pending"
+    "Var (1.41 - 81.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Juventude",
   "awayTeam" : "Cruzeiro MG",
   "picks" : [ "Alt (1.59 - 72.9%)" ],
-  "score" : "-",
+  "score" : "3-3",
   "statuses" : {
-    "Alt (1.59 - 72.9%)" : "pending"
+    "Alt (1.59 - 72.9%)" : "lost"
   }
 } ]
