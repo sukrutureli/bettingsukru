@@ -1,0 +1,37 @@
+[ {
+  "name" : "Sidama Bunna SC - Mekelle 70 Enderta",
+  "time" : "15:00",
+  "predictions" : [ "MS1 (1.55 - 70.9%)" ],
+  "score" : "3-0",
+  "mbs" : 3
+}, {
+  "name" : "Paradou AC - MC EL Bayadh",
+  "time" : "16:00",
+  "predictions" : [ "MS1 (1.54 - 64.5%)" ],
+  "score" : "2-0",
+  "mbs" : 3
+}, {
+  "name" : "AL Shorta - AL Karkh",
+  "time" : "17:00",
+  "predictions" : [ "Alt (1.52 - 66.0%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Norrby - Utsiktens",
+  "time" : "21:00",
+  "predictions" : [ "Üst (1.5 - 78.1%)" ],
+  "score" : "4-1",
+  "mbs" : 3
+}, {
+  "name" : "Hammarby Talang FF - Orebro SK",
+  "time" : "21:00",
+  "predictions" : [ "Var (1.41 - 81.4%)" ],
+  "score" : "4-1",
+  "mbs" : 3
+}, {
+  "name" : "Juventude - Cruzeiro MG",
+  "time" : "22:00",
+  "predictions" : [ "Alt (1.59 - 72.9%)" ],
+  "score" : "0-1",
+  "mbs" : 1
+} ]

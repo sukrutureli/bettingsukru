@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Sidama Bunna SC",
+  "awayTeam" : "Mekelle 70 Enderta",
+  "picks" : [ "MS1 (1.55 - 70.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.55 - 70.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Paradou AC",
+  "awayTeam" : "MC EL Bayadh",
+  "picks" : [ "MS1 (1.54 - 64.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.54 - 64.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Shorta",
+  "awayTeam" : "AL Karkh",
+  "picks" : [ "Alt (1.52 - 66.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.52 - 66.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Norrby",
+  "awayTeam" : "Utsiktens",
+  "picks" : [ "Üst (1.5 - 78.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.5 - 78.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hammarby Talang FF",
+  "awayTeam" : "Orebro SK",
+  "picks" : [ "Var (1.41 - 81.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.41 - 81.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Juventude",
+  "awayTeam" : "Cruzeiro MG",
+  "picks" : [ "Alt (1.59 - 72.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.59 - 72.9%)" : "pending"
+  }
+} ]
