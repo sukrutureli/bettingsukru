@@ -1,0 +1,157 @@
+[ {
+  "name" : "Ceara CE - Internacional",
+  "time" : "03:30",
+  "predictions" : [ "Alt (1.48 - 80.4%)" ],
+  "score" : "0-0",
+  "mbs" : 1
+}, {
+  "name" : "Motagua - Olancho",
+  "time" : "04:00",
+  "predictions" : [ "Var (1.44 - 60.0%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Tepatitlan - Tampico Madero",
+  "time" : "05:00",
+  "predictions" : [ "Alt (1.57 - 69.8%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Club Tijuana - Juarez",
+  "time" : "06:00",
+  "predictions" : [ "Var (1.48 - 80.0%)" ],
+  "score" : "2-1",
+  "mbs" : 2
+}, {
+  "name" : "Persib Bandung - Dewa Utd",
+  "time" : "15:00",
+  "predictions" : [ "MS1 (1.46 - 77.2%)" ],
+  "score" : "5-0",
+  "mbs" : 3
+}, {
+  "name" : "Puchov - OFK Malzenice",
+  "time" : "15:00",
+  "predictions" : [ "Var (1.39 - 58.9%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "AL Anwar - AL Tai",
+  "time" : "15:05",
+  "predictions" : [ "Alt (1.52 - 55.9%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Shams Azar Qazvin - N. Zamini Tehran",
+  "time" : "16:00",
+  "predictions" : [ "Alt (1.33 - 77.9%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Venda Football A. - Black Leopar",
+  "time" : "16:30",
+  "predictions" : [ "Alt (1.4 - 72.5%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Olympique Akbou - ASO Chlef",
+  "time" : "16:45",
+  "predictions" : [ "Alt (1.33 - 60.2%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Volga Ulyan. - Torpedo Moskova",
+  "time" : "17:00",
+  "predictions" : [ "Alt (1.48 - 57.0%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "AL Adalh - AL Bukayriyah",
+  "time" : "17:30",
+  "predictions" : [ "Alt (1.41 - 79.7%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "NK Brinje Grosuplje - ND Beltinci",
+  "time" : "19:30",
+  "predictions" : [ "Var (1.45 - 65.5%)" ],
+  "score" : "2-1",
+  "mbs" : 3
+}, {
+  "name" : "Puszcza - M. Legnica",
+  "time" : "20:00",
+  "predictions" : [ "Var (1.42 - 73.6%)" ],
+  "score" : "2-1",
+  "mbs" : 3
+}, {
+  "name" : "Hertha Berlin - Braunschweig",
+  "time" : "20:30",
+  "predictions" : [ "MS1 (1.39 - 74.7%)" ],
+  "score" : "4-0",
+  "mbs" : 1
+}, {
+  "name" : "Hoffenheim II - Duisburg",
+  "time" : "21:00",
+  "predictions" : [ "Var (1.41 - 59.7%)" ],
+  "score" : "1-1",
+  "mbs" : 2
+}, {
+  "name" : "Silkeborg - AGF Aarhus",
+  "time" : "21:00",
+  "predictions" : [ "Var (1.36 - 64.4%)" ],
+  "score" : "1-2",
+  "mbs" : 2
+}, {
+  "name" : "Valenciennes - Fleury 91",
+  "time" : "21:30",
+  "predictions" : [ "Alt (1.54 - 70.8%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Sochaux - Dijon",
+  "time" : "21:30",
+  "predictions" : [ "Alt (1.35 - 65.3%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "A. Pitesti - Un. Craiova",
+  "time" : "21:30",
+  "predictions" : [ "Alt (1.33 - 66.4%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Pau - Le Mans",
+  "time" : "22:00",
+  "predictions" : [ "Alt (1.49 - 65.4%)" ],
+  "score" : "0-1",
+  "mbs" : 1
+}, {
+  "name" : "Stade Laval. - Troyes",
+  "time" : "22:00",
+  "predictions" : [ "Alt (1.42 - 76.8%)" ],
+  "score" : "0-1",
+  "mbs" : 1
+}, {
+  "name" : "Jong Ajax - Eindhoven",
+  "time" : "22:00",
+  "predictions" : [ "Var (1.35 - 59.8%)" ],
+  "score" : "1-1",
+  "mbs" : 2
+}, {
+  "name" : "Bellinzona - Vaduz",
+  "time" : "22:15",
+  "predictions" : [ "MS2 (1.54 - 68.8%)" ],
+  "score" : "0-2",
+  "mbs" : 3
+}, {
+  "name" : "Audace Cerignola - Crotone",
+  "time" : "22:30",
+  "predictions" : [ "Var (1.49 - 56.9%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Marsilya (K) - RC Lens (K)",
+  "time" : "23:00",
+  "predictions" : [ "Üst (1.37 - 76.5%)" ],
+  "score" : "3-1",
+  "mbs" : 3
+} ]

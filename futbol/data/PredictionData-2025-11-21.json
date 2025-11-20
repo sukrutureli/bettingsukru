@@ -1,0 +1,209 @@
+[ {
+  "homeTeam" : "Ceara CE",
+  "awayTeam" : "Internacional",
+  "picks" : [ "Alt (1.48 - 80.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.48 - 80.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Motagua",
+  "awayTeam" : "Olancho",
+  "picks" : [ "Var (1.44 - 60.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.44 - 60.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tepatitlan",
+  "awayTeam" : "Tampico Madero",
+  "picks" : [ "Alt (1.57 - 69.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.57 - 69.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Club Tijuana",
+  "awayTeam" : "Juarez",
+  "picks" : [ "Var (1.48 - 80.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.48 - 80.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Persib Bandung",
+  "awayTeam" : "Dewa Utd",
+  "picks" : [ "MS1 (1.46 - 77.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.46 - 77.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Puchov",
+  "awayTeam" : "OFK Malzenice",
+  "picks" : [ "Var (1.39 - 58.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.39 - 58.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Anwar",
+  "awayTeam" : "AL Tai",
+  "picks" : [ "Alt (1.52 - 55.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.52 - 55.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shams Azar Qazvin",
+  "awayTeam" : "N. Zamini Tehran",
+  "picks" : [ "Alt (1.33 - 77.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 77.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Venda Football A.",
+  "awayTeam" : "Black Leopar",
+  "picks" : [ "Alt (1.4 - 72.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 72.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Olympique Akbou",
+  "awayTeam" : "ASO Chlef",
+  "picks" : [ "Alt (1.33 - 60.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 60.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Volga Ulyan.",
+  "awayTeam" : "Torpedo Moskova",
+  "picks" : [ "Alt (1.48 - 57.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.48 - 57.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Adalh",
+  "awayTeam" : "AL Bukayriyah",
+  "picks" : [ "Alt (1.41 - 79.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.41 - 79.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "NK Brinje Grosuplje",
+  "awayTeam" : "ND Beltinci",
+  "picks" : [ "Var (1.45 - 65.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.45 - 65.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Puszcza",
+  "awayTeam" : "M. Legnica",
+  "picks" : [ "Var (1.42 - 73.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.42 - 73.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hertha Berlin",
+  "awayTeam" : "Braunschweig",
+  "picks" : [ "MS1 (1.39 - 74.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.39 - 74.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hoffenheim II",
+  "awayTeam" : "Duisburg",
+  "picks" : [ "Var (1.41 - 59.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.41 - 59.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Silkeborg",
+  "awayTeam" : "AGF Aarhus",
+  "picks" : [ "Var (1.36 - 64.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.36 - 64.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Valenciennes",
+  "awayTeam" : "Fleury 91",
+  "picks" : [ "Alt (1.54 - 70.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.54 - 70.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sochaux",
+  "awayTeam" : "Dijon",
+  "picks" : [ "Alt (1.35 - 65.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.35 - 65.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "A. Pitesti",
+  "awayTeam" : "Un. Craiova",
+  "picks" : [ "Alt (1.33 - 66.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 66.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Pau",
+  "awayTeam" : "Le Mans",
+  "picks" : [ "Alt (1.49 - 65.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.49 - 65.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Stade Laval.",
+  "awayTeam" : "Troyes",
+  "picks" : [ "Alt (1.42 - 76.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.42 - 76.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Jong Ajax",
+  "awayTeam" : "Eindhoven",
+  "picks" : [ "Var (1.35 - 59.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.35 - 59.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bellinzona",
+  "awayTeam" : "Vaduz",
+  "picks" : [ "MS2 (1.54 - 68.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.54 - 68.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Audace Cerignola",
+  "awayTeam" : "Crotone",
+  "picks" : [ "Var (1.49 - 56.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.49 - 56.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Marsilya (K)",
+  "awayTeam" : "RC Lens (K)",
+  "picks" : [ "Üst (1.37 - 76.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.37 - 76.5%)" : "pending"
+  }
+} ]
