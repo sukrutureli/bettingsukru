@@ -2,17 +2,17 @@
   "homeTeam" : "Sidama Bunna SC",
   "awayTeam" : "Mekelle 70 Enderta",
   "picks" : [ "MS1 (1.55 - 70.9%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "MS1 (1.55 - 70.9%)" : "pending"
+    "MS1 (1.55 - 70.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Paradou AC",
   "awayTeam" : "MC EL Bayadh",
   "picks" : [ "MS1 (1.54 - 64.5%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "MS1 (1.54 - 64.5%)" : "pending"
+    "MS1 (1.54 - 64.5%)" : "won"
   }
 }, {
   "homeTeam" : "AL Shorta",
