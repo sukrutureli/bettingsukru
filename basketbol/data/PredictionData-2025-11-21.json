@@ -1,0 +1,153 @@
+[ {
+  "homeTeam" : "Regatas Corrientes",
+  "awayTeam" : "Instituto de Cordoba",
+  "picks" : [ "155.5 Alt (1.65 - 57.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "155.5 Alt (1.65 - 57.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "Atlanta",
+  "picks" : [ "232.5 Üst (1.59 - 55.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "232.5 Üst (1.59 - 55.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Sacramento",
+  "picks" : [ "234.5 Alt (1.62 - 67.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "234.5 Alt (1.62 - 67.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Illawarra Hawks",
+  "awayTeam" : "Melbourne Utd",
+  "picks" : [ "MS2 (1.48 - 56.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.48 - 56.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "KK Split",
+  "awayTeam" : "Kk Krka",
+  "picks" : [ "160.5 Üst (1.63 - 71.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "160.5 Üst (1.63 - 71.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Chalons Reims",
+  "awayTeam" : "ADA Blois Basket 41",
+  "picks" : [ "MS2 (1.45 - 66.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.45 - 66.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hermine Nantes B.",
+  "awayTeam" : "Caen Basket",
+  "picks" : [ "164.5 Üst (1.66 - 57.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "164.5 Üst (1.66 - 57.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Stade Rochelais B.",
+  "awayTeam" : "A. S. Alsace",
+  "picks" : [ "159.5 Üst (1.6 - 65.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "159.5 Üst (1.6 - 65.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "ASC Denain V.",
+  "awayTeam" : "Roanne Chorale",
+  "picks" : [ "MS2 (1.58 - 55.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.58 - 55.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "IA Akranes",
+  "awayTeam" : "IR Reykjavik",
+  "picks" : [ "185.5 Alt (1.64 - 57.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "185.5 Alt (1.64 - 57.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Keflavik",
+  "awayTeam" : "Alftanes",
+  "picks" : [ "MS1 (1.58 - 74.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.58 - 74.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Olympiakos",
+  "awayTeam" : "Paris",
+  "picks" : [ "172.5 Üst (1.61 - 65.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "172.5 Üst (1.61 - 65.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Brescia",
+  "awayTeam" : "Cremona",
+  "picks" : [ "172.5 Üst (1.65 - 62.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "172.5 Üst (1.65 - 62.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kortrijk Spurs",
+  "awayTeam" : "Z. Leiden",
+  "picks" : [ "165.5 Üst (1.65 - 79.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "165.5 Üst (1.65 - 79.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "JA Vichy Clermont",
+  "awayTeam" : "Pau Orthez",
+  "picks" : [ "160.5 Üst (1.65 - 65.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "160.5 Üst (1.65 - 65.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bristol Flyers",
+  "awayTeam" : "London Lions",
+  "picks" : [ "155.5 Üst (1.62 - 81.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "155.5 Üst (1.62 - 81.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Manchester Basketball",
+  "awayTeam" : "Cheshire Phoenix",
+  "picks" : [ "180.5 Alt (1.64 - 64.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "180.5 Alt (1.64 - 64.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Verona",
+  "awayTeam" : "Basket 1971",
+  "picks" : [ "159.5 Alt (1.63 - 63.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "159.5 Alt (1.63 - 63.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "Kızıl Yıldız",
+  "picks" : [ "176.5 Alt (1.64 - 60.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "176.5 Alt (1.64 - 60.0%)" : "pending"
+  }
+} ]
