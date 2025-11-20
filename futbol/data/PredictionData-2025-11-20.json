@@ -18,9 +18,9 @@
   "homeTeam" : "AL Shorta",
   "awayTeam" : "AL Karkh",
   "picks" : [ "Alt (1.52 - 66.0%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.52 - 66.0%)" : "pending"
+    "Alt (1.52 - 66.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Norrby",

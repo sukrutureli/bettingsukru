@@ -150,4 +150,40 @@
   "homeTeam" : "AL Sarhan",
   "awayTeam" : "Shabab AL Ordon",
   "score" : "1-2"
+}, {
+  "homeTeam" : "Khor Fakkan",
+  "awayTeam" : "Al Ahli Dubai",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Shorta",
+  "awayTeam" : "AL Karkh",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Grobinas SC",
+  "awayTeam" : "JDFS Alberts",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Sveikata",
+  "awayTeam" : "FA Siauliai B",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Bazar Brothers",
+  "awayTeam" : "Saint Louis Suns Utd",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "NK Bravo U19",
+  "awayTeam" : "O. Ljubljana U19",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "SC Villa",
+  "awayTeam" : "NEC",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Al Jazeera",
+  "awayTeam" : "AL Hussein Irbid",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Sahel FC de Dori",
+  "awayTeam" : "Association Sportive Du Kourittenga",
+  "score" : "1-0"
 } ]
