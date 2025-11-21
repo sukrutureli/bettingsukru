@@ -26,65 +26,65 @@
   "homeTeam" : "Club Tijuana",
   "awayTeam" : "Juarez",
   "picks" : [ "Var (1.48 - 80.0%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Var (1.48 - 80.0%)" : "pending"
+    "Var (1.48 - 80.0%)" : "won"
   }
 }, {
   "homeTeam" : "Persib Bandung",
   "awayTeam" : "Dewa Utd",
   "picks" : [ "MS1 (1.46 - 77.2%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "MS1 (1.46 - 77.2%)" : "pending"
+    "MS1 (1.46 - 77.2%)" : "won"
   }
 }, {
   "homeTeam" : "Puchov",
   "awayTeam" : "OFK Malzenice",
   "picks" : [ "Var (1.39 - 58.9%)" ],
-  "score" : "-",
+  "score" : "4-2",
   "statuses" : {
-    "Var (1.39 - 58.9%)" : "pending"
+    "Var (1.39 - 58.9%)" : "won"
   }
 }, {
   "homeTeam" : "AL Anwar",
   "awayTeam" : "AL Tai",
   "picks" : [ "Alt (1.52 - 55.9%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.52 - 55.9%)" : "pending"
+    "Alt (1.52 - 55.9%)" : "won"
   }
 }, {
   "homeTeam" : "Shams Azar Qazvin",
   "awayTeam" : "N. Zamini Tehran",
   "picks" : [ "Alt (1.33 - 77.9%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Alt (1.33 - 77.9%)" : "pending"
+    "Alt (1.33 - 77.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Venda Football A.",
   "awayTeam" : "Black Leopar",
   "picks" : [ "Alt (1.4 - 72.5%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.4 - 72.5%)" : "pending"
+    "Alt (1.4 - 72.5%)" : "won"
   }
 }, {
   "homeTeam" : "Olympique Akbou",
   "awayTeam" : "ASO Chlef",
   "picks" : [ "Alt (1.33 - 60.2%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.33 - 60.2%)" : "pending"
+    "Alt (1.33 - 60.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Volga Ulyan.",
   "awayTeam" : "Torpedo Moskova",
   "picks" : [ "Alt (1.48 - 57.0%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.48 - 57.0%)" : "pending"
+    "Alt (1.48 - 57.0%)" : "won"
   }
 }, {
   "homeTeam" : "AL Adalh",
