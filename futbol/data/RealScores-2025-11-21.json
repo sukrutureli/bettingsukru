@@ -258,4 +258,48 @@
   "homeTeam" : "KIF Orebro DFF (K)",
   "awayTeam" : "Brommapojkarna (K)",
   "score" : "0-2"
+}, {
+  "homeTeam" : "Bahia BA",
+  "awayTeam" : "Fortaleza CE",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Corinthians",
+  "awayTeam" : "Sao Paulo SP",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Ceara CE",
+  "awayTeam" : "Internacional",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Motagua",
+  "awayTeam" : "Olancho",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Atl. Nacional Medellin",
+  "awayTeam" : "America De Cali",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Real Cartagena",
+  "awayTeam" : "Boyaca Patr.",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Alajuelense",
+  "awayTeam" : "CS Cartagines",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Tepatitlan",
+  "awayTeam" : "Tampico Madero",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "America (K)",
+  "awayTeam" : "Tigres UANL (K)",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "Pachuca",
+  "awayTeam" : "Pumas Unam",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "N. Asuncion",
+  "awayTeam" : "S. Ameliano",
+  "score" : "2-0"
 } ]

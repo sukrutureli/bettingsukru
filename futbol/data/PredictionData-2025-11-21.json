@@ -2,25 +2,25 @@
   "homeTeam" : "Ceara CE",
   "awayTeam" : "Internacional",
   "picks" : [ "Alt (1.48 - 80.4%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.48 - 80.4%)" : "pending"
+    "Alt (1.48 - 80.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Motagua",
   "awayTeam" : "Olancho",
   "picks" : [ "Var (1.44 - 60.0%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Var (1.44 - 60.0%)" : "pending"
+    "Var (1.44 - 60.0%)" : "won"
   }
 }, {
   "homeTeam" : "Tepatitlan",
   "awayTeam" : "Tampico Madero",
   "picks" : [ "Alt (1.57 - 69.8%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.57 - 69.8%)" : "pending"
+    "Alt (1.57 - 69.8%)" : "won"
   }
 }, {
   "homeTeam" : "Club Tijuana",
