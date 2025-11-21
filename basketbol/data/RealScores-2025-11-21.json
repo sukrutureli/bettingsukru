@@ -282,4 +282,20 @@
   "homeTeam" : "Ehime O. V.",
   "awayTeam" : "Nishinomiya",
   "score" : "65-84"
+}, {
+  "homeTeam" : "Mersin Spor",
+  "awayTeam" : "Karşıyaka",
+  "score" : "92-87"
+}, {
+  "homeTeam" : "Basket Brno",
+  "awayTeam" : "SK Slavia Prague",
+  "score" : "90-83"
+}, {
+  "homeTeam" : "Kaposvari KK",
+  "awayTeam" : "NKA Universitas Pecs",
+  "score" : "93-81"
+}, {
+  "homeTeam" : "GTK Gliwice",
+  "awayTeam" : "A. Arka Gdynia",
+  "score" : "66-89"
 } ]
