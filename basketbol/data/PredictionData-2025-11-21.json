@@ -2,25 +2,25 @@
   "homeTeam" : "Regatas Corrientes",
   "awayTeam" : "Instituto de Cordoba",
   "picks" : [ "155.5 Alt (1.65 - 57.4%)" ],
-  "score" : "-",
+  "score" : "74-60",
   "statuses" : {
-    "155.5 Alt (1.65 - 57.4%)" : "pending"
+    "155.5 Alt (1.65 - 57.4%)" : "won"
   }
 }, {
   "homeTeam" : "San Antonio",
   "awayTeam" : "Atlanta",
   "picks" : [ "232.5 Üst (1.59 - 55.4%)" ],
-  "score" : "-",
+  "score" : "135-126",
   "statuses" : {
-    "232.5 Üst (1.59 - 55.4%)" : "pending"
+    "232.5 Üst (1.59 - 55.4%)" : "won"
   }
 }, {
   "homeTeam" : "Memphis",
   "awayTeam" : "Sacramento",
   "picks" : [ "234.5 Alt (1.62 - 67.2%)" ],
-  "score" : "-",
+  "score" : "137-96",
   "statuses" : {
-    "234.5 Alt (1.62 - 67.2%)" : "pending"
+    "234.5 Alt (1.62 - 67.2%)" : "won"
   }
 }, {
   "homeTeam" : "Illawarra Hawks",

@@ -142,4 +142,112 @@
   "homeTeam" : "Slam Stal",
   "awayTeam" : "Miasto Szkla",
   "score" : "92-89"
+}, {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "LA Clippers",
+  "score" : "129-101"
+}, {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "Philadelphia",
+  "score" : "114-123"
+}, {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "Atlanta",
+  "score" : "135-126"
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Sacramento",
+  "score" : "137-96"
+}, {
+  "homeTeam" : "Maryland Terrapins (K)",
+  "awayTeam" : "Bethune Cookman Wild (K)",
+  "score" : "95-49"
+}, {
+  "homeTeam" : "Drake Bulldogs",
+  "awayTeam" : "Iowa State Cyclones (K)",
+  "score" : "60-87"
+}, {
+  "homeTeam" : "N.Carolina A&T Aggies (K)",
+  "awayTeam" : "N. Carolina Tar Heels (K)",
+  "score" : "50-85"
+}, {
+  "homeTeam" : "TCU Horned Frogs (K)",
+  "awayTeam" : "Tarleton State Texans (K)",
+  "score" : "80-32"
+}, {
+  "homeTeam" : "South Florida (K)",
+  "awayTeam" : "Duke Blue Devils (K)",
+  "score" : "85-72"
+}, {
+  "homeTeam" : "LSU Tigers (K)",
+  "awayTeam" : "Alcorn State Bra (K)",
+  "score" : "112-49"
+}, {
+  "homeTeam" : "Iowa Hawk (K)",
+  "awayTeam" : "Baylor Bears (K)",
+  "score" : "57-52"
+}, {
+  "homeTeam" : "Purdue Boilermakers",
+  "awayTeam" : "Memphis Tigers",
+  "score" : "80-71"
+}, {
+  "homeTeam" : "Tennessee Volunteers",
+  "awayTeam" : "Tennessee State Tigers",
+  "score" : "89-60"
+}, {
+  "homeTeam" : "St. John's Red Storm",
+  "awayTeam" : "Bucknell Bison",
+  "score" : "97-49"
+}, {
+  "homeTeam" : "Texas Tech Red Raiders",
+  "awayTeam" : "Wake Forest Demon Deacons",
+  "score" : "84-83"
+}, {
+  "homeTeam" : "Houston Cougars",
+  "awayTeam" : "Rider Broncs",
+  "score" : "91-45"
+}, {
+  "homeTeam" : "CA Platense",
+  "awayTeam" : "Obera Tenis C.",
+  "score" : "82-78"
+}, {
+  "homeTeam" : "Argentino J.",
+  "awayTeam" : "Gimnasia",
+  "score" : "64-79"
+}, {
+  "homeTeam" : "Regatas Corrientes",
+  "awayTeam" : "Instituto de Cordoba",
+  "score" : "74-60"
+}, {
+  "homeTeam" : "Flamengo",
+  "awayTeam" : "Universo Brasilia",
+  "score" : "83-85"
+}, {
+  "homeTeam" : "B. Cearense",
+  "awayTeam" : "Bauru Basket",
+  "score" : "91-72"
+}, {
+  "homeTeam" : "Unifacisa",
+  "awayTeam" : "Franca SP",
+  "score" : "81-93"
+}, {
+  "homeTeam" : "Cruzeiro Basquete",
+  "awayTeam" : "CA Paulistano",
+  "score" : "86-106"
+}, {
+  "homeTeam" : "Deportivo San Jose",
+  "awayTeam" : "Olimpia Kings",
+  "score" : "64-76"
+}, {
+  "homeTeam" : "Club Nacional",
+  "awayTeam" : "Club Un. At",
+  "score" : "88-72"
+}, {
+  "homeTeam" : "Urunday Universitario",
+  "awayTeam" : "CA Cordon",
+  "score" : "123-77"
+}, {
+  "homeTeam" : "CA Penarol",
+  "awayTeam" : "Defensor Sporting",
+  "score" : "85-72"
 } ]
