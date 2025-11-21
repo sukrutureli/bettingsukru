@@ -26,9 +26,9 @@
   "homeTeam" : "Illawarra Hawks",
   "awayTeam" : "Melbourne Utd",
   "picks" : [ "MS2 (1.48 - 56.6%)" ],
-  "score" : "-",
+  "score" : "102-105",
   "statuses" : {
-    "MS2 (1.48 - 56.6%)" : "pending"
+    "MS2 (1.48 - 56.6%)" : "won"
   }
 }, {
   "homeTeam" : "KK Split",

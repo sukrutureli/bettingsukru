@@ -250,4 +250,36 @@
   "homeTeam" : "CA Penarol",
   "awayTeam" : "Defensor Sporting",
   "score" : "85-72"
+}, {
+  "homeTeam" : "MKE Ankaragücü Basketbol",
+  "awayTeam" : "İstiklal Spor",
+  "score" : "68-85"
+}, {
+  "homeTeam" : "Illawarra Hawks",
+  "awayTeam" : "Melbourne U.",
+  "score" : "102-105"
+}, {
+  "homeTeam" : "Perth Wildcats",
+  "awayTeam" : "Tasmania Jackjumpers",
+  "score" : "101-95"
+}, {
+  "homeTeam" : "Adelaide Lightning (K)",
+  "awayTeam" : "Geelong Supe (K)",
+  "score" : "99-93"
+}, {
+  "homeTeam" : "Incheon Shinhan (K)",
+  "awayTeam" : "Bucheon Hana (K)",
+  "score" : "76-62"
+}, {
+  "homeTeam" : "Seoul SK Knights II",
+  "awayTeam" : "Mobis Phoebus II",
+  "score" : "82-61"
+}, {
+  "homeTeam" : "Kt Sonicboom Reserve",
+  "awayTeam" : "Daegu Pegasus Reserve",
+  "score" : "90-50"
+}, {
+  "homeTeam" : "Ehime O. V.",
+  "awayTeam" : "Nishinomiya",
+  "score" : "65-84"
 } ]
