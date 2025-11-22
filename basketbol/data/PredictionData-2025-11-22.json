@@ -186,144 +186,144 @@
   "homeTeam" : "Sluc Nancy Basket",
   "awayTeam" : "Le Mans",
   "picks" : [ "MS1 (1.82 - 75.5%)" ],
-  "score" : "-",
+  "score" : "76-78",
   "statuses" : {
-    "MS1 (1.82 - 75.5%)" : "pending"
+    "MS1 (1.82 - 75.5%)" : "lost"
   }
 }, {
   "homeTeam" : "A. Basket Trento",
   "awayTeam" : "Treviso",
   "picks" : [ "174.5 Üst (1.66 - 57.0%)" ],
-  "score" : "-",
+  "score" : "81-68",
   "statuses" : {
-    "174.5 Üst (1.66 - 57.0%)" : "pending"
+    "174.5 Üst (1.66 - 57.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Elan Chalon",
   "awayTeam" : "Strasbourg",
   "picks" : [ "170.5 Alt (1.59 - 60.5%)" ],
-  "score" : "-",
+  "score" : "69-75",
   "statuses" : {
-    "170.5 Alt (1.59 - 60.5%)" : "pending"
+    "170.5 Alt (1.59 - 60.5%)" : "won"
   }
 }, {
   "homeTeam" : "Frankfurt",
   "awayTeam" : "Wurzburg",
   "picks" : [ "MS1 (1.5 - 87.4%)" ],
-  "score" : "-",
+  "score" : "82-80",
   "statuses" : {
-    "MS1 (1.5 - 87.4%)" : "pending"
+    "MS1 (1.5 - 87.4%)" : "won"
   }
 }, {
   "homeTeam" : "Gottingen",
   "awayTeam" : "Phoenix Hagen",
   "picks" : [ "178.5 Üst (1.67 - 64.6%)" ],
-  "score" : "-",
+  "score" : "98-103",
   "statuses" : {
-    "178.5 Üst (1.67 - 64.6%)" : "pending"
+    "178.5 Üst (1.67 - 64.6%)" : "won"
   }
 }, {
   "homeTeam" : "Fmp",
   "awayTeam" : "Cluj Napoca",
   "picks" : [ "173.5 Üst (1.67 - 66.8%)" ],
-  "score" : "-",
+  "score" : "98-104",
   "statuses" : {
-    "173.5 Üst (1.67 - 66.8%)" : "pending"
+    "173.5 Üst (1.67 - 66.8%)" : "won"
   }
 }, {
   "homeTeam" : "Woerthersee Piraten",
   "awayTeam" : "UBSC Graz",
   "picks" : [ "161.5 Üst (1.64 - 57.0%)" ],
-  "score" : "-",
+  "score" : "59-82",
   "statuses" : {
-    "161.5 Üst (1.64 - 57.0%)" : "pending"
+    "161.5 Üst (1.64 - 57.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Oviedo",
   "awayTeam" : "Menorca Basquet",
   "picks" : [ "156.5 Üst (1.64 - 63.5%)" ],
-  "score" : "-",
+  "score" : "67-75",
   "statuses" : {
-    "156.5 Üst (1.64 - 63.5%)" : "pending"
+    "156.5 Üst (1.64 - 63.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Kk Rogaska",
   "awayTeam" : "KK Sencur",
   "picks" : [ "MS2 (1.56 - 67.8%)" ],
-  "score" : "-",
+  "score" : "62-88",
   "statuses" : {
-    "MS2 (1.56 - 67.8%)" : "pending"
+    "MS2 (1.56 - 67.8%)" : "won"
   }
 }, {
   "homeTeam" : "Unicaja Malaga",
   "awayTeam" : "Manresa",
   "picks" : [ "165.5 Üst (1.64 - 77.6%)" ],
-  "score" : "-",
+  "score" : "105-82",
   "statuses" : {
-    "165.5 Üst (1.64 - 77.6%)" : "pending"
+    "165.5 Üst (1.64 - 77.6%)" : "won"
   }
 }, {
   "homeTeam" : "Basket Mestre 1958",
   "awayTeam" : "Juvi Cremona",
   "picks" : [ "MS1 (1.31 - 81.4%)" ],
-  "score" : "-",
+  "score" : "75-70",
   "statuses" : {
-    "MS1 (1.31 - 81.4%)" : "pending"
+    "MS1 (1.31 - 81.4%)" : "won"
   }
 }, {
   "homeTeam" : "Virtus Gvm Roma 1960",
   "awayTeam" : "Pielle Livorno",
   "picks" : [ "149.5 Üst (1.65 - 64.3%)" ],
-  "score" : "-",
+  "score" : "70-68",
   "statuses" : {
-    "149.5 Üst (1.65 - 64.3%)" : "pending"
+    "149.5 Üst (1.65 - 64.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Jamtland",
   "awayTeam" : "BC Lulea",
   "picks" : [ "MS2 (1.71 - 55.0%)" ],
-  "score" : "-",
+  "score" : "109-102",
   "statuses" : {
-    "MS2 (1.71 - 55.0%)" : "pending"
+    "MS2 (1.71 - 55.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Asvel Vil.",
   "awayTeam" : "Dijon Basket",
   "picks" : [ "167.5 Alt (1.65 - 59.9%)" ],
-  "score" : "-",
+  "score" : "85-80",
   "statuses" : {
-    "167.5 Alt (1.65 - 59.9%)" : "pending"
+    "167.5 Alt (1.65 - 59.9%)" : "won"
   }
 }, {
   "homeTeam" : "Okapi Aalst",
   "awayTeam" : "Spirou Charleroi",
   "picks" : [ "177.5 Alt (1.63 - 61.3%)" ],
-  "score" : "-",
+  "score" : "108-89",
   "statuses" : {
-    "177.5 Alt (1.63 - 61.3%)" : "pending"
+    "177.5 Alt (1.63 - 61.3%)" : "lost"
   }
 }, {
   "homeTeam" : "BC Oostende",
   "awayTeam" : "Landstede",
   "picks" : [ "167.5 Üst (1.66 - 56.2%)" ],
-  "score" : "-",
+  "score" : "86-73",
   "statuses" : {
-    "167.5 Üst (1.66 - 56.2%)" : "pending"
+    "167.5 Üst (1.66 - 56.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Kangoeroes Mechelen",
   "awayTeam" : "Limburg Utd",
   "picks" : [ "MS1 (1.47 - 60.5%)" ],
-  "score" : "-",
+  "score" : "85-81",
   "statuses" : {
-    "MS1 (1.47 - 60.5%)" : "pending"
+    "MS1 (1.47 - 60.5%)" : "won"
   }
 }, {
   "homeTeam" : "Roseto Shark",
   "awayTeam" : "Libertas Livorno",
   "picks" : [ "MS2 (1.42 - 57.6%)" ],
-  "score" : "-",
+  "score" : "65-72",
   "statuses" : {
-    "MS2 (1.42 - 57.6%)" : "pending"
+    "MS2 (1.42 - 57.6%)" : "won"
   }
 } ]
