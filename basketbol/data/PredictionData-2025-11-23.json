@@ -1,0 +1,249 @@
+[ {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "New York",
+  "picks" : [ "MS1 (1.53 - 72.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.53 - 72.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Penarol Mar",
+  "awayTeam" : "Obera Tenis C.",
+  "picks" : [ "MS1 (1.32 - 71.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.32 - 71.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Memphis",
+  "picks" : [ "229.5 Alt (1.62 - 55.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "229.5 Alt (1.62 - 55.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tasmania Jackjumpers",
+  "awayTeam" : "Sydney Kings",
+  "picks" : [ "MS2 (1.44 - 68.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.44 - 68.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kagoshima Rebnise",
+  "awayTeam" : "Tokyo Excellence",
+  "picks" : [ "153.5 Üst (1.61 - 79.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "153.5 Üst (1.61 - 79.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Aomori Watts",
+  "awayTeam" : "Shinsh Brave",
+  "picks" : [ "151.5 Alt (1.63 - 69.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "151.5 Alt (1.63 - 69.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CB Estudiantes (K)",
+  "awayTeam" : "UNI Girona CB (K)",
+  "picks" : [ "146.5 Üst (1.6 - 70.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "146.5 Üst (1.6 - 70.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AE Sedis Basquet (K)",
+  "awayTeam" : "CB Islas Canarias (K)",
+  "picks" : [ "142.5 Üst (1.65 - 63.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "142.5 Üst (1.65 - 63.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Perf. Avenida (K)",
+  "awayTeam" : "Gernika Kesb (K)",
+  "picks" : [ "140.5 Üst (1.66 - 65.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "140.5 Üst (1.66 - 65.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CB Tizona",
+  "awayTeam" : "Club Ourense",
+  "picks" : [ "173.5 Alt (1.66 - 69.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "173.5 Alt (1.66 - 69.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lucentum Alicante",
+  "awayTeam" : "Estela",
+  "picks" : [ "162.5 Üst (1.6 - 67.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "162.5 Üst (1.6 - 67.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Legia Warsz.",
+  "awayTeam" : "Dziki Warshawa",
+  "picks" : [ "166.5 Üst (1.64 - 63.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Üst (1.64 - 63.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "BK Uralmash Yekaterinburg",
+  "awayTeam" : "N. Novgorod",
+  "picks" : [ "160.5 Üst (1.61 - 57.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "160.5 Üst (1.61 - 57.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Start Lublin",
+  "awayTeam" : "Slask Wroclaw",
+  "picks" : [ "MS2 (1.38 - 70.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.38 - 70.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Trieste",
+  "awayTeam" : "Olimpia Milano",
+  "picks" : [ "170.5 Üst (1.63 - 66.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "170.5 Üst (1.63 - 66.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "B. Girona",
+  "picks" : [ "179.5 Alt (1.6 - 76.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "179.5 Alt (1.6 - 76.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Spartak Subotica",
+  "awayTeam" : "Olimp Ljubljana",
+  "picks" : [ "MS2 (1.53 - 61.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.53 - 61.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "BK NH Ostrava",
+  "awayTeam" : "BK Olomoucko",
+  "picks" : [ "168.5 Üst (1.65 - 64.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Üst (1.65 - 64.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Alba Berlin",
+  "picks" : [ "170.5 Alt (1.59 - 61.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "170.5 Alt (1.59 - 61.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zaragoza",
+  "awayTeam" : "Tenerife",
+  "picks" : [ "175.5 Alt (1.6 - 62.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "175.5 Alt (1.6 - 62.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Univ. de Ferrol (K)",
+  "awayTeam" : "Gipuzkoa IDK (K)",
+  "picks" : [ "137.5 Üst (1.59 - 77.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "137.5 Üst (1.59 - 77.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Club Melilla",
+  "awayTeam" : "Palmer Basquet Mallorca Palma",
+  "picks" : [ "161.5 Üst (1.64 - 55.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "161.5 Üst (1.64 - 55.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Talos Ruvo DI Puglia",
+  "awayTeam" : "Torino",
+  "picks" : [ "MS1 (1.65 - 75.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.65 - 75.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "VL Pesaro",
+  "awayTeam" : "Ueb Cividale",
+  "picks" : [ "159.5 Alt (1.64 - 55.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "159.5 Alt (1.64 - 55.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ravenna Pie",
+  "awayTeam" : "Dany Basket Quarrata",
+  "picks" : [ "149.5 Üst (1.63 - 57.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "149.5 Üst (1.63 - 57.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "San Severo",
+  "awayTeam" : "Virtus Imola",
+  "picks" : [ "156.5 Alt (1.62 - 59.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "156.5 Alt (1.62 - 59.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Latina",
+  "awayTeam" : "ASD Luiss Roma",
+  "picks" : [ "147.5 Üst (1.64 - 60.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "147.5 Üst (1.64 - 60.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ferrara Basket 2018",
+  "awayTeam" : "Solbat Basket Golfo Piombino",
+  "picks" : [ "155.5 Üst (1.59 - 56.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "155.5 Üst (1.59 - 56.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Virtus Lumezzane",
+  "awayTeam" : "Agrigento",
+  "picks" : [ "MS1 (1.47 - 79.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.47 - 79.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "JL Bourg",
+  "picks" : [ "173.5 Alt (1.64 - 68.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "173.5 Alt (1.64 - 68.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Partizan",
+  "awayTeam" : "Studentski Centar",
+  "picks" : [ "165.5 Alt (1.6 - 65.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "165.5 Alt (1.6 - 65.0%)" : "pending"
+  }
+} ]
