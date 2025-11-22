@@ -42,73 +42,73 @@
   "homeTeam" : "Phoenix",
   "awayTeam" : "Minnesota",
   "picks" : [ "231.5 Üst (1.6 - 62.2%)" ],
-  "score" : "-",
+  "score" : "114-113",
   "statuses" : {
-    "231.5 Üst (1.6 - 62.2%)" : "pending"
+    "231.5 Üst (1.6 - 62.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Woori Bank H. (K)",
   "awayTeam" : "Yongin Samsung L. (K)",
   "picks" : [ "122.5 Alt (1.63 - 68.5%)" ],
-  "score" : "-",
+  "score" : "44-63",
   "statuses" : {
-    "122.5 Alt (1.63 - 68.5%)" : "pending"
+    "122.5 Alt (1.63 - 68.5%)" : "won"
   }
 }, {
   "homeTeam" : "Kumamoto V.",
   "awayTeam" : "Bambitious",
   "picks" : [ "159.5 Alt (1.64 - 68.1%)" ],
-  "score" : "-",
+  "score" : "87-75",
   "statuses" : {
-    "159.5 Alt (1.64 - 68.1%)" : "pending"
+    "159.5 Alt (1.64 - 68.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Aomori Watts",
   "awayTeam" : "Shinsh Brave",
   "picks" : [ "MS2 (1.39 - 78.8%)" ],
-  "score" : "-",
+  "score" : "68-53",
   "statuses" : {
-    "MS2 (1.39 - 78.8%)" : "pending"
+    "MS2 (1.39 - 78.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Kagoshima Rebnise",
   "awayTeam" : "Tokyo Excellence",
   "picks" : [ "152.5 Üst (1.65 - 72.0%)" ],
-  "score" : "-",
+  "score" : "89-102",
   "statuses" : {
-    "152.5 Üst (1.65 - 72.0%)" : "pending"
+    "152.5 Üst (1.65 - 72.0%)" : "won"
   }
 }, {
   "homeTeam" : "Iwate Big Bulls",
   "awayTeam" : "Yamagata Wyverns",
   "picks" : [ "152.5 Alt (1.64 - 58.8%)" ],
-  "score" : "-",
+  "score" : "76-67",
   "statuses" : {
-    "152.5 Alt (1.64 - 58.8%)" : "pending"
+    "152.5 Alt (1.64 - 58.8%)" : "won"
   }
 }, {
   "homeTeam" : "Cheongju KB Stars (K)",
   "awayTeam" : "Busan BNK Sum (K)",
   "picks" : [ "129.5 Alt (1.65 - 76.5%)" ],
-  "score" : "-",
+  "score" : "64-55",
   "statuses" : {
-    "129.5 Alt (1.65 - 76.5%)" : "pending"
+    "129.5 Alt (1.65 - 76.5%)" : "won"
   }
 }, {
   "homeTeam" : "Hogsbo Basket",
   "awayTeam" : "Sodertalje",
   "picks" : [ "165.5 Üst (1.61 - 66.6%)" ],
-  "score" : "-",
+  "score" : "75-86",
   "statuses" : {
-    "165.5 Üst (1.61 - 66.6%)" : "pending"
+    "165.5 Üst (1.61 - 66.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Kolossos Rhodes",
   "awayTeam" : "Peristeri",
   "picks" : [ "159.5 Alt (1.64 - 59.7%)" ],
-  "score" : "-",
+  "score" : "72-80",
   "statuses" : {
-    "159.5 Alt (1.64 - 59.7%)" : "pending"
+    "159.5 Alt (1.64 - 59.7%)" : "won"
   }
 }, {
   "homeTeam" : "Ostersund (K)",
