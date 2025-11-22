@@ -418,4 +418,68 @@
   "homeTeam" : "Nitra Blue Wings",
   "awayTeam" : "MBK Handlova",
   "score" : "93-71"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Indiana",
+  "score" : "120-109"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Washington",
+  "score" : "140-110"
+}, {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Brooklyn",
+  "score" : "105-113"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Miami",
+  "score" : "107-143"
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "New Orleans",
+  "score" : "118-115"
+}, {
+  "homeTeam" : "Brigham Young Cougars",
+  "awayTeam" : "Wisconsin Badgers",
+  "score" : "98-70"
+}, {
+  "homeTeam" : "Michigan State Spartans",
+  "awayTeam" : "Detroit Mercy Titans",
+  "score" : "84-56"
+}, {
+  "homeTeam" : "Cincinnati Bearcats",
+  "awayTeam" : "Louisville Cardinals",
+  "score" : "64-74"
+}, {
+  "homeTeam" : "Florida Gators",
+  "awayTeam" : "Merrimack Warriors",
+  "score" : "80-45"
+}, {
+  "homeTeam" : "Duke Blue Devils",
+  "awayTeam" : "Niagara Purple Eagles",
+  "score" : "100-42"
+}, {
+  "homeTeam" : "Kentucky Wildcats",
+  "awayTeam" : "Loyola Maryland Greyhounds",
+  "score" : "88-46"
+}, {
+  "homeTeam" : "Arkansas Razorbacks",
+  "awayTeam" : "Jackson State Tigers",
+  "score" : "115-61"
+}, {
+  "homeTeam" : "Independiente de Oliva",
+  "awayTeam" : "Obras Sanita",
+  "score" : "89-92"
+}, {
+  "homeTeam" : "Quimsa S.",
+  "awayTeam" : "Boca Juniors",
+  "score" : "61-71"
+}, {
+  "homeTeam" : "Minas",
+  "awayTeam" : "EC Pinheiros SP",
+  "score" : "77-81"
+}, {
+  "homeTeam" : "Basquete Osasco",
+  "awayTeam" : "Caxias Do Sul",
+  "score" : "75-79"
 } ]
