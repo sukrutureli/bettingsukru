@@ -634,4 +634,124 @@
   "homeTeam" : "Kolossos Rhodes",
   "awayTeam" : "Peristeri",
   "score" : "72-80"
+}, {
+  "homeTeam" : "Türk Telekom",
+  "awayTeam" : "Büyükçekmece",
+  "score" : "89-82"
+}, {
+  "homeTeam" : "Hamburg Towers",
+  "awayTeam" : "Ludwigsburg",
+  "score" : "84-88"
+}, {
+  "homeTeam" : "Nanterre 92",
+  "awayTeam" : "Boulazac Dord.",
+  "score" : "85-78"
+}, {
+  "homeTeam" : "CB Granada",
+  "awayTeam" : "Real Madrid",
+  "score" : "100-111"
+}, {
+  "homeTeam" : "Força Lleida",
+  "awayTeam" : "UCAM Murcia",
+  "score" : "71-107"
+}, {
+  "homeTeam" : "KD Ilirija",
+  "awayTeam" : "KK Bosna Royal Sarajevo",
+  "score" : "79-83"
+}, {
+  "homeTeam" : "Rheinstars Cologne",
+  "awayTeam" : "EPG Baskets Koblenz",
+  "score" : "84-92"
+}, {
+  "homeTeam" : "Udw Alligators",
+  "awayTeam" : "Klosterneubu",
+  "score" : "56-89"
+}, {
+  "homeTeam" : "Mistelbach",
+  "awayTeam" : "Traiskirchen",
+  "score" : "73-81"
+}, {
+  "homeTeam" : "Oberwart",
+  "awayTeam" : "Furstenfeld",
+  "score" : "90-69"
+}, {
+  "homeTeam" : "Swarco Raiders Tirol",
+  "awayTeam" : "Kapfenberg",
+  "score" : "55-101"
+}, {
+  "homeTeam" : "BK Jip Pardubice",
+  "awayTeam" : "USK Praha",
+  "score" : "96-80"
+}, {
+  "homeTeam" : "Decin",
+  "awayTeam" : "Nymburk",
+  "score" : "80-85"
+}, {
+  "homeTeam" : "KFUM Nassjo",
+  "awayTeam" : "Umea",
+  "score" : "97-79"
+}, {
+  "homeTeam" : "Norrkoping",
+  "awayTeam" : "Boras",
+  "score" : "108-81"
+}, {
+  "homeTeam" : "Ostersund (K)",
+  "awayTeam" : "Brahe Basket (K)",
+  "score" : "70-54"
+}, {
+  "homeTeam" : "Bnt Fribourg",
+  "awayTeam" : "Starwings Basket",
+  "score" : "110-76"
+}, {
+  "homeTeam" : "Massagno",
+  "awayTeam" : "BBC Lausanne",
+  "score" : "69-78"
+}, {
+  "homeTeam" : "Union Neuchatel",
+  "awayTeam" : "Nyon",
+  "score" : "91-81"
+}, {
+  "homeTeam" : "Geneve Lions",
+  "awayTeam" : "Lugano Tigers",
+  "score" : "85-55"
+}, {
+  "homeTeam" : "Dabrowa Gorn.",
+  "awayTeam" : "Gornik Walbrzych",
+  "score" : "79-96"
+}, {
+  "homeTeam" : "Vitoria",
+  "awayTeam" : "CP Esgueira",
+  "score" : "83-76"
+}, {
+  "homeTeam" : "Ovarense",
+  "awayTeam" : "SC Braga",
+  "score" : "78-84"
+}, {
+  "homeTeam" : "BKM Lucenec",
+  "awayTeam" : "BK Inter Bratislava",
+  "score" : "99-95"
+}, {
+  "homeTeam" : "Komarno",
+  "awayTeam" : "Prievidza",
+  "score" : "99-89"
+}, {
+  "homeTeam" : "KK Podcetrtek",
+  "awayTeam" : "Helios Suns",
+  "score" : "91-90"
+}, {
+  "homeTeam" : "Turgutlu Bld (K)",
+  "awayTeam" : "Samsun Basketbol (K)",
+  "score" : "71-77"
+}, {
+  "homeTeam" : "BC Samara",
+  "awayTeam" : "Lokomotiv Kuban",
+  "score" : "74-102"
+}, {
+  "homeTeam" : "Panionios",
+  "awayTeam" : "AS Karditsas",
+  "score" : "107-105"
+}, {
+  "homeTeam" : "Aris",
+  "awayTeam" : "Promitheas",
+  "score" : "96-80"
 } ]

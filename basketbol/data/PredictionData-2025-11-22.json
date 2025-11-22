@@ -114,73 +114,73 @@
   "homeTeam" : "Ostersund (K)",
   "awayTeam" : "Brahe Basket (K)",
   "picks" : [ "144.5 Üst (1.65 - 71.6%)" ],
-  "score" : "-",
+  "score" : "70-54",
   "statuses" : {
-    "144.5 Üst (1.65 - 71.6%)" : "pending"
+    "144.5 Üst (1.65 - 71.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Vitoria",
   "awayTeam" : "CP Esgueira",
   "picks" : [ "MS2 (1.55 - 61.6%)" ],
-  "score" : "-",
+  "score" : "83-76",
   "statuses" : {
-    "MS2 (1.55 - 61.6%)" : "pending"
+    "MS2 (1.55 - 61.6%)" : "lost"
   }
 }, {
   "homeTeam" : "KD Ilirija",
   "awayTeam" : "KK Bosna Royal Sarajevo",
   "picks" : [ "162.5 Alt (1.65 - 68.0%)" ],
-  "score" : "-",
+  "score" : "79-83",
   "statuses" : {
-    "162.5 Alt (1.65 - 68.0%)" : "pending"
+    "162.5 Alt (1.65 - 68.0%)" : "won"
   }
 }, {
   "homeTeam" : "Massagno",
   "awayTeam" : "BBC Lausanne",
   "picks" : [ "175.5 Üst (1.65 - 64.0%)" ],
-  "score" : "-",
+  "score" : "69-78",
   "statuses" : {
-    "175.5 Üst (1.65 - 64.0%)" : "pending"
+    "175.5 Üst (1.65 - 64.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Força Lleida",
   "awayTeam" : "UCAM Murcia",
   "picks" : [ "MS2 (1.73 - 64.1%)" ],
-  "score" : "-",
+  "score" : "71-107",
   "statuses" : {
-    "MS2 (1.73 - 64.1%)" : "pending"
+    "MS2 (1.73 - 64.1%)" : "won"
   }
 }, {
   "homeTeam" : "Swarco Raiders Tirol",
   "awayTeam" : "Kapfenberg",
   "picks" : [ "162.5 Üst (1.65 - 66.6%)" ],
-  "score" : "-",
+  "score" : "55-101",
   "statuses" : {
-    "162.5 Üst (1.65 - 66.6%)" : "pending"
+    "162.5 Üst (1.65 - 66.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Union Neuchatel",
   "awayTeam" : "Nyon",
   "picks" : [ "162.5 Üst (1.61 - 71.2%)" ],
-  "score" : "-",
+  "score" : "91-81",
   "statuses" : {
-    "162.5 Üst (1.61 - 71.2%)" : "pending"
+    "162.5 Üst (1.61 - 71.2%)" : "won"
   }
 }, {
   "homeTeam" : "BKM Lucenec",
   "awayTeam" : "BK Inter Bratislava",
   "picks" : [ "169.5 Alt (1.6 - 61.1%)" ],
-  "score" : "-",
+  "score" : "99-95",
   "statuses" : {
-    "169.5 Alt (1.6 - 61.1%)" : "pending"
+    "169.5 Alt (1.6 - 61.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Norrkoping",
   "awayTeam" : "Boras",
   "picks" : [ "175.5 Üst (1.65 - 81.0%)" ],
-  "score" : "-",
+  "score" : "108-81",
   "statuses" : {
-    "175.5 Üst (1.65 - 81.0%)" : "pending"
+    "175.5 Üst (1.65 - 81.0%)" : "won"
   }
 }, {
   "homeTeam" : "Sluc Nancy Basket",
