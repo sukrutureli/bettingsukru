@@ -514,9 +514,9 @@
   "homeTeam" : "Osasuna",
   "awayTeam" : "R. Sociedad",
   "picks" : [ "Alt (1.44 - 60.4%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Alt (1.44 - 60.4%)" : "pending"
+    "Alt (1.44 - 60.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Zelezniçar",
@@ -530,104 +530,104 @@
   "homeTeam" : "Arenteiro",
   "awayTeam" : "Ourense",
   "picks" : [ "Yok (1.42 - 83.3%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Yok (1.42 - 83.3%)" : "pending"
+    "Yok (1.42 - 83.3%)" : "won"
   }
 }, {
   "homeTeam" : "Rennes",
   "awayTeam" : "Monaco",
   "picks" : [ "Var (1.33 - 71.8%)" ],
-  "score" : "-",
+  "score" : "4-1",
   "statuses" : {
-    "Var (1.33 - 71.8%)" : "pending"
+    "Var (1.33 - 71.8%)" : "won"
   }
 }, {
   "homeTeam" : "Ferencvaros",
   "awayTeam" : "Nyiregyhaza",
   "picks" : [ "Üst (1.35 - 78.4%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Üst (1.35 - 78.4%)" : "pending"
+    "Üst (1.35 - 78.4%)" : "won"
   }
 }, {
   "homeTeam" : "Stal Rzeszow",
   "awayTeam" : "GKS Tychy",
   "picks" : [ "Var (1.3 - 74.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Var (1.3 - 74.3%)" : "pending"
+    "Var (1.3 - 74.3%)" : "won"
   }
 }, {
   "homeTeam" : "Sturm Graz (Amt.)",
   "awayTeam" : "Wsc Hertha",
   "picks" : [ "Var (1.39 - 57.7%)" ],
-  "score" : "-",
+  "score" : "0-3",
   "statuses" : {
-    "Var (1.39 - 57.7%)" : "pending"
+    "Var (1.39 - 57.7%)" : "lost"
   }
 }, {
   "homeTeam" : "RSC Anderlecht U23",
   "awayTeam" : "RFC Seraing",
   "picks" : [ "Var (1.38 - 72.6%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Var (1.38 - 72.6%)" : "pending"
+    "Var (1.38 - 72.6%)" : "won"
   }
 }, {
   "homeTeam" : "Mushuc Runa",
   "awayTeam" : "CD Tecnico Uni.",
   "picks" : [ "Alt (1.34 - 55.8%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.34 - 55.8%)" : "pending"
+    "Alt (1.34 - 55.8%)" : "won"
   }
 }, {
   "homeTeam" : "Manta",
   "awayTeam" : "Cuniburo",
   "picks" : [ "Var (1.55 - 64.3%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Var (1.55 - 64.3%)" : "pending"
+    "Var (1.55 - 64.3%)" : "won"
   }
 }, {
   "homeTeam" : "Darmstadt 98",
   "awayTeam" : "G. Furth",
   "picks" : [ "Üst (1.36 - 64.5%)" ],
-  "score" : "-",
+  "score" : "4-2",
   "statuses" : {
-    "Üst (1.36 - 64.5%)" : "pending"
+    "Üst (1.36 - 64.5%)" : "won"
   }
 }, {
   "homeTeam" : "Athletic Carpi U23",
   "awayTeam" : "Rimini 1912",
   "picks" : [ "Yok (1.44 - 63.2%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Yok (1.44 - 63.2%)" : "pending"
+    "Yok (1.44 - 63.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Napoli",
   "awayTeam" : "Atalanta",
   "picks" : [ "Alt (1.55 - 67.5%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Alt (1.55 - 67.5%)" : "pending"
+    "Alt (1.55 - 67.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Deportivo Mixco",
   "awayTeam" : "Dep. Achuapa",
   "picks" : [ "Alt (1.37 - 74.1%)" ],
-  "score" : "-",
+  "score" : "5-1",
   "statuses" : {
-    "Alt (1.37 - 74.1%)" : "pending"
+    "Alt (1.37 - 74.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Hercules",
   "awayTeam" : "Betis D. Balompie",
   "picks" : [ "MS1 (1.61 - 58.7%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "MS1 (1.61 - 58.7%)" : "pending"
+    "MS1 (1.61 - 58.7%)" : "won"
   }
 } ]
