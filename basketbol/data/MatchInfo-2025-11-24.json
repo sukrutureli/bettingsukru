@@ -1,0 +1,161 @@
+[ {
+  "name" : "Boston - Orlando",
+  "time" : "02:00",
+  "detailUrl" : "https://istatistik.nesine.com/2459127",
+  "odds" : {
+    "ms1" : 1.32,
+    "ms2" : 2.15,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 223.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 0
+}, {
+  "name" : "Cleveland - LA Clippers",
+  "time" : "02:00",
+  "detailUrl" : "https://istatistik.nesine.com/2459526",
+  "odds" : {
+    "ms1" : 1.12,
+    "ms2" : 2.98,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 229.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 1
+}, {
+  "name" : "Atlanta - Charlotte",
+  "time" : "02:00",
+  "detailUrl" : "https://istatistik.nesine.com/2459675",
+  "odds" : {
+    "ms1" : 1.14,
+    "ms2" : 2.86,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 229.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 2
+}, {
+  "name" : "Toronto - Brooklyn",
+  "time" : "02:00",
+  "detailUrl" : "https://istatistik.nesine.com/2460153",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.93,
+    "h1Value" : 0.0,
+    "h2Value" : 12.5,
+    "h1" : 1.65,
+    "h2" : 1.61,
+    "hOverUnderValue" : 228.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 3
+}, {
+  "name" : "Oklahoma - Portland",
+  "time" : "03:00",
+  "detailUrl" : "https://istatistik.nesine.com/2462805",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.59,
+    "h1Value" : 0.0,
+    "h2Value" : 15.5,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 233.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 4
+}, {
+  "name" : "Utah - LA Lakers",
+  "time" : "04:00",
+  "detailUrl" : "https://istatistik.nesine.com/2462862",
+  "odds" : {
+    "ms1" : 3.71,
+    "ms2" : 0.0,
+    "h1Value" : 9.5,
+    "h2Value" : 0.0,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 244.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 5
+}, {
+  "name" : "Phoenix - San Antonio",
+  "time" : "04:00",
+  "detailUrl" : "https://istatistik.nesine.com/2462888",
+  "odds" : {
+    "ms1" : 1.45,
+    "ms2" : 1.87,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 234.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 6
+}, {
+  "name" : "Yongin Samsung L. (K) - Bucheon Hana (K)",
+  "time" : "13:00",
+  "detailUrl" : "https://istatistik.nesine.com/2462787",
+  "odds" : {
+    "ms1" : 1.2,
+    "ms2" : 2.54,
+    "h1Value" : 0.0,
+    "h2Value" : 5.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 123.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 7
+}, {
+  "name" : "Kk Sentjur - Zlatorog Lasko",
+  "time" : "19:30",
+  "detailUrl" : "https://istatistik.nesine.com/2462897",
+  "odds" : {
+    "ms1" : 1.63,
+    "ms2" : 1.64,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.72,
+    "h2" : 1.55,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 8
+}, {
+  "name" : "Borac Cacak - KK Igokea",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2462853",
+  "odds" : {
+    "ms1" : 2.16,
+    "ms2" : 1.31,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 9
+} ]

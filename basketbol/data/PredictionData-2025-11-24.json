@@ -1,0 +1,17 @@
+[ {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "San Antonio",
+  "picks" : [ "MS1 (1.45 - 83.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.45 - 83.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kk Sentjur",
+  "awayTeam" : "Zlatorog Lasko",
+  "picks" : [ "MS2 (1.64 - 75.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.64 - 75.9%)" : "pending"
+  }
+} ]
