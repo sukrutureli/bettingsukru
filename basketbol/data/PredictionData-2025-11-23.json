@@ -26,89 +26,89 @@
   "homeTeam" : "Tasmania Jackjumpers",
   "awayTeam" : "Sydney Kings",
   "picks" : [ "MS2 (1.44 - 68.8%)" ],
-  "score" : "-",
+  "score" : "104-81",
   "statuses" : {
-    "MS2 (1.44 - 68.8%)" : "pending"
+    "MS2 (1.44 - 68.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Kagoshima Rebnise",
   "awayTeam" : "Tokyo Excellence",
   "picks" : [ "153.5 Üst (1.61 - 79.8%)" ],
-  "score" : "-",
+  "score" : "94-113",
   "statuses" : {
-    "153.5 Üst (1.61 - 79.8%)" : "pending"
+    "153.5 Üst (1.61 - 79.8%)" : "won"
   }
 }, {
   "homeTeam" : "Aomori Watts",
   "awayTeam" : "Shinsh Brave",
   "picks" : [ "151.5 Alt (1.63 - 69.9%)" ],
-  "score" : "-",
+  "score" : "64-79",
   "statuses" : {
-    "151.5 Alt (1.63 - 69.9%)" : "pending"
+    "151.5 Alt (1.63 - 69.9%)" : "won"
   }
 }, {
   "homeTeam" : "CB Estudiantes (K)",
   "awayTeam" : "UNI Girona CB (K)",
   "picks" : [ "146.5 Üst (1.6 - 70.4%)" ],
-  "score" : "-",
+  "score" : "79-88",
   "statuses" : {
-    "146.5 Üst (1.6 - 70.4%)" : "pending"
+    "146.5 Üst (1.6 - 70.4%)" : "won"
   }
 }, {
   "homeTeam" : "AE Sedis Basquet (K)",
   "awayTeam" : "CB Islas Canarias (K)",
   "picks" : [ "142.5 Üst (1.65 - 63.3%)" ],
-  "score" : "-",
+  "score" : "73-71",
   "statuses" : {
-    "142.5 Üst (1.65 - 63.3%)" : "pending"
+    "142.5 Üst (1.65 - 63.3%)" : "won"
   }
 }, {
   "homeTeam" : "Perf. Avenida (K)",
   "awayTeam" : "Gernika Kesb (K)",
   "picks" : [ "140.5 Üst (1.66 - 65.1%)" ],
-  "score" : "-",
+  "score" : "85-60",
   "statuses" : {
-    "140.5 Üst (1.66 - 65.1%)" : "pending"
+    "140.5 Üst (1.66 - 65.1%)" : "won"
   }
 }, {
   "homeTeam" : "CB Tizona",
   "awayTeam" : "Club Ourense",
   "picks" : [ "173.5 Alt (1.66 - 69.5%)" ],
-  "score" : "-",
+  "score" : "77-99",
   "statuses" : {
-    "173.5 Alt (1.66 - 69.5%)" : "pending"
+    "173.5 Alt (1.66 - 69.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Lucentum Alicante",
   "awayTeam" : "Estela",
   "picks" : [ "162.5 Üst (1.6 - 67.7%)" ],
-  "score" : "-",
+  "score" : "101-90",
   "statuses" : {
-    "162.5 Üst (1.6 - 67.7%)" : "pending"
+    "162.5 Üst (1.6 - 67.7%)" : "won"
   }
 }, {
   "homeTeam" : "Legia Warsz.",
   "awayTeam" : "Dziki Warshawa",
   "picks" : [ "166.5 Üst (1.64 - 63.9%)" ],
-  "score" : "-",
+  "score" : "79-84",
   "statuses" : {
-    "166.5 Üst (1.64 - 63.9%)" : "pending"
+    "166.5 Üst (1.64 - 63.9%)" : "lost"
   }
 }, {
   "homeTeam" : "BK Uralmash Yekaterinburg",
   "awayTeam" : "N. Novgorod",
   "picks" : [ "160.5 Üst (1.61 - 57.5%)" ],
-  "score" : "-",
+  "score" : "73-72",
   "statuses" : {
-    "160.5 Üst (1.61 - 57.5%)" : "pending"
+    "160.5 Üst (1.61 - 57.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Start Lublin",
   "awayTeam" : "Slask Wroclaw",
   "picks" : [ "MS2 (1.38 - 70.6%)" ],
-  "score" : "-",
+  "score" : "91-98",
   "statuses" : {
-    "MS2 (1.38 - 70.6%)" : "pending"
+    "MS2 (1.38 - 70.6%)" : "won"
   }
 }, {
   "homeTeam" : "Trieste",
