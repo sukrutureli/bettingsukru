@@ -2,25 +2,25 @@
   "homeTeam" : "Orlando",
   "awayTeam" : "New York",
   "picks" : [ "MS1 (1.53 - 72.4%)" ],
-  "score" : "-",
+  "score" : "133-121",
   "statuses" : {
-    "MS1 (1.53 - 72.4%)" : "pending"
+    "MS1 (1.53 - 72.4%)" : "won"
   }
 }, {
   "homeTeam" : "Penarol Mar",
   "awayTeam" : "Obera Tenis C.",
   "picks" : [ "MS1 (1.32 - 71.4%)" ],
-  "score" : "-",
+  "score" : "71-87",
   "statuses" : {
-    "MS1 (1.32 - 71.4%)" : "pending"
+    "MS1 (1.32 - 71.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Dallas",
   "awayTeam" : "Memphis",
   "picks" : [ "229.5 Alt (1.62 - 55.4%)" ],
-  "score" : "-",
+  "score" : "96-102",
   "statuses" : {
-    "229.5 Alt (1.62 - 55.4%)" : "pending"
+    "229.5 Alt (1.62 - 55.4%)" : "won"
   }
 }, {
   "homeTeam" : "Tasmania Jackjumpers",

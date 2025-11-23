@@ -950,4 +950,32 @@
   "homeTeam" : "Kk Rogaska",
   "awayTeam" : "KK Sencur",
   "score" : "62-88"
+}, {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "New York",
+  "score" : "133-121"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Atlanta",
+  "score" : "98-115"
+}, {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "Detroit",
+  "score" : "116-129"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Washington",
+  "score" : "121-120"
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Memphis",
+  "score" : "96-102"
+}, {
+  "homeTeam" : "Penarol Mar",
+  "awayTeam" : "Obera Tenis C.",
+  "score" : "71-87"
+}, {
+  "homeTeam" : "Bendigo Spirit (K)",
+  "awayTeam" : "Perth Lynx (K)",
+  "score" : "87-58"
 } ]
