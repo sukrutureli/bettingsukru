@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Dep. Guastatoya",
+  "awayTeam" : "CD Marquense",
+  "picks" : [ "Alt (1.42 - 68.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.42 - 68.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CD Olimpia",
+  "awayTeam" : "Marathon",
+  "picks" : [ "Alt (1.51 - 60.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.51 - 60.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Torino",
+  "awayTeam" : "Como 1907",
+  "picks" : [ "Alt (1.44 - 72.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.44 - 72.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Jong Utrecht",
+  "awayTeam" : "Den Bosch",
+  "picks" : [ "Var (1.36 - 75.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.36 - 75.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Livorno",
+  "awayTeam" : "Torres S.",
+  "picks" : [ "Alt (1.3 - 63.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.3 - 63.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Perugia",
+  "awayTeam" : "Vis Pesaro",
+  "picks" : [ "Alt (1.34 - 80.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.34 - 80.4%)" : "pending"
+  }
+} ]
