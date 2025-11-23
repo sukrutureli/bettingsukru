@@ -2,25 +2,25 @@
   "homeTeam" : "I. Santa Fe",
   "awayTeam" : "Fortaleza",
   "picks" : [ "Alt (1.47 - 75.6%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.47 - 75.6%)" : "pending"
+    "Alt (1.47 - 75.6%)" : "lost"
   }
 }, {
   "homeTeam" : "CD Universidad Catolica",
   "awayTeam" : "Palestino",
   "picks" : [ "MS1 (1.81 - 64.5%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "MS1 (1.81 - 64.5%)" : "pending"
+    "MS1 (1.81 - 64.5%)" : "won"
   }
 }, {
   "homeTeam" : "D. Saprissa",
   "awayTeam" : "CS Herediano",
   "picks" : [ "MS1 (1.5 - 68.7%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "MS1 (1.5 - 68.7%)" : "pending"
+    "MS1 (1.5 - 68.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Oita Trinata",
