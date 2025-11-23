@@ -194,9 +194,9 @@
   "homeTeam" : "Ravenna Pie",
   "awayTeam" : "Dany Basket Quarrata",
   "picks" : [ "149.5 Üst (1.63 - 57.9%)" ],
-  "score" : "-",
+  "score" : "83-88",
   "statuses" : {
-    "149.5 Üst (1.63 - 57.9%)" : "pending"
+    "149.5 Üst (1.63 - 57.9%)" : "won"
   }
 }, {
   "homeTeam" : "San Severo",
@@ -234,16 +234,16 @@
   "homeTeam" : "Monaco",
   "awayTeam" : "JL Bourg",
   "picks" : [ "173.5 Alt (1.64 - 68.1%)" ],
-  "score" : "-",
+  "score" : "89-91",
   "statuses" : {
-    "173.5 Alt (1.64 - 68.1%)" : "pending"
+    "173.5 Alt (1.64 - 68.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Partizan",
   "awayTeam" : "Studentski Centar",
   "picks" : [ "165.5 Alt (1.6 - 65.0%)" ],
-  "score" : "-",
+  "score" : "94-72",
   "statuses" : {
-    "165.5 Alt (1.6 - 65.0%)" : "pending"
+    "165.5 Alt (1.6 - 65.0%)" : "lost"
   }
 } ]
