@@ -114,81 +114,81 @@
   "homeTeam" : "Trieste",
   "awayTeam" : "Olimpia Milano",
   "picks" : [ "170.5 Üst (1.63 - 66.5%)" ],
-  "score" : "-",
+  "score" : "86-82",
   "statuses" : {
-    "170.5 Üst (1.63 - 66.5%)" : "pending"
+    "170.5 Üst (1.63 - 66.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Valencia",
   "awayTeam" : "B. Girona",
   "picks" : [ "179.5 Alt (1.6 - 76.8%)" ],
-  "score" : "-",
+  "score" : "98-72",
   "statuses" : {
-    "179.5 Alt (1.6 - 76.8%)" : "pending"
+    "179.5 Alt (1.6 - 76.8%)" : "won"
   }
 }, {
   "homeTeam" : "Spartak Subotica",
   "awayTeam" : "Olimp Ljubljana",
   "picks" : [ "MS2 (1.53 - 61.3%)" ],
-  "score" : "-",
+  "score" : "84-87",
   "statuses" : {
-    "MS2 (1.53 - 61.3%)" : "pending"
+    "MS2 (1.53 - 61.3%)" : "won"
   }
 }, {
   "homeTeam" : "BK NH Ostrava",
   "awayTeam" : "BK Olomoucko",
   "picks" : [ "168.5 Üst (1.65 - 64.4%)" ],
-  "score" : "-",
+  "score" : "77-68",
   "statuses" : {
-    "168.5 Üst (1.65 - 64.4%)" : "pending"
+    "168.5 Üst (1.65 - 64.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Niners Chemnitz",
   "awayTeam" : "Alba Berlin",
   "picks" : [ "170.5 Alt (1.59 - 61.8%)" ],
-  "score" : "-",
+  "score" : "85-89",
   "statuses" : {
-    "170.5 Alt (1.59 - 61.8%)" : "pending"
+    "170.5 Alt (1.59 - 61.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Zaragoza",
   "awayTeam" : "Tenerife",
   "picks" : [ "175.5 Alt (1.6 - 62.2%)" ],
-  "score" : "-",
+  "score" : "76-84",
   "statuses" : {
-    "175.5 Alt (1.6 - 62.2%)" : "pending"
+    "175.5 Alt (1.6 - 62.2%)" : "won"
   }
 }, {
   "homeTeam" : "Univ. de Ferrol (K)",
   "awayTeam" : "Gipuzkoa IDK (K)",
   "picks" : [ "137.5 Üst (1.59 - 77.9%)" ],
-  "score" : "-",
+  "score" : "66-71",
   "statuses" : {
-    "137.5 Üst (1.59 - 77.9%)" : "pending"
+    "137.5 Üst (1.59 - 77.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Club Melilla",
   "awayTeam" : "Palmer Basquet Mallorca Palma",
   "picks" : [ "161.5 Üst (1.64 - 55.9%)" ],
-  "score" : "-",
+  "score" : "90-76",
   "statuses" : {
-    "161.5 Üst (1.64 - 55.9%)" : "pending"
+    "161.5 Üst (1.64 - 55.9%)" : "won"
   }
 }, {
   "homeTeam" : "Talos Ruvo DI Puglia",
   "awayTeam" : "Torino",
   "picks" : [ "MS1 (1.65 - 75.5%)" ],
-  "score" : "-",
+  "score" : "65-79",
   "statuses" : {
-    "MS1 (1.65 - 75.5%)" : "pending"
+    "MS1 (1.65 - 75.5%)" : "lost"
   }
 }, {
   "homeTeam" : "VL Pesaro",
   "awayTeam" : "Ueb Cividale",
   "picks" : [ "159.5 Alt (1.64 - 55.3%)" ],
-  "score" : "-",
+  "score" : "68-79",
   "statuses" : {
-    "159.5 Alt (1.64 - 55.3%)" : "pending"
+    "159.5 Alt (1.64 - 55.3%)" : "won"
   }
 }, {
   "homeTeam" : "Ravenna Pie",
@@ -202,33 +202,33 @@
   "homeTeam" : "San Severo",
   "awayTeam" : "Virtus Imola",
   "picks" : [ "156.5 Alt (1.62 - 59.4%)" ],
-  "score" : "-",
+  "score" : "98-78",
   "statuses" : {
-    "156.5 Alt (1.62 - 59.4%)" : "pending"
+    "156.5 Alt (1.62 - 59.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Latina",
   "awayTeam" : "ASD Luiss Roma",
   "picks" : [ "147.5 Üst (1.64 - 60.0%)" ],
-  "score" : "-",
+  "score" : "83-90",
   "statuses" : {
-    "147.5 Üst (1.64 - 60.0%)" : "pending"
+    "147.5 Üst (1.64 - 60.0%)" : "won"
   }
 }, {
   "homeTeam" : "Ferrara Basket 2018",
   "awayTeam" : "Solbat Basket Golfo Piombino",
   "picks" : [ "155.5 Üst (1.59 - 56.9%)" ],
-  "score" : "-",
+  "score" : "72-65",
   "statuses" : {
-    "155.5 Üst (1.59 - 56.9%)" : "pending"
+    "155.5 Üst (1.59 - 56.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Virtus Lumezzane",
   "awayTeam" : "Agrigento",
   "picks" : [ "MS1 (1.47 - 79.5%)" ],
-  "score" : "-",
+  "score" : "69-62",
   "statuses" : {
-    "MS1 (1.47 - 79.5%)" : "pending"
+    "MS1 (1.47 - 79.5%)" : "won"
   }
 }, {
   "homeTeam" : "Monaco",

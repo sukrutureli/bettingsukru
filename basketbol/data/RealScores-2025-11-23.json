@@ -1126,4 +1126,180 @@
   "homeTeam" : "PAOK",
   "awayTeam" : "Olympiakos",
   "score" : "81-92"
+}, {
+  "homeTeam" : "Tofaş",
+  "awayTeam" : "Anadolu Efes",
+  "score" : "86-79"
+}, {
+  "homeTeam" : "Galatasaray (K)",
+  "awayTeam" : "Fenerbahçe (K)",
+  "score" : "71-75"
+}, {
+  "homeTeam" : "Ratiopharm Ulm",
+  "awayTeam" : "Bayern Münih",
+  "score" : "77-81"
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Alba Berlin",
+  "score" : "85-89"
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "B. Girona",
+  "score" : "98-72"
+}, {
+  "homeTeam" : "Zaragoza",
+  "awayTeam" : "Tenerife",
+  "score" : "76-84"
+}, {
+  "homeTeam" : "Trieste",
+  "awayTeam" : "Olimpia Milano",
+  "score" : "86-82"
+}, {
+  "homeTeam" : "Varese",
+  "awayTeam" : "Pall Udinese",
+  "score" : "59-66"
+}, {
+  "homeTeam" : "Trapani",
+  "awayTeam" : "Reggiana Emilia",
+  "score" : "88-75"
+}, {
+  "homeTeam" : "Derthona Basket",
+  "awayTeam" : "Reyer Venezia",
+  "score" : "90-98"
+}, {
+  "homeTeam" : "Spartak Subotica",
+  "awayTeam" : "Olimp Ljubljana",
+  "score" : "84-87"
+}, {
+  "homeTeam" : "BC Vienna",
+  "awayTeam" : "Kızıl Yıldız",
+  "score" : "82-98"
+}, {
+  "homeTeam" : "Nürnberg Falcons",
+  "awayTeam" : "Bayreuth",
+  "score" : "90-89"
+}, {
+  "homeTeam" : "Giants Leverkusen",
+  "awayTeam" : "Artland Dragons",
+  "score" : "76-107"
+}, {
+  "homeTeam" : "Instituto de Cordoba",
+  "awayTeam" : "Obras Sanita",
+  "score" : "79-71"
+}, {
+  "homeTeam" : "Sokol Pisek",
+  "awayTeam" : "BK Opava",
+  "score" : "84-86"
+}, {
+  "homeTeam" : "BK NH Ostrava",
+  "awayTeam" : "BK Olomoucko",
+  "score" : "77-68"
+}, {
+  "homeTeam" : "Holbaek-St.",
+  "awayTeam" : "Randers Cimb.",
+  "score" : "76-86"
+}, {
+  "homeTeam" : "London Lions",
+  "awayTeam" : "Newcastle Eagles",
+  "score" : "95-82"
+}, {
+  "homeTeam" : "Univ. de Ferrol (K)",
+  "awayTeam" : "Gipuzkoa IDK (K)",
+  "score" : "66-71"
+}, {
+  "homeTeam" : "Club Melilla",
+  "awayTeam" : "Palmer Basquet Mallorca Palma",
+  "score" : "90-76"
+}, {
+  "homeTeam" : "Brixia (K)",
+  "awayTeam" : "Asd Broni 2022 (K)",
+  "score" : "87-63"
+}, {
+  "homeTeam" : "San Martino (K)",
+  "awayTeam" : "Derthona Basket (K)",
+  "score" : "84-91"
+}, {
+  "homeTeam" : "Schio (K)",
+  "awayTeam" : "Dinamo Sassari (K)",
+  "score" : "94-51"
+}, {
+  "homeTeam" : "Reyer Venezia (K)",
+  "awayTeam" : "San Giovanni (K)",
+  "score" : "71-58"
+}, {
+  "homeTeam" : "Talos Ruvo DI Puglia",
+  "awayTeam" : "Torino",
+  "score" : "65-79"
+}, {
+  "homeTeam" : "Fortitudo Bologna",
+  "awayTeam" : "Forli",
+  "score" : "81-72"
+}, {
+  "homeTeam" : "VL Pesaro",
+  "awayTeam" : "Ueb Cividale",
+  "score" : "68-79"
+}, {
+  "homeTeam" : "Basket Scafati 1969",
+  "awayTeam" : "Pistoia",
+  "score" : "77-71"
+}, {
+  "homeTeam" : "Agribertocchi Orzinuovi",
+  "awayTeam" : "Siaz Basket",
+  "score" : "81-67"
+}, {
+  "homeTeam" : "Montecatiniterme Basketball",
+  "awayTeam" : "Orlandina",
+  "score" : "87-90"
+}, {
+  "homeTeam" : "P. Fiorenzuola",
+  "awayTeam" : "Bakery Basket Piacenza",
+  "score" : "76-59"
+}, {
+  "homeTeam" : "Assigeco Piacenza",
+  "awayTeam" : "Treviglio Brianza Basket",
+  "score" : "87-86"
+}, {
+  "homeTeam" : "Vicenza",
+  "awayTeam" : "Fulgor Fidenza",
+  "score" : "77-61"
+}, {
+  "homeTeam" : "Virtus Lumezzane",
+  "awayTeam" : "Agrigento",
+  "score" : "69-62"
+}, {
+  "homeTeam" : "Rucker Sanve San Vendemiano",
+  "awayTeam" : "Novipiu Casale M.",
+  "score" : "87-66"
+}, {
+  "homeTeam" : "Juvecaserta 2021",
+  "awayTeam" : "Fabriano Basket",
+  "score" : "88-68"
+}, {
+  "homeTeam" : "Aurora Jesi",
+  "awayTeam" : "Chiusi",
+  "score" : "81-70"
+}, {
+  "homeTeam" : "San Severo",
+  "awayTeam" : "Virtus Imola",
+  "score" : "98-78"
+}, {
+  "homeTeam" : "Latina",
+  "awayTeam" : "ASD Luiss Roma",
+  "score" : "83-90"
+}, {
+  "homeTeam" : "Ferrara Basket 2018",
+  "awayTeam" : "Solbat Basket Golfo Piombino",
+  "score" : "72-65"
+}, {
+  "homeTeam" : "Lietkabelis",
+  "awayTeam" : "Zalgiris Kaunas",
+  "score" : "77-81"
+}, {
+  "homeTeam" : "Trefl Sopot",
+  "awayTeam" : "Wilki Morskie Szczecin",
+  "score" : "84-74"
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "Kosice Wolves",
+  "score" : "103-73"
 } ]
