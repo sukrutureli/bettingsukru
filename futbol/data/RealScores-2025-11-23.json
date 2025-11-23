@@ -1789,7 +1789,7 @@
 }, {
   "homeTeam" : "HNK Orijent 1919",
   "awayTeam" : "NK Opatija",
-  "score" : "-"
+  "score" : "0-1"
 }, {
   "homeTeam" : "HNK Cibalia Vinkovci",
   "awayTeam" : "NK Sesvete",
@@ -3366,4 +3366,1004 @@
   "homeTeam" : "Washington Spirit (K)",
   "awayTeam" : "Gotham (K)",
   "score" : "0-1"
+}, {
+  "homeTeam" : "Göztepe",
+  "awayTeam" : "Kocaelispor",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Alanyaspor",
+  "awayTeam" : "Kasımpaşa",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Beşiktaş",
+  "awayTeam" : "Samsunspor",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Ümraniyespor",
+  "awayTeam" : "Bodrum FK",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Iğdır FK",
+  "awayTeam" : "Erzurumspor FK",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Vanspor FK",
+  "awayTeam" : "A. Keçiörengücü",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Leeds Utd",
+  "awayTeam" : "Aston Villa",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Real Oviedo",
+  "awayTeam" : "Vallecano",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Hellas Verona",
+  "awayTeam" : "Parma",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Cremonese",
+  "awayTeam" : "AS Roma",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Auxerre",
+  "awayTeam" : "Lyon",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "KRC Genk",
+  "awayTeam" : "Mechelen",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Heerenveen",
+  "awayTeam" : "AZ Alkmaar",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Telstar",
+  "awayTeam" : "Utrecht",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Feyenoord",
+  "awayTeam" : "NEC Nijmegen",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "Krylia Sovetov",
+  "awayTeam" : "FK Rostov",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Nizhny Nov.",
+  "awayTeam" : "Zenit",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "V. Whitecaps",
+  "awayTeam" : "Los Angeles",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "E. Bengal (K)",
+  "awayTeam" : "Nasaf (K)",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Wuhan J. Uni. (K)",
+  "awayTeam" : "Bam Khatoon (K)",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Simba SC",
+  "awayTeam" : "Petro Atl",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Stellenbosch",
+  "awayTeam" : "AS Otoho",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Maniema Union",
+  "awayTeam" : "Azam",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Nürnberg",
+  "awayTeam" : "A. Bielefeld",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Karlsruhe",
+  "awayTeam" : "Elversberg",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Kaiserslautern",
+  "awayTeam" : "Holstein Kiel",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "1860 Münih",
+  "awayTeam" : "Saarbrucken",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Augsburg II",
+  "awayTeam" : "Wacker Burg.",
+  "score" : "-"
+}, {
+  "homeTeam" : "Freiburg II",
+  "awayTeam" : "SGV Freiberg",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Bremer SV 1906",
+  "awayTeam" : "Kickers Emden",
+  "score" : "-"
+}, {
+  "homeTeam" : "Lubeck",
+  "awayTeam" : "VfB Oldenburg",
+  "score" : "-"
+}, {
+  "homeTeam" : "Eintracht Norder.",
+  "awayTeam" : "Phonix Lubeck",
+  "score" : "-"
+}, {
+  "homeTeam" : "Hannoverscher",
+  "awayTeam" : "W. Flensburg",
+  "score" : "-"
+}, {
+  "homeTeam" : "Dynamo",
+  "awayTeam" : "Luckenwalde",
+  "score" : "-"
+}, {
+  "homeTeam" : "Altglienicke",
+  "awayTeam" : "Hertha Berlin II",
+  "score" : "-"
+}, {
+  "homeTeam" : "RB Leipzig (K)",
+  "awayTeam" : "Wolfsburg (K)",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "CE Carroi",
+  "awayTeam" : "UE Santa Coloma",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Penya d`Andorra",
+  "awayTeam" : "Rangers",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Newcastle Utd Jets",
+  "awayTeam" : "Perth Glory",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Wellington P. (K)",
+  "awayTeam" : "Melbourne V. (K)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Sydney (K)",
+  "awayTeam" : "C. Coast Marin. (K)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "South Melbourne",
+  "awayTeam" : "NWS Spirit",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Salzburg",
+  "awayTeam" : "WSG Tirol",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Sturm Graz",
+  "awayTeam" : "LASK",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "St. Polten",
+  "awayTeam" : "Kapfenberger SV",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Sabah",
+  "awayTeam" : "Shamakhi FK",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Neftçi",
+  "awayTeam" : "Imisli FK",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Al Urooba (Bae)",
+  "awayTeam" : "AL Jazira AL Hamra",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Dubai Utd",
+  "awayTeam" : "Emirates Club",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Ittifaq",
+  "awayTeam" : "AL Dahra",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "AL Arabi (Bae)",
+  "awayTeam" : "Fujairah",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Bate Borisov",
+  "awayTeam" : "Naftan Novopolotsk",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Smorgon",
+  "awayTeam" : "Molodechno",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Torpedo Belaz Z.",
+  "awayTeam" : "Isloch",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Slavia Mozyr",
+  "awayTeam" : "Minsk",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Club Brugge (K)",
+  "awayTeam" : "OH Leuven (K)",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "NK Posusje",
+  "awayTeam" : "Velez Mostar",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Dobrudzha Dobrich",
+  "awayTeam" : "Loko Plovdiv",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "FK Septemvri Sofia",
+  "awayTeam" : "Ludogorets",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "MSP Batna",
+  "awayTeam" : "Ib Khemis El Khechna",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AS Khroub",
+  "awayTeam" : "HB Chelghoum L.",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Karvina",
+  "awayTeam" : "H. Kralove",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "Kopenhag",
+  "awayTeam" : "Brondby",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Viborg",
+  "awayTeam" : "Vejle",
+  "score" : "5-2"
+}, {
+  "homeTeam" : "Aarhus Fremad",
+  "awayTeam" : "HB Koege",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "AC Horsens",
+  "awayTeam" : "Hilleroed",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Persita Tangerang",
+  "awayTeam" : "Malut Utd",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Bali Utd",
+  "awayTeam" : "Persis Solo",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "S.C. Mhammedia",
+  "awayTeam" : "Mouloudia",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Stade Marocain",
+  "awayTeam" : "Racing Athletique DU Casablanca",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Union Sportive Musulmane Oujda",
+  "awayTeam" : "Moghreb",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "St. Etienne (K)",
+  "awayTeam" : "PSG (K)",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Newport City",
+  "awayTeam" : "Blaenavon Blues",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "TS Galaxy",
+  "awayTeam" : "Gold. Arrow",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Jeju Utd",
+  "awayTeam" : "Daegu",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Chungnam Asan",
+  "awayTeam" : "Jeonnam Dragons",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Seoul E Land",
+  "awayTeam" : "Ansan Greene",
+  "score" : "6-0"
+}, {
+  "homeTeam" : "Bucheon",
+  "awayTeam" : "Hwaseong",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Gyeongnam",
+  "awayTeam" : "Cheonan City",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Seongnam",
+  "awayTeam" : "Busan I Park",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Incheon Utd",
+  "awayTeam" : "Chungbuk Cheongju",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "S. S. Bluewings",
+  "awayTeam" : "Gimpo Citizen",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "NK Croatia Zmijavci",
+  "awayTeam" : "NK Dugopolje",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Utrecht (K)",
+  "awayTeam" : "ADO Den Haag (K)",
+  "score" : "-"
+}, {
+  "homeTeam" : "Lee Man Warriors",
+  "awayTeam" : "Golik North D.",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Citizen AA",
+  "awayTeam" : "Central & Western",
+  "score" : "0-7"
+}, {
+  "homeTeam" : "Tung Sing",
+  "awayTeam" : "Kwun Tong",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Wofoo SE",
+  "awayTeam" : "Yuen Long",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Resources Capital",
+  "awayTeam" : "Hoi King",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "South China",
+  "awayTeam" : "3 Sing",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Lucky Mile",
+  "awayTeam" : "Sha Tin",
+  "score" : "3-6"
+}, {
+  "homeTeam" : "Amanat Baghdad SC",
+  "awayTeam" : "AL Talaba",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "S. Wednesday",
+  "awayTeam" : "Sheffield Utd",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Dep. La Coruna",
+  "awayTeam" : "AD Ceuta",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Real Murcia B",
+  "awayTeam" : "CD Bala Azul",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "SFC Minerva",
+  "awayTeam" : "UD Caravaca",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "UD Vall de Uxo",
+  "awayTeam" : "Recambios Colon CD",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AD Parla",
+  "awayTeam" : "RCD Carabanchel",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "AD Torrejon",
+  "awayTeam" : "Mostoles Urjc",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Atletico Madrid C",
+  "awayTeam" : "SAD Villaverde S. A.",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "CF Trival Valderas Alcorcon",
+  "awayTeam" : "UD Sanse",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Fundacio Esportiva G.",
+  "awayTeam" : "Montanesa",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Real Sociedad (K)",
+  "awayTeam" : "Alhama Femenino (K)",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Granadilla (K)",
+  "awayTeam" : "Atl Madrid (K)",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Algeciras",
+  "awayTeam" : "A. Sanluqueno",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Alcorcon",
+  "awayTeam" : "SD Tarazona",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Celta Vigo B",
+  "awayTeam" : "SD Ponferradina",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Navalcarnero",
+  "awayTeam" : "Tenerife B",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Getafe B",
+  "awayTeam" : "UD Socuellamos",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "CD Coria",
+  "awayTeam" : "Las Palmas B",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "RSD Alcala",
+  "awayTeam" : "Rayo Majadah",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "CD Castellon B",
+  "awayTeam" : "Torrent",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "CE Andratx",
+  "awayTeam" : "Espanyol II",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Ibiza Islas Pitiusas",
+  "awayTeam" : "Girona B",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "CD A. Baleares",
+  "awayTeam" : "UD Poblense",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "CD Alcoyano",
+  "awayTeam" : "UE Porreres",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Lorca Deportiva",
+  "awayTeam" : "Melilla",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Ucam Murcia",
+  "awayTeam" : "C. Dep. Minera",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "CD Extremadura",
+  "awayTeam" : "UD Almeria B",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "CA Antoniano",
+  "awayTeam" : "Linares Dep.",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Deportivo Aragon",
+  "awayTeam" : "CD Ebro",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Alaves II",
+  "awayTeam" : "Union Irun",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Brommapojkarna (K)",
+  "awayTeam" : "KIF Orebro DFF (K)",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Utsiktens",
+  "awayTeam" : "Norrby",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Orebro SK",
+  "awayTeam" : "Hammarby Talang FF",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Sion",
+  "awayTeam" : "Zürih",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "BSC Young Boys",
+  "awayTeam" : "Breitenrain",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Biel-Bienne",
+  "awayTeam" : "SC Cham",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Lugano II",
+  "awayTeam" : "Kreuzlingen",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Lazio (K)",
+  "awayTeam" : "Inter (K)",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Como (K)",
+  "awayTeam" : "AS Roma (K)",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Juventus (K)",
+  "awayTeam" : "Fiorentina (K)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Modena",
+  "awayTeam" : "Sudtirol",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Mantova 1911",
+  "awayTeam" : "Spezia",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Cavese 1919",
+  "awayTeam" : "Atalanta BC U23",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Calcio Catania",
+  "awayTeam" : "Latina C.",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Cosenza",
+  "awayTeam" : "Benevento",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AC Trento",
+  "awayTeam" : "Inter Milano U23",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Novara Calcio",
+  "awayTeam" : "AC Renate",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Union Brescia U23",
+  "awayTeam" : "LR Vicenza V.",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Ternana Calcio",
+  "awayTeam" : "Juventus U23",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Ascoli",
+  "awayTeam" : "SS Arezzo",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "İnter U20",
+  "awayTeam" : "Torino U20",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Lecce U20",
+  "awayTeam" : "Cagliari U20",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Yscc Yokohama",
+  "awayTeam" : "Grulla Morioka",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Veertien Mie",
+  "awayTeam" : "Okinawa SV",
+  "score" : "6-0"
+}, {
+  "homeTeam" : "Verspah Oita",
+  "awayTeam" : "Suzuka Point G.",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Criacao Shinjuku",
+  "awayTeam" : "Asuka",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Honda",
+  "awayTeam" : "Briobecca Urayasu",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Oita Trinata",
+  "awayTeam" : "JEF Utd",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "V Varen",
+  "awayTeam" : "M. Hollyhock",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Iwaki",
+  "awayTeam" : "R. Yamaguchi",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Imabari",
+  "awayTeam" : "Sapporo",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Fujieda Myfc",
+  "awayTeam" : "Sagan Tosu",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "B. Akita",
+  "awayTeam" : "Sendai",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Omiya Ardija",
+  "awayTeam" : "T. Vortis",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Ventforet",
+  "awayTeam" : "Kat Toyama",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Iwata Jubilo",
+  "awayTeam" : "M. Yamagata",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Ehime",
+  "awayTeam" : "R. Kumamoto",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Kagoshima Utd",
+  "awayTeam" : "Ryukyu",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Van. Hachinohe",
+  "awayTeam" : "Kamatamare S",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Thespakusatsu G.",
+  "awayTeam" : "Matsumoto Y.",
+  "score" : "6-2"
+}, {
+  "homeTeam" : "Tegevajaro Mi.",
+  "awayTeam" : "Gifu",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Tochigi",
+  "awayTeam" : "Gainare Tottori",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Tochigi City",
+  "awayTeam" : "AC N. Parceiro",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Azul Claro N.",
+  "awayTeam" : "Fukushima Utd",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "G. Kitakyushu",
+  "awayTeam" : "Z. Kanazawa",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Kakamega Homeboyz",
+  "awayTeam" : "Posta Ranger",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Muranga Seal",
+  "awayTeam" : "Shabana",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Kariobangi",
+  "awayTeam" : "AFC Leopards",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "JDFS Alberts",
+  "awayTeam" : "Grobinas SC",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "FA Siauliai B",
+  "awayTeam" : "Sveikata",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Bvsc Zuglo",
+  "awayTeam" : "Budafoki Mte",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Kozarmisleny",
+  "awayTeam" : "Bekescsaba",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Mezokovesd",
+  "awayTeam" : "Kecskemeti TE",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Fehervar",
+  "awayTeam" : "Szentlorinc SE",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Szeged G. A.",
+  "awayTeam" : "Ajka",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "ETO Akademia",
+  "awayTeam" : "Budaorsi",
+  "score" : "-"
+}, {
+  "homeTeam" : "Papai Perutz",
+  "awayTeam" : "Mosonmagyar.",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Balatonfuredi",
+  "awayTeam" : "Komarom Vse",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Veszprem",
+  "awayTeam" : "Zsambeki SK",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Diosgyori Vtk II",
+  "awayTeam" : "Egri",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Tiszafuredi Vse",
+  "awayTeam" : "Nyiregyhaza Spartacus FC II",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Tiszaujvaros",
+  "awayTeam" : "Putnok Vse",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Budapest Honved MFA",
+  "awayTeam" : "Szeged II",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "BKV Elore",
+  "awayTeam" : "Dabas",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Hodmezvasarhelyi",
+  "awayTeam" : "Bss Monor",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Gyulai",
+  "awayTeam" : "Vasas SC II",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Esmtk Budapest",
+  "awayTeam" : "Csepel",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "III Keruleti Tve",
+  "awayTeam" : "Tiszafoldvar Vse",
+  "score" : "7-0"
+}, {
+  "homeTeam" : "Szekszardi Ufc",
+  "awayTeam" : "Dombovari",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Kaposvari R.",
+  "awayTeam" : "Ivancsa Kse",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Pecs MFC",
+  "awayTeam" : "Erdi Vse",
+  "score" : "7-2"
+}, {
+  "homeTeam" : "Siofok",
+  "awayTeam" : "Nagykanizsai Ufc",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Imigresen",
+  "awayTeam" : "Pdrm",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Sabah",
+  "awayTeam" : "Penang FA",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Milsami",
+  "awayTeam" : "Selemet",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Sheriff",
+  "awayTeam" : "Zimbru Chisinau",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Bryne",
+  "awayTeam" : "Sarpsborg 08",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Hamkam",
+  "awayTeam" : "Haugesund",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Moss",
+  "awayTeam" : "Brattvag",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "J. Bialystok",
+  "awayTeam" : "Katowice",
+  "score" : "-"
+}, {
+  "homeTeam" : "Lech Poznan",
+  "awayTeam" : "Radomiak Radom",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Ruch Chorzow",
+  "awayTeam" : "Z. Pruszkow",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Pogon Siedl.",
+  "awayTeam" : "Wisla Krakow",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Sandecja",
+  "awayTeam" : "P. Bielsko",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Lech Poznan II",
+  "awayTeam" : "Elana Torun",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Chaves",
+  "awayTeam" : "Sporting Lisbon B",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Porto B",
+  "awayTeam" : "Portimonense",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Lusitania",
+  "awayTeam" : "Torreense",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AD Fafe",
+  "awayTeam" : "Arouca",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Atletico de Vila Mea",
+  "awayTeam" : "Leixoes",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "CS Afumati",
+  "awayTeam" : "Sepsi Os Sf",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Y. Krasnoyarsk",
+  "awayTeam" : "Rodina Moscow",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Ufa",
+  "awayTeam" : "Fakel",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Shinnik Yar.",
+  "awayTeam" : "Sokol",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Kamaz Chelny",
+  "awayTeam" : "SKA Khabaro.",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "FK IMT Novi Beograd",
+  "awayTeam" : "FK M. Lucani",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Radnicki Nis",
+  "awayTeam" : "Tsc Backa T.",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Albirex Niigata",
+  "awayTeam" : "Tanjong Pagar Utd",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "NK Maribor",
+  "awayTeam" : "O. Ljubljana",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Nd Dravinja",
+  "awayTeam" : "Jadran Dekani",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AL Jabalain",
+  "awayTeam" : "AL Raed",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Pamba SC",
+  "awayTeam" : "Fountain Gate",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Nakhon R.",
+  "awayTeam" : "Ayutthaya Utd",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "SGB Kanchanaburi",
+  "awayTeam" : "Rayong",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Sukhothai",
+  "awayTeam" : "Chonburi",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Lamphun Warrior",
+  "awayTeam" : "Uthai Thani",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Taipei Tatung",
+  "awayTeam" : "Ming Chuan Uni.",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Taichung Futuro",
+  "awayTeam" : "AC Taipei",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Tainan City",
+  "awayTeam" : "Taiwan Power C.",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Hang Yuen",
+  "awayTeam" : "Taichung Rock",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "AS Soliman",
+  "awayTeam" : "US Monastir",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Olympique B.",
+  "awayTeam" : "Club Africain",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Stade Tunisien",
+  "awayTeam" : "AS Gabes",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Etoile Sahel",
+  "awayTeam" : "Club Sportif Sfaxien",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "CS Korba",
+  "awayTeam" : "A Sakiet Edayer",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "SC Moknine",
+  "awayTeam" : "CS Redeyef",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "EO Sidi Bouzid",
+  "awayTeam" : "AS Ariana",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "ES Bouchamma",
+  "awayTeam" : "Jendouba Sport",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "CS Hammam",
+  "awayTeam" : "US Tataouine",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Sporting Ben Arous",
+  "awayTeam" : "CS Chebba",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Kryvbas K. R.",
+  "awayTeam" : "Veres Rivne",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Polissya Zhytomyr",
+  "awayTeam" : "Epicentr Dunaivtsi",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Al Tora",
+  "awayTeam" : "Sama",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Amman",
+  "awayTeam" : "AL Aqaba",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Nam Dinh",
+  "awayTeam" : "Dong Tam",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Hai Phong",
+  "awayTeam" : "Phu Dong",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "TP HO Chi Minh",
+  "awayTeam" : "BA Ria Vung Tau",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Cong An Nhan Dan",
+  "awayTeam" : "CLB Viettel",
+  "score" : "2-2"
 } ]
