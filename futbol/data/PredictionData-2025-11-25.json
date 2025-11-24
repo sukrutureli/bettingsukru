@@ -1,0 +1,169 @@
+[ {
+  "homeTeam" : "Mirassol SP",
+  "awayTeam" : "Ceara CE",
+  "picks" : [ "Alt (1.52 - 64.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.52 - 64.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Internacional",
+  "awayTeam" : "Santos SP",
+  "picks" : [ "Alt (1.54 - 68.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.54 - 68.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Melbourne City",
+  "awayTeam" : "Johor Darul",
+  "picks" : [ "Üst (1.52 - 75.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.52 - 75.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Gangwon",
+  "awayTeam" : "Machida Zelvia",
+  "picks" : [ "Alt (1.4 - 63.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 63.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "MSK Zilina",
+  "awayTeam" : "Skalica",
+  "picks" : [ "MS1 (1.54 - 74.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.54 - 74.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Telavi",
+  "awayTeam" : "Dinamo B.",
+  "picks" : [ "Üst (1.58 - 73.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.58 - 73.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Torpedo Moskova",
+  "awayTeam" : "B. Kaliningrad",
+  "picks" : [ "Alt (1.47 - 68.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 68.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Wahda",
+  "awayTeam" : "AL Sadd",
+  "picks" : [ "Var (1.33 - 86.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.33 - 86.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Uxbridge",
+  "awayTeam" : "Sholing",
+  "picks" : [ "Var (1.4 - 82.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 82.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Yate Town",
+  "awayTeam" : "Basingstoke",
+  "picks" : [ "Var (1.35 - 75.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.35 - 75.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Gloucester",
+  "awayTeam" : "Farnham Town",
+  "picks" : [ "Var (1.4 - 78.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 78.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Royston Town",
+  "awayTeam" : "AFC Sudbury",
+  "picks" : [ "Var (1.46 - 59.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.46 - 59.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Real Bedford",
+  "awayTeam" : "Banbury Utd",
+  "picks" : [ "Var (1.47 - 80.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.47 - 80.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lancaster",
+  "awayTeam" : "Prescot Cables",
+  "picks" : [ "Alt (1.46 - 67.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.46 - 67.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Weston Super Mare",
+  "awayTeam" : "Bath City",
+  "picks" : [ "Alt (1.54 - 61.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.54 - 61.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ebbsfleet Utd",
+  "awayTeam" : "Horsham",
+  "picks" : [ "Alt (1.48 - 74.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.48 - 74.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Slough Town",
+  "awayTeam" : "AFC Totton",
+  "picks" : [ "Var (1.4 - 66.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 66.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kings Lynn",
+  "awayTeam" : "Buxton",
+  "picks" : [ "Var (1.42 - 58.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.42 - 58.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Marine",
+  "awayTeam" : "Kidderminster Harriers",
+  "picks" : [ "Alt (1.59 - 64.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.59 - 64.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bodo Glimt",
+  "awayTeam" : "Juventus",
+  "picks" : [ "Var (1.35 - 71.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.35 - 71.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Southampton",
+  "awayTeam" : "Leicester City",
+  "picks" : [ "Var (1.53 - 68.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.53 - 68.1%)" : "pending"
+  }
+} ]
