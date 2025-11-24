@@ -1,0 +1,46 @@
+[ {
+  "name" : "Toronto - Cleveland",
+  "time" : "03:00",
+  "predictions" : [ "MS1 (1.59 - 86.2%)" ],
+  "score" : "121-112"
+}, {
+  "name" : "Miami - Dallas",
+  "time" : "03:30",
+  "predictions" : [ "241.5 Alt (1.62 - 70.6%)" ],
+  "score" : "122-112"
+}, {
+  "name" : "Milwaukee - Portland",
+  "time" : "04:00",
+  "predictions" : [ "230.5 Üst (1.63 - 59.7%)" ],
+  "score" : "119-116"
+}, {
+  "name" : "New Orleans - Chicago",
+  "time" : "04:00",
+  "predictions" : [ "243.5 Alt (1.66 - 63.5%)" ],
+  "score" : "119-120"
+}, {
+  "name" : "Phoenix - Houston",
+  "time" : "05:30",
+  "predictions" : [ "224.5 Üst (1.64 - 74.1%)" ],
+  "score" : "120-115"
+}, {
+  "name" : "Sacramento - Minnesota",
+  "time" : "06:00",
+  "predictions" : [ "237.5 Alt (1.6 - 66.2%)" ],
+  "score" : "112-120"
+}, {
+  "name" : "BC Dubai - Paris",
+  "time" : "19:00",
+  "predictions" : [ "178.5 Üst (1.67 - 68.9%)" ],
+  "score" : "95-91"
+}, {
+  "name" : "Fenerbahçe - Virtus Bologna",
+  "time" : "20:45",
+  "predictions" : [ "163.5 Üst (1.64 - 77.4%)" ],
+  "score" : "90-86"
+}, {
+  "name" : "Valencia - Bayern Münih",
+  "time" : "22:30",
+  "predictions" : [ "173.5 Alt (1.63 - 76.8%)" ],
+  "score" : "86-77"
+} ]
