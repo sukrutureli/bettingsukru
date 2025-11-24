@@ -18,32 +18,32 @@
   "homeTeam" : "Torino",
   "awayTeam" : "Como 1907",
   "picks" : [ "Alt (1.44 - 72.0%)" ],
-  "score" : "-",
+  "score" : "1-5",
   "statuses" : {
-    "Alt (1.44 - 72.0%)" : "pending"
+    "Alt (1.44 - 72.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Jong Utrecht",
   "awayTeam" : "Den Bosch",
   "picks" : [ "Var (1.36 - 75.0%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Var (1.36 - 75.0%)" : "pending"
+    "Var (1.36 - 75.0%)" : "won"
   }
 }, {
   "homeTeam" : "Livorno",
   "awayTeam" : "Torres S.",
   "picks" : [ "Alt (1.3 - 63.0%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Alt (1.3 - 63.0%)" : "pending"
+    "Alt (1.3 - 63.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Perugia",
   "awayTeam" : "Vis Pesaro",
   "picks" : [ "Alt (1.34 - 80.4%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.34 - 80.4%)" : "pending"
+    "Alt (1.34 - 80.4%)" : "lost"
   }
 } ]
