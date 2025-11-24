@@ -5238,4 +5238,60 @@
   "homeTeam" : "Al Yarmouk",
   "awayTeam" : "Maan",
   "score" : "2-1"
+}, {
+  "homeTeam" : "Konyaspor",
+  "awayTeam" : "Antalyaspor",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Serik Spor",
+  "awayTeam" : "Sarıyer",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Al Ahli Dubai",
+  "awayTeam" : "AL Gharrafa",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Duhail SC",
+  "awayTeam" : "AL Ittihad",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "Botev Vratsa",
+  "awayTeam" : "Slavya Sofya",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "US Forces Armees",
+  "awayTeam" : "Sonabel O.",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Inter Allies",
+  "awayTeam" : "Attram de Visser",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Katsina Utd",
+  "awayTeam" : "Enyimba",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Metaloglobus",
+  "awayTeam" : "Hermannstadt",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Rotor",
+  "awayTeam" : "Chelyabinsk",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "NK Bravo",
+  "awayTeam" : "NK Radomlje",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Zorya Luhansk",
+  "awayTeam" : "Oleksandriya",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Portekiz U17",
+  "awayTeam" : "Brezilya U17",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Volos",
+  "awayTeam" : "APO Levadeiakos",
+  "score" : "1-2"
 } ]
