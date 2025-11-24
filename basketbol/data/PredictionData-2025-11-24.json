@@ -10,8 +10,8 @@
   "homeTeam" : "Kk Sentjur",
   "awayTeam" : "Zlatorog Lasko",
   "picks" : [ "MS2 (1.64 - 75.9%)" ],
-  "score" : "-",
+  "score" : "87-92",
   "statuses" : {
-    "MS2 (1.64 - 75.9%)" : "pending"
+    "MS2 (1.64 - 75.9%)" : "won"
   }
 } ]
