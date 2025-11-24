@@ -5170,4 +5170,72 @@
   "homeTeam" : "Carabobo",
   "awayTeam" : "A. Puerto C.",
   "score" : "1-0"
+}, {
+  "homeTeam" : "Nasaf",
+  "awayTeam" : "TS Tabriz",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "PFC Spartak Pleven",
+  "awayTeam" : "Ludogorets Razgrad II",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Persikad Depok",
+  "awayTeam" : "Farmel",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Bekasi City",
+  "awayTeam" : "Persekat K. T.",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AL Hedood",
+  "awayTeam" : "Al Fahad SC",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "AL Julan",
+  "awayTeam" : "Naft AL Basra SC",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Lazio U20",
+  "awayTeam" : "Hellas Verona U20",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "AC Monza U20",
+  "awayTeam" : "Cremonese U20",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Osaka",
+  "awayTeam" : "Kochi Utd SC",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Nara Club",
+  "awayTeam" : "SC Sagamihara",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Sofapaka",
+  "awayTeam" : "Ulinzi Stars",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Costa Do Sol",
+  "awayTeam" : "Fer. de Maputo",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Indigenas de Matagalpa",
+  "awayTeam" : "Real Esteli",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "M. Murska Sobota U19",
+  "awayTeam" : "Koper U19",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Avusturya U17",
+  "awayTeam" : "İtalya U17",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Sareeh",
+  "awayTeam" : "Kfarsoum",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "Al Yarmouk",
+  "awayTeam" : "Maan",
+  "score" : "2-1"
 } ]
