@@ -2,17 +2,17 @@
   "homeTeam" : "Dep. Guastatoya",
   "awayTeam" : "CD Marquense",
   "picks" : [ "Alt (1.42 - 68.6%)" ],
-  "score" : "-",
+  "score" : "5-0",
   "statuses" : {
-    "Alt (1.42 - 68.6%)" : "pending"
+    "Alt (1.42 - 68.6%)" : "lost"
   }
 }, {
   "homeTeam" : "CD Olimpia",
   "awayTeam" : "Marathon",
   "picks" : [ "Alt (1.51 - 60.6%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Alt (1.51 - 60.6%)" : "pending"
+    "Alt (1.51 - 60.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Torino",
