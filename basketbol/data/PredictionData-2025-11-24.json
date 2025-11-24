@@ -2,9 +2,9 @@
   "homeTeam" : "Phoenix",
   "awayTeam" : "San Antonio",
   "picks" : [ "MS1 (1.45 - 83.6%)" ],
-  "score" : "-",
+  "score" : "111-102",
   "statuses" : {
-    "MS1 (1.45 - 83.6%)" : "pending"
+    "MS1 (1.45 - 83.6%)" : "won"
   }
 }, {
   "homeTeam" : "Kk Sentjur",

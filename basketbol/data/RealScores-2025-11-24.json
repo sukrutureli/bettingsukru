@@ -1346,4 +1346,40 @@
   "homeTeam" : "Ravenna Pie",
   "awayTeam" : "Dany Basket Quarrata",
   "score" : "83-88"
+}, {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Orlando",
+  "score" : "138-129"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "LA Clippers",
+  "score" : "120-105"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "Charlotte",
+  "score" : "113-110"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Brooklyn",
+  "score" : "119-109"
+}, {
+  "homeTeam" : "Oklahoma",
+  "awayTeam" : "Portland",
+  "score" : "122-95"
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "LA Lakers",
+  "score" : "106-108"
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "San Antonio",
+  "score" : "111-102"
+}, {
+  "homeTeam" : "Duke Blue Devils",
+  "awayTeam" : "Howard Bison",
+  "score" : "93-56"
+}, {
+  "homeTeam" : "Oregon Ducks (K)",
+  "awayTeam" : "Utah State Aggies",
+  "score" : "70-34"
 } ]
