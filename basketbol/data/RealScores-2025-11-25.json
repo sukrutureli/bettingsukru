@@ -1402,4 +1402,44 @@
   "homeTeam" : "Notre Dame Fighting Irish",
   "awayTeam" : "Kansas Jayhawks",
   "score" : "61-71"
+}, {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Detroit",
+  "score" : "117-122"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Cleveland",
+  "score" : "110-99"
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Dallas",
+  "score" : "106-102"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "New York",
+  "score" : "100-113"
+}, {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "Portland",
+  "score" : "103-115"
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Denver",
+  "score" : "115-125"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Chicago",
+  "score" : "143-130"
+}, {
+  "homeTeam" : "Boise State Broncos",
+  "awayTeam" : "USC Trojans",
+  "score" : "67-70"
+}, {
+  "homeTeam" : "Syracuse Orange",
+  "awayTeam" : "Houston Cougars",
+  "score" : "74-78"
+}, {
+  "homeTeam" : "Oregon Ducks",
+  "awayTeam" : "Auburn Tigers",
+  "score" : "73-84"
 } ]
