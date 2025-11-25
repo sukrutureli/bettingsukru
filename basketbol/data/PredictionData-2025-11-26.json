@@ -1,0 +1,145 @@
+[ {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Orlando",
+  "picks" : [ "MS2 (1.35 - 63.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.35 - 63.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "M. Tel Aviv",
+  "awayTeam" : "Olimpia Milano",
+  "picks" : [ "174.5 Alt (1.62 - 57.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "174.5 Alt (1.62 - 57.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Atomeromu KSC (K)",
+  "awayTeam" : "K. Mechelen (K)",
+  "picks" : [ "MS2 (1.35 - 77.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.35 - 77.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "USK Prag (K)",
+  "awayTeam" : "Arka Gdynia (K)",
+  "picks" : [ "143.5 Üst (1.63 - 84.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "143.5 Üst (1.63 - 84.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AIK Basket (K)",
+  "awayTeam" : "Uppsala (K)",
+  "picks" : [ "MS2 (1.35 - 61.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.35 - 61.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "SBS Ostrava (K)",
+  "awayTeam" : "SL Benfica (K)",
+  "picks" : [ "145.5 Alt (1.64 - 60.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "145.5 Alt (1.64 - 60.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Anadolu Efes",
+  "picks" : [ "167.5 Alt (1.65 - 61.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Alt (1.65 - 61.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kızıl Yıldız",
+  "awayTeam" : "Olympiakos",
+  "picks" : [ "166.5 Üst (1.63 - 72.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Üst (1.63 - 72.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Reyer Venezia (K)",
+  "awayTeam" : "Basket Landes (K)",
+  "picks" : [ "134.5 Alt (1.64 - 55.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "134.5 Alt (1.64 - 55.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zaragoza (K)",
+  "awayTeam" : "ÇBK Mersin (K)",
+  "picks" : [ "144.5 Üst (1.63 - 59.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "144.5 Üst (1.63 - 59.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tango Bourges (K)",
+  "awayTeam" : "UNI Girona CB (K)",
+  "picks" : [ "139.5 Üst (1.63 - 73.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "139.5 Üst (1.63 - 73.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Valencia (K)",
+  "awayTeam" : "Dvtk Miskolc (K)",
+  "picks" : [ "149.5 Alt (1.63 - 60.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "149.5 Alt (1.63 - 60.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UF Angers Basket (K)",
+  "awayTeam" : "Piestanske Cajky (K)",
+  "picks" : [ "140.5 Alt (1.6 - 60.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "140.5 Alt (1.6 - 60.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Asvel Vil.",
+  "picks" : [ "161.5 Alt (1.65 - 62.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "161.5 Alt (1.65 - 62.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Perf. Avenida (K)",
+  "awayTeam" : "Neptunas Klaipeda (K)",
+  "picks" : [ "147.5 Üst (1.65 - 59.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "147.5 Üst (1.65 - 59.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Pistoia",
+  "awayTeam" : "Asd Del Fes Avellino",
+  "picks" : [ "MS2 (1.54 - 59.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.54 - 59.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Torino",
+  "awayTeam" : "Roseto Shark",
+  "picks" : [ "156.5 Alt (1.6 - 60.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "156.5 Alt (1.6 - 60.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Forli",
+  "awayTeam" : "VL Pesaro",
+  "picks" : [ "MS2 (1.55 - 66.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.55 - 66.0%)" : "pending"
+  }
+} ]
