@@ -5414,4 +5414,28 @@
   "homeTeam" : "Larissa",
   "awayTeam" : "Ofi Crete",
   "score" : "1-2"
+}, {
+  "homeTeam" : "Mirassol SP",
+  "awayTeam" : "Ceara CE",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Internacional",
+  "awayTeam" : "Santos SP",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Racing Club",
+  "awayTeam" : "River Plate",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Union Santa Fe",
+  "awayTeam" : "Gimnasia",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "M. Per. Zeledon",
+  "awayTeam" : "CS Cartagines",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Nublense",
+  "awayTeam" : "Huachipato",
+  "score" : "0-1"
 } ]
