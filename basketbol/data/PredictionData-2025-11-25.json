@@ -50,9 +50,9 @@
   "homeTeam" : "BC Dubai",
   "awayTeam" : "Paris",
   "picks" : [ "178.5 Üst (1.67 - 68.9%)" ],
-  "score" : "-",
+  "score" : "90-89",
   "statuses" : {
-    "178.5 Üst (1.67 - 68.9%)" : "pending"
+    "178.5 Üst (1.67 - 68.9%)" : "won"
   }
 }, {
   "homeTeam" : "Fenerbahçe",
