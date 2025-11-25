@@ -34,17 +34,17 @@
   "homeTeam" : "Phoenix",
   "awayTeam" : "Houston",
   "picks" : [ "224.5 Üst (1.64 - 74.1%)" ],
-  "score" : "-",
+  "score" : "92-114",
   "statuses" : {
-    "224.5 Üst (1.64 - 74.1%)" : "pending"
+    "224.5 Üst (1.64 - 74.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Sacramento",
   "awayTeam" : "Minnesota",
   "picks" : [ "237.5 Alt (1.6 - 66.2%)" ],
-  "score" : "-",
+  "score" : "117-112",
   "statuses" : {
-    "237.5 Alt (1.6 - 66.2%)" : "pending"
+    "237.5 Alt (1.6 - 66.2%)" : "won"
   }
 }, {
   "homeTeam" : "BC Dubai",

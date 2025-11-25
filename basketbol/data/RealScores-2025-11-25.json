@@ -1442,4 +1442,40 @@
   "homeTeam" : "Oregon Ducks",
   "awayTeam" : "Auburn Tigers",
   "score" : "73-84"
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "Houston",
+  "score" : "92-114"
+}, {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Utah",
+  "score" : "134-117"
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Minnesota",
+  "score" : "117-112"
+}, {
+  "homeTeam" : "Alabama Crimson Tide",
+  "awayTeam" : "Gonzaga Bulldogs",
+  "score" : "85-95"
+}, {
+  "homeTeam" : "Arizona Wildcats",
+  "awayTeam" : "Denver Pioneers",
+  "score" : "103-73"
+}, {
+  "homeTeam" : "San Diego State Aztecs",
+  "awayTeam" : "Michigan Wolverines",
+  "score" : "54-94"
+}, {
+  "homeTeam" : "Texas Longh.",
+  "awayTeam" : "Arizona State Sun Devils",
+  "score" : "86-87"
+}, {
+  "homeTeam" : "Maryland Terrapins",
+  "awayTeam" : "UNLV Runnin Rebels",
+  "score" : "74-67"
+}, {
+  "homeTeam" : "Adelaide Lightning (K)",
+  "awayTeam" : "Townsville Fire (K)",
+  "score" : "64-90"
 } ]
