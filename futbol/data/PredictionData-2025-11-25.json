@@ -42,25 +42,25 @@
   "homeTeam" : "Telavi",
   "awayTeam" : "Dinamo B.",
   "picks" : [ "Üst (1.58 - 73.1%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Üst (1.58 - 73.1%)" : "pending"
+    "Üst (1.58 - 73.1%)" : "won"
   }
 }, {
   "homeTeam" : "Torpedo Moskova",
   "awayTeam" : "B. Kaliningrad",
   "picks" : [ "Alt (1.47 - 68.5%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.47 - 68.5%)" : "pending"
+    "Alt (1.47 - 68.5%)" : "won"
   }
 }, {
   "homeTeam" : "AL Wahda",
   "awayTeam" : "AL Sadd",
   "picks" : [ "Var (1.33 - 86.4%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Var (1.33 - 86.4%)" : "pending"
+    "Var (1.33 - 86.4%)" : "won"
   }
 }, {
   "homeTeam" : "Uxbridge",
