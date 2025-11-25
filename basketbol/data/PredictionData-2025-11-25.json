@@ -58,16 +58,16 @@
   "homeTeam" : "Fenerbahçe",
   "awayTeam" : "Virtus Bologna",
   "picks" : [ "163.5 Üst (1.64 - 77.4%)" ],
-  "score" : "-",
+  "score" : "66-64",
   "statuses" : {
-    "163.5 Üst (1.64 - 77.4%)" : "pending"
+    "163.5 Üst (1.64 - 77.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Valencia",
   "awayTeam" : "Bayern Münih",
   "picks" : [ "173.5 Alt (1.63 - 76.8%)" ],
-  "score" : "-",
+  "score" : "90-64",
   "statuses" : {
-    "173.5 Alt (1.63 - 76.8%)" : "pending"
+    "173.5 Alt (1.63 - 76.8%)" : "won"
   }
 } ]
