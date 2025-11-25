@@ -66,104 +66,104 @@
   "homeTeam" : "Uxbridge",
   "awayTeam" : "Sholing",
   "picks" : [ "Var (1.4 - 82.6%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Var (1.4 - 82.6%)" : "pending"
+    "Var (1.4 - 82.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Yate Town",
   "awayTeam" : "Basingstoke",
   "picks" : [ "Var (1.35 - 75.6%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.35 - 75.6%)" : "pending"
+    "Var (1.35 - 75.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Gloucester",
   "awayTeam" : "Farnham Town",
   "picks" : [ "Var (1.4 - 78.1%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Var (1.4 - 78.1%)" : "pending"
+    "Var (1.4 - 78.1%)" : "won"
   }
 }, {
   "homeTeam" : "Royston Town",
   "awayTeam" : "AFC Sudbury",
   "picks" : [ "Var (1.46 - 59.8%)" ],
-  "score" : "-",
+  "score" : "3-3",
   "statuses" : {
-    "Var (1.46 - 59.8%)" : "pending"
+    "Var (1.46 - 59.8%)" : "won"
   }
 }, {
   "homeTeam" : "Real Bedford",
   "awayTeam" : "Banbury Utd",
   "picks" : [ "Var (1.47 - 80.4%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Var (1.47 - 80.4%)" : "pending"
+    "Var (1.47 - 80.4%)" : "won"
   }
 }, {
   "homeTeam" : "Lancaster",
   "awayTeam" : "Prescot Cables",
   "picks" : [ "Alt (1.46 - 67.7%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.46 - 67.7%)" : "pending"
+    "Alt (1.46 - 67.7%)" : "won"
   }
 }, {
   "homeTeam" : "Weston Super Mare",
   "awayTeam" : "Bath City",
   "picks" : [ "Alt (1.54 - 61.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.54 - 61.3%)" : "pending"
+    "Alt (1.54 - 61.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Ebbsfleet Utd",
   "awayTeam" : "Horsham",
   "picks" : [ "Alt (1.48 - 74.3%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.48 - 74.3%)" : "pending"
+    "Alt (1.48 - 74.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Slough Town",
   "awayTeam" : "AFC Totton",
   "picks" : [ "Var (1.4 - 66.1%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Var (1.4 - 66.1%)" : "pending"
+    "Var (1.4 - 66.1%)" : "won"
   }
 }, {
   "homeTeam" : "Kings Lynn",
   "awayTeam" : "Buxton",
   "picks" : [ "Var (1.42 - 58.9%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Var (1.42 - 58.9%)" : "pending"
+    "Var (1.42 - 58.9%)" : "won"
   }
 }, {
   "homeTeam" : "Marine",
   "awayTeam" : "Kidderminster Harriers",
   "picks" : [ "Alt (1.59 - 64.7%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.59 - 64.7%)" : "pending"
+    "Alt (1.59 - 64.7%)" : "won"
   }
 }, {
   "homeTeam" : "Bodo Glimt",
   "awayTeam" : "Juventus",
   "picks" : [ "Var (1.35 - 71.5%)" ],
-  "score" : "-",
+  "score" : "2-3",
   "statuses" : {
-    "Var (1.35 - 71.5%)" : "pending"
+    "Var (1.35 - 71.5%)" : "won"
   }
 }, {
   "homeTeam" : "Southampton",
   "awayTeam" : "Leicester City",
   "picks" : [ "Var (1.53 - 68.1%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Var (1.53 - 68.1%)" : "pending"
+    "Var (1.53 - 68.1%)" : "lost"
   }
 } ]
