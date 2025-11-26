@@ -1618,4 +1618,104 @@
   "homeTeam" : "Nika Syktyvkar (K)",
   "awayTeam" : "Dinamo Moskova (K)",
   "score" : "98-61"
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Anadolu Efes",
+  "score" : "102-66"
+}, {
+  "homeTeam" : "Kızıl Yıldız",
+  "awayTeam" : "Olympiakos",
+  "score" : "91-80"
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Asvel Vil.",
+  "score" : "88-78"
+}, {
+  "homeTeam" : "Valencia (K)",
+  "awayTeam" : "Dvtk Miskolc (K)",
+  "score" : "81-58"
+}, {
+  "homeTeam" : "Schio (K)",
+  "awayTeam" : "Flammes Carolo (K)",
+  "score" : "74-57"
+}, {
+  "homeTeam" : "USK Prag (K)",
+  "awayTeam" : "Arka Gdynia (K)",
+  "score" : "102-67"
+}, {
+  "homeTeam" : "Tango Bourges (K)",
+  "awayTeam" : "UNI Girona CB (K)",
+  "score" : "69-63"
+}, {
+  "homeTeam" : "Reyer Venezia (K)",
+  "awayTeam" : "Basket Landes (K)",
+  "score" : "57-56"
+}, {
+  "homeTeam" : "Zaragoza (K)",
+  "awayTeam" : "ÇBK Mersin (K)",
+  "score" : "88-58"
+}, {
+  "homeTeam" : "SBS Ostrava (K)",
+  "awayTeam" : "SL Benfica (K)",
+  "score" : "85-52"
+}, {
+  "homeTeam" : "Univ. de Ferrol (K)",
+  "awayTeam" : "Zaglebie Sosnowiec (K)",
+  "score" : "92-49"
+}, {
+  "homeTeam" : "M. Castors Braine (K)",
+  "awayTeam" : "ZKK Tresnjevka 2009 (K)",
+  "score" : "110-43"
+}, {
+  "homeTeam" : "UF Angers Basket (K)",
+  "awayTeam" : "Piestanske Cajky (K)",
+  "score" : "64-61"
+}, {
+  "homeTeam" : "ESB Villeneuve (K)",
+  "awayTeam" : "BC Beroe (K)",
+  "score" : "111-49"
+}, {
+  "homeTeam" : "Perf. Avenida (K)",
+  "awayTeam" : "Neptunas Klaipeda (K)",
+  "score" : "79-48"
+}, {
+  "homeTeam" : "AIK Basket (K)",
+  "awayTeam" : "Uppsala (K)",
+  "score" : "75-87"
+}, {
+  "homeTeam" : "Sodertalje (K)",
+  "awayTeam" : "Norrkoping Dolphins (K)",
+  "score" : "68-71"
+}, {
+  "homeTeam" : "Benedetto Cento",
+  "awayTeam" : "Rimini",
+  "score" : "73-78"
+}, {
+  "homeTeam" : "Pistoia",
+  "awayTeam" : "Asd Del Fes Avellino",
+  "score" : "65-78"
+}, {
+  "homeTeam" : "Verona",
+  "awayTeam" : "Talos Ruvo DI Puglia",
+  "score" : "97-78"
+}, {
+  "homeTeam" : "Torino",
+  "awayTeam" : "Roseto Shark",
+  "score" : "88-60"
+}, {
+  "homeTeam" : "Forli",
+  "awayTeam" : "VL Pesaro",
+  "score" : "88-91"
+}, {
+  "homeTeam" : "Basket Scafati 1969",
+  "awayTeam" : "R. Sebastiani Rieti",
+  "score" : "95-79"
+}, {
+  "homeTeam" : "Libertas Livorno",
+  "awayTeam" : "Juvi Cremona",
+  "score" : "90-77"
+}, {
+  "homeTeam" : "ASD Luiss Roma",
+  "awayTeam" : "Chiusi",
+  "score" : "82-66"
 } ]
