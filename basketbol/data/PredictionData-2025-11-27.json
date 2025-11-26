@@ -1,0 +1,161 @@
+[ {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Memphis",
+  "picks" : [ "235.5 Alt (1.62 - 66.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "235.5 Alt (1.62 - 66.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Houston",
+  "picks" : [ "MS2 (1.84 - 57.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.84 - 57.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Phoenix",
+  "picks" : [ "234.5 Alt (1.6 - 67.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "234.5 Alt (1.6 - 67.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "San Antonio",
+  "picks" : [ "240.5 Alt (1.59 - 69.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "240.5 Alt (1.59 - 69.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Güney Sudan",
+  "awayTeam" : "Libya",
+  "picks" : [ "144.5 Üst (1.64 - 65.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "144.5 Üst (1.64 - 65.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Nijerya",
+  "awayTeam" : "Tunus",
+  "picks" : [ "MS1 (1.39 - 92.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.39 - 92.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Suudi Arabistan",
+  "awayTeam" : "Hindistan",
+  "picks" : [ "151.5 Üst (1.64 - 73.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "151.5 Üst (1.64 - 73.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Katar",
+  "awayTeam" : "Lübnan",
+  "picks" : [ "154.5 Üst (1.64 - 88.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "154.5 Üst (1.64 - 88.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ürdün",
+  "awayTeam" : "Suriye",
+  "picks" : [ "155.5 Alt (1.63 - 67.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "155.5 Alt (1.63 - 67.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Yunanistan",
+  "awayTeam" : "Romanya",
+  "picks" : [ "153.5 Üst (1.64 - 69.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "153.5 Üst (1.64 - 69.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sleza Wroclaw (K)",
+  "awayTeam" : "Elfic Fribourg (K)",
+  "picks" : [ "151.5 Üst (1.66 - 62.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "151.5 Üst (1.66 - 62.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "ACS Sepsi Sic (K)",
+  "awayTeam" : "San Giovanni (K)",
+  "picks" : [ "136.5 Üst (1.64 - 69.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "136.5 Üst (1.64 - 69.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "ZKK Crvena Zvezda (K)",
+  "awayTeam" : "Emlak Konut (K)",
+  "picks" : [ "MS1 (1.41 - 88.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.41 - 88.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AZS Lublin (K)",
+  "awayTeam" : "Cb Jairis (K)",
+  "picks" : [ "137.5 Üst (1.64 - 69.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "137.5 Üst (1.64 - 69.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Karadağ",
+  "awayTeam" : "Portekiz",
+  "picks" : [ "148.5 Üst (1.61 - 63.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "148.5 Üst (1.61 - 63.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Danimarka",
+  "awayTeam" : "İspanya",
+  "picks" : [ "152.5 Üst (1.63 - 57.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "152.5 Üst (1.63 - 57.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Gorzow Wiel. (K)",
+  "awayTeam" : "Athinaikos (K)",
+  "picks" : [ "150.5 Alt (1.62 - 55.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "150.5 Alt (1.62 - 55.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sırbistan",
+  "awayTeam" : "İsviçre",
+  "picks" : [ "151.5 Üst (1.67 - 59.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "151.5 Üst (1.67 - 59.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dinamo Sassari (K)",
+  "awayTeam" : "KP Brno (K)",
+  "picks" : [ "145.5 Alt (1.62 - 69.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "145.5 Alt (1.62 - 69.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Büyük Britanya",
+  "awayTeam" : "Litvanya",
+  "picks" : [ "155.5 Üst (1.64 - 71.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "155.5 Üst (1.64 - 71.8%)" : "pending"
+  }
+} ]
