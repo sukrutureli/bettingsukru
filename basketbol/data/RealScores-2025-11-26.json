@@ -1566,4 +1566,20 @@
   "homeTeam" : "Northern Iowa Panthers",
   "awayTeam" : "Chicago Ramblers",
   "score" : "72-51"
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "LA Clippers",
+  "score" : "135-118"
+}, {
+  "homeTeam" : "Sydney Uni Flames (K)",
+  "awayTeam" : "Geelong Supe (K)",
+  "score" : "97-94"
+}, {
+  "homeTeam" : "Incheon Shinhan (K)",
+  "awayTeam" : "Cheongju KB Stars (K)",
+  "score" : "61-62"
+}, {
+  "homeTeam" : "U. Jekaterinburg (K)",
+  "awayTeam" : "MBA Moskova (K)",
+  "score" : "75-57"
 } ]
