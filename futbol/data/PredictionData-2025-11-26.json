@@ -10,25 +10,25 @@
   "homeTeam" : "Shanghai S.",
   "awayTeam" : "Vissel Kobe",
   "picks" : [ "Var (1.4 - 77.7%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Var (1.4 - 77.7%)" : "pending"
+    "Var (1.4 - 77.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Andijon",
   "awayTeam" : "Arkadag FK",
   "picks" : [ "Alt (1.43 - 63.9%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.43 - 63.9%)" : "pending"
+    "Alt (1.43 - 63.9%)" : "won"
   }
 }, {
   "homeTeam" : "AS Gubbio 1910",
   "awayTeam" : "Juventus U23",
   "picks" : [ "Alt (1.37 - 68.9%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.37 - 68.9%)" : "pending"
+    "Alt (1.37 - 68.9%)" : "won"
   }
 }, {
   "homeTeam" : "CSKA Moskova",
