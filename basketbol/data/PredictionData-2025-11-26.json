@@ -2,9 +2,9 @@
   "homeTeam" : "Philadelphia",
   "awayTeam" : "Orlando",
   "picks" : [ "MS2 (1.35 - 63.4%)" ],
-  "score" : "-",
+  "score" : "103-144",
   "statuses" : {
-    "MS2 (1.35 - 63.4%)" : "pending"
+    "MS2 (1.35 - 63.4%)" : "won"
   }
 }, {
   "homeTeam" : "M. Tel Aviv",

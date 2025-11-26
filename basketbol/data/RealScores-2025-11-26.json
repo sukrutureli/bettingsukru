@@ -1518,4 +1518,52 @@
   "homeTeam" : "BK Zabiny Brno (K)",
   "awayTeam" : "Magnolia Basket (K)",
   "score" : "71-67"
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Atlanta",
+  "score" : "132-113"
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Orlando",
+  "score" : "103-144"
+}, {
+  "homeTeam" : "Asheville Bulldogs (K)",
+  "awayTeam" : "Wofford Terriers",
+  "score" : "54-80"
+}, {
+  "homeTeam" : "Southern Illinois Salukis",
+  "awayTeam" : "Winthrop Eagles",
+  "score" : "61-75"
+}, {
+  "homeTeam" : "Youngstown State Penguins",
+  "awayTeam" : "Toledo Rockets",
+  "score" : "65-69"
+}, {
+  "homeTeam" : "La Salle Explorers (K)",
+  "awayTeam" : "Villanova Wildcats (K)",
+  "score" : "54-66"
+}, {
+  "homeTeam" : "Mercer Bears",
+  "awayTeam" : "Florida A&M Rattlers",
+  "score" : "75-59"
+}, {
+  "homeTeam" : "Brown Bears",
+  "awayTeam" : "N. Hampshire Wildcats (K)",
+  "score" : "68-60"
+}, {
+  "homeTeam" : "Memphis Tigers (K)",
+  "awayTeam" : "Louisiana Lafayette (K)",
+  "score" : "70-64"
+}, {
+  "homeTeam" : "Kansas City Roos",
+  "awayTeam" : "Utep Miners(K)",
+  "score" : "64-75"
+}, {
+  "homeTeam" : "San Francisco Dons",
+  "awayTeam" : "Lehigh Mountain Hawks (K)",
+  "score" : "89-84"
+}, {
+  "homeTeam" : "Northern Iowa Panthers",
+  "awayTeam" : "Chicago Ramblers",
+  "score" : "72-51"
 } ]
