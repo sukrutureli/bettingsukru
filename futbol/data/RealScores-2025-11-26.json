@@ -3505,7 +3505,7 @@
 }, {
   "homeTeam" : "Altglienicke",
   "awayTeam" : "Hertha Berlin II",
-  "score" : "-"
+  "score" : "3-0"
 }, {
   "homeTeam" : "RB Leipzig (K)",
   "awayTeam" : "Wolfsburg (K)",
@@ -6414,4 +6414,120 @@
   "homeTeam" : "İskoçya U19 (K)",
   "awayTeam" : "Norveç U19 (K)",
   "score" : "1-1"
+}, {
+  "homeTeam" : "Pafos",
+  "awayTeam" : "Monaco",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Kopenhag",
+  "awayTeam" : "K. Almaty",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "PSG",
+  "awayTeam" : "Tottenham",
+  "score" : "5-3"
+}, {
+  "homeTeam" : "Atl Madrid",
+  "awayTeam" : "Inter",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Sporting CP",
+  "awayTeam" : "Club Brugge",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "E. Frankfurt",
+  "awayTeam" : "Atalanta",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Olympiakos",
+  "awayTeam" : "Real Madrid",
+  "score" : "3-4"
+}, {
+  "homeTeam" : "Liverpool",
+  "awayTeam" : "PSV",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Arsenal",
+  "awayTeam" : "Bayern Münih",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Magdeburg II",
+  "awayTeam" : "Lok. Leipzig",
+  "score" : "1-5"
+}, {
+  "homeTeam" : "Guabira M.",
+  "awayTeam" : "Strongest",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Orbit College",
+  "awayTeam" : "Stellenbosch",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Blackburn R.",
+  "awayTeam" : "QPR",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Wrexham",
+  "awayTeam" : "Bristol City",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Sheffield Utd",
+  "awayTeam" : "Portsmouth",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Millwall",
+  "awayTeam" : "S. Wednesday",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "W. Bromwich",
+  "awayTeam" : "Birmingham",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Taunton Town",
+  "awayTeam" : "Dorchester",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Gosport",
+  "awayTeam" : "Weymouth",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "Hav Waterloo",
+  "awayTeam" : "Chertsey Town",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Stourbridge",
+  "awayTeam" : "Barwell",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Gateshead",
+  "awayTeam" : "Leeds Utd U21",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Lugano",
+  "awayTeam" : "St. Gallen",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Sambenedettese",
+  "awayTeam" : "Union Brescia U23",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "S. Ameliano",
+  "awayTeam" : "Sport. Trinidense",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "L. Moskova",
+  "awayTeam" : "S. Moskova",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Neftekhimik",
+  "awayTeam" : "FK Rostov",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Portekiz U19 (K)",
+  "awayTeam" : "Kosova U19 (K)",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Finlandiya U19 (K)",
+  "awayTeam" : "Galler U19 (K)",
+  "score" : "0-0"
 } ]
