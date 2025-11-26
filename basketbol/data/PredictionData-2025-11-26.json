@@ -10,17 +10,17 @@
   "homeTeam" : "M. Tel Aviv",
   "awayTeam" : "Olimpia Milano",
   "picks" : [ "174.5 Alt (1.62 - 57.2%)" ],
-  "score" : "-",
+  "score" : "88-102",
   "statuses" : {
-    "174.5 Alt (1.62 - 57.2%)" : "pending"
+    "174.5 Alt (1.62 - 57.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Atomeromu KSC (K)",
   "awayTeam" : "K. Mechelen (K)",
   "picks" : [ "MS2 (1.35 - 77.2%)" ],
-  "score" : "-",
+  "score" : "74-69",
   "statuses" : {
-    "MS2 (1.35 - 77.2%)" : "pending"
+    "MS2 (1.35 - 77.2%)" : "lost"
   }
 }, {
   "homeTeam" : "USK Prag (K)",
