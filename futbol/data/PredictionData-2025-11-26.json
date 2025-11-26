@@ -34,9 +34,9 @@
   "homeTeam" : "CSKA Moskova",
   "awayTeam" : "Dyn. Makhachkala",
   "picks" : [ "Alt (1.5 - 58.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.5 - 58.3%)" : "pending"
+    "Alt (1.5 - 58.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Liptovsky Mikulas",
@@ -50,25 +50,25 @@
   "homeTeam" : "Jkt Tanzania",
   "awayTeam" : "Tabora Utd",
   "picks" : [ "Alt (1.34 - 58.9%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.34 - 58.9%)" : "pending"
+    "Alt (1.34 - 58.9%)" : "won"
   }
 }, {
   "homeTeam" : "Lübnan",
   "awayTeam" : "Sudan",
   "picks" : [ "Yok (1.54 - 84.0%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Yok (1.54 - 84.0%)" : "pending"
+    "Yok (1.54 - 84.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Express",
   "awayTeam" : "Vipers SC",
   "picks" : [ "Alt (1.35 - 81.0%)" ],
-  "score" : "-",
+  "score" : "0-3",
   "statuses" : {
-    "Alt (1.35 - 81.0%)" : "pending"
+    "Alt (1.35 - 81.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Wrexham",
