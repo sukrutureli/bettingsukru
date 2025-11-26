@@ -5998,4 +5998,28 @@
   "homeTeam" : "Arsenal Tula",
   "awayTeam" : "Rubin Kazan",
   "score" : "0-0"
+}, {
+  "homeTeam" : "Gremio P.",
+  "awayTeam" : "Palmeiras SP",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Atl Mineiro",
+  "awayTeam" : "Flamengo",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Cdt Real Oruro",
+  "awayTeam" : "Blooming",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Uni. Catolica",
+  "awayTeam" : "Club Deportivo Cuenca Juniors",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Magesi",
+  "awayTeam" : "Kaizer Chiefs",
+  "score" : "-"
+}, {
+  "homeTeam" : "I. Santa Fe",
+  "awayTeam" : "CD Tolima",
+  "score" : "1-2"
 } ]

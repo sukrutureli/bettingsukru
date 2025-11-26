@@ -2,9 +2,9 @@
   "homeTeam" : "Gremio P.",
   "awayTeam" : "Palmeiras SP",
   "picks" : [ "Alt (1.54 - 66.9%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Alt (1.54 - 66.9%)" : "pending"
+    "Alt (1.54 - 66.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Shanghai S.",
