@@ -1,0 +1,185 @@
+[ {
+  "homeTeam" : "Fluminense",
+  "awayTeam" : "Sao Paulo SP",
+  "picks" : [ "Alt (1.43 - 68.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.43 - 68.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Anwar",
+  "awayTeam" : "Al Zlfe",
+  "picks" : [ "Alt (1.4 - 64.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 64.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "NK Opatija",
+  "awayTeam" : "NK Jarun Zagreb",
+  "picks" : [ "Alt (1.33 - 68.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 68.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zesco Utd",
+  "awayTeam" : "Al Masry",
+  "picks" : [ "Alt (1.32 - 90.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.32 - 90.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "NK Sesvete",
+  "awayTeam" : "HNK Orijent 1919",
+  "picks" : [ "Alt (1.33 - 77.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 77.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Wa Mostaganem",
+  "awayTeam" : "GC Mascara",
+  "picks" : [ "Alt (1.37 - 80.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.37 - 80.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Temouchent",
+  "awayTeam" : "NA Hussein Dey",
+  "picks" : [ "Alt (1.33 - 57.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 57.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "MO Bejaia",
+  "awayTeam" : "JS Bordj Menaiel",
+  "picks" : [ "Alt (1.4 - 69.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 69.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Khlood",
+  "awayTeam" : "AL Khaleej Saihat",
+  "picks" : [ "Var (1.4 - 69.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 69.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kapfenberger",
+  "awayTeam" : "Austria Wien II",
+  "picks" : [ "Var (1.43 - 62.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.43 - 62.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hilleroed",
+  "awayTeam" : "Lyngby BK",
+  "picks" : [ "Var (1.48 - 71.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.48 - 71.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Betis D. Balompie",
+  "awayTeam" : "Cartagena",
+  "picks" : [ "Alt (1.32 - 86.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.32 - 86.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "İsviçre (K)",
+  "awayTeam" : "Belçika (K)",
+  "picks" : [ "Var (1.47 - 75.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.47 - 75.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "US Concarneau",
+  "awayTeam" : "Stade Briochin",
+  "picks" : [ "MS1 (1.68 - 65.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.68 - 65.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "MC Alger",
+  "awayTeam" : "Mamel Sundow",
+  "picks" : [ "Alt (1.41 - 66.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.41 - 66.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Eupen",
+  "awayTeam" : "Lommel SK",
+  "picks" : [ "Var (1.42 - 81.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.42 - 81.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Nyiregyhaza",
+  "awayTeam" : "Debrecen",
+  "picks" : [ "Var (1.51 - 66.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.51 - 66.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "N. Xamax",
+  "awayTeam" : "Aarau",
+  "picks" : [ "Var (1.36 - 69.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.36 - 69.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Weiss Erfurt",
+  "awayTeam" : "Carl Zeiss Jena",
+  "picks" : [ "Var (1.43 - 66.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.43 - 66.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "S. Gijon",
+  "awayTeam" : "Andorra",
+  "picks" : [ "Alt (1.56 - 55.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.56 - 55.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Triestına",
+  "awayTeam" : "PRO Patria",
+  "picks" : [ "Alt (1.4 - 84.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 84.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Radomiak Radom",
+  "awayTeam" : "Gornik Zabrze",
+  "picks" : [ "Var (1.5 - 66.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.5 - 66.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Mechelen",
+  "awayTeam" : "Standard Liege",
+  "picks" : [ "Var (1.52 - 57.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.52 - 57.0%)" : "pending"
+  }
+} ]
