@@ -242,4 +242,172 @@
   "homeTeam" : "Portekiz U23 (K)",
   "awayTeam" : "Almanya U23 (K)",
   "score" : "3-1"
+}, {
+  "homeTeam" : "AS Roma",
+  "awayTeam" : "Midtjylland",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Viktoria Plzen",
+  "awayTeam" : "Freiburg",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Feyenoord",
+  "awayTeam" : "Celtic",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Ferencvaros",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Ludogorets",
+  "awayTeam" : "Celta Vigo",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "PAOK",
+  "awayTeam" : "Brann",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Porto",
+  "awayTeam" : "Nice",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Aston Villa",
+  "awayTeam" : "Young Boys",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Lille",
+  "awayTeam" : "D. Zagreb",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Panathinaikos",
+  "awayTeam" : "Sturm Graz",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Real Betis",
+  "awayTeam" : "Utrecht",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Nottingham F.",
+  "awayTeam" : "Malmö",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "KRC Genk",
+  "awayTeam" : "Basel",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Kızıl Yıldız",
+  "awayTeam" : "FCSB",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Bologna",
+  "awayTeam" : "Salzburg",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "M. Tel Aviv",
+  "awayTeam" : "Lyon",
+  "score" : "0-6"
+}, {
+  "homeTeam" : "Rangers",
+  "awayTeam" : "Braga",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Go Ahead Eagles",
+  "awayTeam" : "Stuttgart",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Lech Poznan",
+  "awayTeam" : "Lausanne",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Sigma Olomouc",
+  "awayTeam" : "NK Celje",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Hamrun Spartans",
+  "awayTeam" : "Lincoln Red",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Un. Craiova",
+  "awayTeam" : "Mainz",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "S. Bratislava",
+  "awayTeam" : "Vallecano",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AZ Alkmaar",
+  "awayTeam" : "Shelbourne",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Rakow C.",
+  "awayTeam" : "Rapid Wien",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Zrinjski Mostar",
+  "awayTeam" : "BK Hacken",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "L. Varşova",
+  "awayTeam" : "Sparta Prag",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Shamrock R.",
+  "awayTeam" : "Shakhtar D.",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "KF Drita",
+  "awayTeam" : "FK Shkendija",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Strasbourg",
+  "awayTeam" : "Crystal Palace",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Aberdeen",
+  "awayTeam" : "Noah",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "J. Bialystok",
+  "awayTeam" : "Kuopion",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Rijeka",
+  "awayTeam" : "AEK Larnaka",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Fiorentina",
+  "awayTeam" : "Aek",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Breidablik",
+  "awayTeam" : "Samsunspor",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Grimsby Town",
+  "awayTeam" : "Tranmere",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Petrojet",
+  "awayTeam" : "Wadi Degla",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Sebaco",
+  "awayTeam" : "Indigenas de Matagalpa",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "L. Asuncion",
+  "awayTeam" : "Club General C.",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "D. Moskova",
+  "awayTeam" : "Zenit",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Finlandiya (K)",
+  "awayTeam" : "Avusturya (K)",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "İsveç U23 (K)",
+  "awayTeam" : "İtalya U23 (K)",
+  "score" : "2-1"
 } ]
