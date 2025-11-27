@@ -1,0 +1,57 @@
+[ {
+  "homeTeam" : "Kolombiya",
+  "awayTeam" : "Venezuela",
+  "picks" : [ "142.5 Üst (1.61 - 81.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "142.5 Üst (1.61 - 81.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Woori Bank H. (K)",
+  "awayTeam" : "Busan BNK Sum (K)",
+  "picks" : [ "120.5 Alt (1.66 - 69.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "120.5 Alt (1.66 - 69.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Japonya",
+  "awayTeam" : "Tayvan",
+  "picks" : [ "163.5 Üst (1.59 - 67.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "163.5 Üst (1.59 - 67.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Çin",
+  "awayTeam" : "Güney Kore",
+  "picks" : [ "160.5 Üst (1.61 - 77.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "160.5 Üst (1.61 - 77.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Libya",
+  "awayTeam" : "Kamerun",
+  "picks" : [ "144.5 Üst (1.64 - 74.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "144.5 Üst (1.64 - 74.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Slovenya",
+  "awayTeam" : "Estonya",
+  "picks" : [ "MS1 (1.33 - 90.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.33 - 90.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Çekya",
+  "awayTeam" : "İsveç",
+  "picks" : [ "157.5 Üst (1.63 - 63.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "157.5 Üst (1.63 - 63.6%)" : "pending"
+  }
+} ]
