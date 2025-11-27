@@ -78,4 +78,60 @@
   "homeTeam" : "İran",
   "awayTeam" : "Irak",
   "score" : "94-68"
+}, {
+  "homeTeam" : "ZKK Student (K)",
+  "awayTeam" : "BC Namur Capitale (K)",
+  "score" : "71-69"
+}, {
+  "homeTeam" : "AZS Lublin (K)",
+  "awayTeam" : "Cb Jairis (K)",
+  "score" : "75-61"
+}, {
+  "homeTeam" : "Sleza Wroclaw (K)",
+  "awayTeam" : "Elfic Fribourg (K)",
+  "score" : "90-65"
+}, {
+  "homeTeam" : "Kibirkstis MRU (K)",
+  "awayTeam" : "Levharti Chomutov (K)",
+  "score" : "108-73"
+}, {
+  "homeTeam" : "ACS Sepsi Sic (K)",
+  "awayTeam" : "San Giovanni (K)",
+  "score" : "43-78"
+}, {
+  "homeTeam" : "Rapid Bucuresti (K)",
+  "awayTeam" : "CB Estudiantes (K)",
+  "score" : "74-88"
+}, {
+  "homeTeam" : "ZKK Crvena Zvezda (K)",
+  "awayTeam" : "Emlak Konut (K)",
+  "score" : "89-77"
+}, {
+  "homeTeam" : "Nijerya",
+  "awayTeam" : "Tunus",
+  "score" : "78-88"
+}, {
+  "homeTeam" : "Gürcistan",
+  "awayTeam" : "Ukrayna",
+  "score" : "79-92"
+}, {
+  "homeTeam" : "Yunanistan",
+  "awayTeam" : "Romanya",
+  "score" : "91-64"
+}, {
+  "homeTeam" : "Karadağ",
+  "awayTeam" : "Portekiz",
+  "score" : "62-83"
+}, {
+  "homeTeam" : "Ürdün",
+  "awayTeam" : "Suriye",
+  "score" : "74-59"
+}, {
+  "homeTeam" : "Suudi Arabistan",
+  "awayTeam" : "Hindistan",
+  "score" : "75-51"
+}, {
+  "homeTeam" : "Katar",
+  "awayTeam" : "Lübnan",
+  "score" : "74-75"
 } ]

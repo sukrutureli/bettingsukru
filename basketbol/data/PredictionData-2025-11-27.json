@@ -42,81 +42,81 @@
   "homeTeam" : "Nijerya",
   "awayTeam" : "Tunus",
   "picks" : [ "MS1 (1.39 - 92.5%)" ],
-  "score" : "-",
+  "score" : "78-88",
   "statuses" : {
-    "MS1 (1.39 - 92.5%)" : "pending"
+    "MS1 (1.39 - 92.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Suudi Arabistan",
   "awayTeam" : "Hindistan",
   "picks" : [ "151.5 Üst (1.64 - 73.4%)" ],
-  "score" : "-",
+  "score" : "75-51",
   "statuses" : {
-    "151.5 Üst (1.64 - 73.4%)" : "pending"
+    "151.5 Üst (1.64 - 73.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Katar",
   "awayTeam" : "Lübnan",
   "picks" : [ "154.5 Üst (1.64 - 88.1%)" ],
-  "score" : "-",
+  "score" : "74-75",
   "statuses" : {
-    "154.5 Üst (1.64 - 88.1%)" : "pending"
+    "154.5 Üst (1.64 - 88.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Ürdün",
   "awayTeam" : "Suriye",
   "picks" : [ "155.5 Alt (1.63 - 67.7%)" ],
-  "score" : "-",
+  "score" : "74-59",
   "statuses" : {
-    "155.5 Alt (1.63 - 67.7%)" : "pending"
+    "155.5 Alt (1.63 - 67.7%)" : "won"
   }
 }, {
   "homeTeam" : "Yunanistan",
   "awayTeam" : "Romanya",
   "picks" : [ "153.5 Üst (1.64 - 69.4%)" ],
-  "score" : "-",
+  "score" : "91-64",
   "statuses" : {
-    "153.5 Üst (1.64 - 69.4%)" : "pending"
+    "153.5 Üst (1.64 - 69.4%)" : "won"
   }
 }, {
   "homeTeam" : "Sleza Wroclaw (K)",
   "awayTeam" : "Elfic Fribourg (K)",
   "picks" : [ "151.5 Üst (1.66 - 62.7%)" ],
-  "score" : "-",
+  "score" : "90-65",
   "statuses" : {
-    "151.5 Üst (1.66 - 62.7%)" : "pending"
+    "151.5 Üst (1.66 - 62.7%)" : "won"
   }
 }, {
   "homeTeam" : "ACS Sepsi Sic (K)",
   "awayTeam" : "San Giovanni (K)",
   "picks" : [ "136.5 Üst (1.64 - 69.1%)" ],
-  "score" : "-",
+  "score" : "43-78",
   "statuses" : {
-    "136.5 Üst (1.64 - 69.1%)" : "pending"
+    "136.5 Üst (1.64 - 69.1%)" : "lost"
   }
 }, {
   "homeTeam" : "ZKK Crvena Zvezda (K)",
   "awayTeam" : "Emlak Konut (K)",
   "picks" : [ "MS1 (1.41 - 88.4%)" ],
-  "score" : "-",
+  "score" : "89-77",
   "statuses" : {
-    "MS1 (1.41 - 88.4%)" : "pending"
+    "MS1 (1.41 - 88.4%)" : "won"
   }
 }, {
   "homeTeam" : "AZS Lublin (K)",
   "awayTeam" : "Cb Jairis (K)",
   "picks" : [ "137.5 Üst (1.64 - 69.3%)" ],
-  "score" : "-",
+  "score" : "75-61",
   "statuses" : {
-    "137.5 Üst (1.64 - 69.3%)" : "pending"
+    "137.5 Üst (1.64 - 69.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Karadağ",
   "awayTeam" : "Portekiz",
   "picks" : [ "148.5 Üst (1.61 - 63.2%)" ],
-  "score" : "-",
+  "score" : "62-83",
   "statuses" : {
-    "148.5 Üst (1.61 - 63.2%)" : "pending"
+    "148.5 Üst (1.61 - 63.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Danimarka",
