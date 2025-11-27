@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "Bragantino",
+  "awayTeam" : "Fortaleza CE",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Atl Lanus",
+  "awayTeam" : "CA Tigre",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "GV San Jose",
+  "awayTeam" : "Nacional Potosi",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Club Bolivar",
+  "awayTeam" : "San Antonio B. B.",
+  "score" : "6-1"
+}, {
+  "homeTeam" : "Municipal",
+  "awayTeam" : "Dep. Guastatoya",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Platense",
+  "awayTeam" : "Olancho",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Juticalpa",
+  "awayTeam" : "CD Victoria",
+  "score" : "3-4"
+}, {
+  "homeTeam" : "Real CD Espana",
+  "awayTeam" : "Genesis PN",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Atl. Nacional Medellin",
+  "awayTeam" : "Atl Junior",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "CA Bucaramanga",
+  "awayTeam" : "Fortaleza",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Juarez",
+  "awayTeam" : "D. Toluca",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Alajuelense",
+  "awayTeam" : "Xelaju",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Club Olimpia",
+  "awayTeam" : "Club 2 De Mayo",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "S. M. De Arica",
+  "awayTeam" : "CD Cobreloa C.",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Deportes Concepcion",
+  "awayTeam" : "D. Copiapo",
+  "score" : "1-0"
+} ]
