@@ -2,9 +2,9 @@
   "homeTeam" : "New Orleans",
   "awayTeam" : "Memphis",
   "picks" : [ "235.5 Alt (1.62 - 66.0%)" ],
-  "score" : "-",
+  "score" : "128-133",
   "statuses" : {
-    "235.5 Alt (1.62 - 66.0%)" : "pending"
+    "235.5 Alt (1.62 - 66.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Golden State",

@@ -1,0 +1,53 @@
+[ {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Detroit",
+  "score" : "117-114"
+}, {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "New York",
+  "score" : "101-129"
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Milwaukee",
+  "score" : "106-103"
+}, {
+  "homeTeam" : "Oklahoma",
+  "awayTeam" : "Minnesota",
+  "score" : "113-105"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Indiana",
+  "score" : "97-95"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Memphis",
+  "score" : "128-133"
+}, {
+  "homeTeam" : "Tulsa Golden Hurricane",
+  "awayTeam" : "Northern Iowa Panthers",
+  "score" : "63-60"
+}, {
+  "homeTeam" : "Manhattan Jaspers",
+  "awayTeam" : "Wagner Seahawks",
+  "score" : "101-103"
+}, {
+  "homeTeam" : "Virginia Tech Hokies",
+  "awayTeam" : "Colorado State Rams",
+  "score" : "66-64"
+}, {
+  "homeTeam" : "Princeton Tigers",
+  "awayTeam" : "Vermont Catamounts",
+  "score" : "74-79"
+}, {
+  "homeTeam" : "Fairfield Stags",
+  "awayTeam" : "Columbia Lions",
+  "score" : "77-106"
+}, {
+  "homeTeam" : "Pepperdine Waves",
+  "awayTeam" : "Fresno St Bulldogs",
+  "score" : "53-76"
+}, {
+  "homeTeam" : "Louisiana Tech Bulldogs",
+  "awayTeam" : "Indiana State Sycamores",
+  "score" : "75-73"
+} ]
