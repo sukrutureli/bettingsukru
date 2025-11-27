@@ -10,33 +10,33 @@
   "homeTeam" : "Golden State",
   "awayTeam" : "Houston",
   "picks" : [ "MS2 (1.84 - 57.2%)" ],
-  "score" : "-",
+  "score" : "100-104",
   "statuses" : {
-    "MS2 (1.84 - 57.2%)" : "pending"
+    "MS2 (1.84 - 57.2%)" : "won"
   }
 }, {
   "homeTeam" : "Sacramento",
   "awayTeam" : "Phoenix",
   "picks" : [ "234.5 Alt (1.6 - 67.2%)" ],
-  "score" : "-",
+  "score" : "100-112",
   "statuses" : {
-    "234.5 Alt (1.6 - 67.2%)" : "pending"
+    "234.5 Alt (1.6 - 67.2%)" : "won"
   }
 }, {
   "homeTeam" : "Portland",
   "awayTeam" : "San Antonio",
   "picks" : [ "240.5 Alt (1.59 - 69.2%)" ],
-  "score" : "-",
+  "score" : "102-115",
   "statuses" : {
-    "240.5 Alt (1.59 - 69.2%)" : "pending"
+    "240.5 Alt (1.59 - 69.2%)" : "won"
   }
 }, {
   "homeTeam" : "Güney Sudan",
   "awayTeam" : "Libya",
   "picks" : [ "144.5 Üst (1.64 - 65.8%)" ],
-  "score" : "-",
+  "score" : "79-55",
   "statuses" : {
-    "144.5 Üst (1.64 - 65.8%)" : "pending"
+    "144.5 Üst (1.64 - 65.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Nijerya",

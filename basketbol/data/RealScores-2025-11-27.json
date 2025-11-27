@@ -50,4 +50,32 @@
   "homeTeam" : "Louisiana Tech Bulldogs",
   "awayTeam" : "Indiana State Sycamores",
   "score" : "75-73"
+}, {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Houston",
+  "score" : "100-104"
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Phoenix",
+  "score" : "100-112"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "San Antonio",
+  "score" : "102-115"
+}, {
+  "homeTeam" : "Portland Pilots",
+  "awayTeam" : "Long Beach State 49ers",
+  "score" : "93-73"
+}, {
+  "homeTeam" : "Kamerun",
+  "awayTeam" : "Y. Burun Adaları",
+  "score" : "77-82"
+}, {
+  "homeTeam" : "Güney Sudan",
+  "awayTeam" : "Libya",
+  "score" : "79-55"
+}, {
+  "homeTeam" : "İran",
+  "awayTeam" : "Irak",
+  "score" : "94-68"
 } ]
