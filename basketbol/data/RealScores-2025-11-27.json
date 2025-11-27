@@ -134,4 +134,64 @@
   "homeTeam" : "Katar",
   "awayTeam" : "Lübnan",
   "score" : "74-75"
+}, {
+  "homeTeam" : "K. Makedonya Cum.",
+  "awayTeam" : "Azerbaycan",
+  "score" : "87-49"
+}, {
+  "homeTeam" : "Lüksemburg",
+  "awayTeam" : "İrlanda",
+  "score" : "89-77"
+}, {
+  "homeTeam" : "Bulgaristan",
+  "awayTeam" : "Ermenistan",
+  "score" : "98-88"
+}, {
+  "homeTeam" : "Slovakya",
+  "awayTeam" : "Arnavutluk",
+  "score" : "73-63"
+}, {
+  "homeTeam" : "Peja 03 (K)",
+  "awayTeam" : "Stars Keltern (K)",
+  "score" : "60-83"
+}, {
+  "homeTeam" : "Gernika Kesb (K)",
+  "awayTeam" : "Elitzur Ramla (K)",
+  "score" : "62-64"
+}, {
+  "homeTeam" : "Gorzow Wiel. (K)",
+  "awayTeam" : "Athinaikos (K)",
+  "score" : "69-77"
+}, {
+  "homeTeam" : "Nyon Basket (K)",
+  "awayTeam" : "Panathinaikos BC (K)",
+  "score" : "80-89"
+}, {
+  "homeTeam" : "Lattes Montp (K)",
+  "awayTeam" : "Ragusa Dubrovnik (K)",
+  "score" : "105-48"
+}, {
+  "homeTeam" : "Ruanda",
+  "awayTeam" : "Gine",
+  "score" : "70-82"
+}, {
+  "homeTeam" : "Danimarka",
+  "awayTeam" : "İspanya",
+  "score" : "64-74"
+}, {
+  "homeTeam" : "Sırbistan",
+  "awayTeam" : "İsviçre",
+  "score" : "90-86"
+}, {
+  "homeTeam" : "Türkiye",
+  "awayTeam" : "Bosna Hersek",
+  "score" : "93-71"
+}, {
+  "homeTeam" : "İtalya",
+  "awayTeam" : "İzlanda",
+  "score" : "76-81"
+}, {
+  "homeTeam" : "Büyük Britanya",
+  "awayTeam" : "Litvanya",
+  "score" : "88-89"
 } ]

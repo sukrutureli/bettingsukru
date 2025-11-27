@@ -122,25 +122,25 @@
   "homeTeam" : "Danimarka",
   "awayTeam" : "İspanya",
   "picks" : [ "152.5 Üst (1.63 - 57.0%)" ],
-  "score" : "-",
+  "score" : "64-74",
   "statuses" : {
-    "152.5 Üst (1.63 - 57.0%)" : "pending"
+    "152.5 Üst (1.63 - 57.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Gorzow Wiel. (K)",
   "awayTeam" : "Athinaikos (K)",
   "picks" : [ "150.5 Alt (1.62 - 55.4%)" ],
-  "score" : "-",
+  "score" : "69-77",
   "statuses" : {
-    "150.5 Alt (1.62 - 55.4%)" : "pending"
+    "150.5 Alt (1.62 - 55.4%)" : "won"
   }
 }, {
   "homeTeam" : "Sırbistan",
   "awayTeam" : "İsviçre",
   "picks" : [ "151.5 Üst (1.67 - 59.4%)" ],
-  "score" : "-",
+  "score" : "90-86",
   "statuses" : {
-    "151.5 Üst (1.67 - 59.4%)" : "pending"
+    "151.5 Üst (1.67 - 59.4%)" : "won"
   }
 }, {
   "homeTeam" : "Dinamo Sassari (K)",
@@ -154,8 +154,8 @@
   "homeTeam" : "Büyük Britanya",
   "awayTeam" : "Litvanya",
   "picks" : [ "155.5 Üst (1.64 - 71.8%)" ],
-  "score" : "-",
+  "score" : "88-89",
   "statuses" : {
-    "155.5 Üst (1.64 - 71.8%)" : "pending"
+    "155.5 Üst (1.64 - 71.8%)" : "won"
   }
 } ]
