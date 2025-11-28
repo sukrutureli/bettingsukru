@@ -1,0 +1,33 @@
+[ {
+  "homeTeam" : "Michigan State Spartans",
+  "awayTeam" : "North Carolina Tar Heels",
+  "score" : "74-58"
+}, {
+  "homeTeam" : "Miami-Florida Hurricanes",
+  "awayTeam" : "Brigham Young Cougars",
+  "score" : "62-72"
+}, {
+  "homeTeam" : "Santa Clara Broncos",
+  "awayTeam" : "Saint Louis Billikens",
+  "score" : "70-71"
+}, {
+  "homeTeam" : "Duke Blue Devils",
+  "awayTeam" : "Arkansas Razorbacks",
+  "score" : "80-71"
+}, {
+  "homeTeam" : "Şili",
+  "awayTeam" : "Brezilya",
+  "score" : "66-82"
+}, {
+  "homeTeam" : "Kolombiya",
+  "awayTeam" : "Venezuela",
+  "score" : "80-78"
+}, {
+  "homeTeam" : "Küba",
+  "awayTeam" : "Arjantin",
+  "score" : "68-80"
+}, {
+  "homeTeam" : "Panama",
+  "awayTeam" : "Uruguay",
+  "score" : "60-93"
+} ]
