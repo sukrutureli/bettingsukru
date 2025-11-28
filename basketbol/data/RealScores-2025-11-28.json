@@ -70,4 +70,24 @@
   "homeTeam" : "Tokyo Excellence",
   "awayTeam" : "Nishinomiya",
   "score" : "80-99"
+}, {
+  "homeTeam" : "Virginia Tech Hokies",
+  "awayTeam" : "VCU Rams",
+  "score" : "68-86"
+}, {
+  "homeTeam" : "N. Carolina Tar Heels (K)",
+  "awayTeam" : "Kansas State Wildcats (K)",
+  "score" : "85-73"
+}, {
+  "homeTeam" : "Libya",
+  "awayTeam" : "Kamerun",
+  "score" : "71-77"
+}, {
+  "homeTeam" : "Macaristan",
+  "awayTeam" : "Finlandiya",
+  "score" : "89-82"
+}, {
+  "homeTeam" : "Bodrum Basketbol (K)",
+  "awayTeam" : "Darıca Bas. Feneri (K)",
+  "score" : "90-72"
 } ]

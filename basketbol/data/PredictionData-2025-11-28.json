@@ -34,9 +34,9 @@
   "homeTeam" : "Libya",
   "awayTeam" : "Kamerun",
   "picks" : [ "144.5 Üst (1.64 - 74.1%)" ],
-  "score" : "-",
+  "score" : "71-77",
   "statuses" : {
-    "144.5 Üst (1.64 - 74.1%)" : "pending"
+    "144.5 Üst (1.64 - 74.1%)" : "won"
   }
 }, {
   "homeTeam" : "Slovenya",
