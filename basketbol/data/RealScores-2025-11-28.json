@@ -30,4 +30,44 @@
   "homeTeam" : "Panama",
   "awayTeam" : "Uruguay",
   "score" : "60-93"
+}, {
+  "homeTeam" : "Stanford Cardinal",
+  "awayTeam" : "Minnesota Golden Gophers",
+  "score" : "72-68"
+}, {
+  "homeTeam" : "Northwestern Wildcats",
+  "awayTeam" : "Oklahoma State C.",
+  "score" : "81-86"
+}, {
+  "homeTeam" : "Sydney Uni Flames (K)",
+  "awayTeam" : "Bendigo Spirit (K)",
+  "score" : "64-80"
+}, {
+  "homeTeam" : "Y. Burun Adaları",
+  "awayTeam" : "Güney Sudan",
+  "score" : "79-109"
+}, {
+  "homeTeam" : "Avustralya",
+  "awayTeam" : "Yeni Zelanda",
+  "score" : "84-79"
+}, {
+  "homeTeam" : "Guam",
+  "awayTeam" : "Filipinler",
+  "score" : "46-87"
+}, {
+  "homeTeam" : "Japonya",
+  "awayTeam" : "Tayvan",
+  "score" : "90-64"
+}, {
+  "homeTeam" : "Çin",
+  "awayTeam" : "Güney Kore",
+  "score" : "76-80"
+}, {
+  "homeTeam" : "Woori Bank H. (K)",
+  "awayTeam" : "Busan BNK Sum (K)",
+  "score" : "45-54"
+}, {
+  "homeTeam" : "Tokyo Excellence",
+  "awayTeam" : "Nishinomiya",
+  "score" : "80-99"
 } ]
