@@ -2,9 +2,9 @@
   "homeTeam" : "Fluminense",
   "awayTeam" : "Sao Paulo SP",
   "picks" : [ "Alt (1.43 - 68.8%)" ],
-  "score" : "-",
+  "score" : "6-0",
   "statuses" : {
-    "Alt (1.43 - 68.8%)" : "pending"
+    "Alt (1.43 - 68.8%)" : "lost"
   }
 }, {
   "homeTeam" : "AL Anwar",

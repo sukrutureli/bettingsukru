@@ -1,0 +1,29 @@
+[ {
+  "homeTeam" : "Fluminense",
+  "awayTeam" : "Sao Paulo SP",
+  "score" : "6-0"
+}, {
+  "homeTeam" : "CD Choloma",
+  "awayTeam" : "Marathon",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Lobos Upnfm",
+  "awayTeam" : "Motagua",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "America De Cali",
+  "awayTeam" : "I. Medellin",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "CD Guadalajara",
+  "awayTeam" : "Cruz Azul",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Real Esteli",
+  "awayTeam" : "Walter Ferretti",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "CD Recoleta",
+  "awayTeam" : "N. Asuncion",
+  "score" : "0-0"
+} ]
