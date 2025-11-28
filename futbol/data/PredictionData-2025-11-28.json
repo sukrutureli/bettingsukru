@@ -10,57 +10,57 @@
   "homeTeam" : "AL Anwar",
   "awayTeam" : "Al Zlfe",
   "picks" : [ "Alt (1.4 - 64.6%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.4 - 64.6%)" : "pending"
+    "Alt (1.4 - 64.6%)" : "won"
   }
 }, {
   "homeTeam" : "NK Opatija",
   "awayTeam" : "NK Jarun Zagreb",
   "picks" : [ "Alt (1.33 - 68.6%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.33 - 68.6%)" : "pending"
+    "Alt (1.33 - 68.6%)" : "won"
   }
 }, {
   "homeTeam" : "Zesco Utd",
   "awayTeam" : "Al Masry",
   "picks" : [ "Alt (1.32 - 90.6%)" ],
-  "score" : "-",
+  "score" : "2-3",
   "statuses" : {
-    "Alt (1.32 - 90.6%)" : "pending"
+    "Alt (1.32 - 90.6%)" : "lost"
   }
 }, {
   "homeTeam" : "NK Sesvete",
   "awayTeam" : "HNK Orijent 1919",
   "picks" : [ "Alt (1.33 - 77.8%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.33 - 77.8%)" : "pending"
+    "Alt (1.33 - 77.8%)" : "won"
   }
 }, {
   "homeTeam" : "Wa Mostaganem",
   "awayTeam" : "GC Mascara",
   "picks" : [ "Alt (1.37 - 80.8%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.37 - 80.8%)" : "pending"
+    "Alt (1.37 - 80.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Temouchent",
   "awayTeam" : "NA Hussein Dey",
   "picks" : [ "Alt (1.33 - 57.1%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.33 - 57.1%)" : "pending"
+    "Alt (1.33 - 57.1%)" : "won"
   }
 }, {
   "homeTeam" : "MO Bejaia",
   "awayTeam" : "JS Bordj Menaiel",
   "picks" : [ "Alt (1.4 - 69.5%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.4 - 69.5%)" : "pending"
+    "Alt (1.4 - 69.5%)" : "won"
   }
 }, {
   "homeTeam" : "AL Khlood",

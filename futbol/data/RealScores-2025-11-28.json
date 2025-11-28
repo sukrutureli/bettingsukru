@@ -26,4 +26,196 @@
   "homeTeam" : "CD Recoleta",
   "awayTeam" : "N. Asuncion",
   "score" : "0-0"
+}, {
+  "homeTeam" : "Amed Sportif",
+  "awayTeam" : "Esenler Erokspor",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Zesco Utd",
+  "awayTeam" : "Al Masry",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Memmingen",
+  "awayTeam" : "TSV Aubstadt",
+  "score" : "-"
+}, {
+  "homeTeam" : "Brisbane Roar",
+  "awayTeam" : "Melbourne V.",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "FK Kapaz",
+  "awayTeam" : "Zira",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Loko Sofya",
+  "awayTeam" : "Arda Kardzha",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Bechar Djedid",
+  "awayTeam" : "WA Tlemcen",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Wa Mostaganem",
+  "awayTeam" : "GC Mascara",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Temouchent",
+  "awayTeam" : "NA Hussein Dey",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "MC Saida",
+  "awayTeam" : "ASM Oran",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "MO Bejaia",
+  "awayTeam" : "JS Bordj Menaiel",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Bhayangkara",
+  "awayTeam" : "Persebaya",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Persija Jakarta",
+  "awayTeam" : "Psim Yogyakarta",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Burayu",
+  "awayTeam" : "Harar",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Sululta Ketema",
+  "awayTeam" : "Debre Birhan Ketema",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "NK Uskok",
+  "awayTeam" : "NK Solin",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "NK Opatija",
+  "awayTeam" : "NK Jarun Zagreb",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "NK Sesvete",
+  "awayTeam" : "HNK Orijent 1919",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Shahrdari Noshahr",
+  "awayTeam" : "SN Abadan",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Fard",
+  "awayTeam" : "N. Zamini Tehran",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Mes Sungun Varzaghan",
+  "awayTeam" : "Damash Gilan",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Mes Shahr e Babak",
+  "awayTeam" : "Nassaji Maz.",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Paykan",
+  "awayTeam" : "Malavan Bandar Anzali",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Shams Azar Qazvin",
+  "awayTeam" : "Persepolis",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "ZOB Ahan I.",
+  "awayTeam" : "Kheybar Khorramabad",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Baladiyyat AL M.",
+  "awayTeam" : "El Daklyeh",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Alqana",
+  "awayTeam" : "Maleyat Kafr El Z.",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Entag Harby",
+  "awayTeam" : "Dayrout",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "ABO Qair Semads",
+  "awayTeam" : "Telecom Egypt",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Masar",
+  "awayTeam" : "Aswan",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "El Mansurah",
+  "awayTeam" : "Gazl Kafr Eldwar",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Tanta",
+  "awayTeam" : "La Viena",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Asyut Petroleum",
+  "awayTeam" : "EL Terasanah",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Sporting Supreme",
+  "awayTeam" : "Gombe Utd",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Etincelles",
+  "awayTeam" : "Mukura",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AL Anwar",
+  "awayTeam" : "Al Zlfe",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Draih",
+  "awayTeam" : "AL Arabi (Sar)",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "AL Jabil",
+  "awayTeam" : "AL Faisaly (Sar)",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Mashujaa",
+  "awayTeam" : "Dodoma",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Prachuap",
+  "awayTeam" : "Port",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Mbarara",
+  "awayTeam" : "Kampala C.",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Levy Bereg Kiev",
+  "awayTeam" : "Victoria Mykolaivka",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Avustralya (K)",
+  "awayTeam" : "Yeni Zelanda (K)",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Ukrayna (K)",
+  "awayTeam" : "İskoçya (K)",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Singapur (K)",
+  "awayTeam" : "Seyşeller (K)",
+  "score" : "7-0"
+}, {
+  "homeTeam" : "Kıbrıs Rum Kesimi (K)",
+  "awayTeam" : "Lüksemburg (K)",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Çekya (K)",
+  "awayTeam" : "Sırbistan (K)",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Karadağ (K)",
+  "awayTeam" : "Romanya (K)",
+  "score" : "1-0"
 } ]
