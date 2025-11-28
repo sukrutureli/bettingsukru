@@ -66,17 +66,17 @@
   "homeTeam" : "AL Khlood",
   "awayTeam" : "AL Khaleej Saihat",
   "picks" : [ "Var (1.4 - 69.6%)" ],
-  "score" : "-",
+  "score" : "4-3",
   "statuses" : {
-    "Var (1.4 - 69.6%)" : "pending"
+    "Var (1.4 - 69.6%)" : "won"
   }
 }, {
   "homeTeam" : "Kapfenberger",
   "awayTeam" : "Austria Wien II",
   "picks" : [ "Var (1.43 - 62.1%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Var (1.43 - 62.1%)" : "pending"
+    "Var (1.43 - 62.1%)" : "won"
   }
 }, {
   "homeTeam" : "Hilleroed",
