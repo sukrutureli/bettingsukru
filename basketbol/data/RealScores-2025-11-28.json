@@ -90,4 +90,40 @@
   "homeTeam" : "Bodrum Basketbol (K)",
   "awayTeam" : "Darıca Bas. Feneri (K)",
   "score" : "90-72"
+}, {
+  "homeTeam" : "Indiana State Sycamores",
+  "awayTeam" : "Alcorn State Braves",
+  "score" : "74-81"
+}, {
+  "homeTeam" : "Indiana Hoosiers (K)",
+  "awayTeam" : "Gonzaga Bulldogs",
+  "score" : "76-72"
+}, {
+  "homeTeam" : "Hırvatistan",
+  "awayTeam" : "Kıbrıs Rum Kesimi",
+  "score" : "100-60"
+}, {
+  "homeTeam" : "Letonya",
+  "awayTeam" : "Hollanda",
+  "score" : "78-86"
+}, {
+  "homeTeam" : "Polonya",
+  "awayTeam" : "Avusturya",
+  "score" : "90-78"
+}, {
+  "homeTeam" : "Fransa",
+  "awayTeam" : "Belçika",
+  "score" : "79-63"
+}, {
+  "homeTeam" : "Slovenya",
+  "awayTeam" : "Estonya",
+  "score" : "93-94"
+}, {
+  "homeTeam" : "Çekya",
+  "awayTeam" : "İsveç",
+  "score" : "97-80"
+}, {
+  "homeTeam" : "Hogsbo (K)",
+  "awayTeam" : "Rig Lulea (K)",
+  "score" : "86-45"
 } ]

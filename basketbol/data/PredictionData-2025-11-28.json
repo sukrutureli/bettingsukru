@@ -42,16 +42,16 @@
   "homeTeam" : "Slovenya",
   "awayTeam" : "Estonya",
   "picks" : [ "MS1 (1.33 - 90.4%)" ],
-  "score" : "-",
+  "score" : "93-94",
   "statuses" : {
-    "MS1 (1.33 - 90.4%)" : "pending"
+    "MS1 (1.33 - 90.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Çekya",
   "awayTeam" : "İsveç",
   "picks" : [ "157.5 Üst (1.63 - 63.6%)" ],
-  "score" : "-",
+  "score" : "97-80",
   "statuses" : {
-    "157.5 Üst (1.63 - 63.6%)" : "pending"
+    "157.5 Üst (1.63 - 63.6%)" : "won"
   }
 } ]
