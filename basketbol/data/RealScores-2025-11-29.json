@@ -206,4 +206,56 @@
   "homeTeam" : "Derthona Basket (K)",
   "awayTeam" : "Panthers Roseto (K)",
   "score" : "86-77"
+}, {
+  "homeTeam" : "Louisiana Tech Bulldogs",
+  "awayTeam" : "Alcorn State Braves",
+  "score" : "83-58"
+}, {
+  "homeTeam" : "Georgia Bulldogs",
+  "awayTeam" : "Tennessee Tech Golden Eagles",
+  "score" : "123-81"
+}, {
+  "homeTeam" : "Nebraska Cornhuskers",
+  "awayTeam" : "SC Upstate Spartans",
+  "score" : "72-63"
+}, {
+  "homeTeam" : "ESB Villeneuve (K)",
+  "awayTeam" : "Lyon Asvel (K)",
+  "score" : "65-92"
+}, {
+  "homeTeam" : "SAS Toulouse (K)",
+  "awayTeam" : "Charnay Basket (K)",
+  "score" : "57-89"
+}, {
+  "homeTeam" : "Landerneau B. (K)",
+  "awayTeam" : "UF Angers Basket (K)",
+  "score" : "75-67"
+}, {
+  "homeTeam" : "Flammes Carolo (K)",
+  "awayTeam" : "Chartres (K)",
+  "score" : "83-67"
+}, {
+  "homeTeam" : "Urania Milano",
+  "awayTeam" : "Juvi Cremona",
+  "score" : "84-78"
+}, {
+  "homeTeam" : "ASD Luiss Roma",
+  "awayTeam" : "Solbat Basket Golfo Piombino",
+  "score" : "89-73"
+}, {
+  "homeTeam" : "Chiusi",
+  "awayTeam" : "Asd Loreto Basket",
+  "score" : "62-58"
+}, {
+  "homeTeam" : "Virtus Imola",
+  "awayTeam" : "Pielle Livorno",
+  "score" : "64-71"
+}, {
+  "homeTeam" : "Dany Basket Quarrata",
+  "awayTeam" : "Ferrara Basket 2018",
+  "score" : "89-84"
+}, {
+  "homeTeam" : "Siaz Basket",
+  "awayTeam" : "Paffoni Omegna",
+  "score" : "100-83"
 } ]

@@ -122,40 +122,40 @@
   "homeTeam" : "Landerneau B. (K)",
   "awayTeam" : "UF Angers Basket (K)",
   "picks" : [ "137.5 Üst (1.61 - 65.1%)" ],
-  "score" : "-",
+  "score" : "75-67",
   "statuses" : {
-    "137.5 Üst (1.61 - 65.1%)" : "pending"
+    "137.5 Üst (1.61 - 65.1%)" : "won"
   }
 }, {
   "homeTeam" : "Urania Milano",
   "awayTeam" : "Juvi Cremona",
   "picks" : [ "MS1 (1.34 - 66.6%)" ],
-  "score" : "-",
+  "score" : "84-78",
   "statuses" : {
-    "MS1 (1.34 - 66.6%)" : "pending"
+    "MS1 (1.34 - 66.6%)" : "won"
   }
 }, {
   "homeTeam" : "Siaz Basket",
   "awayTeam" : "Paffoni Omegna",
   "picks" : [ "MS2 (1.41 - 57.8%)" ],
-  "score" : "-",
+  "score" : "100-83",
   "statuses" : {
-    "MS2 (1.41 - 57.8%)" : "pending"
+    "MS2 (1.41 - 57.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Virtus Imola",
   "awayTeam" : "Pielle Livorno",
   "picks" : [ "MS2 (1.35 - 71.3%)" ],
-  "score" : "-",
+  "score" : "64-71",
   "statuses" : {
-    "MS2 (1.35 - 71.3%)" : "pending"
+    "MS2 (1.35 - 71.3%)" : "won"
   }
 }, {
   "homeTeam" : "Dany Basket Quarrata",
   "awayTeam" : "Ferrara Basket 2018",
   "picks" : [ "MS2 (1.47 - 59.2%)" ],
-  "score" : "-",
+  "score" : "89-84",
   "statuses" : {
-    "MS2 (1.47 - 59.2%)" : "pending"
+    "MS2 (1.47 - 59.2%)" : "lost"
   }
 } ]
