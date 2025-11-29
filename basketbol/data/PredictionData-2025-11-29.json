@@ -34,81 +34,81 @@
   "homeTeam" : "Denver",
   "awayTeam" : "San Antonio",
   "picks" : [ "238.5 Alt (1.64 - 58.4%)" ],
-  "score" : "-",
+  "score" : "136-139",
   "statuses" : {
-    "238.5 Alt (1.64 - 58.4%)" : "pending"
+    "238.5 Alt (1.64 - 58.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Utah",
   "awayTeam" : "Sacramento",
   "picks" : [ "241.5 Alt (1.61 - 63.2%)" ],
-  "score" : "-",
+  "score" : "128-119",
   "statuses" : {
-    "241.5 Alt (1.61 - 63.2%)" : "pending"
+    "241.5 Alt (1.61 - 63.2%)" : "lost"
   }
 }, {
   "homeTeam" : "LA Clippers",
   "awayTeam" : "Memphis",
   "picks" : [ "224.5 Üst (1.66 - 65.1%)" ],
-  "score" : "-",
+  "score" : "107-112",
   "statuses" : {
-    "224.5 Üst (1.66 - 65.1%)" : "pending"
+    "224.5 Üst (1.66 - 65.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Shinsh Brave",
   "awayTeam" : "Veltex Shizuoka",
   "picks" : [ "149.5 Alt (1.62 - 64.0%)" ],
-  "score" : "-",
+  "score" : "76-64",
   "statuses" : {
-    "149.5 Alt (1.62 - 64.0%)" : "pending"
+    "149.5 Alt (1.62 - 64.0%)" : "won"
   }
 }, {
   "homeTeam" : "Iwate Big Bulls",
   "awayTeam" : "Kagoshima Rebnise",
   "picks" : [ "155.5 Üst (1.65 - 67.7%)" ],
-  "score" : "-",
+  "score" : "84-90",
   "statuses" : {
-    "155.5 Üst (1.65 - 67.7%)" : "pending"
+    "155.5 Üst (1.65 - 67.7%)" : "won"
   }
 }, {
   "homeTeam" : "Kumamoto V.",
   "awayTeam" : "Ehime O. V.",
   "picks" : [ "158.5 Alt (1.64 - 74.6%)" ],
-  "score" : "-",
+  "score" : "94-72",
   "statuses" : {
-    "158.5 Alt (1.64 - 74.6%)" : "pending"
+    "158.5 Alt (1.64 - 74.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Fukushima",
   "awayTeam" : "Rizing Fukuoka",
   "picks" : [ "145.5 Üst (1.59 - 80.5%)" ],
-  "score" : "-",
+  "score" : "87-85",
   "statuses" : {
-    "145.5 Üst (1.59 - 80.5%)" : "pending"
+    "145.5 Üst (1.59 - 80.5%)" : "won"
   }
 }, {
   "homeTeam" : "Yamagata Wyverns",
   "awayTeam" : "Aomori Watts",
   "picks" : [ "158.5 Alt (1.6 - 78.9%)" ],
-  "score" : "-",
+  "score" : "77-65",
   "statuses" : {
-    "158.5 Alt (1.6 - 78.9%)" : "pending"
+    "158.5 Alt (1.6 - 78.9%)" : "won"
   }
 }, {
   "homeTeam" : "Gine",
   "awayTeam" : "Nijerya",
   "picks" : [ "144.5 Üst (1.62 - 66.0%)" ],
-  "score" : "-",
+  "score" : "69-55",
   "statuses" : {
-    "144.5 Üst (1.62 - 66.0%)" : "pending"
+    "144.5 Üst (1.62 - 66.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Brahe Basket (K)",
   "awayTeam" : "Rig Lulea (K)",
   "picks" : [ "145.5 Alt (1.67 - 69.4%)" ],
-  "score" : "-",
+  "score" : "81-39",
   "statuses" : {
-    "145.5 Alt (1.67 - 69.4%)" : "pending"
+    "145.5 Alt (1.67 - 69.4%)" : "won"
   }
 }, {
   "homeTeam" : "Gipuzkoa IDK (K)",
