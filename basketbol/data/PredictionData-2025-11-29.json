@@ -114,9 +114,9 @@
   "homeTeam" : "Gipuzkoa IDK (K)",
   "awayTeam" : "Jouventut Badalona (K)",
   "picks" : [ "MS1 (1.37 - 82.1%)" ],
-  "score" : "-",
+  "score" : "75-68",
   "statuses" : {
-    "MS1 (1.37 - 82.1%)" : "pending"
+    "MS1 (1.37 - 82.1%)" : "won"
   }
 }, {
   "homeTeam" : "Landerneau B. (K)",
