@@ -549,7 +549,7 @@
 }, {
   "homeTeam" : "Uni. Pretoria",
   "awayTeam" : "Cape Town City",
-  "score" : "-"
+  "score" : "0-3"
 }, {
   "homeTeam" : "Baroka",
   "awayTeam" : "Black Leopar",
@@ -2010,4 +2010,368 @@
   "homeTeam" : "Ofi Crete",
   "awayTeam" : "Volos",
   "score" : "0-1"
+}, {
+  "homeTeam" : "Trabzonspor",
+  "awayTeam" : "Konyaspor",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Kasımpaşa",
+  "awayTeam" : "Başakşehir",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "B. Leverkusen",
+  "awayTeam" : "B. Dortmund",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Everton",
+  "awayTeam" : "Newcastle Utd",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Tottenham",
+  "awayTeam" : "Fulham",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Levante",
+  "awayTeam" : "Ath Bilbao",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Atl Madrid",
+  "awayTeam" : "Real Oviedo",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Juventus",
+  "awayTeam" : "Cagliari",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AC Milan",
+  "awayTeam" : "Lazio",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Auxerre",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Marsilya",
+  "awayTeam" : "Toulouse",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Zulte Waregem",
+  "awayTeam" : "Cercle Brugge",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Charleroi",
+  "awayTeam" : "RAAL La Louviere",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "F. Sittard",
+  "awayTeam" : "Heracles",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "NEC Nijmegen",
+  "awayTeam" : "S. Rotterdam",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "N. Madeira",
+  "awayTeam" : "Benfica",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Gil Vicente",
+  "awayTeam" : "Tondela",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Vitoria BA",
+  "awayTeam" : "Mirassol SP",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Magdeburg",
+  "awayTeam" : "Nürnberg",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Blau Weiss Lohne",
+  "awayTeam" : "Bremer SV 1906",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "R. Wien (Amt)",
+  "awayTeam" : "Sturm Gr.(Amt.)",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "RWD Molenbeek",
+  "awayTeam" : "Francs Borains",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Patro Maasmechelen",
+  "awayTeam" : "KAA Gent II",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Lierse K.",
+  "awayTeam" : "RSC Anderlecht U23",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "San Antonio B. B.",
+  "awayTeam" : "U. de Vinto",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Velez Mostar",
+  "awayTeam" : "FK Rudar Prijedor",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Township Rollers",
+  "awayTeam" : "Sua Flamingoes",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "Slavia Prag",
+  "awayTeam" : "Slovacko",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "CD Tecnico Uni.",
+  "awayTeam" : "Manta",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Cuniburo",
+  "awayTeam" : "Mushuc Runa",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Mouloudia",
+  "awayTeam" : "R. Mellal",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "FC Chalon",
+  "awayTeam" : "Le Puy Foot 43",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Montreuil FC",
+  "awayTeam" : "US Granville",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Vendee Fontenay Foot",
+  "awayTeam" : "Chateauroux",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Sa Merignac",
+  "awayTeam" : "Pau",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Amicale Villeneuve-Garenne",
+  "awayTeam" : "Le Mans",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Plabennec",
+  "awayTeam" : "LES Herbiers VF",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AM Du Personnel Muncipal Metz",
+  "awayTeam" : "Entente Feignies A.",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "SO Romorantin",
+  "awayTeam" : "Blois Football 41",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Lyon Duchere",
+  "awayTeam" : "Carnoux",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Seyssinet AC",
+  "awayTeam" : "Istres",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "AS Beauvais",
+  "awayTeam" : "Dieppe",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AS Mazeres Uzos Rontignon",
+  "awayTeam" : "Bordeaux",
+  "score" : "3-4"
+}, {
+  "homeTeam" : "Marmande 47",
+  "awayTeam" : "Bassin D'Arcachon",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "St Etienne",
+  "awayTeam" : "US Ecotay Moingt",
+  "score" : "11-1"
+}, {
+  "homeTeam" : "NK Istra 61",
+  "awayTeam" : "NK Slaven",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Farnham Town",
+  "awayTeam" : "Yate Town",
+  "score" : "-"
+}, {
+  "homeTeam" : "Tiverton",
+  "awayTeam" : "Hav Waterloo",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Hungerford",
+  "awayTeam" : "Taunton Town",
+  "score" : "-"
+}, {
+  "homeTeam" : "Boreham Wood",
+  "awayTeam" : "Halifax Town",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Spennymoor",
+  "awayTeam" : "Chester",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Kilmarnock",
+  "awayTeam" : "Dundee Utd",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Atl Madrid U19",
+  "awayTeam" : "Trival U19",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Almeria",
+  "awayTeam" : "Huesca",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Albacete",
+  "awayTeam" : "Dep. La Coruna",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Real Valladolid",
+  "awayTeam" : "Malaga",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Tenerife",
+  "awayTeam" : "Arenteiro",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Pontevedra",
+  "awayTeam" : "CD Guadalajara",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "SD Ponferradina",
+  "awayTeam" : "A.Club De Getxo",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Racing  Ferrol",
+  "awayTeam" : "Merida AD",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Sevilla Atl",
+  "awayTeam" : "Marbella",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "C. Dep. Eldense",
+  "awayTeam" : "Antequera",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Numancia",
+  "awayTeam" : "UP Langreo",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "UD Samano",
+  "awayTeam" : "Rayo Cantabria",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Tudelano",
+  "awayTeam" : "Naxara CD",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Union Irun",
+  "awayTeam" : "Utebo",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Atletic Lleida CE",
+  "awayTeam" : "CD A. Baleares",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Wil 1900",
+  "awayTeam" : "Stade Ouchy",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Zürih",
+  "awayTeam" : "Grasshoppers",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Lugano",
+  "awayTeam" : "Sion",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Luzern",
+  "awayTeam" : "Winterthur",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "US Palermo",
+  "awayTeam" : "Carrarese C. 1908",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Santos Laguna U21",
+  "awayTeam" : "Cruz Azul U21",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Katowice",
+  "awayTeam" : "Pogon Szczecin",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Ruch Chorzow",
+  "awayTeam" : "Puszcza",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Odra Opole",
+  "awayTeam" : "C. Glogow",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Polonia Warszawa",
+  "awayTeam" : "Pogon Siedl.",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "KS Lipno Steszew",
+  "awayTeam" : "Lech Poznan II",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "UD Santarem",
+  "awayTeam" : "Academica",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "D. Bükreş",
+  "awayTeam" : "Otelul Galati",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "US Goree",
+  "awayTeam" : "Generation Foot",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "ASC Jaraaf",
+  "awayTeam" : "Stade de Mbour",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Partizan",
+  "awayTeam" : "Jav. Ivanjica",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "AS Trencin",
+  "awayTeam" : "Dunajska S.",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "AL Ittihad",
+  "awayTeam" : "AL Shabab (Sar)",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Vipers SC",
+  "awayTeam" : "SC Villa",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "İngiltere (K)",
+  "awayTeam" : "Çin (K)",
+  "score" : "8-0"
+}, {
+  "homeTeam" : "Portekiz U19 (K)",
+  "awayTeam" : "İzlanda U19 (K)",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Aris",
+  "awayTeam" : "Larissa",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AE Kifisia",
+  "awayTeam" : "Panseraikos",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Dominica",
+  "awayTeam" : "Jamaika (K)",
+  "score" : "0-18"
 } ]
