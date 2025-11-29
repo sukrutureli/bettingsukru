@@ -2,9 +2,9 @@
   "homeTeam" : "ABD (K)",
   "awayTeam" : "İtalya (K)",
   "picks" : [ "Üst (1.51 - 76.0%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Üst (1.51 - 76.0%)" : "pending"
+    "Üst (1.51 - 76.0%)" : "won"
   }
 }, {
   "homeTeam" : "South Melbourne",

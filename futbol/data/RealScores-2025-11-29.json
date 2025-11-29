@@ -1,0 +1,69 @@
+[ {
+  "homeTeam" : "Juventude",
+  "awayTeam" : "Bahia BA",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Vasco Da G.",
+  "awayTeam" : "Internacional",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "Santos SP",
+  "awayTeam" : "Recife",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Marconi Stal",
+  "awayTeam" : "Moreton City Excelsior",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Academia del Balompie Boliviano",
+  "awayTeam" : "Always Ready",
+  "score" : "0-7"
+}, {
+  "homeTeam" : "Peru (K)",
+  "awayTeam" : "Şili  (K)",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Bolivya (K)",
+  "awayTeam" : "Kolombiya (K)",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Ekvador (K)",
+  "awayTeam" : "Venezuela (K)",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Paraguay (K)",
+  "awayTeam" : "Uruguay (K)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "LDU Quito",
+  "awayTeam" : "Independiente D. V.",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Bavois",
+  "awayTeam" : "Kriens",
+  "score" : "-"
+}, {
+  "homeTeam" : "Bulle",
+  "awayTeam" : "Luzern II",
+  "score" : "-"
+}, {
+  "homeTeam" : "Gor Mahia",
+  "awayTeam" : "AFC Leopards",
+  "score" : "-"
+}, {
+  "homeTeam" : "Cobresal",
+  "awayTeam" : "Colo Colo",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "ABD (K)",
+  "awayTeam" : "İtalya (K)",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Miramar Rangers",
+  "awayTeam" : "Western Suburbs",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Christchurch Utd",
+  "awayTeam" : "Auckland Reserves",
+  "score" : "1-4"
+} ]
