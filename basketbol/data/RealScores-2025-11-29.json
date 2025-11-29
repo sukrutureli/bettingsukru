@@ -1,0 +1,73 @@
+[ {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "Cleveland",
+  "score" : "130-123"
+}, {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Chicago",
+  "score" : "123-116"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Philadelphia",
+  "score" : "103-115"
+}, {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Washington",
+  "score" : "119-86"
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Milwaukee",
+  "score" : "118-109"
+}, {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "Orlando",
+  "score" : "109-112"
+}, {
+  "homeTeam" : "Ole Mississippi Rebels (K)",
+  "awayTeam" : "Wisconsin Bad (K)",
+  "score" : "65-56"
+}, {
+  "homeTeam" : "USC Trojans (K)",
+  "awayTeam" : "Pepperdine Waves",
+  "score" : "82-52"
+}, {
+  "homeTeam" : "Florida Gators (K)",
+  "awayTeam" : "Memphis Tigers (K)",
+  "score" : "74-60"
+}, {
+  "homeTeam" : "Georgia Bulldogs (K)",
+  "awayTeam" : "Kansas Jayhawks",
+  "score" : "68-62"
+}, {
+  "homeTeam" : "LSU Tigers (K)",
+  "awayTeam" : "Marist Red Foxes",
+  "score" : "113-53"
+}, {
+  "homeTeam" : "Horned Frogs",
+  "awayTeam" : "Wisconsin Badgers",
+  "score" : "74-63"
+}, {
+  "homeTeam" : "Pittsburgh Panthers",
+  "awayTeam" : "Ohio State Buckeyes",
+  "score" : "67-66"
+}, {
+  "homeTeam" : "Mississippi State Bulldogs",
+  "awayTeam" : "Southern Methodist Mustangs",
+  "score" : "81-87"
+}, {
+  "homeTeam" : "Georgia Tech Yellow Jackets",
+  "awayTeam" : "DePaul Blue Demons",
+  "score" : "61-75"
+}, {
+  "homeTeam" : "Nikaragua",
+  "awayTeam" : "ABD",
+  "score" : "67-102"
+}, {
+  "homeTeam" : "Jamaika",
+  "awayTeam" : "Porto Riko",
+  "score" : "92-90"
+}, {
+  "homeTeam" : "Bahamalar",
+  "awayTeam" : "Kanada",
+  "score" : "75-111"
+} ]

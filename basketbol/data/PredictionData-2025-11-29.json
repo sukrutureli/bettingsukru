@@ -2,33 +2,33 @@
   "homeTeam" : "Jamaika",
   "awayTeam" : "Porto Riko",
   "picks" : [ "158.5 Alt (1.63 - 74.5%)" ],
-  "score" : "-",
+  "score" : "92-90",
   "statuses" : {
-    "158.5 Alt (1.63 - 74.5%)" : "pending"
+    "158.5 Alt (1.63 - 74.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Atlanta",
   "awayTeam" : "Cleveland",
   "picks" : [ "236.5 Alt (1.65 - 68.8%)" ],
-  "score" : "-",
+  "score" : "130-123",
   "statuses" : {
-    "236.5 Alt (1.65 - 68.8%)" : "pending"
+    "236.5 Alt (1.65 - 68.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Detroit",
   "awayTeam" : "Orlando",
   "picks" : [ "231.5 Üst (1.6 - 70.7%)" ],
-  "score" : "-",
+  "score" : "109-112",
   "statuses" : {
-    "231.5 Üst (1.6 - 70.7%)" : "pending"
+    "231.5 Üst (1.6 - 70.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Nikaragua",
   "awayTeam" : "ABD",
   "picks" : [ "178.5 Alt (1.59 - 83.3%)" ],
-  "score" : "-",
+  "score" : "67-102",
   "statuses" : {
-    "178.5 Alt (1.59 - 83.3%)" : "pending"
+    "178.5 Alt (1.59 - 83.3%)" : "won"
   }
 }, {
   "homeTeam" : "Denver",
