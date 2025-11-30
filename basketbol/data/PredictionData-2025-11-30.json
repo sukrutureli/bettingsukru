@@ -34,113 +34,113 @@
   "homeTeam" : "LA Clippers",
   "awayTeam" : "Dallas",
   "picks" : [ "222.5 Üst (1.64 - 63.0%)" ],
-  "score" : "-",
+  "score" : "110-114",
   "statuses" : {
-    "222.5 Üst (1.64 - 63.0%)" : "pending"
+    "222.5 Üst (1.64 - 63.0%)" : "won"
   }
 }, {
   "homeTeam" : "Kumamoto V.",
   "awayTeam" : "Ehime O. V.",
   "picks" : [ "153.5 Alt (1.65 - 55.0%)" ],
-  "score" : "-",
+  "score" : "86-71",
   "statuses" : {
-    "153.5 Alt (1.65 - 55.0%)" : "pending"
+    "153.5 Alt (1.65 - 55.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Yamagata Wyverns",
   "awayTeam" : "Aomori Watts",
   "picks" : [ "152.5 Alt (1.6 - 68.9%)" ],
-  "score" : "-",
+  "score" : "90-86",
   "statuses" : {
-    "152.5 Alt (1.6 - 68.9%)" : "pending"
+    "152.5 Alt (1.6 - 68.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Iwate Big Bulls",
   "awayTeam" : "Kagoshima Rebnise",
   "picks" : [ "158.5 Üst (1.65 - 72.7%)" ],
-  "score" : "-",
+  "score" : "85-93",
   "statuses" : {
-    "158.5 Üst (1.65 - 72.7%)" : "pending"
+    "158.5 Üst (1.65 - 72.7%)" : "won"
   }
 }, {
   "homeTeam" : "Shinsh Brave",
   "awayTeam" : "Veltex Shizuoka",
   "picks" : [ "149.5 Alt (1.59 - 57.8%)" ],
-  "score" : "-",
+  "score" : "78-46",
   "statuses" : {
-    "149.5 Alt (1.59 - 57.8%)" : "pending"
+    "149.5 Alt (1.59 - 57.8%)" : "won"
   }
 }, {
   "homeTeam" : "Kamerun",
   "awayTeam" : "Güney Sudan",
   "picks" : [ "MS2 (1.3 - 63.9%)" ],
-  "score" : "-",
+  "score" : "60-56",
   "statuses" : {
-    "MS2 (1.3 - 63.9%)" : "pending"
+    "MS2 (1.3 - 63.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Cb Jairis (K)",
   "awayTeam" : "Perf. Avenida (K)",
   "picks" : [ "133.5 Üst (1.63 - 71.8%)" ],
-  "score" : "-",
+  "score" : "65-70",
   "statuses" : {
-    "133.5 Üst (1.63 - 71.8%)" : "pending"
+    "133.5 Üst (1.63 - 71.8%)" : "won"
   }
 }, {
   "homeTeam" : "CB Islas Canarias (K)",
   "awayTeam" : "Univ. de Ferrol (K)",
   "picks" : [ "MS2 (1.32 - 82.7%)" ],
-  "score" : "-",
+  "score" : "93-81",
   "statuses" : {
-    "MS2 (1.32 - 82.7%)" : "pending"
+    "MS2 (1.32 - 82.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Agrigento",
   "awayTeam" : "Aurora Desio",
   "picks" : [ "MS2 (1.59 - 55.1%)" ],
-  "score" : "-",
+  "score" : "98-83",
   "statuses" : {
-    "MS2 (1.59 - 55.1%)" : "pending"
+    "MS2 (1.59 - 55.1%)" : "lost"
   }
 }, {
   "homeTeam" : "UNI Girona CB (K)",
   "awayTeam" : "Porta XI Ensino (K)",
   "picks" : [ "150.5 Üst (1.64 - 60.6%)" ],
-  "score" : "-",
+  "score" : "87-65",
   "statuses" : {
-    "150.5 Üst (1.64 - 60.6%)" : "pending"
+    "150.5 Üst (1.64 - 60.6%)" : "won"
   }
 }, {
   "homeTeam" : "Hindistan",
   "awayTeam" : "Suudi Arabistan",
   "picks" : [ "140.5 Üst (1.61 - 84.4%)" ],
-  "score" : "-",
+  "score" : "57-81",
   "statuses" : {
-    "140.5 Üst (1.61 - 84.4%)" : "pending"
+    "140.5 Üst (1.61 - 84.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Uppsala (K)",
   "awayTeam" : "Lulea Bbk (K)",
   "picks" : [ "146.5 Üst (1.65 - 80.9%)" ],
-  "score" : "-",
+  "score" : "61-69",
   "statuses" : {
-    "146.5 Üst (1.65 - 80.9%)" : "pending"
+    "146.5 Üst (1.65 - 80.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Norrkoping Dolphins (K)",
   "awayTeam" : "Malbas (K)",
   "picks" : [ "150.5 Üst (1.6 - 57.6%)" ],
-  "score" : "-",
+  "score" : "103-100",
   "statuses" : {
-    "150.5 Üst (1.6 - 57.6%)" : "pending"
+    "150.5 Üst (1.6 - 57.6%)" : "won"
   }
 }, {
   "homeTeam" : "Dinamo Sassari (K)",
   "awayTeam" : "Battipaglia (K)",
   "picks" : [ "138.5 Alt (1.61 - 56.6%)" ],
-  "score" : "-",
+  "score" : "86-72",
   "statuses" : {
-    "138.5 Alt (1.61 - 56.6%)" : "pending"
+    "138.5 Alt (1.61 - 56.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Litvanya",
