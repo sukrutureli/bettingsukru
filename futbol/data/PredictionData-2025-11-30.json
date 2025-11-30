@@ -482,40 +482,40 @@
   "homeTeam" : "Puskas A.",
   "awayTeam" : "Ferencvaros",
   "picks" : [ "Var (1.48 - 71.0%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Var (1.48 - 71.0%)" : "pending"
+    "Var (1.48 - 71.0%)" : "won"
   }
 }, {
   "homeTeam" : "Wisla Plock",
   "awayTeam" : "Lech Poznan",
   "picks" : [ "Var (1.44 - 74.1%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Var (1.44 - 74.1%)" : "pending"
+    "Var (1.44 - 74.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Atl Madrid B",
   "awayTeam" : "CD Teruel",
   "picks" : [ "Alt (1.39 - 58.6%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.39 - 58.6%)" : "pending"
+    "Alt (1.39 - 58.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Nacional",
   "awayTeam" : "Penarol",
   "picks" : [ "Alt (1.47 - 74.2%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.47 - 74.2%)" : "pending"
+    "Alt (1.47 - 74.2%)" : "won"
   }
 }, {
   "homeTeam" : "Castellon",
   "awayTeam" : "Las Palmas",
   "picks" : [ "Var (1.54 - 64.5%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.54 - 64.5%)" : "pending"
+    "Var (1.54 - 64.5%)" : "lost"
   }
 } ]

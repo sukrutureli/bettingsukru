@@ -1786,4 +1786,136 @@
   "homeTeam" : "APO Levadeiakos",
   "awayTeam" : "PAOK",
   "score" : "2-3"
+}, {
+  "homeTeam" : "Freiburg",
+  "awayTeam" : "Mainz",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Celta Vigo",
+  "awayTeam" : "Espanyol",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Girona",
+  "awayTeam" : "Real Madrid",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AS Roma",
+  "awayTeam" : "Napoli",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Lyon",
+  "awayTeam" : "Nantes",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Anderlecht",
+  "awayTeam" : "U. S. Gilloise",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "KAA Gent",
+  "awayTeam" : "St. Truidense",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Sporting CP",
+  "awayTeam" : "Estrela",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Porto",
+  "awayTeam" : "Estoril Praia",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Corinthians",
+  "awayTeam" : "Botafogo RJ",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Stuttgart II",
+  "awayTeam" : "TSV Havelse",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Atl. Club d'Escaldes",
+  "awayTeam" : "Ordino",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Dep. Madryn",
+  "awayTeam" : "E.Río Cuarto",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "O. Petrolero",
+  "awayTeam" : "Blooming",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Sparta Prag",
+  "awayTeam" : "FK Pardubice",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "SD Aucas",
+  "awayTeam" : "CD Cuenca",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "CSD Macara",
+  "awayTeam" : "El Nacional",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Cordoba",
+  "awayTeam" : "Cadiz",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Mirandes",
+  "awayTeam" : "R. Sociedad B",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Castellon",
+  "awayTeam" : "Las Palmas",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Atl Madrid B",
+  "awayTeam" : "CD Teruel",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Real Aviles",
+  "awayTeam" : "Celta Vigo B",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Potenza C.",
+  "awayTeam" : "Casarano",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Latina C.",
+  "awayTeam" : "Audace Cerignola",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Puskas A.",
+  "awayTeam" : "Ferencvaros",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Wisla Plock",
+  "awayTeam" : "Lech Poznan",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Wisla Krakow",
+  "awayTeam" : "Stal Mielec",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "P. Bielsko",
+  "awayTeam" : "S. Stalowa",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Caldas",
+  "awayTeam" : "Amora",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Farul Cons.",
+  "awayTeam" : "FCSB",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "OFK Belgrad",
+  "awayTeam" : "Kızıl Yıldız",
+  "score" : "3-4"
+}, {
+  "homeTeam" : "Nacional",
+  "awayTeam" : "Penarol",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Panathinaikos",
+  "awayTeam" : "Aek",
+  "score" : "2-3"
 } ]
