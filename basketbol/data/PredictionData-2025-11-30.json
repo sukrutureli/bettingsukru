@@ -146,49 +146,49 @@
   "homeTeam" : "Litvanya",
   "awayTeam" : "İtalya",
   "picks" : [ "158.5 Üst (1.62 - 57.4%)" ],
-  "score" : "-",
+  "score" : "81-82",
   "statuses" : {
-    "158.5 Üst (1.62 - 57.4%)" : "pending"
+    "158.5 Üst (1.62 - 57.4%)" : "won"
   }
 }, {
   "homeTeam" : "İzlanda",
   "awayTeam" : "Büyük Britanya",
   "picks" : [ "161.5 Üst (1.62 - 57.8%)" ],
-  "score" : "-",
+  "score" : "84-90",
   "statuses" : {
-    "161.5 Üst (1.62 - 57.8%)" : "pending"
+    "161.5 Üst (1.62 - 57.8%)" : "won"
   }
 }, {
   "homeTeam" : "Roseto Shark",
   "awayTeam" : "Forli",
   "picks" : [ "160.5 Alt (1.62 - 59.4%)" ],
-  "score" : "-",
+  "score" : "88-82",
   "statuses" : {
-    "160.5 Alt (1.62 - 59.4%)" : "pending"
+    "160.5 Alt (1.62 - 59.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Ravenna Pie",
   "awayTeam" : "Aurora Jesi",
   "picks" : [ "151.5 Üst (1.67 - 60.4%)" ],
-  "score" : "-",
+  "score" : "97-62",
   "statuses" : {
-    "151.5 Üst (1.67 - 60.4%)" : "pending"
+    "151.5 Üst (1.67 - 60.4%)" : "won"
   }
 }, {
   "homeTeam" : "Bakery Basket Piacenza",
   "awayTeam" : "Virtus Lumezzane",
   "picks" : [ "MS2 (1.43 - 67.6%)" ],
-  "score" : "-",
+  "score" : "82-79",
   "statuses" : {
-    "MS2 (1.43 - 67.6%)" : "pending"
+    "MS2 (1.43 - 67.6%)" : "lost"
   }
 }, {
   "homeTeam" : "San Severo",
   "awayTeam" : "Juvecaserta 2021",
   "picks" : [ "156.5 Alt (1.59 - 63.3%)" ],
-  "score" : "-",
+  "score" : "75-83",
   "statuses" : {
-    "156.5 Alt (1.59 - 63.3%)" : "pending"
+    "156.5 Alt (1.59 - 63.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Lübnan",
