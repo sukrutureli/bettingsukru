@@ -2,33 +2,33 @@
   "homeTeam" : "Indiana",
   "awayTeam" : "Chicago",
   "picks" : [ "242.5 Alt (1.63 - 59.8%)" ],
-  "score" : "-",
+  "score" : "103-101",
   "statuses" : {
-    "242.5 Alt (1.63 - 59.8%)" : "pending"
+    "242.5 Alt (1.63 - 59.8%)" : "won"
   }
 }, {
   "homeTeam" : "Miami",
   "awayTeam" : "Detroit",
   "picks" : [ "239.5 Alt (1.65 - 69.4%)" ],
-  "score" : "-",
+  "score" : "135-138",
   "statuses" : {
-    "239.5 Alt (1.65 - 69.4%)" : "pending"
+    "239.5 Alt (1.65 - 69.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Golden State",
   "awayTeam" : "New Orleans",
   "picks" : [ "226.5 Üst (1.66 - 74.5%)" ],
-  "score" : "-",
+  "score" : "104-96",
   "statuses" : {
-    "226.5 Üst (1.66 - 74.5%)" : "pending"
+    "226.5 Üst (1.66 - 74.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Phoenix",
   "awayTeam" : "Denver",
   "picks" : [ "230.5 Üst (1.63 - 67.7%)" ],
-  "score" : "-",
+  "score" : "112-130",
   "statuses" : {
-    "230.5 Üst (1.63 - 67.7%)" : "pending"
+    "230.5 Üst (1.63 - 67.7%)" : "won"
   }
 }, {
   "homeTeam" : "LA Clippers",
