@@ -2,25 +2,25 @@
   "homeTeam" : "Alianza",
   "awayTeam" : "Municipal L.",
   "picks" : [ "Alt (1.41 - 70.3%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.41 - 70.3%)" : "pending"
+    "Alt (1.41 - 70.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Irapuato",
   "awayTeam" : "Tampico Madero",
   "picks" : [ "Alt (1.42 - 68.1%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.42 - 68.1%)" : "pending"
+    "Alt (1.42 - 68.1%)" : "won"
   }
 }, {
   "homeTeam" : "Western Springs AFC",
   "awayTeam" : "Auckland City",
   "picks" : [ "Var (1.33 - 72.5%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Var (1.33 - 72.5%)" : "pending"
+    "Var (1.33 - 72.5%)" : "won"
   }
 }, {
   "homeTeam" : "Daegu",
