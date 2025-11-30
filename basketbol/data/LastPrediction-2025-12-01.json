@@ -1,0 +1,51 @@
+[ {
+  "name" : "Philadelphia - Atlanta",
+  "time" : "02:00",
+  "predictions" : [ "231.5 Üst (1.65 - 57.6%)" ],
+  "score" : "117-117"
+}, {
+  "name" : "New York - Toronto",
+  "time" : "02:00",
+  "predictions" : [ "229.5 Alt (1.63 - 56.5%)" ],
+  "score" : "115-113"
+}, {
+  "name" : "Minnesota - San Antonio",
+  "time" : "03:00",
+  "predictions" : [ "234.5 Alt (1.61 - 61.4%)" ],
+  "score" : "116-115"
+}, {
+  "name" : "Sacramento - Memphis",
+  "time" : "05:00",
+  "predictions" : [ "MS2 (1.44 - 70.3%)" ],
+  "score" : "111-116"
+}, {
+  "name" : "Yeni Zelanda - Avustralya",
+  "time" : "09:00",
+  "predictions" : [ "MS2 (1.52 - 63.3%)" ],
+  "score" : "86-88"
+}, {
+  "name" : "Filipinler - Guam",
+  "time" : "14:30",
+  "predictions" : [ "160.5 Alt (1.62 - 67.7%)" ],
+  "score" : "84-71"
+}, {
+  "name" : "Imortal BC - Galitos Barreiro",
+  "time" : "19:00",
+  "predictions" : [ "166.5 Üst (1.6 - 77.0%)" ],
+  "score" : "92-85"
+}, {
+  "name" : "Finlandiya - Fransa",
+  "time" : "19:30",
+  "predictions" : [ "MS2 (1.35 - 62.2%)" ],
+  "score" : "84-87"
+}, {
+  "name" : "Estonya - Çekya",
+  "time" : "21:00",
+  "predictions" : [ "159.5 Alt (1.65 - 62.0%)" ],
+  "score" : "81-75"
+}, {
+  "name" : "Belçika - Macaristan",
+  "time" : "22:30",
+  "predictions" : [ "148.5 Üst (1.64 - 64.4%)" ],
+  "score" : "76-79"
+} ]

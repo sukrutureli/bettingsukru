@@ -1,0 +1,81 @@
+[ {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Atlanta",
+  "picks" : [ "231.5 Üst (1.65 - 57.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "231.5 Üst (1.65 - 57.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Toronto",
+  "picks" : [ "229.5 Alt (1.63 - 56.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "229.5 Alt (1.63 - 56.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "San Antonio",
+  "picks" : [ "234.5 Alt (1.61 - 61.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "234.5 Alt (1.61 - 61.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Memphis",
+  "picks" : [ "MS2 (1.44 - 70.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.44 - 70.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Yeni Zelanda",
+  "awayTeam" : "Avustralya",
+  "picks" : [ "MS2 (1.52 - 63.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.52 - 63.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Filipinler",
+  "awayTeam" : "Guam",
+  "picks" : [ "160.5 Alt (1.62 - 67.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "160.5 Alt (1.62 - 67.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Imortal BC",
+  "awayTeam" : "Galitos Barreiro",
+  "picks" : [ "166.5 Üst (1.6 - 77.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Üst (1.6 - 77.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Finlandiya",
+  "awayTeam" : "Fransa",
+  "picks" : [ "MS2 (1.35 - 62.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.35 - 62.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Estonya",
+  "awayTeam" : "Çekya",
+  "picks" : [ "159.5 Alt (1.65 - 62.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "159.5 Alt (1.65 - 62.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Belçika",
+  "awayTeam" : "Macaristan",
+  "picks" : [ "148.5 Üst (1.64 - 64.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "148.5 Üst (1.64 - 64.4%)" : "pending"
+  }
+} ]
