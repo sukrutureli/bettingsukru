@@ -1,0 +1,97 @@
+[ {
+  "homeTeam" : "ABD (K)",
+  "awayTeam" : "İtalya (K)",
+  "picks" : [ "Üst (1.42 - 76.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.42 - 76.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Racing Club",
+  "awayTeam" : "CA Tigre",
+  "picks" : [ "Alt (1.4 - 77.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 77.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UD Leiria U23",
+  "awayTeam" : "Santa Clara U23",
+  "picks" : [ "Alt (1.42 - 64.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.42 - 64.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Negelle Arsi",
+  "awayTeam" : "Sheger Ketema",
+  "picks" : [ "Alt (1.33 - 84.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 84.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lechia Gdansk",
+  "awayTeam" : "Gornik Zabrze",
+  "picks" : [ "Var (1.48 - 74.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.48 - 74.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "M'gladbach",
+  "awayTeam" : "St. Pauli",
+  "picks" : [ "MS1 (1.61 - 78.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.61 - 78.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Leyton Orient",
+  "awayTeam" : "Plymouth",
+  "picks" : [ "MS1 (1.65 - 70.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.65 - 70.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tranmere",
+  "awayTeam" : "Fleetwood",
+  "picks" : [ "Var (1.33 - 80.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.33 - 80.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "FCV Dender EH",
+  "awayTeam" : "Standard Liege",
+  "picks" : [ "Var (1.55 - 57.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.55 - 57.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Poole Town",
+  "awayTeam" : "Walton & Hersham",
+  "picks" : [ "MS2 (1.84 - 64.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.84 - 64.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Morpeth Town",
+  "awayTeam" : "G'borough Tr.",
+  "picks" : [ "Var (1.54 - 64.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.54 - 64.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Radcliffe",
+  "awayTeam" : "Chester",
+  "picks" : [ "Var (1.4 - 60.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 60.2%)" : "pending"
+  }
+} ]
