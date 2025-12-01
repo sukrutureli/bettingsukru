@@ -18,32 +18,32 @@
   "homeTeam" : "Motor Lublin",
   "awayTeam" : "L. Varşova",
   "picks" : [ "Var (1.42 - 67.3%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.42 - 67.3%)" : "pending"
+    "Var (1.42 - 67.3%)" : "won"
   }
 }, {
   "homeTeam" : "SC Braga B",
   "awayTeam" : "CD Trofense",
   "picks" : [ "Alt (1.36 - 63.5%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.36 - 63.5%)" : "pending"
+    "Alt (1.36 - 63.5%)" : "won"
   }
 }, {
   "homeTeam" : "Vis Pesaro",
   "awayTeam" : "Ascoli",
   "picks" : [ "Alt (1.33 - 61.4%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.33 - 61.4%)" : "pending"
+    "Alt (1.33 - 61.4%)" : "won"
   }
 }, {
   "homeTeam" : "Benevento",
   "awayTeam" : "Salernitana",
   "picks" : [ "Alt (1.46 - 70.3%)" ],
-  "score" : "-",
+  "score" : "5-1",
   "statuses" : {
-    "Alt (1.46 - 70.3%)" : "pending"
+    "Alt (1.46 - 70.3%)" : "lost"
   }
 } ]

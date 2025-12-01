@@ -266,4 +266,88 @@
   "homeTeam" : "Shakhtar D.",
   "awayTeam" : "Kryvbas K. R.",
   "score" : "2-2"
+}, {
+  "homeTeam" : "Vallecano",
+  "awayTeam" : "Valencia",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Bologna",
+  "awayTeam" : "Cremonese",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Arouca",
+  "awayTeam" : "Braga",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Barracas",
+  "awayTeam" : "Gimnasia",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Brondby",
+  "awayTeam" : "Fredericia",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Jong PSV",
+  "awayTeam" : "Waalwijk",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Jong Ajax",
+  "awayTeam" : "Vitesse",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Birmingham",
+  "awayTeam" : "Watford",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Bournemouth U21",
+  "awayTeam" : "Reading U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "Birmingham City U21",
+  "awayTeam" : "Hull City U21",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Ipswich Town U21",
+  "awayTeam" : "Leicester City U21",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Sunderland U21",
+  "awayTeam" : "Bromley U21",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Cittadella",
+  "awayTeam" : "Union Brescia",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Vis Pesaro",
+  "awayTeam" : "Ascoli",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Benevento",
+  "awayTeam" : "Salernitana",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "Cliftonville Gençler",
+  "awayTeam" : "Ballymena Utd Gençler",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Talaea Gaish",
+  "awayTeam" : "El Sekka El Hadid",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Motor Lublin",
+  "awayTeam" : "L. Varşova",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Vizela",
+  "awayTeam" : "CD Feirense",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "SC Braga B",
+  "awayTeam" : "CD Trofense",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Belçika (K)",
+  "awayTeam" : "Finlandiya (K)",
+  "score" : "1-1"
 } ]
