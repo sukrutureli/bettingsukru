@@ -82,4 +82,20 @@
   "homeTeam" : "Bucheon Hana (K)",
   "awayTeam" : "Busan BNK Sum (K)",
   "score" : "60-49"
+}, {
+  "homeTeam" : "Kıbrıs Rum Kesimi",
+  "awayTeam" : "Almanya",
+  "score" : "64-83"
+}, {
+  "homeTeam" : "Finlandiya",
+  "awayTeam" : "Fransa",
+  "score" : "83-76"
+}, {
+  "homeTeam" : "Imortal BC",
+  "awayTeam" : "Galitos Barreiro",
+  "score" : "88-69"
+}, {
+  "homeTeam" : "Mersin Basketbol (K)",
+  "awayTeam" : "İstanbul Gençlik Spor (K)",
+  "score" : "79-67"
 } ]
