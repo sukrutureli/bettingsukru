@@ -66,16 +66,16 @@
   "homeTeam" : "Estonya",
   "awayTeam" : "Çekya",
   "picks" : [ "159.5 Alt (1.65 - 62.0%)" ],
-  "score" : "-",
+  "score" : "92-97",
   "statuses" : {
-    "159.5 Alt (1.65 - 62.0%)" : "pending"
+    "159.5 Alt (1.65 - 62.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Belçika",
   "awayTeam" : "Macaristan",
   "picks" : [ "148.5 Üst (1.64 - 64.4%)" ],
-  "score" : "-",
+  "score" : "85-87",
   "statuses" : {
-    "148.5 Üst (1.64 - 64.4%)" : "pending"
+    "148.5 Üst (1.64 - 64.4%)" : "won"
   }
 } ]

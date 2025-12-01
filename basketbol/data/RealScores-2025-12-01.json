@@ -98,4 +98,32 @@
   "homeTeam" : "Mersin Basketbol (K)",
   "awayTeam" : "İstanbul Gençlik Spor (K)",
   "score" : "79-67"
+}, {
+  "homeTeam" : "Alabama Crimson (K)",
+  "awayTeam" : "Kennesaw State Owls",
+  "score" : "79-65"
+}, {
+  "homeTeam" : "Hollanda",
+  "awayTeam" : "Polonya",
+  "score" : "83-85"
+}, {
+  "homeTeam" : "Avusturya",
+  "awayTeam" : "Letonya",
+  "score" : "68-86"
+}, {
+  "homeTeam" : "Belçika",
+  "awayTeam" : "Macaristan",
+  "score" : "85-87"
+}, {
+  "homeTeam" : "İsveç",
+  "awayTeam" : "Slovenya",
+  "score" : "83-94"
+}, {
+  "homeTeam" : "Estonya",
+  "awayTeam" : "Çekya",
+  "score" : "92-97"
+}, {
+  "homeTeam" : "Resovia Rzeszow",
+  "awayTeam" : "AZS Politechnika Opolska",
+  "score" : "73-71"
 } ]
