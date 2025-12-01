@@ -1,0 +1,1014 @@
+[ {
+  "teamName" : "Arjantin - Küba",
+  "teamEv" : "Arjantin",
+  "teamDep" : "Küba",
+  "detailUrl" : "https://istatistik.nesine.com/2558081",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 17.15,
+    "h1Value" : 0.0,
+    "h2Value" : 33.5,
+    "h1" : 1.59,
+    "h2" : 1.69,
+    "hOverUnderValue" : 157.5,
+    "over" : 1.67,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Küba",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 68,
+    "awayScore" : 80,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Küba",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 66,
+    "awayScore" : 109,
+    "matchDate" : "23/24",
+    "tournament" : "OLI",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Küba",
+    "homeScore" : 96,
+    "awayScore" : 64,
+    "matchDate" : "2015",
+    "tournament" : "AME",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Küba",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 68,
+    "awayScore" : 80,
+    "matchDate" : "28 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 47,
+    "awayScore" : 55,
+    "matchDate" : "1 Eyl",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 73,
+    "awayScore" : 83,
+    "matchDate" : "31 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Porto Riko",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 70,
+    "awayScore" : 70,
+    "matchDate" : "29 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 84,
+    "awayScore" : 83,
+    "matchDate" : "26 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Dominik Cum.",
+    "homeScore" : 75,
+    "awayScore" : 75,
+    "matchDate" : "24 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Küba",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 68,
+    "awayScore" : 80,
+    "matchDate" : "28 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Şili",
+    "awayTeam" : "Küba",
+    "homeScore" : 78,
+    "awayScore" : 74,
+    "matchDate" : "11 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Ekvador",
+    "awayTeam" : "Küba",
+    "homeScore" : 69,
+    "awayScore" : 79,
+    "matchDate" : "10 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Küba",
+    "awayTeam" : "El Salvador",
+    "homeScore" : 83,
+    "awayScore" : 63,
+    "matchDate" : "9 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bahama",
+    "awayTeam" : "Küba",
+    "homeScore" : 97,
+    "awayScore" : 74,
+    "matchDate" : "21 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Küba",
+    "awayTeam" : "Porto Riko",
+    "homeScore" : 73,
+    "awayScore" : 81,
+    "matchDate" : "26 Kas",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 15,
+  "ms1" : 0.625,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.21666666666666667,
+  "alt" : 0.7833333333333333,
+  "ms2" : 0.22499999999999998,
+  "max" : "Alt"
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/2481588",
+  "odds" : {
+    "ms1" : 3.76,
+    "ms2" : 0.0,
+    "h1Value" : 10.5,
+    "h2Value" : 0.0,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 231.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/2481710",
+  "odds" : {
+    "ms1" : 2.18,
+    "ms2" : 1.31,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 231.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/2481781",
+  "odds" : {
+    "ms1" : 1.06,
+    "ms2" : 3.56,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 232.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "Porto Riko - Jamaika",
+  "teamEv" : "Porto Riko",
+  "teamDep" : "Jamaika",
+  "detailUrl" : "https://istatistik.nesine.com/2558075",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.07,
+    "h1Value" : 0.0,
+    "h2Value" : 10.5,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 172.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Jamaika",
+    "awayTeam" : "Porto Riko",
+    "homeScore" : 92,
+    "awayScore" : 90,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Jamaika",
+    "awayTeam" : "Porto Riko",
+    "homeScore" : 92,
+    "awayScore" : 90,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Porto Riko",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 70,
+    "awayScore" : 70,
+    "matchDate" : "29 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "Porto Riko",
+    "homeScore" : 82,
+    "awayScore" : 73,
+    "matchDate" : "26 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Porto Riko",
+    "awayTeam" : "Venezuela",
+    "homeScore" : 97,
+    "awayScore" : 70,
+    "matchDate" : "24 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panama",
+    "awayTeam" : "Porto Riko",
+    "homeScore" : 59,
+    "awayScore" : 93,
+    "matchDate" : "22 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Porto Riko",
+    "awayTeam" : "ABD",
+    "homeScore" : 71,
+    "awayScore" : 72,
+    "matchDate" : "21 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Jamaika",
+    "awayTeam" : "Porto Riko",
+    "homeScore" : 92,
+    "awayScore" : 90,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jamaika",
+    "awayTeam" : "Meksika",
+    "homeScore" : 61,
+    "awayScore" : 90,
+    "matchDate" : "11 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kosta Rika",
+    "awayTeam" : "Jamaika",
+    "homeScore" : 71,
+    "awayScore" : 71,
+    "matchDate" : "10 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Barbados",
+    "awayTeam" : "Jamaika",
+    "homeScore" : 79,
+    "awayScore" : 101,
+    "matchDate" : "9 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Panama",
+    "awayTeam" : "Jamaika",
+    "homeScore" : 62,
+    "awayScore" : 55,
+    "matchDate" : "5 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jamaika",
+    "awayTeam" : "Dominik Cum.",
+    "homeScore" : 68,
+    "awayScore" : 73,
+    "matchDate" : "5 Ağu",
+    "tournament" : "FIB",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "ms1" : 0.41666666666666663,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.25,
+  "alt" : 0.75,
+  "ms2" : 0.41666666666666663,
+  "max" : "Alt"
+}, {
+  "teamName" : "Dominik Cum. - Meksika",
+  "teamEv" : "Dominik Cum.",
+  "teamDep" : "Meksika",
+  "detailUrl" : "https://istatistik.nesine.com/2558076",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.66,
+    "h1Value" : 0.0,
+    "h2Value" : 10.5,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 163.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Dominik Cum.",
+    "homeScore" : 85,
+    "awayScore" : 92,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Dominik Cum.",
+    "homeScore" : 66,
+    "awayScore" : 66,
+    "matchDate" : "23-25",
+    "tournament" : "AME",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Meksika",
+    "homeScore" : 84,
+    "awayScore" : 70,
+    "matchDate" : "23-25",
+    "tournament" : "AME",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Meksika",
+    "homeScore" : 89,
+    "awayScore" : 72,
+    "matchDate" : "2023",
+    "tournament" : "CEN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Dominik Cum.",
+    "homeScore" : 55,
+    "awayScore" : 55,
+    "matchDate" : "2019",
+    "tournament" : "PAN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Meksika",
+    "homeScore" : 69,
+    "awayScore" : 72,
+    "matchDate" : "2018",
+    "tournament" : "CEN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Dominik Cum.",
+    "homeScore" : 85,
+    "awayScore" : 92,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 82,
+    "awayScore" : 94,
+    "matchDate" : "28 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Nikaragua",
+    "homeScore" : 74,
+    "awayScore" : 70,
+    "matchDate" : "26 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Arjantin",
+    "awayTeam" : "Dominik Cum.",
+    "homeScore" : 75,
+    "awayScore" : 75,
+    "matchDate" : "24 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 84,
+    "awayScore" : 59,
+    "matchDate" : "23 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Nikaragua",
+    "homeScore" : 84,
+    "awayScore" : 67,
+    "matchDate" : "25 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Dominik Cum.",
+    "homeScore" : 85,
+    "awayScore" : 92,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Jamaika",
+    "awayTeam" : "Meksika",
+    "homeScore" : 61,
+    "awayScore" : 90,
+    "matchDate" : "11 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Barbados",
+    "homeScore" : 113,
+    "awayScore" : 78,
+    "matchDate" : "10 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Kosta Rika",
+    "homeScore" : 77,
+    "awayScore" : 66,
+    "matchDate" : "9 Ağu",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Kanada",
+    "homeScore" : 98,
+    "awayScore" : 94,
+    "matchDate" : "25 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Nikaragua",
+    "homeScore" : 107,
+    "awayScore" : 57,
+    "matchDate" : "22 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 18,
+  "ms1" : 0.425,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.4666666666666667,
+  "alt" : 0.5333333333333333,
+  "ms2" : 0.4666666666666667,
+  "max" : "Alt"
+}, {
+  "teamName" : "ABD - Nikaragua",
+  "teamEv" : "ABD",
+  "teamDep" : "Nikaragua",
+  "detailUrl" : "https://istatistik.nesine.com/2558080",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 17.15,
+    "h1Value" : 0.0,
+    "h2Value" : 43.5,
+    "h1" : 1.67,
+    "h2" : 1.59,
+    "hOverUnderValue" : 177.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Nikaragua",
+    "awayTeam" : "ABD",
+    "homeScore" : 67,
+    "awayScore" : 102,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Nikaragua",
+    "awayTeam" : "ABD",
+    "homeScore" : 67,
+    "awayScore" : 102,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "ABD",
+    "homeScore" : 85,
+    "awayScore" : 90,
+    "matchDate" : "31 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Brezilya",
+    "awayTeam" : "ABD",
+    "homeScore" : 92,
+    "awayScore" : 77,
+    "matchDate" : "30 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "ABD",
+    "awayTeam" : "Uruguay",
+    "homeScore" : 83,
+    "awayScore" : 70,
+    "matchDate" : "29 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "ABD",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 90,
+    "awayScore" : 78,
+    "matchDate" : "27 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Uruguay",
+    "awayTeam" : "ABD",
+    "homeScore" : 86,
+    "awayScore" : 85,
+    "matchDate" : "25 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Nikaragua",
+    "awayTeam" : "ABD",
+    "homeScore" : 67,
+    "awayScore" : 102,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Nikaragua",
+    "homeScore" : 74,
+    "awayScore" : 70,
+    "matchDate" : "26 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kolombiya",
+    "awayTeam" : "Nikaragua",
+    "homeScore" : 89,
+    "awayScore" : 86,
+    "matchDate" : "25 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Nikaragua",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 70,
+    "awayScore" : 94,
+    "matchDate" : "23 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Dominik Cum.",
+    "awayTeam" : "Nikaragua",
+    "homeScore" : 84,
+    "awayScore" : 67,
+    "matchDate" : "25 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Meksika",
+    "awayTeam" : "Nikaragua",
+    "homeScore" : 107,
+    "awayScore" : 57,
+    "matchDate" : "22 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 13,
+  "ms1" : 0.8333333333333333,
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : true,
+  "ust" : 0.0,
+  "alt" : 1.0,
+  "ms2" : 0.16666666666666666,
+  "max" : "Alt"
+}, {
+  "teamName" : "Kanada - Bahama",
+  "teamEv" : "Kanada",
+  "teamDep" : "Bahama",
+  "detailUrl" : "https://istatistik.nesine.com/2558085",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 17.0,
+    "h1Value" : 0.0,
+    "h2Value" : 30.5,
+    "h1" : 1.63,
+    "h2" : 1.63,
+    "hOverUnderValue" : 176.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ {
+    "homeTeam" : "Bahama",
+    "awayTeam" : "Kanada",
+    "homeScore" : 75,
+    "awayScore" : 111,
+    "matchDate" : "24-26",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Bahama",
+    "awayTeam" : "Kanada",
+    "homeScore" : 77,
+    "awayScore" : 113,
+    "matchDate" : "21-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "Bahama",
+    "homeScore" : 115,
+    "awayScore" : 73,
+    "matchDate" : "21-23",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Bahama",
+    "awayTeam" : "Kanada",
+    "homeScore" : 67,
+    "awayScore" : 113,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "Bahama",
+    "homeScore" : 93,
+    "awayScore" : 69,
+    "matchDate" : "17-19",
+    "tournament" : "DÜN",
+    "matchType" : "rekabet-gecmisi"
+  } ],
+  "sonMaclarHome" : [ {
+    "homeTeam" : "Bahama",
+    "awayTeam" : "Kanada",
+    "homeScore" : 75,
+    "awayScore" : 111,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "ABD",
+    "homeScore" : 85,
+    "awayScore" : 90,
+    "matchDate" : "31 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "Arjantin",
+    "homeScore" : 73,
+    "awayScore" : 83,
+    "matchDate" : "31 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "Kolombiya",
+    "homeScore" : 94,
+    "awayScore" : 56,
+    "matchDate" : "29 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "Porto Riko",
+    "homeScore" : 82,
+    "awayScore" : 73,
+    "matchDate" : "26 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Kanada",
+    "awayTeam" : "Panama",
+    "homeScore" : 99,
+    "awayScore" : 49,
+    "matchDate" : "24 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "sonMaclarAway" : [ {
+    "homeTeam" : "Bahama",
+    "awayTeam" : "Kanada",
+    "homeScore" : 75,
+    "awayScore" : 111,
+    "matchDate" : "29 Kas",
+    "tournament" : "DÜN",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Uruguay",
+    "awayTeam" : "Bahama",
+    "homeScore" : 100,
+    "awayScore" : 91,
+    "matchDate" : "27 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bahama",
+    "awayTeam" : "Brezilya",
+    "homeScore" : 66,
+    "awayScore" : 84,
+    "matchDate" : "25 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "ABD",
+    "awayTeam" : "Bahama",
+    "homeScore" : 84,
+    "awayScore" : 84,
+    "matchDate" : "24 Ağu",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bahama",
+    "awayTeam" : "ABD",
+    "homeScore" : 83,
+    "awayScore" : 105,
+    "matchDate" : "24 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  }, {
+    "homeTeam" : "Bahama",
+    "awayTeam" : "Küba",
+    "homeScore" : 97,
+    "awayScore" : 74,
+    "matchDate" : "21 Şub",
+    "tournament" : "AME",
+    "matchType" : "son-maclari"
+  } ],
+  "totalMatches" : 17,
+  "ms1" : 0.7,
+  "infoEnough" : true,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : 0.38,
+  "alt" : 0.62,
+  "ms2" : 0.22499999999999998,
+  "max" : "MS1"
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/2481641",
+  "odds" : {
+    "ms1" : 2.17,
+    "ms2" : 1.31,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 227.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/2481737",
+  "odds" : {
+    "ms1" : 1.18,
+    "ms2" : 2.62,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.65,
+    "h2" : 1.61,
+    "hOverUnderValue" : 236.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/2481775",
+  "odds" : {
+    "ms1" : 1.08,
+    "ms2" : 3.34,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.69,
+    "h2" : 1.58,
+    "hOverUnderValue" : 239.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/2481692",
+  "odds" : {
+    "ms1" : 4.69,
+    "ms2" : 0.0,
+    "h1Value" : 12.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 234.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/2481719",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.22,
+    "h1Value" : 0.0,
+    "h2Value" : 11.5,
+    "h1" : 1.65,
+    "h2" : 1.61,
+    "hOverUnderValue" : 235.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "- - -",
+  "teamEv" : "-",
+  "teamDep" : "-",
+  "detailUrl" : "https://istatistik.nesine.com/2481624",
+  "odds" : {
+    "ms1" : 1.29,
+    "ms2" : 2.23,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 234.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+}, {
+  "teamName" : "BC Prievidza - BC Komarno",
+  "teamEv" : "BC Prievidza",
+  "teamDep" : "BC Komarno",
+  "detailUrl" : "https://istatistik.nesine.com/2563593",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.43,
+    "h1Value" : 0.0,
+    "h2Value" : 12.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.67,
+    "under" : 1.59
+  },
+  "rekabetGecmisi" : [ ],
+  "sonMaclarHome" : [ ],
+  "sonMaclarAway" : [ ],
+  "totalMatches" : 0,
+  "ms1" : "NaN",
+  "infoEnough" : false,
+  "infoEnoughWithoutRekabet" : false,
+  "ust" : "NaN",
+  "alt" : "NaN",
+  "ms2" : "NaN",
+  "max" : ""
+} ]

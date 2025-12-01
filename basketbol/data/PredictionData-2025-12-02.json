@@ -1,0 +1,25 @@
+[ {
+  "homeTeam" : "Arjantin",
+  "awayTeam" : "Küba",
+  "picks" : [ "157.5 Alt (1.59 - 69.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "157.5 Alt (1.59 - 69.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Porto Riko",
+  "awayTeam" : "Jamaika",
+  "picks" : [ "172.5 Alt (1.66 - 85.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "172.5 Alt (1.66 - 85.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "ABD",
+  "awayTeam" : "Nikaragua",
+  "picks" : [ "177.5 Alt (1.63 - 79.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "177.5 Alt (1.63 - 79.1%)" : "pending"
+  }
+} ]
