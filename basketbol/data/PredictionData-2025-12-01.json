@@ -34,17 +34,17 @@
   "homeTeam" : "Yeni Zelanda",
   "awayTeam" : "Avustralya",
   "picks" : [ "MS2 (1.52 - 63.3%)" ],
-  "score" : "-",
+  "score" : "77-79",
   "statuses" : {
-    "MS2 (1.52 - 63.3%)" : "pending"
+    "MS2 (1.52 - 63.3%)" : "won"
   }
 }, {
   "homeTeam" : "Filipinler",
   "awayTeam" : "Guam",
   "picks" : [ "160.5 Alt (1.62 - 67.7%)" ],
-  "score" : "-",
+  "score" : "95-71",
   "statuses" : {
-    "160.5 Alt (1.62 - 67.7%)" : "pending"
+    "160.5 Alt (1.62 - 67.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Imortal BC",

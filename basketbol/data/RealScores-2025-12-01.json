@@ -50,4 +50,36 @@
   "homeTeam" : "Uruguay",
   "awayTeam" : "Panama",
   "score" : "84-82"
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "New Orleans",
+  "score" : "133-121"
+}, {
+  "homeTeam" : "Sichuan B. W. (K)",
+  "awayTeam" : "Shaanxi Tianze (K)",
+  "score" : "112-65"
+}, {
+  "homeTeam" : "Zhejiang Golden B. (K)",
+  "awayTeam" : "S. Baoshan Dahua (K)",
+  "score" : "71-101"
+}, {
+  "homeTeam" : "Yeni Zelanda",
+  "awayTeam" : "Avustralya",
+  "score" : "77-79"
+}, {
+  "homeTeam" : "Filipinler",
+  "awayTeam" : "Guam",
+  "score" : "95-71"
+}, {
+  "homeTeam" : "Güney Kore",
+  "awayTeam" : "Çin",
+  "score" : "90-76"
+}, {
+  "homeTeam" : "Tayvan",
+  "awayTeam" : "Japonya",
+  "score" : "73-80"
+}, {
+  "homeTeam" : "Bucheon Hana (K)",
+  "awayTeam" : "Busan BNK Sum (K)",
+  "score" : "60-49"
 } ]
