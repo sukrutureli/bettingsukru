@@ -98,4 +98,80 @@
   "homeTeam" : "Ucv",
   "awayTeam" : "Carabobo",
   "score" : "1-1"
+}, {
+  "homeTeam" : "Tunus",
+  "awayTeam" : "Suriye",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Shire Endaselassie",
+  "awayTeam" : "Hawassa Kenema SC",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Ethiopian Coffee SC",
+  "awayTeam" : "Hadiya Hossana",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Sidama Bunna SC",
+  "awayTeam" : "Ethiopia Nigd Bank",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Bidco Utd",
+  "awayTeam" : "Posta Ranger",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "P. Ferreira",
+  "awayTeam" : "Felgueiras 1932",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Famalicao U23",
+  "awayTeam" : "Vizela U23",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Petrolul Ploiesti",
+  "awayTeam" : "Metaloglobus",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Sepsi Os Sf",
+  "awayTeam" : "Politehnica Iasi",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "NK Radomlje U19",
+  "awayTeam" : "NK Domzale U19",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Mashujaa",
+  "awayTeam" : "Coastal Union",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Mbeya Kwanza",
+  "awayTeam" : "Songea Utd",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Stand Utd",
+  "awayTeam" : "Mbuni",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Bigman",
+  "awayTeam" : "Kengold",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AS Megrine",
+  "awayTeam" : "Sporting Ben Arous",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Dinamo Kiev",
+  "awayTeam" : "SC Poltava",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Lüksemburg U19 (K)",
+  "awayTeam" : "Slovakya U19 (K)",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Lihtenştayn U19 (K)",
+  "awayTeam" : "Arnavutluk U19 (K)",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Jerash",
+  "awayTeam" : "AL Arabi",
+  "score" : "1-3"
 } ]

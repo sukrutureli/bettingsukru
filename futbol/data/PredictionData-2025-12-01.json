@@ -2,9 +2,9 @@
   "homeTeam" : "Petrolul Ploiesti",
   "awayTeam" : "Metaloglobus",
   "picks" : [ "Alt (1.37 - 64.5%)" ],
-  "score" : "-",
+  "score" : "4-1",
   "statuses" : {
-    "Alt (1.37 - 64.5%)" : "pending"
+    "Alt (1.37 - 64.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Sassuolo U20",
