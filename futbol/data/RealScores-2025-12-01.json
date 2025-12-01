@@ -174,4 +174,96 @@
   "homeTeam" : "Jerash",
   "awayTeam" : "AL Arabi",
   "score" : "1-3"
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Galatasaray",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Samsunspor",
+  "awayTeam" : "Alanyaspor",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Adana Demir",
+  "awayTeam" : "Hatayspor",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "Sochi",
+  "awayTeam" : "Dyn. Makhachkala",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Katar",
+  "awayTeam" : "Filistin",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Pirin Blagoevgrad",
+  "awayTeam" : "Yantra Gabrovo",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Eleven Wonders",
+  "awayTeam" : "Dreams",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Accra Lions",
+  "awayTeam" : "Accra Great Olympics",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Berekum Arsenal",
+  "awayTeam" : "Dormaa Unity Youth",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Gagra",
+  "awayTeam" : "Telavi",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "HNK Gorica",
+  "awayTeam" : "D. Zagreb",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Sassuolo U20",
+  "awayTeam" : "ACF Fiorentina U20",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Haras Hodood",
+  "awayTeam" : "Ismaily Sc",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Stal Rzeszow",
+  "awayTeam" : "Pogon Grodzisk M.",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "CD Mafra U19",
+  "awayTeam" : "S. Lizbon U19",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Alverca U19",
+  "awayTeam" : "SCU Torreense U19",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "SC Braga U19",
+  "awayTeam" : "Gil Vicente U19",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "Chaves U19",
+  "awayTeam" : "Porto U19",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Torreense U23",
+  "awayTeam" : "Farense U23",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Sporting U23",
+  "awayTeam" : "Estoril Praia U23",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "U. Cluj",
+  "awayTeam" : "Un. Craiova",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Rodina Moscow",
+  "awayTeam" : "Kamaz Chelny",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Shakhtar D.",
+  "awayTeam" : "Kryvbas K. R.",
+  "score" : "2-2"
 } ]

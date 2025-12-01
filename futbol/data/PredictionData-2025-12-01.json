@@ -10,9 +10,9 @@
   "homeTeam" : "Sassuolo U20",
   "awayTeam" : "ACF Fiorentina U20",
   "picks" : [ "Var (1.51 - 67.5%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.51 - 67.5%)" : "pending"
+    "Var (1.51 - 67.5%)" : "won"
   }
 }, {
   "homeTeam" : "Motor Lublin",
