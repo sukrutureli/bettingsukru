@@ -1,0 +1,53 @@
+[ {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Boston",
+  "score" : "115-117"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Oklahoma",
+  "score" : "115-123"
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Atlanta",
+  "score" : "134-142"
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Toronto",
+  "score" : "116-94"
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "San Antonio",
+  "score" : "125-112"
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Memphis",
+  "score" : "107-115"
+}, {
+  "homeTeam" : "North Texas Mean Green",
+  "awayTeam" : "Prairie View A&M Panthers",
+  "score" : "72-69"
+}, {
+  "homeTeam" : "American University Eagles",
+  "awayTeam" : "Longwood Lancers",
+  "score" : "92-66"
+}, {
+  "homeTeam" : "Long Beach State 49ers",
+  "awayTeam" : "San Diego Toreros",
+  "score" : "76-72"
+}, {
+  "homeTeam" : "Loyola Maryland Greyhounds",
+  "awayTeam" : "Coppin State Eagles",
+  "score" : "95-84"
+}, {
+  "homeTeam" : "Fresno St Bulldogs",
+  "awayTeam" : "Cal State Bakersfield",
+  "score" : "71-76"
+}, {
+  "homeTeam" : "Brezilya",
+  "awayTeam" : "Şili",
+  "score" : "78-62"
+}, {
+  "homeTeam" : "Uruguay",
+  "awayTeam" : "Panama",
+  "score" : "84-82"
+} ]
