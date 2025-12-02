@@ -66,4 +66,12 @@
   "homeTeam" : "LA Lakers",
   "awayTeam" : "Phoenix",
   "score" : "108-125"
+}, {
+  "homeTeam" : "Hyeres Toulon",
+  "awayTeam" : "Dijon Basket",
+  "score" : "112-110"
+}, {
+  "homeTeam" : "Prievidza",
+  "awayTeam" : "Komarno",
+  "score" : "69-68"
 } ]
