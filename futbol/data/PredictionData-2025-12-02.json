@@ -2,25 +2,25 @@
   "homeTeam" : "ABD (K)",
   "awayTeam" : "İtalya (K)",
   "picks" : [ "Üst (1.42 - 76.6%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Üst (1.42 - 76.6%)" : "pending"
+    "Üst (1.42 - 76.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Racing Club",
   "awayTeam" : "CA Tigre",
   "picks" : [ "Alt (1.4 - 77.9%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.4 - 77.9%)" : "pending"
+    "Alt (1.4 - 77.9%)" : "won"
   }
 }, {
   "homeTeam" : "UD Leiria U23",
   "awayTeam" : "Santa Clara U23",
   "picks" : [ "Alt (1.42 - 64.1%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.42 - 64.1%)" : "pending"
+    "Alt (1.42 - 64.1%)" : "won"
   }
 }, {
   "homeTeam" : "Negelle Arsi",

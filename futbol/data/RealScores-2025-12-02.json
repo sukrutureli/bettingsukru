@@ -1,1 +1,169 @@
-[ ]
+[ {
+  "homeTeam" : "Muş SK",
+  "awayTeam" : "Konyaspor",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "A. Keçiörengücü",
+  "awayTeam" : "Kayserispor",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Fas",
+  "awayTeam" : "Komorlar",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Racing Club",
+  "awayTeam" : "CA Tigre",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Sahdag Qusar",
+  "awayTeam" : "Turan Tovuz",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "EV Tarnova",
+  "awayTeam" : "PFK Sportist Svoge",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Montana 1921",
+  "awayTeam" : "Loko Sofya",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Saint George SC",
+  "awayTeam" : "Arba Minch Kenema",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Defence Force",
+  "awayTeam" : "Dire Dawa Kenema",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Kitchee SC",
+  "awayTeam" : "Eastern District",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Huddersfield T. U21",
+  "awayTeam" : "Fleetwood T. U21",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Wigan Ath U21",
+  "awayTeam" : "Millwall U21",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Barnsley U21",
+  "awayTeam" : "Cardiff City U21",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Spad Alvand Tehran",
+  "awayTeam" : "Chooka Talesh",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Arka Alborz",
+  "awayTeam" : "Dena Yasuj",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "NM Soleyman",
+  "awayTeam" : "Iranjavan Bushehr",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Nairobi City Stars",
+  "awayTeam" : "Mombasa Elite",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "I. Medellin",
+  "awayTeam" : "America De Cali",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Racing Beirut",
+  "awayTeam" : "Safa SC",
+  "score" : "1-6"
+}, {
+  "homeTeam" : "Shabab AL Sahel",
+  "awayTeam" : "AL Ansar SC",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "UD Leiria U23",
+  "awayTeam" : "Santa Clara U23",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "CS Maritimo U23",
+  "awayTeam" : "Leixoes U23",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Dumbravita",
+  "awayTeam" : "CSM Slatina",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Audax Ital.",
+  "awayTeam" : "Nublense",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Tanzania Prisons",
+  "awayTeam" : "Young Africans SC",
+  "score" : "-"
+}, {
+  "homeTeam" : "ABD (K)",
+  "awayTeam" : "İtalya (K)",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Japonya (K)",
+  "awayTeam" : "Kanada (K)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Avustralya (K)",
+  "awayTeam" : "Yeni Zelanda (K)",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Galler (K)",
+  "awayTeam" : "İsviçre (K)",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Sırbistan (K)",
+  "awayTeam" : "Çekya (K)",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Polonya (K)",
+  "awayTeam" : "Letonya (K)",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Bosna Hersek (K)",
+  "awayTeam" : "Yunanistan (K)",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "İsveç U19 (K)",
+  "awayTeam" : "Polonya U19 (K)",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Bulgaristan U19 (K)",
+  "awayTeam" : "İrlanda U19 (K)",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "K. İrlanda U19 (K)",
+  "awayTeam" : "Belarus U19 (K)",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "İsviçre U19 (K)",
+  "awayTeam" : "İtalya U19 (K)",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Karadağ U19 (K)",
+  "awayTeam" : "Sırbistan U19 (K)",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Faroe Adaları U19 (K)",
+  "awayTeam" : "Belçika U19 (K)",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Almanya U19 (K)",
+  "awayTeam" : "İspanya U19 (K)",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Ukrayna U19 (K)",
+  "awayTeam" : "Romanya U19 (K)",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Maan",
+  "awayTeam" : "Doqarah",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Sama",
+  "awayTeam" : "Al Hashemehya",
+  "score" : "3-0"
+} ]
