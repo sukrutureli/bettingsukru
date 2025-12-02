@@ -1,0 +1,67 @@
+[ {
+  "name" : "Cuenca Juniors - Uni. Catolica",
+  "time" : "03:00",
+  "predictions" : [ "Var (1.39 - 78.5%)" ],
+  "score" : "2-1",
+  "mbs" : 3
+}, {
+  "name" : "Braga U23 - Gil Vicente U23",
+  "time" : "14:00",
+  "predictions" : [ "Var (1.33 - 57.0%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "NK Radomlje - Primorje Ajdovscina",
+  "time" : "15:00",
+  "predictions" : [ "Var (1.39 - 63.9%)" ],
+  "score" : "2-1",
+  "mbs" : 3
+}, {
+  "name" : "Botosani - Hermannstadt",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.47 - 56.1%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Casertana - Atalanta BC U23",
+  "time" : "19:30",
+  "predictions" : [ "Var (1.54 - 78.1%)" ],
+  "score" : "2-1",
+  "mbs" : 3
+}, {
+  "name" : "Farul Cons. - D. Bükreş",
+  "time" : "19:30",
+  "predictions" : [ "Var (1.56 - 66.2%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Mirandes - S. Gijon",
+  "time" : "22:00",
+  "predictions" : [ "Alt (1.41 - 60.4%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "UTA Arad - FCSB",
+  "time" : "22:00",
+  "predictions" : [ "Var (1.52 - 66.5%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Yverdon - Lausanne",
+  "time" : "22:30",
+  "predictions" : [ "Var (1.36 - 76.7%)" ],
+  "score" : "2-1",
+  "mbs" : 3
+}, {
+  "name" : "Piast Gliwice - Lech Poznan",
+  "time" : "22:30",
+  "predictions" : [ "Var (1.55 - 73.6%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Leeds Utd - Chelsea",
+  "time" : "23:15",
+  "predictions" : [ "MS2 (1.56 - 70.2%)" ],
+  "score" : "0-2",
+  "mbs" : 1
+} ]

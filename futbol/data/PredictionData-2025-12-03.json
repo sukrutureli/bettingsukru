@@ -1,0 +1,89 @@
+[ {
+  "homeTeam" : "Cuenca Juniors",
+  "awayTeam" : "Uni. Catolica",
+  "picks" : [ "Var (1.39 - 78.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.39 - 78.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Braga U23",
+  "awayTeam" : "Gil Vicente U23",
+  "picks" : [ "Var (1.33 - 57.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.33 - 57.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "NK Radomlje",
+  "awayTeam" : "Primorje Ajdovscina",
+  "picks" : [ "Var (1.39 - 63.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.39 - 63.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Botosani",
+  "awayTeam" : "Hermannstadt",
+  "picks" : [ "Alt (1.47 - 56.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 56.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Casertana",
+  "awayTeam" : "Atalanta BC U23",
+  "picks" : [ "Var (1.54 - 78.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.54 - 78.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Farul Cons.",
+  "awayTeam" : "D. Bükreş",
+  "picks" : [ "Var (1.56 - 66.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.56 - 66.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Mirandes",
+  "awayTeam" : "S. Gijon",
+  "picks" : [ "Alt (1.41 - 60.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.41 - 60.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UTA Arad",
+  "awayTeam" : "FCSB",
+  "picks" : [ "Var (1.52 - 66.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.52 - 66.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Yverdon",
+  "awayTeam" : "Lausanne",
+  "picks" : [ "Var (1.36 - 76.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.36 - 76.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Piast Gliwice",
+  "awayTeam" : "Lech Poznan",
+  "picks" : [ "Var (1.55 - 73.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.55 - 73.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Leeds Utd",
+  "awayTeam" : "Chelsea",
+  "picks" : [ "MS2 (1.56 - 70.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.56 - 70.2%)" : "pending"
+  }
+} ]
