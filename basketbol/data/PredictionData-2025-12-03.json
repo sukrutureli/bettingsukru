@@ -1,0 +1,137 @@
+[ {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Portland",
+  "picks" : [ "231.5 Alt (1.61 - 67.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "231.5 Alt (1.61 - 67.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tianjin P.",
+  "awayTeam" : "Shandong H.",
+  "picks" : [ "169.5 Üst (1.65 - 98.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "169.5 Üst (1.65 - 98.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shanghai S.",
+  "awayTeam" : "Sichuan B. W.",
+  "picks" : [ "170.5 Üst (1.62 - 98.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "170.5 Üst (1.62 - 98.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Jilin N.T.",
+  "awayTeam" : "Fujian S.",
+  "picks" : [ "167.5 Üst (1.65 - 99.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Üst (1.65 - 99.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shanxi L.",
+  "awayTeam" : "Guangzhou L. L.",
+  "picks" : [ "170.5 Üst (1.65 - 99.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "170.5 Üst (1.65 - 99.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Busan BNK Sum (K)",
+  "awayTeam" : "Yongin Samsung L. (K)",
+  "picks" : [ "MS1 (1.41 - 69.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.41 - 69.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Nanjing M. K.",
+  "awayTeam" : "Beijing R. F.",
+  "picks" : [ "169.5 Üst (1.65 - 99.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "169.5 Üst (1.65 - 99.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Qingdao E.",
+  "awayTeam" : "Zhejiang L.",
+  "picks" : [ "162.5 Üst (1.59 - 96.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "162.5 Üst (1.59 - 96.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Xinjiang F. T.",
+  "awayTeam" : "Zhejiang G. B.",
+  "picks" : [ "173.5 Üst (1.63 - 96.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "173.5 Üst (1.63 - 96.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Liaoning F. L.",
+  "awayTeam" : "Jiangsu D.",
+  "picks" : [ "164.5 Üst (1.65 - 97.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "164.5 Üst (1.65 - 97.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dinamo Sassari (K)",
+  "awayTeam" : "San Giovanni (K)",
+  "picks" : [ "MS2 (1.3 - 77.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.3 - 77.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Perf. Avenida (K)",
+  "awayTeam" : "Valencia (K)",
+  "picks" : [ "138.5 Üst (1.6 - 56.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "138.5 Üst (1.6 - 56.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cab Estepona (K)",
+  "awayTeam" : "Gernika Kesb (K)",
+  "picks" : [ "MS1 (1.54 - 68.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.54 - 68.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Porta XI Ensino (K)",
+  "awayTeam" : "Gipuzkoa IDK (K)",
+  "picks" : [ "MS2 (1.69 - 63.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.69 - 63.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CB Estudiantes (K)",
+  "awayTeam" : "Univ. de Ferrol (K)",
+  "picks" : [ "MS2 (1.74 - 65.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.74 - 65.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Brixia (K)",
+  "awayTeam" : "Battipaglia (K)",
+  "picks" : [ "136.5 Üst (1.62 - 56.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "136.5 Üst (1.62 - 56.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Asd Broni 2022 (K)",
+  "awayTeam" : "Reyer Venezia (K)",
+  "picks" : [ "138.5 Alt (1.62 - 67.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "138.5 Alt (1.62 - 67.4%)" : "pending"
+  }
+} ]
