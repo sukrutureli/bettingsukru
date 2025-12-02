@@ -166,4 +166,88 @@
   "homeTeam" : "Sama",
   "awayTeam" : "Al Hashemehya",
   "score" : "3-0"
+}, {
+  "homeTeam" : "Rizespor",
+  "awayTeam" : "Pendikspor",
+  "score" : "6-1"
+}, {
+  "homeTeam" : "Hertha Berlin",
+  "awayTeam" : "Kaiserslautern",
+  "score" : "6-1"
+}, {
+  "homeTeam" : "M'gladbach",
+  "awayTeam" : "St. Pauli",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Suudi Arabistan",
+  "awayTeam" : "Umman",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Mısır",
+  "awayTeam" : "Kuveyt",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Zira",
+  "awayTeam" : "Neftçi",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Arda Kardzha",
+  "awayTeam" : "Botev Plovdiv",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Negelle Arsi",
+  "awayTeam" : "Sheger Ketema",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Ajax U19",
+  "awayTeam" : "PSV Eindhoven U19",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Lechia Gdansk",
+  "awayTeam" : "Gornik Zabrze",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Estrela A. U23",
+  "awayTeam" : "Benfica U23",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Academico V. U23",
+  "awayTeam" : "Rio Ave U23",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "FK Csikszereda",
+  "awayTeam" : "Otelul Galati",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "CS D. Bucuresti",
+  "awayTeam" : "Concordia",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Apr",
+  "awayTeam" : "Etincelles",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "FK Zeleznicar Pancevo",
+  "awayTeam" : "Trajal Kru",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Vipers SC",
+  "awayTeam" : "Updf",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "Kosova U19 (K)",
+  "awayTeam" : "İzlanda U19 (K)",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Danimarka U19 (K)",
+  "awayTeam" : "Portekiz U19 (K)",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Norveç U19 (K)",
+  "awayTeam" : "Hollanda U19 (K)",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Volos",
+  "awayTeam" : "PAE Egaleo",
+  "score" : "6-0"
 } ]
