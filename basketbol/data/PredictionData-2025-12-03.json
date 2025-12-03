@@ -10,57 +10,57 @@
   "homeTeam" : "Tianjin P.",
   "awayTeam" : "Shandong H.",
   "picks" : [ "169.5 Üst (1.65 - 98.4%)" ],
-  "score" : "-",
+  "score" : "90-106",
   "statuses" : {
-    "169.5 Üst (1.65 - 98.4%)" : "pending"
+    "169.5 Üst (1.65 - 98.4%)" : "won"
   }
 }, {
   "homeTeam" : "Shanghai S.",
   "awayTeam" : "Sichuan B. W.",
   "picks" : [ "170.5 Üst (1.62 - 98.7%)" ],
-  "score" : "-",
+  "score" : "111-72",
   "statuses" : {
-    "170.5 Üst (1.62 - 98.7%)" : "pending"
+    "170.5 Üst (1.62 - 98.7%)" : "won"
   }
 }, {
   "homeTeam" : "Jilin N.T.",
   "awayTeam" : "Fujian S.",
   "picks" : [ "167.5 Üst (1.65 - 99.7%)" ],
-  "score" : "-",
+  "score" : "85-80",
   "statuses" : {
-    "167.5 Üst (1.65 - 99.7%)" : "pending"
+    "167.5 Üst (1.65 - 99.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Shanxi L.",
   "awayTeam" : "Guangzhou L. L.",
   "picks" : [ "170.5 Üst (1.65 - 99.1%)" ],
-  "score" : "-",
+  "score" : "85-82",
   "statuses" : {
-    "170.5 Üst (1.65 - 99.1%)" : "pending"
+    "170.5 Üst (1.65 - 99.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Busan BNK Sum (K)",
   "awayTeam" : "Yongin Samsung L. (K)",
   "picks" : [ "MS1 (1.41 - 69.5%)" ],
-  "score" : "-",
+  "score" : "72-67",
   "statuses" : {
-    "MS1 (1.41 - 69.5%)" : "pending"
+    "MS1 (1.41 - 69.5%)" : "won"
   }
 }, {
   "homeTeam" : "Nanjing M. K.",
   "awayTeam" : "Beijing R. F.",
   "picks" : [ "169.5 Üst (1.65 - 99.4%)" ],
-  "score" : "-",
+  "score" : "96-98",
   "statuses" : {
-    "169.5 Üst (1.65 - 99.4%)" : "pending"
+    "169.5 Üst (1.65 - 99.4%)" : "won"
   }
 }, {
   "homeTeam" : "Qingdao E.",
   "awayTeam" : "Zhejiang L.",
   "picks" : [ "162.5 Üst (1.59 - 96.9%)" ],
-  "score" : "-",
+  "score" : "99-103",
   "statuses" : {
-    "162.5 Üst (1.59 - 96.9%)" : "pending"
+    "162.5 Üst (1.59 - 96.9%)" : "won"
   }
 }, {
   "homeTeam" : "Xinjiang F. T.",
@@ -74,9 +74,9 @@
   "homeTeam" : "Liaoning F. L.",
   "awayTeam" : "Jiangsu D.",
   "picks" : [ "164.5 Üst (1.65 - 97.7%)" ],
-  "score" : "-",
+  "score" : "78-85",
   "statuses" : {
-    "164.5 Üst (1.65 - 97.7%)" : "pending"
+    "164.5 Üst (1.65 - 97.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Dinamo Sassari (K)",

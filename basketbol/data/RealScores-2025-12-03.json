@@ -38,4 +38,64 @@
   "homeTeam" : "Basquete Osasco",
   "awayTeam" : "Botafogo",
   "score" : "79-70"
+}, {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Oklahoma",
+  "score" : "112-124"
+}, {
+  "homeTeam" : "Kentucky Wildcats",
+  "awayTeam" : "North Carolina Tar Heels",
+  "score" : "64-67"
+}, {
+  "homeTeam" : "Oregon Ducks",
+  "awayTeam" : "USC Trojans",
+  "score" : "77-82"
+}, {
+  "homeTeam" : "N. Z. Breakers",
+  "awayTeam" : "Sydney Kings",
+  "score" : "95-90"
+}, {
+  "homeTeam" : "Tianjin P.",
+  "awayTeam" : "Shandong H.",
+  "score" : "90-106"
+}, {
+  "homeTeam" : "Qingdao E.",
+  "awayTeam" : "Zhejiang L.",
+  "score" : "99-103"
+}, {
+  "homeTeam" : "Shanghai S.",
+  "awayTeam" : "Sichuan B.W.",
+  "score" : "111-72"
+}, {
+  "homeTeam" : "Nanjing M.K.",
+  "awayTeam" : "Beijing R. F.",
+  "score" : "96-98"
+}, {
+  "homeTeam" : "Jilin N.T.",
+  "awayTeam" : "Fujian S.",
+  "score" : "85-80"
+}, {
+  "homeTeam" : "Xinjiang F.T.",
+  "awayTeam" : "Zhejiang G.B.",
+  "score" : "78-91"
+}, {
+  "homeTeam" : "Shanxi L.",
+  "awayTeam" : "Guangzhou L.L.",
+  "score" : "85-82"
+}, {
+  "homeTeam" : "Liaoning F. L.",
+  "awayTeam" : "Jiangsu D.",
+  "score" : "78-85"
+}, {
+  "homeTeam" : "Henan Phoenix (K)",
+  "awayTeam" : "Jiangxi Ganxing (K)",
+  "score" : "111-64"
+}, {
+  "homeTeam" : "Hefei",
+  "awayTeam" : "Fujian (K)",
+  "score" : "106-51"
+}, {
+  "homeTeam" : "Busan BNK Sum (K)",
+  "awayTeam" : "Yongin Samsung Life (K)",
+  "score" : "72-67"
 } ]
