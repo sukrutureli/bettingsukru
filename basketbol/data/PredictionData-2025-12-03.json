@@ -2,9 +2,9 @@
   "homeTeam" : "Toronto",
   "awayTeam" : "Portland",
   "picks" : [ "231.5 Alt (1.61 - 67.2%)" ],
-  "score" : "-",
+  "score" : "121-118",
   "statuses" : {
-    "231.5 Alt (1.61 - 67.2%)" : "pending"
+    "231.5 Alt (1.61 - 67.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Tianjin P.",
