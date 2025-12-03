@@ -50,40 +50,40 @@
   "homeTeam" : "Mirandes",
   "awayTeam" : "S. Gijon",
   "picks" : [ "Alt (1.41 - 60.4%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.41 - 60.4%)" : "pending"
+    "Alt (1.41 - 60.4%)" : "won"
   }
 }, {
   "homeTeam" : "UTA Arad",
   "awayTeam" : "FCSB",
   "picks" : [ "Var (1.52 - 66.5%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Var (1.52 - 66.5%)" : "pending"
+    "Var (1.52 - 66.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Yverdon",
   "awayTeam" : "Lausanne",
   "picks" : [ "Var (1.36 - 76.7%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Var (1.36 - 76.7%)" : "pending"
+    "Var (1.36 - 76.7%)" : "won"
   }
 }, {
   "homeTeam" : "Piast Gliwice",
   "awayTeam" : "Lech Poznan",
   "picks" : [ "Var (1.55 - 73.6%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Var (1.55 - 73.6%)" : "pending"
+    "Var (1.55 - 73.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Leeds Utd",
   "awayTeam" : "Chelsea",
   "picks" : [ "MS2 (1.56 - 70.2%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "MS2 (1.56 - 70.2%)" : "pending"
+    "MS2 (1.56 - 70.2%)" : "lost"
   }
 } ]
