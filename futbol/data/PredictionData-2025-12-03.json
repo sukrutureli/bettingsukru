@@ -10,17 +10,17 @@
   "homeTeam" : "Braga U23",
   "awayTeam" : "Gil Vicente U23",
   "picks" : [ "Var (1.33 - 57.0%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Var (1.33 - 57.0%)" : "pending"
+    "Var (1.33 - 57.0%)" : "won"
   }
 }, {
   "homeTeam" : "NK Radomlje",
   "awayTeam" : "Primorje Ajdovscina",
   "picks" : [ "Var (1.39 - 63.9%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Var (1.39 - 63.9%)" : "pending"
+    "Var (1.39 - 63.9%)" : "won"
   }
 }, {
   "homeTeam" : "Botosani",
