@@ -98,4 +98,36 @@
   "homeTeam" : "Busan BNK Sum (K)",
   "awayTeam" : "Yongin Samsung Life (K)",
   "score" : "72-67"
+}, {
+  "homeTeam" : "Basket Brno",
+  "awayTeam" : "Nymburk",
+  "score" : "78-101"
+}, {
+  "homeTeam" : "Jouventut Badalona (K)",
+  "awayTeam" : "Baloncesto Leganes (K)",
+  "score" : "71-65"
+}, {
+  "homeTeam" : "Dinamo Sassari (K)",
+  "awayTeam" : "San Giovanni (K)",
+  "score" : "69-65"
+}, {
+  "homeTeam" : "Fenerbahçe (K)",
+  "awayTeam" : "ÇBK Mersin (K)",
+  "score" : "104-77"
+}, {
+  "homeTeam" : "Valmiera Glass Via",
+  "awayTeam" : "CSO Voluntari",
+  "score" : "81-77"
+}, {
+  "homeTeam" : "BK Opava",
+  "awayTeam" : "Dinamo Zagreb",
+  "score" : "94-69"
+}, {
+  "homeTeam" : "Rigas Zelli",
+  "awayTeam" : "BK Olomoucko",
+  "score" : "81-87"
+}, {
+  "homeTeam" : "Kk Krka",
+  "awayTeam" : "Zlatorog Lasko",
+  "score" : "99-58"
 } ]
