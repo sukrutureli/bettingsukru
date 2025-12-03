@@ -1,0 +1,77 @@
+[ {
+  "homeTeam" : "Vasco Da G.",
+  "awayTeam" : "Mirassol SP",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Gremio P.",
+  "awayTeam" : "Fluminense",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "GV San Jose",
+  "awayTeam" : "San Antonio B. B.",
+  "score" : "1-5"
+}, {
+  "homeTeam" : "Independiente P.",
+  "awayTeam" : "Guabira M.",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Cibao",
+  "awayTeam" : "Defence Force",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Mount Pleasant",
+  "awayTeam" : "Universidad O&m",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "El Salvador (K)",
+  "awayTeam" : "Honduras",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Uruguay (K)",
+  "awayTeam" : "Ekvador (K)",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Venezuela (K)",
+  "awayTeam" : "Peru (K)",
+  "score" : "6-0"
+}, {
+  "homeTeam" : "Şili  (K)",
+  "awayTeam" : "Paraguay (K)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Arjantin (K)",
+  "awayTeam" : "Bolivya (K)",
+  "score" : "8-0"
+}, {
+  "homeTeam" : "Cuenca Juniors",
+  "awayTeam" : "Uni. Catolica",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Marathon",
+  "awayTeam" : "Lobos Upnfm",
+  "score" : "-"
+}, {
+  "homeTeam" : "CD Victoria",
+  "awayTeam" : "CD Choloma",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Motagua",
+  "awayTeam" : "Platense",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Rivers Utd",
+  "awayTeam" : "Kano Pillars",
+  "score" : "-"
+}, {
+  "homeTeam" : "S. Cristal",
+  "awayTeam" : "Alianza Lima",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "U. Chile",
+  "awayTeam" : "Coquimbo U.",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Kosta Rika (K)",
+  "awayTeam" : "Meksika (K)",
+  "score" : "0-2"
+} ]

@@ -2,9 +2,9 @@
   "homeTeam" : "Cuenca Juniors",
   "awayTeam" : "Uni. Catolica",
   "picks" : [ "Var (1.39 - 78.5%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Var (1.39 - 78.5%)" : "pending"
+    "Var (1.39 - 78.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Braga U23",
