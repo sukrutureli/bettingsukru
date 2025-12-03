@@ -90,48 +90,48 @@
   "homeTeam" : "Perf. Avenida (K)",
   "awayTeam" : "Valencia (K)",
   "picks" : [ "138.5 Üst (1.6 - 56.0%)" ],
-  "score" : "-",
+  "score" : "58-57",
   "statuses" : {
-    "138.5 Üst (1.6 - 56.0%)" : "pending"
+    "138.5 Üst (1.6 - 56.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Cab Estepona (K)",
   "awayTeam" : "Gernika Kesb (K)",
   "picks" : [ "MS1 (1.54 - 68.7%)" ],
-  "score" : "-",
+  "score" : "70-86",
   "statuses" : {
-    "MS1 (1.54 - 68.7%)" : "pending"
+    "MS1 (1.54 - 68.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Porta XI Ensino (K)",
   "awayTeam" : "Gipuzkoa IDK (K)",
   "picks" : [ "MS2 (1.69 - 63.1%)" ],
-  "score" : "-",
+  "score" : "61-51",
   "statuses" : {
-    "MS2 (1.69 - 63.1%)" : "pending"
+    "MS2 (1.69 - 63.1%)" : "lost"
   }
 }, {
   "homeTeam" : "CB Estudiantes (K)",
   "awayTeam" : "Univ. de Ferrol (K)",
   "picks" : [ "MS2 (1.74 - 65.8%)" ],
-  "score" : "-",
+  "score" : "83-86",
   "statuses" : {
-    "MS2 (1.74 - 65.8%)" : "pending"
+    "MS2 (1.74 - 65.8%)" : "won"
   }
 }, {
   "homeTeam" : "Brixia (K)",
   "awayTeam" : "Battipaglia (K)",
   "picks" : [ "136.5 Üst (1.62 - 56.2%)" ],
-  "score" : "-",
+  "score" : "75-71",
   "statuses" : {
-    "136.5 Üst (1.62 - 56.2%)" : "pending"
+    "136.5 Üst (1.62 - 56.2%)" : "won"
   }
 }, {
   "homeTeam" : "Asd Broni 2022 (K)",
   "awayTeam" : "Reyer Venezia (K)",
   "picks" : [ "138.5 Alt (1.62 - 67.4%)" ],
-  "score" : "-",
+  "score" : "45-66",
   "statuses" : {
-    "138.5 Alt (1.62 - 67.4%)" : "pending"
+    "138.5 Alt (1.62 - 67.4%)" : "won"
   }
 } ]
