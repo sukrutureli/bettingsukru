@@ -61,7 +61,7 @@
 }, {
   "homeTeam" : "Rivers Utd",
   "awayTeam" : "Kano Pillars",
-  "score" : "-"
+  "score" : "1-0"
 }, {
   "homeTeam" : "S. Cristal",
   "awayTeam" : "Alianza Lima",
@@ -298,4 +298,112 @@
   "homeTeam" : "Prison Leopards",
   "awayTeam" : "Power Dynamos",
   "score" : "1-1"
+}, {
+  "homeTeam" : "Beyoğlu Y. Çarşı",
+  "awayTeam" : "Göztepe",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Freiburg",
+  "awayTeam" : "Darmstadt 98",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Ürdün",
+  "awayTeam" : "B. A. Emirlikleri",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Irak",
+  "awayTeam" : "Bahreyn",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Teuta",
+  "awayTeam" : "Af Elbasani",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Partizani Tirana",
+  "awayTeam" : "KF Bylis Ballsh",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Karabağ",
+  "awayTeam" : "FK Karvan Yevlakh",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "D. Minsk",
+  "awayTeam" : "Vitebsk",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Rad. Bijelji",
+  "awayTeam" : "Banja Luka",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "CSKA Sofya",
+  "awayTeam" : "Loko Plovdiv",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Real Du Faso",
+  "awayTeam" : "Rahimo",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Esbjerg",
+  "awayTeam" : "Kopenhag",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "VSN Varazdin",
+  "awayTeam" : "Osijek",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Casertana",
+  "awayTeam" : "Atalanta BC U23",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Kazincbarcikai",
+  "awayTeam" : "ETO Gyor",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Shooting Stars",
+  "awayTeam" : "Remo Stars",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Slask Wroclaw",
+  "awayTeam" : "Rakow C.",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Botosani",
+  "awayTeam" : "Hermannstadt",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Farul Cons.",
+  "awayTeam" : "D. Bükreş",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Novi Pazar",
+  "awayTeam" : "Gfk Dubocica",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "FK M. Sabac",
+  "awayTeam" : "FK IMT Novi Beograd",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Dunajska S.",
+  "awayTeam" : "Michalovce",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Z. Podbrezova",
+  "awayTeam" : "S. Trnava",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "NS Mura",
+  "awayTeam" : "Nafta",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Jkt Tanzania",
+  "awayTeam" : "Mtibwa Sugar",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Asteras T.",
+  "awayTeam" : "GS Ilioupoli",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Aek",
+  "awayTeam" : "Ofi Crete",
+  "score" : "2-0"
 } ]
