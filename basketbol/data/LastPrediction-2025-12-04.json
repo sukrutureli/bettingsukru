@@ -1,0 +1,96 @@
+[ {
+  "name" : "Orlando - San Antonio",
+  "time" : "03:00",
+  "predictions" : [ "235.5 Üst (1.64 - 74.7%)" ],
+  "score" : "128-118"
+}, {
+  "name" : "Cleveland - Portland",
+  "time" : "03:00",
+  "predictions" : [ "239.5 Alt (1.63 - 66.5%)" ],
+  "score" : "121-113"
+}, {
+  "name" : "Atlanta - LA Clippers",
+  "time" : "03:30",
+  "predictions" : [ "MS1 (1.39 - 80.6%)" ],
+  "score" : "121-114"
+}, {
+  "name" : "New York - Charlotte",
+  "time" : "03:30",
+  "predictions" : [ "235.5 Alt (1.65 - 64.5%)" ],
+  "score" : "121-110"
+}, {
+  "name" : "La Union Formosa - Instituto de Cordoba",
+  "time" : "03:30",
+  "predictions" : [ "160.5 Alt (1.6 - 61.7%)" ],
+  "score" : "84-73"
+}, {
+  "name" : "Houston - Sacramento",
+  "time" : "04:00",
+  "predictions" : [ "230.5 Alt (1.65 - 59.6%)" ],
+  "score" : "120-108"
+}, {
+  "name" : "Dallas - Miami",
+  "time" : "04:30",
+  "predictions" : [ "MS2 (1.31 - 63.7%)" ],
+  "score" : "117-120"
+}, {
+  "name" : "Beijing D. - Qingdao E.",
+  "time" : "10:00",
+  "predictions" : [ "173.5 Üst (1.64 - 95.5%)" ],
+  "score" : "101-101"
+}, {
+  "name" : "Ningbo Rockets - Shanghai S.",
+  "time" : "10:30",
+  "predictions" : [ "176.5 Üst (1.65 - 97.0%)" ],
+  "score" : "102-107"
+}, {
+  "name" : "LG Sakers - Daegu Pegasus",
+  "time" : "13:00",
+  "predictions" : [ "148.5 Üst (1.65 - 65.7%)" ],
+  "score" : "81-74"
+}, {
+  "name" : "Perth Wildcats - Melbourne Utd",
+  "time" : "13:30",
+  "predictions" : [ "183.5 Üst (1.63 - 61.4%)" ],
+  "score" : "97-91"
+}, {
+  "name" : "Zhejiang L. - Tianjin P.",
+  "time" : "14:30",
+  "predictions" : [ "177.5 Üst (1.63 - 94.5%)" ],
+  "score" : "102-101"
+}, {
+  "name" : "Guandong S. T. - Shanxi L.",
+  "time" : "15:00",
+  "predictions" : [ "176.5 Üst (1.65 - 96.9%)" ],
+  "score" : "104-105"
+}, {
+  "name" : "Shenzhen Leopards - Xinjiang F. T.",
+  "time" : "15:00",
+  "predictions" : [ "176.5 Üst (1.65 - 96.9%)" ],
+  "score" : "106-103"
+}, {
+  "name" : "Bahçeşehir Koleji - Neptunas K.",
+  "time" : "19:00",
+  "predictions" : [ "180.5 Alt (1.63 - 63.0%)" ],
+  "score" : "91-86"
+}, {
+  "name" : "Ratiopharm Ulm - A. Basket Trento",
+  "time" : "21:00",
+  "predictions" : [ "172.5 Alt (1.65 - 63.7%)" ],
+  "score" : "83-84"
+}, {
+  "name" : "Niners Chemnitz - Türk Telekom",
+  "time" : "21:00",
+  "predictions" : [ "MS2 (1.52 - 74.0%)" ],
+  "score" : "85-90"
+}, {
+  "name" : "Hap. Tel Aviv - Asvel Vil.",
+  "time" : "22:05",
+  "predictions" : [ "170.5 Alt (1.6 - 65.6%)" ],
+  "score" : "88-77"
+}, {
+  "name" : "Partizan - Bayern Münih",
+  "time" : "22:45",
+  "predictions" : [ "163.5 Alt (1.64 - 56.5%)" ],
+  "score" : "84-78"
+} ]
