@@ -1,0 +1,1201 @@
+[ {
+  "name" : "Fortaleza CE - Corinthians",
+  "time" : "01:00",
+  "detailUrl" : "https://istatistik.nesine.com/2484660",
+  "odds" : {
+    "ms1" : 1.68,
+    "msX" : 2.97,
+    "ms2" : 4.02,
+    "over25" : 2.12,
+    "under25" : 1.41,
+    "bttsYes" : 1.92,
+    "bttsNo" : 1.52,
+    "mbs" : 1
+  },
+  "index" : 0,
+  "mbs" : 0
+}, {
+  "name" : "Bragantino - Vitoria BA",
+  "time" : "01:00",
+  "detailUrl" : "https://istatistik.nesine.com/2541150",
+  "odds" : {
+    "ms1" : 1.68,
+    "msX" : 3.1,
+    "ms2" : 3.82,
+    "over25" : 1.9,
+    "under25" : 1.53,
+    "bttsYes" : 1.77,
+    "bttsNo" : 1.62,
+    "mbs" : 1
+  },
+  "index" : 1,
+  "mbs" : 0
+}, {
+  "name" : "Juventude - Santos SP",
+  "time" : "01:30",
+  "detailUrl" : "https://istatistik.nesine.com/2484630",
+  "odds" : {
+    "ms1" : 4.72,
+    "msX" : 3.43,
+    "ms2" : 1.47,
+    "over25" : 1.69,
+    "under25" : 1.7,
+    "bttsYes" : 1.7,
+    "bttsNo" : 1.68,
+    "mbs" : 1
+  },
+  "index" : 2,
+  "mbs" : 0
+}, {
+  "name" : "Sao Paulo SP - Internacional",
+  "time" : "02:00",
+  "detailUrl" : "https://istatistik.nesine.com/2485287",
+  "odds" : {
+    "ms1" : 2.39,
+    "msX" : 2.79,
+    "ms2" : 2.48,
+    "over25" : 1.99,
+    "under25" : 1.47,
+    "bttsYes" : 1.71,
+    "bttsNo" : 1.68,
+    "mbs" : 1
+  },
+  "index" : 3,
+  "mbs" : 0
+}, {
+  "name" : "Bahia BA - Recife",
+  "time" : "02:00",
+  "detailUrl" : "https://istatistik.nesine.com/2519401",
+  "odds" : {
+    "ms1" : 1.07,
+    "msX" : 6.1,
+    "ms2" : 11.45,
+    "over25" : 1.3,
+    "under25" : 2.44,
+    "bttsYes" : 1.81,
+    "bttsNo" : 1.59,
+    "mbs" : 1
+  },
+  "index" : 4,
+  "mbs" : 0
+}, {
+  "name" : "Fortaleza - I. Santa Fe",
+  "time" : "02:20",
+  "detailUrl" : "https://istatistik.nesine.com/2545273",
+  "odds" : {
+    "ms1" : 2.1,
+    "msX" : 2.92,
+    "ms2" : 2.52,
+    "over25" : 1.58,
+    "under25" : 1.72,
+    "bttsYes" : 1.45,
+    "bttsNo" : 1.91,
+    "mbs" : 3
+  },
+  "index" : 5,
+  "mbs" : 0
+}, {
+  "name" : "J. Wilsterman - Cdt Real Oruro",
+  "time" : "03:00",
+  "detailUrl" : "https://istatistik.nesine.com/2485147",
+  "odds" : {
+    "ms1" : 2.26,
+    "msX" : 3.27,
+    "ms2" : 2.14,
+    "over25" : 1.37,
+    "under25" : 2.07,
+    "bttsYes" : 1.32,
+    "bttsNo" : 2.2,
+    "mbs" : 3
+  },
+  "index" : 6,
+  "mbs" : 0
+}, {
+  "name" : "LDU Quito - CS Emelec",
+  "time" : "03:00",
+  "detailUrl" : "https://istatistik.nesine.com/2532100",
+  "odds" : {
+    "ms1" : 1.29,
+    "msX" : 3.73,
+    "ms2" : 5.72,
+    "over25" : 1.64,
+    "under25" : 1.66,
+    "bttsYes" : 1.8,
+    "bttsNo" : 1.52,
+    "mbs" : 3
+  },
+  "index" : 7,
+  "mbs" : 0
+}, {
+  "name" : "Flamengo - Ceara CE",
+  "time" : "03:30",
+  "detailUrl" : "https://istatistik.nesine.com/2485260",
+  "odds" : {
+    "ms1" : 1.15,
+    "msX" : 5.01,
+    "ms2" : 8.99,
+    "over25" : 1.47,
+    "under25" : 2.0,
+    "bttsYes" : 1.9,
+    "bttsNo" : 1.53,
+    "mbs" : 1
+  },
+  "index" : 8,
+  "mbs" : 0
+}, {
+  "name" : "Atl Mineiro - Palmeiras SP",
+  "time" : "03:30",
+  "detailUrl" : "https://istatistik.nesine.com/2541149",
+  "odds" : {
+    "ms1" : 2.98,
+    "msX" : 2.76,
+    "ms2" : 2.08,
+    "over25" : 2.05,
+    "under25" : 1.45,
+    "bttsYes" : 1.75,
+    "bttsNo" : 1.64,
+    "mbs" : 1
+  },
+  "index" : 9,
+  "mbs" : 0
+}, {
+  "name" : "Cruz Azul - Tigres",
+  "time" : "04:00",
+  "detailUrl" : "https://istatistik.nesine.com/2565744",
+  "odds" : {
+    "ms1" : 2.09,
+    "msX" : 2.82,
+    "ms2" : 2.62,
+    "over25" : 1.76,
+    "under25" : 1.54,
+    "bttsYes" : 1.56,
+    "bttsNo" : 1.74,
+    "mbs" : 2
+  },
+  "index" : 10,
+  "mbs" : 0
+}, {
+  "name" : "Olancho - CD Olimpia",
+  "time" : "04:30",
+  "detailUrl" : "https://istatistik.nesine.com/2530526",
+  "odds" : {
+    "ms1" : 2.47,
+    "msX" : 3.07,
+    "ms2" : 2.06,
+    "over25" : 1.51,
+    "under25" : 1.81,
+    "bttsYes" : 1.4,
+    "bttsNo" : 1.98,
+    "mbs" : 3
+  },
+  "index" : 11,
+  "mbs" : 0
+}, {
+  "name" : "CA Bucaramanga - CD Tolima",
+  "time" : "04:30",
+  "detailUrl" : "https://istatistik.nesine.com/2545269",
+  "odds" : {
+    "ms1" : 1.88,
+    "msX" : 2.66,
+    "ms2" : 3.28,
+    "over25" : 2.11,
+    "under25" : 1.35,
+    "bttsYes" : 1.81,
+    "bttsNo" : 1.51,
+    "mbs" : 3
+  },
+  "index" : 12,
+  "mbs" : 0
+}, {
+  "name" : "Xelaju - Alajuelense",
+  "time" : "05:00",
+  "detailUrl" : "https://istatistik.nesine.com/2503972",
+  "odds" : {
+    "ms1" : 2.91,
+    "msX" : 2.72,
+    "ms2" : 1.99,
+    "over25" : 1.86,
+    "under25" : 1.47,
+    "bttsYes" : 1.62,
+    "bttsNo" : 1.67,
+    "mbs" : 3
+  },
+  "index" : 13,
+  "mbs" : 0
+}, {
+  "name" : "Monterrey - D. Toluca",
+  "time" : "06:10",
+  "detailUrl" : "https://istatistik.nesine.com/2565745",
+  "odds" : {
+    "ms1" : 2.36,
+    "msX" : 3.03,
+    "ms2" : 2.17,
+    "over25" : 1.51,
+    "under25" : 1.81,
+    "bttsYes" : 1.4,
+    "bttsNo" : 2.0,
+    "mbs" : 2
+  },
+  "index" : 14,
+  "mbs" : 0
+}, {
+  "name" : "Golik North D. - Wofoo Tai PO",
+  "time" : "10:00",
+  "detailUrl" : "https://istatistik.nesine.com/2566185",
+  "odds" : {
+    "ms1" : 3.27,
+    "msX" : 3.64,
+    "ms2" : 1.58,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 1.34,
+    "bttsNo" : 2.12,
+    "mbs" : 3
+  },
+  "index" : 15,
+  "mbs" : 0
+}, {
+  "name" : "Bucheon - Suwon City",
+  "time" : "13:00",
+  "detailUrl" : "https://istatistik.nesine.com/2565793",
+  "odds" : {
+    "ms1" : 2.63,
+    "msX" : 2.83,
+    "ms2" : 2.08,
+    "over25" : 1.9,
+    "under25" : 1.46,
+    "bttsYes" : 1.67,
+    "bttsNo" : 1.62,
+    "mbs" : 2
+  },
+  "index" : 16,
+  "mbs" : 0
+}, {
+  "name" : "SC East Bengal - Punjab",
+  "time" : "13:30",
+  "detailUrl" : "https://istatistik.nesine.com/2519110",
+  "odds" : {
+    "ms1" : 1.6,
+    "msX" : 3.27,
+    "ms2" : 3.52,
+    "over25" : 1.6,
+    "under25" : 1.7,
+    "bttsYes" : 1.55,
+    "bttsNo" : 1.75,
+    "mbs" : 3
+  },
+  "index" : 17,
+  "mbs" : 0
+}, {
+  "name" : "Kabala - Safa",
+  "time" : "14:00",
+  "detailUrl" : "https://istatistik.nesine.com/2499837",
+  "odds" : {
+    "ms1" : 1.45,
+    "msX" : 3.32,
+    "ms2" : 4.5,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : 3
+  },
+  "index" : 18,
+  "mbs" : 0
+}, {
+  "name" : "Dobrudzha Dobrich - Ludogorets",
+  "time" : "14:00",
+  "detailUrl" : "https://istatistik.nesine.com/2484906",
+  "odds" : {
+    "ms1" : 6.52,
+    "msX" : 3.98,
+    "ms2" : 1.23,
+    "over25" : 1.57,
+    "under25" : 1.73,
+    "bttsYes" : 1.81,
+    "bttsNo" : 1.51,
+    "mbs" : 3
+  },
+  "index" : 19,
+  "mbs" : 0
+}, {
+  "name" : "Shan Utd - Nam Dinh",
+  "time" : "14:30",
+  "detailUrl" : "https://istatistik.nesine.com/2485154",
+  "odds" : {
+    "ms1" : 7.95,
+    "msX" : 4.28,
+    "ms2" : 1.17,
+    "over25" : 1.73,
+    "under25" : 1.57,
+    "bttsYes" : 2.17,
+    "bttsNo" : 1.33,
+    "mbs" : 3
+  },
+  "index" : 20,
+  "mbs" : 0
+}, {
+  "name" : "Bangkok Utd - Lion C. Sailors",
+  "time" : "15:00",
+  "detailUrl" : "https://istatistik.nesine.com/2484663",
+  "odds" : {
+    "ms1" : 1.63,
+    "msX" : 3.25,
+    "ms2" : 3.41,
+    "over25" : 1.45,
+    "under25" : 1.9,
+    "bttsYes" : 1.41,
+    "bttsNo" : 1.96,
+    "mbs" : 3
+  },
+  "index" : 21,
+  "mbs" : 0
+}, {
+  "name" : "Preah Khan R. S. - Johor Darul",
+  "time" : "15:00",
+  "detailUrl" : "https://istatistik.nesine.com/2484882",
+  "odds" : {
+    "ms1" : 6.7,
+    "msX" : 4.59,
+    "ms2" : 1.18,
+    "over25" : 1.34,
+    "under25" : 2.12,
+    "bttsYes" : 1.61,
+    "bttsNo" : 1.68,
+    "mbs" : 3
+  },
+  "index" : 22,
+  "mbs" : 0
+}, {
+  "name" : "Sokol Kleczew - LKS Lodz II",
+  "time" : "15:00",
+  "detailUrl" : "https://istatistik.nesine.com/2554255",
+  "odds" : {
+    "ms1" : 1.79,
+    "msX" : 3.15,
+    "ms2" : 2.96,
+    "over25" : 1.48,
+    "under25" : 1.84,
+    "bttsYes" : 1.41,
+    "bttsNo" : 1.97,
+    "mbs" : 3
+  },
+  "index" : 23,
+  "mbs" : 0
+}, {
+  "name" : "CS Sporting Liesti - AFC Metalul Buzau",
+  "time" : "15:00",
+  "detailUrl" : "https://istatistik.nesine.com/2484644",
+  "odds" : {
+    "ms1" : 4.22,
+    "msX" : 3.33,
+    "ms2" : 1.47,
+    "over25" : 1.68,
+    "under25" : 1.62,
+    "bttsYes" : 1.67,
+    "bttsNo" : 1.62,
+    "mbs" : 3
+  },
+  "index" : 24,
+  "mbs" : 0
+}, {
+  "name" : "Express - Calvary",
+  "time" : "15:00",
+  "detailUrl" : "https://istatistik.nesine.com/2486746",
+  "odds" : {
+    "ms1" : 1.39,
+    "msX" : 3.47,
+    "ms2" : 4.83,
+    "over25" : 1.76,
+    "under25" : 1.54,
+    "bttsYes" : 1.82,
+    "bttsNo" : 1.5,
+    "mbs" : 3
+  },
+  "index" : 25,
+  "mbs" : 0
+}, {
+  "name" : "El Gouna - Asyut Petroleum",
+  "time" : "15:30",
+  "detailUrl" : "https://istatistik.nesine.com/2556573",
+  "odds" : {
+    "ms1" : 1.58,
+    "msX" : 2.97,
+    "ms2" : 4.08,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : 3
+  },
+  "index" : 26,
+  "mbs" : 0
+}, {
+  "name" : "MC Sidi Ali Boussidi - RC Arbaa",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2560922",
+  "odds" : {
+    "ms1" : 4.26,
+    "msX" : 2.96,
+    "ms2" : 1.55,
+    "over25" : 2.13,
+    "under25" : 1.34,
+    "bttsYes" : 1.99,
+    "bttsNo" : 1.4,
+    "mbs" : 3
+  },
+  "index" : 27,
+  "mbs" : 0
+}, {
+  "name" : "MC Saida - Nrb Teleghma",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2560934",
+  "odds" : {
+    "ms1" : 1.38,
+    "msX" : 3.05,
+    "ms2" : 6.18,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.42,
+    "bttsNo" : 1.25,
+    "mbs" : 3
+  },
+  "index" : 28,
+  "mbs" : 0
+}, {
+  "name" : "AS Khroub - Olympique Akbou",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2560953",
+  "odds" : {
+    "ms1" : 4.33,
+    "msX" : 3.01,
+    "ms2" : 1.54,
+    "over25" : 2.12,
+    "under25" : 1.34,
+    "bttsYes" : 2.01,
+    "bttsNo" : 1.4,
+    "mbs" : 3
+  },
+  "index" : 29,
+  "mbs" : 0
+}, {
+  "name" : "MC Magra - USM Alger",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2560999",
+  "odds" : {
+    "ms1" : 6.0,
+    "msX" : 2.92,
+    "ms2" : 1.41,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.43,
+    "bttsNo" : 1.25,
+    "mbs" : 3
+  },
+  "index" : 30,
+  "mbs" : 0
+}, {
+  "name" : "Paradou AC - CRB Adrar",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2561039",
+  "odds" : {
+    "ms1" : 1.19,
+    "msX" : 3.85,
+    "ms2" : 8.99,
+    "over25" : 1.73,
+    "under25" : 1.57,
+    "bttsYes" : 2.15,
+    "bttsNo" : 1.33,
+    "mbs" : 3
+  },
+  "index" : 31,
+  "mbs" : 0
+}, {
+  "name" : "Nairobi Utd - Mathare Utd",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2566584",
+  "odds" : {
+    "ms1" : 1.59,
+    "msX" : 2.96,
+    "ms2" : 4.06,
+    "over25" : 2.18,
+    "under25" : 1.33,
+    "bttsYes" : 2.02,
+    "bttsNo" : 1.4,
+    "mbs" : 3
+  },
+  "index" : 32,
+  "mbs" : 0
+}, {
+  "name" : "Chojniczanka - Korona Kielce",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510390",
+  "odds" : {
+    "ms1" : 4.35,
+    "msX" : 3.55,
+    "ms2" : 1.42,
+    "over25" : 1.57,
+    "under25" : 1.73,
+    "bttsYes" : 1.61,
+    "bttsNo" : 1.68,
+    "mbs" : 3
+  },
+  "index" : 33,
+  "mbs" : 0
+}, {
+  "name" : "Botev Vratsa - PFC Spartak Varna",
+  "time" : "16:30",
+  "detailUrl" : "https://istatistik.nesine.com/2485118",
+  "odds" : {
+    "ms1" : 1.48,
+    "msX" : 3.04,
+    "ms2" : 4.73,
+    "over25" : 2.02,
+    "under25" : 1.39,
+    "bttsYes" : 1.95,
+    "bttsNo" : 1.42,
+    "mbs" : 3
+  },
+  "index" : 34,
+  "mbs" : 0
+}, {
+  "name" : "TS Tabriz - Esteghlal K.",
+  "time" : "16:30",
+  "detailUrl" : "https://istatistik.nesine.com/2485109",
+  "odds" : {
+    "ms1" : 1.14,
+    "msX" : 4.38,
+    "ms2" : 8.81,
+    "over25" : 1.54,
+    "under25" : 1.78,
+    "bttsYes" : 1.95,
+    "bttsNo" : 1.42,
+    "mbs" : 2
+  },
+  "index" : 35,
+  "mbs" : 0
+}, {
+  "name" : "Sepsi Os Sf - U. Cluj",
+  "time" : "17:15",
+  "detailUrl" : "https://istatistik.nesine.com/2485316",
+  "odds" : {
+    "ms1" : 2.54,
+    "msX" : 2.82,
+    "ms2" : 2.14,
+    "over25" : 1.9,
+    "under25" : 1.45,
+    "bttsYes" : 1.67,
+    "bttsNo" : 1.62,
+    "mbs" : 3
+  },
+  "index" : 36,
+  "mbs" : 0
+}, {
+  "name" : "Filistin - Tunus",
+  "time" : "17:30",
+  "detailUrl" : "https://istatistik.nesine.com/2556347",
+  "odds" : {
+    "ms1" : 3.91,
+    "msX" : 2.98,
+    "ms2" : 1.61,
+    "over25" : 2.0,
+    "under25" : 1.4,
+    "bttsYes" : 1.86,
+    "bttsNo" : 1.47,
+    "mbs" : 3
+  },
+  "index" : 37,
+  "mbs" : 0
+}, {
+  "name" : "Goa - Mumbai City",
+  "time" : "17:30",
+  "detailUrl" : "https://istatistik.nesine.com/2519100",
+  "odds" : {
+    "ms1" : 1.81,
+    "msX" : 3.15,
+    "ms2" : 2.88,
+    "over25" : 1.48,
+    "under25" : 1.85,
+    "bttsYes" : 1.41,
+    "bttsNo" : 1.97,
+    "mbs" : 3
+  },
+  "index" : 38,
+  "mbs" : 0
+}, {
+  "name" : "Araz Nakhchivan PFK - FK Kapaz",
+  "time" : "18:00",
+  "detailUrl" : "https://istatistik.nesine.com/2559340",
+  "odds" : {
+    "ms1" : 1.21,
+    "msX" : 4.33,
+    "ms2" : 6.33,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 1.54,
+    "bttsNo" : 1.76,
+    "mbs" : 3
+  },
+  "index" : 39,
+  "mbs" : 0
+}, {
+  "name" : "Difai Agsu - Sumgayit",
+  "time" : "18:00",
+  "detailUrl" : "https://istatistik.nesine.com/2559352",
+  "odds" : {
+    "ms1" : 17.45,
+    "msX" : 7.44,
+    "ms2" : 0.0,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.12,
+    "bttsNo" : 1.34,
+    "mbs" : 3
+  },
+  "index" : 40,
+  "mbs" : 0
+}, {
+  "name" : "HNK Cibalia Vinkovci - NK Sesvete",
+  "time" : "18:00",
+  "detailUrl" : "https://istatistik.nesine.com/2556426",
+  "odds" : {
+    "ms1" : 1.64,
+    "msX" : 2.84,
+    "ms2" : 3.93,
+    "over25" : 2.15,
+    "under25" : 1.33,
+    "bttsYes" : 1.94,
+    "bttsNo" : 1.43,
+    "mbs" : 3
+  },
+  "index" : 41,
+  "mbs" : 0
+}, {
+  "name" : "PO Triglias - Paneitolikos",
+  "time" : "18:00",
+  "detailUrl" : "https://istatistik.nesine.com/2567645",
+  "odds" : {
+    "ms1" : 3.25,
+    "msX" : 3.07,
+    "ms2" : 1.72,
+    "over25" : 1.61,
+    "under25" : 1.68,
+    "bttsYes" : 1.52,
+    "bttsNo" : 1.8,
+    "mbs" : 3
+  },
+  "index" : 42,
+  "mbs" : 0
+}, {
+  "name" : "Slavya Sofya - Levski Sofya",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2484755",
+  "odds" : {
+    "ms1" : 6.27,
+    "msX" : 3.75,
+    "ms2" : 1.27,
+    "over25" : 1.7,
+    "under25" : 1.6,
+    "bttsYes" : 1.91,
+    "bttsNo" : 1.45,
+    "mbs" : 3
+  },
+  "index" : 43,
+  "mbs" : 0
+}, {
+  "name" : "Wisla Plock - Cracovia",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2560957",
+  "odds" : {
+    "ms1" : 2.41,
+    "msX" : 2.69,
+    "ms2" : 2.34,
+    "over25" : 1.98,
+    "under25" : 1.4,
+    "bttsYes" : 1.69,
+    "bttsNo" : 1.6,
+    "mbs" : 2
+  },
+  "index" : 44,
+  "mbs" : 0
+}, {
+  "name" : "Katowice - J. Bialystok",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510372",
+  "odds" : {
+    "ms1" : 2.62,
+    "msX" : 2.98,
+    "ms2" : 2.01,
+    "over25" : 1.68,
+    "under25" : 1.61,
+    "bttsYes" : 1.53,
+    "bttsNo" : 1.78,
+    "mbs" : 3
+  },
+  "index" : 45,
+  "mbs" : 0
+}, {
+  "name" : "Metaloglobus - Cluj",
+  "time" : "19:30",
+  "detailUrl" : "https://istatistik.nesine.com/2484640",
+  "odds" : {
+    "ms1" : 6.98,
+    "msX" : 4.46,
+    "ms2" : 1.18,
+    "over25" : 1.47,
+    "under25" : 1.87,
+    "bttsYes" : 1.78,
+    "bttsNo" : 1.54,
+    "mbs" : 3
+  },
+  "index" : 46,
+  "mbs" : 0
+}, {
+  "name" : "Bologna - Parma",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2485143",
+  "odds" : {
+    "ms1" : 1.33,
+    "msX" : 3.69,
+    "ms2" : 6.27,
+    "over25" : 1.93,
+    "under25" : 1.51,
+    "bttsYes" : 2.1,
+    "bttsNo" : 1.42,
+    "mbs" : 1
+  },
+  "index" : 47,
+  "mbs" : 0
+}, {
+  "name" : "Suriye - Katar",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2556599",
+  "odds" : {
+    "ms1" : 3.6,
+    "msX" : 2.93,
+    "ms2" : 1.68,
+    "over25" : 1.94,
+    "under25" : 1.43,
+    "bttsYes" : 1.77,
+    "bttsNo" : 1.54,
+    "mbs" : 3
+  },
+  "index" : 48,
+  "mbs" : 0
+}, {
+  "name" : "Kisvarda - Ferencvaros",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2244329",
+  "odds" : {
+    "ms1" : 4.69,
+    "msX" : 3.62,
+    "ms2" : 1.38,
+    "over25" : 1.53,
+    "under25" : 1.78,
+    "bttsYes" : 1.6,
+    "bttsNo" : 1.69,
+    "mbs" : 2
+  },
+  "index" : 49,
+  "mbs" : 0
+}, {
+  "name" : "O. Ljubljana - NK Celje",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2519092",
+  "odds" : {
+    "ms1" : 3.31,
+    "msX" : 3.28,
+    "ms2" : 1.65,
+    "over25" : 1.44,
+    "under25" : 1.93,
+    "bttsYes" : 1.4,
+    "bttsNo" : 1.99,
+    "mbs" : 3
+  },
+  "index" : 50,
+  "mbs" : 0
+}, {
+  "name" : "URA - Airtel Kitara",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2486919",
+  "odds" : {
+    "ms1" : 1.68,
+    "msX" : 2.86,
+    "ms2" : 3.72,
+    "over25" : 2.11,
+    "under25" : 1.35,
+    "bttsYes" : 1.9,
+    "bttsNo" : 1.45,
+    "mbs" : 3
+  },
+  "index" : 51,
+  "mbs" : 0
+}, {
+  "name" : "A. Baleares - Espanyol",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2526953",
+  "odds" : {
+    "ms1" : 7.42,
+    "msX" : 4.43,
+    "ms2" : 1.17,
+    "over25" : 1.51,
+    "under25" : 1.81,
+    "bttsYes" : 1.85,
+    "bttsNo" : 1.48,
+    "mbs" : 3
+  },
+  "index" : 52,
+  "mbs" : 0
+}, {
+  "name" : "CE Sabadell - Dep. La Coruna",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2526962",
+  "odds" : {
+    "ms1" : 2.97,
+    "msX" : 2.96,
+    "ms2" : 1.85,
+    "over25" : 1.81,
+    "under25" : 1.51,
+    "bttsYes" : 1.64,
+    "bttsNo" : 1.65,
+    "mbs" : 3
+  },
+  "index" : 53,
+  "mbs" : 0
+}, {
+  "name" : "Real Avila - Vallecano",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2526964",
+  "odds" : {
+    "ms1" : 7.1,
+    "msX" : 4.39,
+    "ms2" : 1.18,
+    "over25" : 1.52,
+    "under25" : 1.8,
+    "bttsYes" : 1.84,
+    "bttsNo" : 1.49,
+    "mbs" : 3
+  },
+  "index" : 54,
+  "mbs" : 0
+}, {
+  "name" : "Leganes - Albacete",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2526973",
+  "odds" : {
+    "ms1" : 1.87,
+    "msX" : 2.87,
+    "ms2" : 3.04,
+    "over25" : 1.84,
+    "under25" : 1.49,
+    "bttsYes" : 1.65,
+    "bttsNo" : 1.64,
+    "mbs" : 3
+  },
+  "index" : 55,
+  "mbs" : 0
+}, {
+  "name" : "MC Alger - MC EL Bayadh",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2560962",
+  "odds" : {
+    "ms1" : 1.13,
+    "msX" : 4.24,
+    "ms2" : 9.95,
+    "over25" : 1.91,
+    "under25" : 1.45,
+    "bttsYes" : 2.6,
+    "bttsNo" : 1.2,
+    "mbs" : 3
+  },
+  "index" : 56,
+  "mbs" : 0
+}, {
+  "name" : "Midtjylland - Nordsjælland",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2516101",
+  "odds" : {
+    "ms1" : 1.33,
+    "msX" : 4.27,
+    "ms2" : 5.09,
+    "over25" : 1.33,
+    "under25" : 2.33,
+    "bttsYes" : 1.46,
+    "bttsNo" : 2.02,
+    "mbs" : 2
+  },
+  "index" : 57,
+  "mbs" : 0
+}, {
+  "name" : "Kızıl Yıldız - FK Cukaricki",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2485348",
+  "odds" : {
+    "ms1" : 1.06,
+    "msX" : 6.11,
+    "ms2" : 9.77,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 1.56,
+    "bttsNo" : 1.74,
+    "mbs" : 3
+  },
+  "index" : 58,
+  "mbs" : 0
+}, {
+  "name" : "Juve Stabia - SSC Bari",
+  "time" : "21:30",
+  "detailUrl" : "https://istatistik.nesine.com/2510381",
+  "odds" : {
+    "ms1" : 1.67,
+    "msX" : 2.98,
+    "ms2" : 4.1,
+    "over25" : 2.18,
+    "under25" : 1.39,
+    "bttsYes" : 1.98,
+    "bttsNo" : 1.48,
+    "mbs" : 1
+  },
+  "index" : 59,
+  "mbs" : 0
+}, {
+  "name" : "SD Ponferradina - Santander",
+  "time" : "22:00",
+  "detailUrl" : "https://istatistik.nesine.com/2526966",
+  "odds" : {
+    "ms1" : 3.13,
+    "msX" : 3.13,
+    "ms2" : 1.74,
+    "over25" : 1.53,
+    "under25" : 1.78,
+    "bttsYes" : 1.46,
+    "bttsNo" : 1.89,
+    "mbs" : 3
+  },
+  "index" : 60,
+  "mbs" : 0
+}, {
+  "name" : "Always Ready - Club Aurora",
+  "time" : "22:00",
+  "detailUrl" : "https://istatistik.nesine.com/2485388",
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 6.72,
+    "ms2" : 10.3,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 1.5,
+    "bttsNo" : 1.81,
+    "mbs" : 3
+  },
+  "index" : 61,
+  "mbs" : 0
+}, {
+  "name" : "Vitesse - Graafschap",
+  "time" : "22:00",
+  "detailUrl" : "https://istatistik.nesine.com/2485356",
+  "odds" : {
+    "ms1" : 2.42,
+    "msX" : 3.29,
+    "ms2" : 2.01,
+    "over25" : 1.28,
+    "under25" : 2.31,
+    "bttsYes" : 1.25,
+    "bttsNo" : 2.43,
+    "mbs" : 2
+  },
+  "index" : 62,
+  "mbs" : 0
+}, {
+  "name" : "Petrolul Ploiesti - Un. Craiova",
+  "time" : "22:00",
+  "detailUrl" : "https://istatistik.nesine.com/2485306",
+  "odds" : {
+    "ms1" : 3.9,
+    "msX" : 3.25,
+    "ms2" : 1.54,
+    "over25" : 1.76,
+    "under25" : 1.54,
+    "bttsYes" : 1.72,
+    "bttsNo" : 1.58,
+    "mbs" : 3
+  },
+  "index" : 63,
+  "mbs" : 0
+}, {
+  "name" : "KRC Genk - Anderlecht",
+  "time" : "22:30",
+  "detailUrl" : "https://istatistik.nesine.com/2506478",
+  "odds" : {
+    "ms1" : 1.84,
+    "msX" : 3.15,
+    "ms2" : 2.83,
+    "over25" : 1.56,
+    "under25" : 1.74,
+    "bttsYes" : 1.47,
+    "bttsNo" : 1.87,
+    "mbs" : 1
+  },
+  "index" : 64,
+  "mbs" : 0
+}, {
+  "name" : "Charleroi - Mechelen",
+  "time" : "22:30",
+  "detailUrl" : "https://istatistik.nesine.com/2506502",
+  "odds" : {
+    "ms1" : 2.01,
+    "msX" : 3.03,
+    "ms2" : 2.58,
+    "over25" : 1.55,
+    "under25" : 1.75,
+    "bttsYes" : 1.44,
+    "bttsNo" : 1.92,
+    "mbs" : 1
+  },
+  "index" : 65,
+  "mbs" : 0
+}, {
+  "name" : "Aarau - Sion",
+  "time" : "22:30",
+  "detailUrl" : "https://istatistik.nesine.com/2485384",
+  "odds" : {
+    "ms1" : 2.15,
+    "msX" : 3.01,
+    "ms2" : 2.4,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : 3
+  },
+  "index" : 66,
+  "mbs" : 0
+}, {
+  "name" : "Zawisza Bydgoszcz - Wisla Krakow",
+  "time" : "22:45",
+  "detailUrl" : "https://istatistik.nesine.com/2510375",
+  "odds" : {
+    "ms1" : 6.84,
+    "msX" : 4.58,
+    "ms2" : 1.18,
+    "over25" : 1.33,
+    "under25" : 2.15,
+    "bttsYes" : 1.6,
+    "bttsNo" : 1.69,
+    "mbs" : 3
+  },
+  "index" : 67,
+  "mbs" : 0
+}, {
+  "name" : "Man. Utd - West Ham",
+  "time" : "23:00",
+  "detailUrl" : "https://istatistik.nesine.com/2485331",
+  "odds" : {
+    "ms1" : 1.31,
+    "msX" : 4.34,
+    "ms2" : 5.42,
+    "over25" : 1.36,
+    "under25" : 2.25,
+    "bttsYes" : 1.51,
+    "bttsNo" : 1.93,
+    "mbs" : 1
+  },
+  "index" : 68,
+  "mbs" : 0
+}, {
+  "name" : "CD Extremadura - Sevilla",
+  "time" : "23:00",
+  "detailUrl" : "https://istatistik.nesine.com/2526950",
+  "odds" : {
+    "ms1" : 6.84,
+    "msX" : 4.49,
+    "ms2" : 1.18,
+    "over25" : 1.41,
+    "under25" : 1.97,
+    "bttsYes" : 1.69,
+    "bttsNo" : 1.61,
+    "mbs" : 3
+  },
+  "index" : 69,
+  "mbs" : 0
+}, {
+  "name" : "UE Sant Andreu - Celta Vigo",
+  "time" : "23:00",
+  "detailUrl" : "https://istatistik.nesine.com/2526955",
+  "odds" : {
+    "ms1" : 8.26,
+    "msX" : 5.02,
+    "ms2" : 1.12,
+    "over25" : 1.37,
+    "under25" : 2.06,
+    "bttsYes" : 1.77,
+    "bttsNo" : 1.54,
+    "mbs" : 3
+  },
+  "index" : 70,
+  "mbs" : 0
+}, {
+  "name" : "Cartagena - Valencia",
+  "time" : "23:00",
+  "detailUrl" : "https://istatistik.nesine.com/2526958",
+  "odds" : {
+    "ms1" : 4.54,
+    "msX" : 3.18,
+    "ms2" : 1.47,
+    "over25" : 1.85,
+    "under25" : 1.48,
+    "bttsYes" : 1.81,
+    "bttsNo" : 1.5,
+    "mbs" : 3
+  },
+  "index" : 71,
+  "mbs" : 0
+}, {
+  "name" : "Zaragoza - Burgos",
+  "time" : "23:00",
+  "detailUrl" : "https://istatistik.nesine.com/2526970",
+  "odds" : {
+    "ms1" : 2.36,
+    "msX" : 2.59,
+    "ms2" : 2.46,
+    "over25" : 2.06,
+    "under25" : 1.37,
+    "bttsYes" : 1.73,
+    "bttsNo" : 1.57,
+    "mbs" : 3
+  },
+  "index" : 72,
+  "mbs" : 0
+}, {
+  "name" : "Lazio - AC Milan",
+  "time" : "23:00",
+  "detailUrl" : "https://istatistik.nesine.com/2485365",
+  "odds" : {
+    "ms1" : 2.97,
+    "msX" : 2.88,
+    "ms2" : 2.02,
+    "over25" : 1.95,
+    "under25" : 1.5,
+    "bttsYes" : 1.71,
+    "bttsNo" : 1.68,
+    "mbs" : 1
+  },
+  "index" : 73,
+  "mbs" : 0
+}, {
+  "name" : "Porto - V. Guimaraes",
+  "time" : "23:15",
+  "detailUrl" : "https://istatistik.nesine.com/2394087",
+  "odds" : {
+    "ms1" : 1.16,
+    "msX" : 4.5,
+    "ms2" : 7.58,
+    "over25" : 1.47,
+    "under25" : 1.88,
+    "bttsYes" : 1.81,
+    "bttsNo" : 1.51,
+    "mbs" : 1
+  },
+  "index" : 74,
+  "mbs" : 0
+} ]
