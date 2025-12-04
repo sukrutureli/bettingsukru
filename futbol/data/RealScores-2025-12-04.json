@@ -1,0 +1,65 @@
+[ {
+  "homeTeam" : "Fortaleza CE",
+  "awayTeam" : "Corinthians",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Bragantino",
+  "awayTeam" : "Vitoria BA",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Juventude",
+  "awayTeam" : "Santos SP",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Sao Paulo SP",
+  "awayTeam" : "Internacional",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Bahia BA",
+  "awayTeam" : "Recife",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Flamengo",
+  "awayTeam" : "Ceara CE",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Atl Mineiro",
+  "awayTeam" : "Palmeiras SP",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "J. Wilsterman",
+  "awayTeam" : "Cdt Real Oruro",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "LDU Quito",
+  "awayTeam" : "CS Emelec",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Genesis PN",
+  "awayTeam" : "Juticalpa",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Olancho",
+  "awayTeam" : "CD Olimpia",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Fortaleza",
+  "awayTeam" : "I. Santa Fe",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "CA Bucaramanga",
+  "awayTeam" : "CD Tolima",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Cruz Azul",
+  "awayTeam" : "Tigres",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Xelaju",
+  "awayTeam" : "Alajuelense",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Deportes Concepcion",
+  "awayTeam" : "CD Cobreloa C.",
+  "score" : "1-1"
+} ]

@@ -2,33 +2,33 @@
   "homeTeam" : "Bahia BA",
   "awayTeam" : "Recife",
   "picks" : [ "Üst (1.3 - 76.2%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Üst (1.3 - 76.2%)" : "pending"
+    "Üst (1.3 - 76.2%)" : "lost"
   }
 }, {
   "homeTeam" : "J. Wilsterman",
   "awayTeam" : "Cdt Real Oruro",
   "picks" : [ "Var (1.32 - 80.4%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Var (1.32 - 80.4%)" : "pending"
+    "Var (1.32 - 80.4%)" : "won"
   }
 }, {
   "homeTeam" : "Atl Mineiro",
   "awayTeam" : "Palmeiras SP",
   "picks" : [ "Alt (1.45 - 57.2%)" ],
-  "score" : "-",
+  "score" : "0-3",
   "statuses" : {
-    "Alt (1.45 - 57.2%)" : "pending"
+    "Alt (1.45 - 57.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Xelaju",
   "awayTeam" : "Alajuelense",
   "picks" : [ "Alt (1.47 - 68.4%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.47 - 68.4%)" : "pending"
+    "Alt (1.47 - 68.4%)" : "won"
   }
 }, {
   "homeTeam" : "AS Khroub",
