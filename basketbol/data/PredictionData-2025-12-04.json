@@ -58,57 +58,57 @@
   "homeTeam" : "Beijing D.",
   "awayTeam" : "Qingdao E.",
   "picks" : [ "173.5 Üst (1.64 - 95.5%)" ],
-  "score" : "-",
+  "score" : "76-107",
   "statuses" : {
-    "173.5 Üst (1.64 - 95.5%)" : "pending"
+    "173.5 Üst (1.64 - 95.5%)" : "won"
   }
 }, {
   "homeTeam" : "Ningbo Rockets",
   "awayTeam" : "Shanghai S.",
   "picks" : [ "176.5 Üst (1.65 - 97.0%)" ],
-  "score" : "-",
+  "score" : "71-99",
   "statuses" : {
-    "176.5 Üst (1.65 - 97.0%)" : "pending"
+    "176.5 Üst (1.65 - 97.0%)" : "lost"
   }
 }, {
   "homeTeam" : "LG Sakers",
   "awayTeam" : "Daegu Pegasus",
   "picks" : [ "148.5 Üst (1.65 - 65.7%)" ],
-  "score" : "-",
+  "score" : "64-66",
   "statuses" : {
-    "148.5 Üst (1.65 - 65.7%)" : "pending"
+    "148.5 Üst (1.65 - 65.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Perth Wildcats",
   "awayTeam" : "Melbourne Utd",
   "picks" : [ "183.5 Üst (1.63 - 61.4%)" ],
-  "score" : "-",
+  "score" : "96-84",
   "statuses" : {
-    "183.5 Üst (1.63 - 61.4%)" : "pending"
+    "183.5 Üst (1.63 - 61.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Zhejiang L.",
   "awayTeam" : "Tianjin P.",
   "picks" : [ "177.5 Üst (1.63 - 94.5%)" ],
-  "score" : "-",
+  "score" : "108-90",
   "statuses" : {
-    "177.5 Üst (1.63 - 94.5%)" : "pending"
+    "177.5 Üst (1.63 - 94.5%)" : "won"
   }
 }, {
   "homeTeam" : "Guandong S. T.",
   "awayTeam" : "Shanxi L.",
   "picks" : [ "176.5 Üst (1.65 - 96.9%)" ],
-  "score" : "-",
+  "score" : "93-106",
   "statuses" : {
-    "176.5 Üst (1.65 - 96.9%)" : "pending"
+    "176.5 Üst (1.65 - 96.9%)" : "won"
   }
 }, {
   "homeTeam" : "Shenzhen Leopards",
   "awayTeam" : "Xinjiang F. T.",
   "picks" : [ "176.5 Üst (1.65 - 96.9%)" ],
-  "score" : "-",
+  "score" : "96-95",
   "statuses" : {
-    "176.5 Üst (1.65 - 96.9%)" : "pending"
+    "176.5 Üst (1.65 - 96.9%)" : "won"
   }
 }, {
   "homeTeam" : "Bahçeşehir Koleji",

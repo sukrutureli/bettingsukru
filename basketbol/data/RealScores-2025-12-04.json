@@ -110,4 +110,60 @@
   "homeTeam" : "CA Cordon",
   "awayTeam" : "Club Nacional",
   "score" : "90-109"
+}, {
+  "homeTeam" : "Illawarra Hawks",
+  "awayTeam" : "Melbourne Phoenix",
+  "score" : "113-109"
+}, {
+  "homeTeam" : "Perth Wildcats",
+  "awayTeam" : "Melbourne U.",
+  "score" : "96-84"
+}, {
+  "homeTeam" : "Beijing D.",
+  "awayTeam" : "Qingdao E.",
+  "score" : "76-107"
+}, {
+  "homeTeam" : "Zhejiang L.",
+  "awayTeam" : "Tianjin P.",
+  "score" : "108-90"
+}, {
+  "homeTeam" : "Ningbo Rockets",
+  "awayTeam" : "Shanghai S.",
+  "score" : "71-99"
+}, {
+  "homeTeam" : "Beijing R. F.",
+  "awayTeam" : "Hong Kong B.",
+  "score" : "96-95"
+}, {
+  "homeTeam" : "Fujian S.",
+  "awayTeam" : "Hunan Changsha Y.",
+  "score" : "94-90"
+}, {
+  "homeTeam" : "Shenzhen Leopards",
+  "awayTeam" : "Xinjiang F.T.",
+  "score" : "96-95"
+}, {
+  "homeTeam" : "H. Kuangfeng",
+  "awayTeam" : "Liaoning F. L.",
+  "score" : "79-90"
+}, {
+  "homeTeam" : "Guandong S.T.",
+  "awayTeam" : "Shanxi L.",
+  "score" : "93-106"
+}, {
+  "homeTeam" : "Guangdong V. (K)",
+  "awayTeam" : "S. Baoshan Dahua (K)",
+  "score" : "101-95"
+}, {
+  "homeTeam" : "Hebei (K)",
+  "awayTeam" : "Jiangsu Phoenix (K)",
+  "score" : "69-93"
+}, {
+  "homeTeam" : "KCC Egis",
+  "awayTeam" : "Anyang KGC",
+  "score" : "72-77"
+}, {
+  "homeTeam" : "LG Sakers",
+  "awayTeam" : "Daegu Pegasus",
+  "score" : "64-66"
 } ]
