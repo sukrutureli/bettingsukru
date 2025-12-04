@@ -1,0 +1,177 @@
+[ {
+  "homeTeam" : "Al Nasr Dubai",
+  "awayTeam" : "AL Ain",
+  "picks" : [ "MS2 (1.82 - 69.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.82 - 69.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Terengganu",
+  "awayTeam" : "Kuching FA",
+  "picks" : [ "Var (1.39 - 66.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.39 - 66.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CS Constantine",
+  "awayTeam" : "Js El Biar",
+  "picks" : [ "Alt (1.4 - 69.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 69.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Jazira (Bae)",
+  "awayTeam" : "AL Wahda",
+  "picks" : [ "Var (1.47 - 69.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.47 - 69.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zorya Luhansk",
+  "awayTeam" : "Karpaty Lviv",
+  "picks" : [ "Alt (1.58 - 71.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.58 - 71.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "NK Slaven",
+  "awayTeam" : "HNK Gorica",
+  "picks" : [ "Var (1.59 - 76.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.59 - 76.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "NEC",
+  "awayTeam" : "Vipers SC",
+  "picks" : [ "Alt (1.32 - 69.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.32 - 69.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Weiss Essen",
+  "awayTeam" : "Stuttgart II",
+  "picks" : [ "Var (1.36 - 78.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.36 - 78.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Eintracht Trier",
+  "awayTeam" : "Stuttgarter Kickers",
+  "picks" : [ "Var (1.4 - 61.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 61.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dynamo",
+  "awayTeam" : "Hallescher",
+  "picks" : [ "Var (1.47 - 64.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.47 - 64.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Aubagne",
+  "awayTeam" : "Rouen",
+  "picks" : [ "Alt (1.44 - 67.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.44 - 67.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Versailles 78",
+  "awayTeam" : "Le Puy Foot 43",
+  "picks" : [ "Alt (1.43 - 66.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.43 - 66.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Otelul Galati",
+  "awayTeam" : "Unirea Slobozia",
+  "picks" : [ "MS1 (1.37 - 68.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.37 - 68.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "RFC Seraing",
+  "awayTeam" : "Eupen",
+  "picks" : [ "Var (1.49 - 59.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.49 - 59.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Waalwijk",
+  "awayTeam" : "VVV Venlo",
+  "picks" : [ "Üst (1.32 - 60.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.32 - 60.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Helmond",
+  "awayTeam" : "Maastricht",
+  "picks" : [ "Üst (1.39 - 69.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.39 - 69.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Vaduz",
+  "awayTeam" : "N. Xamax",
+  "picks" : [ "Var (1.32 - 77.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.32 - 77.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Calcio Catania",
+  "awayTeam" : "Crotone",
+  "picks" : [ "Alt (1.37 - 61.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.37 - 61.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AC Trento",
+  "awayTeam" : "Cittadella",
+  "picks" : [ "Alt (1.4 - 79.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 79.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lechia Gdansk",
+  "awayTeam" : "Gornik Zabrze",
+  "picks" : [ "Var (1.45 - 75.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.45 - 75.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cardiff Metro.",
+  "awayTeam" : "Llanelli",
+  "picks" : [ "Üst (1.37 - 82.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.37 - 82.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hull City",
+  "awayTeam" : "Middlesbrough",
+  "picks" : [ "Var (1.49 - 72.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.49 - 72.1%)" : "pending"
+  }
+} ]
