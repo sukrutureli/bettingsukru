@@ -62,4 +62,164 @@
   "homeTeam" : "Deportes Concepcion",
   "awayTeam" : "CD Cobreloa C.",
   "score" : "1-1"
+}, {
+  "homeTeam" : "Yalova 77 SK",
+  "awayTeam" : "Gaziantep",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Fethiyespor",
+  "awayTeam" : "Bandırmaspor",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Boluspor",
+  "awayTeam" : "Kahta 02 Spor",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Iğdır FK",
+  "awayTeam" : "Orduspor 1967",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Shan Utd",
+  "awayTeam" : "Nam Dinh",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Bangkok Utd",
+  "awayTeam" : "Lion C. Sailors",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Preah Khan R. S.",
+  "awayTeam" : "Johor Darul",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Kabala",
+  "awayTeam" : "Safa",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Zelezniçar",
+  "awayTeam" : "Siroki Brijeg",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "Dobrudzha Dobrich",
+  "awayTeam" : "Ludogorets",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Botev Vratsa",
+  "awayTeam" : "PFC Spartak Varna",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "MC Sidi Ali Boussidi",
+  "awayTeam" : "RC Arbaa",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "MC Saida",
+  "awayTeam" : "Nrb Teleghma",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "AS Khroub",
+  "awayTeam" : "Olympique Akbou",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "MC Magra",
+  "awayTeam" : "USM Alger",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Paradou AC",
+  "awayTeam" : "CRB Adrar",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "SC East Bengal",
+  "awayTeam" : "Punjab",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Golik North D.",
+  "awayTeam" : "Wofoo Tai PO",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Kheybar Khorramabad",
+  "awayTeam" : "Shams Azar Qazvin",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "GOL Gohar",
+  "awayTeam" : "Paykan",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "TS Tabriz",
+  "awayTeam" : "Esteghlal K.",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "AL Waab",
+  "awayTeam" : "AL Gharrafa",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Markhiya",
+  "awayTeam" : "AL Duhail SC",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Kharitiyat",
+  "awayTeam" : "AL Sadd",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Nairobi Utd",
+  "awayTeam" : "Mathare Utd",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Migori Youth",
+  "awayTeam" : "Fortune Sacco",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "3K",
+  "awayTeam" : "Kibera Black Stars",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Silver Strikers",
+  "awayTeam" : "Kamuzu Barracks",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Moyale Barracks",
+  "awayTeam" : "Ekhaya",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Monterrey",
+  "awayTeam" : "D. Toluca",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "El Gouna",
+  "awayTeam" : "Asyut Petroleum",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Chojniczanka",
+  "awayTeam" : "Korona Kielce",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Sokol Kleczew",
+  "awayTeam" : "LKS Lodz II",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "CS Sporting Liesti",
+  "awayTeam" : "AFC Metalul Buzau",
+  "score" : "4-11"
+}, {
+  "homeTeam" : "Sepsi Os Sf",
+  "awayTeam" : "U. Cluj",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Gicumbi",
+  "awayTeam" : "AS Kigali",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Young Africans SC",
+  "awayTeam" : "Fountain Gate",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Phrae Utd",
+  "awayTeam" : "Rasisalai Utd",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Kasetsart",
+  "awayTeam" : "Pattaya Dolphins Utd",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Express",
+  "awayTeam" : "Calvary",
+  "score" : "4-0"
 } ]

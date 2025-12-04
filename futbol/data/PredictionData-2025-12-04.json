@@ -34,9 +34,9 @@
   "homeTeam" : "AS Khroub",
   "awayTeam" : "Olympique Akbou",
   "picks" : [ "Alt (1.34 - 69.0%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.34 - 69.0%)" : "pending"
+    "Alt (1.34 - 69.0%)" : "won"
   }
 }, {
   "homeTeam" : "CE Sabadell",
