@@ -198,4 +198,60 @@
   "homeTeam" : "Parma Permsk",
   "awayTeam" : "N. Novgorod",
   "score" : "93-85"
+}, {
+  "homeTeam" : "Anadolu Efes",
+  "awayTeam" : "Real Madrid",
+  "score" : "75-81"
+}, {
+  "homeTeam" : "Zalgiris Kaunas",
+  "awayTeam" : "M. Tel Aviv",
+  "score" : "65-83"
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Paris",
+  "score" : "125-104"
+}, {
+  "homeTeam" : "Hap. Tel Aviv",
+  "awayTeam" : "Asvel Vil.",
+  "score" : "87-80"
+}, {
+  "homeTeam" : "Partizan",
+  "awayTeam" : "Bayern Münih",
+  "score" : "92-85"
+}, {
+  "homeTeam" : "Olimp Ljubljana",
+  "awayTeam" : "Slask Wroclaw",
+  "score" : "108-74"
+}, {
+  "homeTeam" : "Aris",
+  "awayTeam" : "Cluj Napoca",
+  "score" : "88-98"
+}, {
+  "homeTeam" : "Hapoel Jerusalem",
+  "awayTeam" : "Reyer Venezia",
+  "score" : "98-66"
+}, {
+  "homeTeam" : "Lietkabelis",
+  "awayTeam" : "London Lions",
+  "score" : "61-74"
+}, {
+  "homeTeam" : "Ratiopharm Ulm",
+  "awayTeam" : "A. Basket Trento",
+  "score" : "87-100"
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Türk Telekom",
+  "score" : "63-87"
+}, {
+  "homeTeam" : "KK Igokea",
+  "awayTeam" : "Zenit",
+  "score" : "80-83"
+}, {
+  "homeTeam" : "Surrey 89ers",
+  "awayTeam" : "Cheshire Phoenix",
+  "score" : "79-86"
+}, {
+  "homeTeam" : "Slam Stal",
+  "awayTeam" : "Anwil Wlocl.",
+  "score" : "104-89"
 } ]

@@ -122,32 +122,32 @@
   "homeTeam" : "Ratiopharm Ulm",
   "awayTeam" : "A. Basket Trento",
   "picks" : [ "172.5 Alt (1.65 - 63.7%)" ],
-  "score" : "-",
+  "score" : "87-100",
   "statuses" : {
-    "172.5 Alt (1.65 - 63.7%)" : "pending"
+    "172.5 Alt (1.65 - 63.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Niners Chemnitz",
   "awayTeam" : "Türk Telekom",
   "picks" : [ "MS2 (1.52 - 74.0%)" ],
-  "score" : "-",
+  "score" : "63-87",
   "statuses" : {
-    "MS2 (1.52 - 74.0%)" : "pending"
+    "MS2 (1.52 - 74.0%)" : "won"
   }
 }, {
   "homeTeam" : "Hap. Tel Aviv",
   "awayTeam" : "Asvel Vil.",
   "picks" : [ "170.5 Alt (1.6 - 65.6%)" ],
-  "score" : "-",
+  "score" : "87-80",
   "statuses" : {
-    "170.5 Alt (1.6 - 65.6%)" : "pending"
+    "170.5 Alt (1.6 - 65.6%)" : "won"
   }
 }, {
   "homeTeam" : "Partizan",
   "awayTeam" : "Bayern Münih",
   "picks" : [ "163.5 Alt (1.64 - 56.5%)" ],
-  "score" : "-",
+  "score" : "92-85",
   "statuses" : {
-    "163.5 Alt (1.64 - 56.5%)" : "pending"
+    "163.5 Alt (1.64 - 56.5%)" : "lost"
   }
 } ]
