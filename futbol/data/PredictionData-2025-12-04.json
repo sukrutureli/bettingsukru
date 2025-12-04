@@ -42,40 +42,40 @@
   "homeTeam" : "CE Sabadell",
   "awayTeam" : "Dep. La Coruna",
   "picks" : [ "MS2 (1.85 - 65.6%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "MS2 (1.85 - 65.6%)" : "pending"
+    "MS2 (1.85 - 65.6%)" : "won"
   }
 }, {
   "homeTeam" : "Midtjylland",
   "awayTeam" : "Nordsjælland",
   "picks" : [ "Üst (1.33 - 76.3%)" ],
-  "score" : "-",
+  "score" : "5-1",
   "statuses" : {
-    "Üst (1.33 - 76.3%)" : "pending"
+    "Üst (1.33 - 76.3%)" : "won"
   }
 }, {
   "homeTeam" : "Petrolul Ploiesti",
   "awayTeam" : "Un. Craiova",
   "picks" : [ "Alt (1.54 - 70.6%)" ],
-  "score" : "-",
+  "score" : "0-4",
   "statuses" : {
-    "Alt (1.54 - 70.6%)" : "pending"
+    "Alt (1.54 - 70.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Cartagena",
   "awayTeam" : "Valencia",
   "picks" : [ "Alt (1.48 - 64.5%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.48 - 64.5%)" : "pending"
+    "Alt (1.48 - 64.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Lazio",
   "awayTeam" : "AC Milan",
   "picks" : [ "Alt (1.5 - 76.3%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.5 - 76.3%)" : "pending"
+    "Alt (1.5 - 76.3%)" : "won"
   }
 } ]
