@@ -1,0 +1,113 @@
+[ {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "San Antonio",
+  "score" : "112-114"
+}, {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Denver",
+  "score" : "120-135"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Portland",
+  "score" : "110-122"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "LA Clippers",
+  "score" : "92-115"
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Charlotte",
+  "score" : "119-104"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Brooklyn",
+  "score" : "103-113"
+}, {
+  "homeTeam" : "Houston",
+  "awayTeam" : "Sacramento",
+  "score" : "121-95"
+}, {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "Detroit",
+  "score" : "113-109"
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Miami",
+  "score" : "118-108"
+}, {
+  "homeTeam" : "Miami Hurricanes (K)",
+  "awayTeam" : "Kentucky Wildcats (K)",
+  "score" : "48-64"
+}, {
+  "homeTeam" : "Vanderbilt Commod (K)",
+  "awayTeam" : "Virginia Cavaliers (K)",
+  "score" : "81-68"
+}, {
+  "homeTeam" : "Texas Tec Red Raiders (K)",
+  "awayTeam" : "Wichita State Shockers",
+  "score" : "83-43"
+}, {
+  "homeTeam" : "Michigan Wolverines (K)",
+  "awayTeam" : "Central Michigan Chippewas",
+  "score" : "82-40"
+}, {
+  "homeTeam" : "Oklahoma Sooners (K)",
+  "awayTeam" : "North Carolina State (K)",
+  "score" : "103-98"
+}, {
+  "homeTeam" : "TCU Horned Frogs (K)",
+  "awayTeam" : "Incarnate Word Cardinals",
+  "score" : "84-56"
+}, {
+  "homeTeam" : "Minnesota Golden Gophers",
+  "awayTeam" : "Indiana Hoo",
+  "score" : "73-64"
+}, {
+  "homeTeam" : "Alabama Crimson Tide",
+  "awayTeam" : "Clemson Tigers",
+  "score" : "90-84"
+}, {
+  "homeTeam" : "Arkansas Razorbacks",
+  "awayTeam" : "Louisville Cardinals",
+  "score" : "89-80"
+}, {
+  "homeTeam" : "Brigham Young Cougars",
+  "awayTeam" : "California Baptist Lancers",
+  "score" : "91-60"
+}, {
+  "homeTeam" : "Vanderbilt Commodores",
+  "awayTeam" : "Southern Methodist Mustangs",
+  "score" : "88-69"
+}, {
+  "homeTeam" : "Auburn Tigers",
+  "awayTeam" : "NCS Wolfpack",
+  "score" : "83-73"
+}, {
+  "homeTeam" : "Atenas Cord",
+  "awayTeam" : "Independiente de Oliva",
+  "score" : "48-78"
+}, {
+  "homeTeam" : "La Union Formosa",
+  "awayTeam" : "Instituto de Cordoba",
+  "score" : "82-58"
+}, {
+  "homeTeam" : "Ferro Carril",
+  "awayTeam" : "Union de Santa Fe",
+  "score" : "98-86"
+}, {
+  "homeTeam" : "Franca SP",
+  "awayTeam" : "SC Corinthians P.",
+  "score" : "80-71"
+}, {
+  "homeTeam" : "EC Pinheiros SP",
+  "awayTeam" : "Flamengo",
+  "score" : "83-67"
+}, {
+  "homeTeam" : "CD Valdivia",
+  "awayTeam" : "CD Espanol Osorno",
+  "score" : "75-57"
+}, {
+  "homeTeam" : "CA Cordon",
+  "awayTeam" : "Club Nacional",
+  "score" : "90-109"
+} ]

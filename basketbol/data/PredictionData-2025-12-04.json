@@ -2,57 +2,57 @@
   "homeTeam" : "Orlando",
   "awayTeam" : "San Antonio",
   "picks" : [ "235.5 Üst (1.64 - 74.7%)" ],
-  "score" : "-",
+  "score" : "112-114",
   "statuses" : {
-    "235.5 Üst (1.64 - 74.7%)" : "pending"
+    "235.5 Üst (1.64 - 74.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Cleveland",
   "awayTeam" : "Portland",
   "picks" : [ "239.5 Alt (1.63 - 66.5%)" ],
-  "score" : "-",
+  "score" : "110-122",
   "statuses" : {
-    "239.5 Alt (1.63 - 66.5%)" : "pending"
+    "239.5 Alt (1.63 - 66.5%)" : "won"
   }
 }, {
   "homeTeam" : "Atlanta",
   "awayTeam" : "LA Clippers",
   "picks" : [ "MS1 (1.39 - 80.6%)" ],
-  "score" : "-",
+  "score" : "92-115",
   "statuses" : {
-    "MS1 (1.39 - 80.6%)" : "pending"
+    "MS1 (1.39 - 80.6%)" : "lost"
   }
 }, {
   "homeTeam" : "New York",
   "awayTeam" : "Charlotte",
   "picks" : [ "235.5 Alt (1.65 - 64.5%)" ],
-  "score" : "-",
+  "score" : "119-104",
   "statuses" : {
-    "235.5 Alt (1.65 - 64.5%)" : "pending"
+    "235.5 Alt (1.65 - 64.5%)" : "won"
   }
 }, {
   "homeTeam" : "La Union Formosa",
   "awayTeam" : "Instituto de Cordoba",
   "picks" : [ "160.5 Alt (1.6 - 61.7%)" ],
-  "score" : "-",
+  "score" : "82-58",
   "statuses" : {
-    "160.5 Alt (1.6 - 61.7%)" : "pending"
+    "160.5 Alt (1.6 - 61.7%)" : "won"
   }
 }, {
   "homeTeam" : "Houston",
   "awayTeam" : "Sacramento",
   "picks" : [ "230.5 Alt (1.65 - 59.6%)" ],
-  "score" : "-",
+  "score" : "121-95",
   "statuses" : {
-    "230.5 Alt (1.65 - 59.6%)" : "pending"
+    "230.5 Alt (1.65 - 59.6%)" : "won"
   }
 }, {
   "homeTeam" : "Dallas",
   "awayTeam" : "Miami",
   "picks" : [ "MS2 (1.31 - 63.7%)" ],
-  "score" : "-",
+  "score" : "118-108",
   "statuses" : {
-    "MS2 (1.31 - 63.7%)" : "pending"
+    "MS2 (1.31 - 63.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Beijing D.",
