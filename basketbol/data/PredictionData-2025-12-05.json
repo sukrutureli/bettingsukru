@@ -1,0 +1,177 @@
+[ {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Golden State",
+  "picks" : [ "220.5 Üst (1.63 - 69.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "220.5 Üst (1.63 - 69.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Boston",
+  "picks" : [ "230.5 Üst (1.64 - 69.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "230.5 Üst (1.64 - 69.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sichuan B. W.",
+  "awayTeam" : "Ningbo Rockets",
+  "picks" : [ "174.5 Üst (1.6 - 97.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "174.5 Üst (1.6 - 97.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hunan Changsha Y.",
+  "awayTeam" : "Jilin N.T.",
+  "picks" : [ "181.5 Üst (1.62 - 70.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "181.5 Üst (1.62 - 70.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Converge Fiberxers",
+  "awayTeam" : "Hotshots P.",
+  "picks" : [ "191.5 Üst (1.66 - 73.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "191.5 Üst (1.66 - 73.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Woori Bank H. (K)",
+  "awayTeam" : "Bucheon Hana (K)",
+  "picks" : [ "MS2 (1.31 - 65.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.31 - 65.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rizing Fukuoka",
+  "awayTeam" : "Nishinomiya",
+  "picks" : [ "145.5 Üst (1.63 - 80.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "145.5 Üst (1.63 - 80.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Guangzhou L. L.",
+  "awayTeam" : "Guandong S. T.",
+  "picks" : [ "183.5 Üst (1.66 - 92.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "183.5 Üst (1.66 - 92.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zhejiang G. B.",
+  "awayTeam" : "Shenzhen Leopards",
+  "picks" : [ "180.5 Üst (1.6 - 93.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "180.5 Üst (1.6 - 93.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lokomotiv Kuban",
+  "awayTeam" : "CSKA Moskova",
+  "picks" : [ "167.5 Üst (1.59 - 60.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Üst (1.59 - 60.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "KK Zadar",
+  "awayTeam" : "BC Vienna",
+  "picks" : [ "160.5 Üst (1.65 - 64.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "160.5 Üst (1.65 - 64.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Wurzburg",
+  "awayTeam" : "Oldenburg",
+  "picks" : [ "163.5 Alt (1.66 - 73.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "163.5 Alt (1.66 - 73.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Panathinaikos",
+  "awayTeam" : "Valencia",
+  "picks" : [ "177.5 Alt (1.66 - 70.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "177.5 Alt (1.66 - 70.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "IR Reykjavik",
+  "awayTeam" : "Alftanes",
+  "picks" : [ "176.5 Üst (1.65 - 56.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "176.5 Üst (1.65 - 56.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UMF Tindastoll",
+  "awayTeam" : "IA Akranes",
+  "picks" : [ "185.5 Alt (1.63 - 57.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "185.5 Alt (1.63 - 57.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "BC Dubai",
+  "picks" : [ "169.5 Üst (1.67 - 70.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "169.5 Üst (1.67 - 70.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Saint Chamond",
+  "awayTeam" : "Pau Orthez",
+  "picks" : [ "MS1 (1.4 - 68.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.4 - 68.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "A. S. Alsace",
+  "awayTeam" : "JA Vichy Clermont",
+  "picks" : [ "161.5 Üst (1.66 - 59.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "161.5 Üst (1.66 - 59.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Vendee Challans B.",
+  "awayTeam" : "Hyeres Toulon",
+  "picks" : [ "MS2 (1.44 - 79.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.44 - 79.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bristol Flyers",
+  "awayTeam" : "Manchester Basketball",
+  "picks" : [ "165.5 Üst (1.65 - 64.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "165.5 Üst (1.65 - 64.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sheffield Sharks",
+  "awayTeam" : "Newcastle Eagles",
+  "picks" : [ "MS1 (1.38 - 85.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.38 - 85.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Gipuzkoa",
+  "awayTeam" : "Lucentum Alicante",
+  "picks" : [ "MS2 (1.51 - 68.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.51 - 68.7%)" : "pending"
+  }
+} ]
