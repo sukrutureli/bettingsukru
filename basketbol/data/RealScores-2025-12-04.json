@@ -166,4 +166,36 @@
   "homeTeam" : "LG Sakers",
   "awayTeam" : "Daegu Pegasus",
   "score" : "64-66"
+}, {
+  "homeTeam" : "Bahçeşehir Koleji",
+  "awayTeam" : "Neptunas K.",
+  "score" : "85-100"
+}, {
+  "homeTeam" : "Tennessee Tech Golden (K)",
+  "awayTeam" : "Samford Bulldogs (K)",
+  "score" : "82-60"
+}, {
+  "homeTeam" : "AL Gharafa",
+  "awayTeam" : "Al Rayyan",
+  "score" : "90-106"
+}, {
+  "homeTeam" : "AL Wakrah",
+  "awayTeam" : "AL Khor",
+  "score" : "86-81"
+}, {
+  "homeTeam" : "Miasto Szkla",
+  "awayTeam" : "A. Arka Gdynia",
+  "score" : "60-78"
+}, {
+  "homeTeam" : "Tar. Mures",
+  "awayTeam" : "CSM Oradea",
+  "score" : "82-101"
+}, {
+  "homeTeam" : "Prievidza",
+  "awayTeam" : "Spisski Rytieri",
+  "score" : "104-99"
+}, {
+  "homeTeam" : "Parma Permsk",
+  "awayTeam" : "N. Novgorod",
+  "score" : "93-85"
 } ]

@@ -114,9 +114,9 @@
   "homeTeam" : "Bahçeşehir Koleji",
   "awayTeam" : "Neptunas K.",
   "picks" : [ "180.5 Alt (1.63 - 63.0%)" ],
-  "score" : "-",
+  "score" : "85-100",
   "statuses" : {
-    "180.5 Alt (1.63 - 63.0%)" : "pending"
+    "180.5 Alt (1.63 - 63.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Ratiopharm Ulm",
