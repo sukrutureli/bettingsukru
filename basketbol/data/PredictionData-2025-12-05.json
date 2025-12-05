@@ -74,9 +74,9 @@
   "homeTeam" : "Lokomotiv Kuban",
   "awayTeam" : "CSKA Moskova",
   "picks" : [ "167.5 Üst (1.59 - 60.6%)" ],
-  "score" : "-",
+  "score" : "83-81",
   "statuses" : {
-    "167.5 Üst (1.59 - 60.6%)" : "pending"
+    "167.5 Üst (1.59 - 60.6%)" : "lost"
   }
 }, {
   "homeTeam" : "KK Zadar",

@@ -138,4 +138,20 @@
   "homeTeam" : "Tropang Giga",
   "awayTeam" : "San Miguel",
   "score" : "95-110"
+}, {
+  "homeTeam" : "Trabzonspor",
+  "awayTeam" : "Tofaş",
+  "score" : "92-87"
+}, {
+  "homeTeam" : "Gaziantep",
+  "awayTeam" : "Kocaeli Bşb Kağıtspor",
+  "score" : "79-67"
+}, {
+  "homeTeam" : "Beşiktaş",
+  "awayTeam" : "Panionios",
+  "score" : "101-83"
+}, {
+  "homeTeam" : "Lokomotiv Kuban",
+  "awayTeam" : "CSKA Moskova",
+  "score" : "83-81"
 } ]
