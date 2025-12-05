@@ -2,17 +2,17 @@
   "homeTeam" : "Al Nasr Dubai",
   "awayTeam" : "AL Ain",
   "picks" : [ "MS2 (1.82 - 69.8%)" ],
-  "score" : "-",
+  "score" : "0-3",
   "statuses" : {
-    "MS2 (1.82 - 69.8%)" : "pending"
+    "MS2 (1.82 - 69.8%)" : "won"
   }
 }, {
   "homeTeam" : "Terengganu",
   "awayTeam" : "Kuching FA",
   "picks" : [ "Var (1.39 - 66.3%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.39 - 66.3%)" : "pending"
+    "Var (1.39 - 66.3%)" : "won"
   }
 }, {
   "homeTeam" : "CS Constantine",
