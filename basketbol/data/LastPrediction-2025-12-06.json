@@ -1,0 +1,226 @@
+[ {
+  "name" : "CA San Lorenzo De Almagro - Union de Santa Fe",
+  "time" : "02:30",
+  "predictions" : [ "163.5 Üst (1.64 - 58.9%)" ],
+  "score" : "85-82"
+}, {
+  "name" : "Boston - LA Lakers",
+  "time" : "03:00",
+  "predictions" : [ "227.5 Üst (1.61 - 86.1%)" ],
+  "score" : "126-119"
+}, {
+  "name" : "Club Un. At - Club Malvin",
+  "time" : "03:15",
+  "predictions" : [ "MS2 (1.34 - 60.4%)" ],
+  "score" : "80-82"
+}, {
+  "name" : "New York - Utah",
+  "time" : "03:30",
+  "predictions" : [ "241.5 Alt (1.64 - 70.1%)" ],
+  "score" : "123-112"
+}, {
+  "name" : "Toronto - Charlotte",
+  "time" : "03:30",
+  "predictions" : [ "229.5 Alt (1.65 - 71.3%)" ],
+  "score" : "114-107"
+}, {
+  "name" : "Detroit - Portland",
+  "time" : "03:30",
+  "predictions" : [ "235.5 Alt (1.65 - 64.8%)" ],
+  "score" : "118-112"
+}, {
+  "name" : "Atlanta - Denver",
+  "time" : "03:30",
+  "predictions" : [ "238.5 Üst (1.66 - 55.7%)" ],
+  "score" : "119-122"
+}, {
+  "name" : "Cleveland - San Antonio",
+  "time" : "03:30",
+  "predictions" : [ "238.5 Alt (1.64 - 55.8%)" ],
+  "score" : "120-117"
+}, {
+  "name" : "Memphis - LA Clippers",
+  "time" : "04:00",
+  "predictions" : [ "MS1 (1.73 - 78.6%)" ],
+  "score" : "119-113"
+}, {
+  "name" : "Milwaukee - Philadelphia",
+  "time" : "04:00",
+  "predictions" : [ "221.5 Üst (1.62 - 64.4%)" ],
+  "score" : "116-111"
+}, {
+  "name" : "Yongin Samsung L. (K) - Busan BNK Sum (K)",
+  "time" : "08:00",
+  "predictions" : [ "MS1 (1.81 - 64.1%)" ],
+  "score" : "65-63"
+}, {
+  "name" : "Kyoto Hannarizu - Brave Thunders",
+  "time" : "09:05",
+  "predictions" : [ "155.5 Alt (1.6 - 66.3%)" ],
+  "score" : "77-73"
+}, {
+  "name" : "Ibaraki Robots - Yokohama",
+  "time" : "09:05",
+  "predictions" : [ "157.5 Üst (1.66 - 55.3%)" ],
+  "score" : "80-79"
+}, {
+  "name" : "Kagoshima Rebnise - Fukui Blowwinds",
+  "time" : "09:05",
+  "predictions" : [ "MS2 (1.34 - 61.7%)" ],
+  "score" : "85-88"
+}, {
+  "name" : "N. Z. Breakers - Tasmania Jackjumpers",
+  "time" : "09:30",
+  "predictions" : [ "MS1 (1.53 - 73.5%)" ],
+  "score" : "93-87"
+}, {
+  "name" : "Shandong H. - Zhejiang L.",
+  "time" : "10:00",
+  "predictions" : [ "186.5 Üst (1.64 - 69.9%)" ],
+  "score" : "102-93"
+}, {
+  "name" : "KCC Egis - Dongbu Promy",
+  "time" : "10:30",
+  "predictions" : [ "159.5 Alt (1.6 - 60.2%)" ],
+  "score" : "80-77"
+}, {
+  "name" : "Sun Rockers Shibuya - Levanga Hokkaido",
+  "time" : "11:05",
+  "predictions" : [ "158.5 Üst (1.65 - 79.0%)" ],
+  "score" : "86-85"
+}, {
+  "name" : "Bambitious - Iwate Big Bulls",
+  "time" : "11:05",
+  "predictions" : [ "152.5 Üst (1.62 - 80.2%)" ],
+  "score" : "85-81"
+}, {
+  "name" : "Enisey Krasnoyarsk - MBA Moscow",
+  "time" : "12:00",
+  "predictions" : [ "MS1 (1.45 - 83.6%)" ],
+  "score" : "86-78"
+}, {
+  "name" : "Tianjin P. - Beijing D.",
+  "time" : "14:30",
+  "predictions" : [ "184.5 Üst (1.64 - 91.3%)" ],
+  "score" : "106-100"
+}, {
+  "name" : "Legia Warsz. - Trefl Sopot",
+  "time" : "17:00",
+  "predictions" : [ "MS1 (1.35 - 72.4%)" ],
+  "score" : "88-83"
+}, {
+  "name" : "Promitheas - AO Mykonoy",
+  "time" : "17:00",
+  "predictions" : [ "160.5 Alt (1.66 - 63.1%)" ],
+  "score" : "80-76"
+}, {
+  "name" : "Umea - Sloga Uppsala",
+  "time" : "18:04",
+  "predictions" : [ "MS1 (1.43 - 72.5%)" ],
+  "score" : "87-82"
+}, {
+  "name" : "Alba Fehervar - Ose Lions",
+  "time" : "19:00",
+  "predictions" : [ "181.5 Alt (1.64 - 64.9%)" ],
+  "score" : "92-85"
+}, {
+  "name" : "Galitos Barreiro - Vitoria",
+  "time" : "19:00",
+  "predictions" : [ "176.5 Alt (1.65 - 55.6%)" ],
+  "score" : "89-86"
+}, {
+  "name" : "Ovarense - SL Benfica",
+  "time" : "19:00",
+  "predictions" : [ "166.5 Üst (1.61 - 62.8%)" ],
+  "score" : "87-85"
+}, {
+  "name" : "AS Karditsas - Iraklis 2022",
+  "time" : "19:15",
+  "predictions" : [ "MS1 (1.3 - 60.6%)" ],
+  "score" : "84-82"
+}, {
+  "name" : "Spartak Subotica - Mega Bemax",
+  "time" : "19:30",
+  "predictions" : [ "168.5 Alt (1.65 - 66.0%)" ],
+  "score" : "84-79"
+}, {
+  "name" : "NKA Universitas Pecs - Szedeak",
+  "time" : "20:00",
+  "predictions" : [ "156.5 Üst (1.59 - 68.8%)" ],
+  "score" : "84-80"
+}, {
+  "name" : "MBK Handlova - Spisski Rytieri",
+  "time" : "20:00",
+  "predictions" : [ "162.5 Üst (1.64 - 76.5%)" ],
+  "score" : "84-90"
+}, {
+  "name" : "Prievidza - BKM Lucenec",
+  "time" : "20:00",
+  "predictions" : [ "167.5 Üst (1.66 - 68.9%)" ],
+  "score" : "91-84"
+}, {
+  "name" : "Cholet - Limoges CSP",
+  "time" : "20:10",
+  "predictions" : [ "167.5 Üst (1.59 - 57.9%)" ],
+  "score" : "90-81"
+}, {
+  "name" : "SC Jena - Ratiopharm Ulm",
+  "time" : "20:30",
+  "predictions" : [ "MS1 (1.76 - 88.2%)" ],
+  "score" : "89-79"
+}, {
+  "name" : "Araski (K) - Cab Estepona (K)",
+  "time" : "21:00",
+  "predictions" : [ "138.5 Üst (1.61 - 61.8%)" ],
+  "score" : "71-72"
+}, {
+  "name" : "Menorca Basquet - Innova Chef Cb Zamora",
+  "time" : "21:30",
+  "predictions" : [ "164.5 Alt (1.6 - 57.9%)" ],
+  "score" : "83-80"
+}, {
+  "name" : "SC Braga - Imortal BC",
+  "time" : "21:45",
+  "predictions" : [ "MS1 (1.64 - 80.7%)" ],
+  "score" : "86-78"
+}, {
+  "name" : "Telekom Bonn - Niners Chemnitz",
+  "time" : "22:00",
+  "predictions" : [ "MS1 (1.57 - 77.0%)" ],
+  "score" : "87-80"
+}, {
+  "name" : "Ludwigsburg - Gladiators Trier",
+  "time" : "22:00",
+  "predictions" : [ "173.5 Üst (1.63 - 55.9%)" ],
+  "score" : "90-86"
+}, {
+  "name" : "Aris Leeuwarden - Rotterdam City Basketball",
+  "time" : "22:00",
+  "predictions" : [ "178.5 Üst (1.65 - 61.5%)" ],
+  "score" : "95-88"
+}, {
+  "name" : "Reggiana Emilia - Brescia",
+  "time" : "22:30",
+  "predictions" : [ "MS2 (1.42 - 66.8%)" ],
+  "score" : "82-86"
+}, {
+  "name" : "Leuven Bears - Den Helder Suns",
+  "time" : "22:30",
+  "predictions" : [ "162.5 Üst (1.64 - 57.1%)" ],
+  "score" : "87-79"
+}, {
+  "name" : "Urania Milano - Basket Mestre 1958",
+  "time" : "22:30",
+  "predictions" : [ "MS1 (1.39 - 65.5%)" ],
+  "score" : "83-79"
+}, {
+  "name" : "Basket Scafati 1969 - Rimini",
+  "time" : "22:30",
+  "predictions" : [ "MS1 (1.45 - 80.0%)" ],
+  "score" : "84-77"
+}, {
+  "name" : "Paffoni Omegna - Montecatiniterme Basketball",
+  "time" : "23:00",
+  "predictions" : [ "157.5 Üst (1.61 - 71.1%)" ],
+  "score" : "83-83"
+} ]
