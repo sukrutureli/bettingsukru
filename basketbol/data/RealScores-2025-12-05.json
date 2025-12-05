@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Golden State",
+  "score" : "99-98"
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Boston",
+  "score" : "101-146"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "LA Lakers",
+  "score" : "120-123"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Utah",
+  "score" : "110-123"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Minnesota",
+  "score" : "116-125"
+}, {
+  "homeTeam" : "Texas Longhorns (K)",
+  "awayTeam" : "N. Carolina Tar Heels (K)",
+  "score" : "79-64"
+}, {
+  "homeTeam" : "Louisville Cardinals (K)",
+  "awayTeam" : "South Carolina (K)",
+  "score" : "77-79"
+}, {
+  "homeTeam" : "Ole Mississippi Rebels (K)",
+  "awayTeam" : "Notre Dame (K)",
+  "score" : "69-62"
+}, {
+  "homeTeam" : "Duke Blue Devils (K)",
+  "awayTeam" : "LSU Tigers (K)",
+  "score" : "77-93"
+}, {
+  "homeTeam" : "CA Paulistano",
+  "awayTeam" : "Botafogo",
+  "score" : "101-77"
+}, {
+  "homeTeam" : "Basquete Osasco",
+  "awayTeam" : "Mogi Das Cruzes",
+  "score" : "68-93"
+}, {
+  "homeTeam" : "Universo Brasilia",
+  "awayTeam" : "B. Cearense",
+  "score" : "105-90"
+}, {
+  "homeTeam" : "CD Valdivia",
+  "awayTeam" : "CD Espanol Osorno",
+  "score" : "82-66"
+}, {
+  "homeTeam" : "CA Penarol",
+  "awayTeam" : "Urunday Universitario",
+  "score" : "85-58"
+}, {
+  "homeTeam" : "CA Welcome",
+  "awayTeam" : "Club Bigua De Villa Biarritz",
+  "score" : "86-98"
+} ]

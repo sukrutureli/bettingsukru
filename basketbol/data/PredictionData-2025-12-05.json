@@ -2,17 +2,17 @@
   "homeTeam" : "Philadelphia",
   "awayTeam" : "Golden State",
   "picks" : [ "220.5 Üst (1.63 - 69.9%)" ],
-  "score" : "-",
+  "score" : "99-98",
   "statuses" : {
-    "220.5 Üst (1.63 - 69.9%)" : "pending"
+    "220.5 Üst (1.63 - 69.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Washington",
   "awayTeam" : "Boston",
   "picks" : [ "230.5 Üst (1.64 - 69.2%)" ],
-  "score" : "-",
+  "score" : "101-146",
   "statuses" : {
-    "230.5 Üst (1.64 - 69.2%)" : "pending"
+    "230.5 Üst (1.64 - 69.2%)" : "won"
   }
 }, {
   "homeTeam" : "Sichuan B. W.",
