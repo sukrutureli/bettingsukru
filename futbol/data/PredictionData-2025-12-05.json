@@ -18,41 +18,41 @@
   "homeTeam" : "CS Constantine",
   "awayTeam" : "Js El Biar",
   "picks" : [ "Alt (1.4 - 69.6%)" ],
-  "score" : "-",
+  "score" : "4-1",
   "statuses" : {
-    "Alt (1.4 - 69.6%)" : "pending"
+    "Alt (1.4 - 69.6%)" : "lost"
   }
 }, {
   "homeTeam" : "AL Jazira (Bae)",
   "awayTeam" : "AL Wahda",
   "picks" : [ "Var (1.47 - 69.2%)" ],
-  "score" : "-",
+  "score" : "0-3",
   "statuses" : {
-    "Var (1.47 - 69.2%)" : "pending"
+    "Var (1.47 - 69.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Zorya Luhansk",
   "awayTeam" : "Karpaty Lviv",
   "picks" : [ "Alt (1.58 - 71.5%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.58 - 71.5%)" : "pending"
+    "Alt (1.58 - 71.5%)" : "won"
   }
 }, {
   "homeTeam" : "NK Slaven",
   "awayTeam" : "HNK Gorica",
   "picks" : [ "Var (1.59 - 76.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Var (1.59 - 76.3%)" : "pending"
+    "Var (1.59 - 76.3%)" : "won"
   }
 }, {
   "homeTeam" : "NEC",
   "awayTeam" : "Vipers SC",
   "picks" : [ "Alt (1.32 - 69.3%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.32 - 69.3%)" : "pending"
+    "Alt (1.32 - 69.3%)" : "won"
   }
 }, {
   "homeTeam" : "Weiss Essen",

@@ -182,4 +182,132 @@
   "homeTeam" : "Updf",
   "awayTeam" : "Lugazi Municipal",
   "score" : "2-0"
+}, {
+  "homeTeam" : "Galatasaray",
+  "awayTeam" : "Samsunspor",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Akhmat Grozny",
+  "awayTeam" : "Orenburg",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Guelson",
+  "awayTeam" : "Academica Petroleos DO Lobito",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Umman",
+  "awayTeam" : "Fas",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Admira Wacker",
+  "awayTeam" : "Kapfenberger SV",
+  "score" : "6-1"
+}, {
+  "homeTeam" : "R. Wien (Amt)",
+  "awayTeam" : "Schwarz Weiss B.",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Floridsdorfer",
+  "awayTeam" : "Wsc Hertha",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "AL Jazira (Bae)",
+  "awayTeam" : "AL Wahda",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Lokomotiv Gorna O.",
+  "awayTeam" : "Dunav 2010",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "RC Bobo Dioulasso",
+  "awayTeam" : "Vitesse",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "CS Constantine",
+  "awayTeam" : "Js El Biar",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "ASO Chlef",
+  "awayTeam" : "CA Sidi Abdelmoumen",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "MC Oran",
+  "awayTeam" : "ES Mostaganem",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Teplice",
+  "awayTeam" : "Slavia Prag",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Eleven Wonders",
+  "awayTeam" : "Swedru All Blacks",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Legon Cities",
+  "awayTeam" : "Berekum Arsenal",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Maties",
+  "awayTeam" : "Nanini Na All Stars",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Pafos",
+  "awayTeam" : "Akritas Chlorakas",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "NK Slaven",
+  "awayTeam" : "HNK Gorica",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "NK Karlovac 1919",
+  "awayTeam" : "Hrvace",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "AL Bidda SC",
+  "awayTeam" : "AL Wakrah",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Al Mesaimeer",
+  "awayTeam" : "AL Shamal",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Al Khoor",
+  "awayTeam" : "AL Ahli Doha",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "Asn Nigelec",
+  "awayTeam" : "AS Uni. Abdou Moumouni",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "GKS Tychy",
+  "awayTeam" : "Polonia Warszawa",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Benfica U23",
+  "awayTeam" : "Portimonense U23",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Concordia",
+  "awayTeam" : "Chindia",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Rayon Sports",
+  "awayTeam" : "Musanze",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Saint Louis Suns Utd",
+  "awayTeam" : "Light Stars",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Koper",
+  "awayTeam" : "NK Domzale",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "NEC",
+  "awayTeam" : "Vipers SC",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Zorya Luhansk",
+  "awayTeam" : "Karpaty Lviv",
+  "score" : "1-0"
 } ]
