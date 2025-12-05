@@ -1,0 +1,29 @@
+[ {
+  "homeTeam" : "Tenerife",
+  "awayTeam" : "Granada",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Cruzeiro MG",
+  "awayTeam" : "Botafogo RJ",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "U. de Vinto",
+  "awayTeam" : "Strongest",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Club Bolivar",
+  "awayTeam" : "Nacional Potosi",
+  "score" : "5-2"
+}, {
+  "homeTeam" : "Marathon",
+  "awayTeam" : "Lobos Upnfm",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Atl. Nacional Medellin",
+  "awayTeam" : "I. Medellin",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Atl Junior",
+  "awayTeam" : "America De Cali",
+  "score" : "2-1"
+} ]
