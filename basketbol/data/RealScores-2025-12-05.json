@@ -58,4 +58,84 @@
   "homeTeam" : "CA Welcome",
   "awayTeam" : "Club Bigua De Villa Biarritz",
   "score" : "86-98"
+}, {
+  "homeTeam" : "Adelaide 36ers",
+  "awayTeam" : "Brisbane Bullets",
+  "score" : "90-65"
+}, {
+  "homeTeam" : "Perth Lynx (K)",
+  "awayTeam" : "Southside Flyers (K)",
+  "score" : "98-81"
+}, {
+  "homeTeam" : "Sichuan B.W.",
+  "awayTeam" : "Ningbo Rockets",
+  "score" : "59-99"
+}, {
+  "homeTeam" : "Hong Kong B.",
+  "awayTeam" : "Nanjing M.K.",
+  "score" : "91-78"
+}, {
+  "homeTeam" : "Jiangsu D.",
+  "awayTeam" : "H. Kuangfeng",
+  "score" : "80-100"
+}, {
+  "homeTeam" : "Guangzhou L.L.",
+  "awayTeam" : "Guandong S.T.",
+  "score" : "80-94"
+}, {
+  "homeTeam" : "Hunan Changsha Y.",
+  "awayTeam" : "Jilin N.T.",
+  "score" : "76-101"
+}, {
+  "homeTeam" : "Zhejiang G.B.",
+  "awayTeam" : "Shenzhen Leopards",
+  "score" : "110-89"
+}, {
+  "homeTeam" : "Shaanxi Tianze (K)",
+  "awayTeam" : "Zhejiang Golden B. (K)",
+  "score" : "63-76"
+}, {
+  "homeTeam" : "Sichuan B. W. (K)",
+  "awayTeam" : "Xinjiang Magic Deer (K)",
+  "score" : "94-57"
+}, {
+  "homeTeam" : "Beijing Great Wall (K)",
+  "awayTeam" : "Wuhan Shengfan (K)",
+  "score" : "75-88"
+}, {
+  "homeTeam" : "Shandong (K)",
+  "awayTeam" : "Shanxi Xing Rui F. (K)",
+  "score" : "73-72"
+}, {
+  "homeTeam" : "Dalian Wenti (K)",
+  "awayTeam" : "Fujian Bailu (K)",
+  "score" : "78-76"
+}, {
+  "homeTeam" : "Woori Bank H. (K)",
+  "awayTeam" : "Bucheon Hana (K)",
+  "score" : "62-71"
+}, {
+  "homeTeam" : "Samsung Thunders",
+  "awayTeam" : "KT Sonicboom",
+  "score" : "96-71"
+}, {
+  "homeTeam" : "Goyang Orions",
+  "awayTeam" : "Seoul SK Knights",
+  "score" : "72-79"
+}, {
+  "homeTeam" : "Seahorses Mikawa",
+  "awayTeam" : "Shiga Lake Stars",
+  "score" : "98-82"
+}, {
+  "homeTeam" : "Rizing Fukuoka",
+  "awayTeam" : "Nishinomiya",
+  "score" : "71-88"
+}, {
+  "homeTeam" : "Converge Fiberxers",
+  "awayTeam" : "Hotshots P.",
+  "score" : "114-97"
+}, {
+  "homeTeam" : "Tropang Giga",
+  "awayTeam" : "San Miguel",
+  "score" : "95-110"
 } ]

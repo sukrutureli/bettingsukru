@@ -18,41 +18,41 @@
   "homeTeam" : "Sichuan B. W.",
   "awayTeam" : "Ningbo Rockets",
   "picks" : [ "174.5 Üst (1.6 - 97.4%)" ],
-  "score" : "-",
+  "score" : "59-99",
   "statuses" : {
-    "174.5 Üst (1.6 - 97.4%)" : "pending"
+    "174.5 Üst (1.6 - 97.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Hunan Changsha Y.",
   "awayTeam" : "Jilin N.T.",
   "picks" : [ "181.5 Üst (1.62 - 70.4%)" ],
-  "score" : "-",
+  "score" : "76-101",
   "statuses" : {
-    "181.5 Üst (1.62 - 70.4%)" : "pending"
+    "181.5 Üst (1.62 - 70.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Converge Fiberxers",
   "awayTeam" : "Hotshots P.",
   "picks" : [ "191.5 Üst (1.66 - 73.2%)" ],
-  "score" : "-",
+  "score" : "114-97",
   "statuses" : {
-    "191.5 Üst (1.66 - 73.2%)" : "pending"
+    "191.5 Üst (1.66 - 73.2%)" : "won"
   }
 }, {
   "homeTeam" : "Woori Bank H. (K)",
   "awayTeam" : "Bucheon Hana (K)",
   "picks" : [ "MS2 (1.31 - 65.5%)" ],
-  "score" : "-",
+  "score" : "62-71",
   "statuses" : {
-    "MS2 (1.31 - 65.5%)" : "pending"
+    "MS2 (1.31 - 65.5%)" : "won"
   }
 }, {
   "homeTeam" : "Rizing Fukuoka",
   "awayTeam" : "Nishinomiya",
   "picks" : [ "145.5 Üst (1.63 - 80.7%)" ],
-  "score" : "-",
+  "score" : "71-88",
   "statuses" : {
-    "145.5 Üst (1.63 - 80.7%)" : "pending"
+    "145.5 Üst (1.63 - 80.7%)" : "won"
   }
 }, {
   "homeTeam" : "Guangzhou L. L.",
@@ -66,9 +66,9 @@
   "homeTeam" : "Zhejiang G. B.",
   "awayTeam" : "Shenzhen Leopards",
   "picks" : [ "180.5 Üst (1.6 - 93.5%)" ],
-  "score" : "-",
+  "score" : "110-89",
   "statuses" : {
-    "180.5 Üst (1.6 - 93.5%)" : "pending"
+    "180.5 Üst (1.6 - 93.5%)" : "won"
   }
 }, {
   "homeTeam" : "Lokomotiv Kuban",
