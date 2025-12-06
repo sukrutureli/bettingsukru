@@ -1,0 +1,25 @@
+[ {
+  "homeTeam" : "CD Cuenca",
+  "awayTeam" : "Delfin",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "UD Tamaraceite",
+  "awayTeam" : "UD Las Palmas C",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Sporting San Jose",
+  "awayTeam" : "D. Saprissa",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Palestino",
+  "awayTeam" : "Huachipato",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Wellington Oly.",
+  "awayTeam" : "Miramar Rangers",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Auckland City",
+  "awayTeam" : "Coastal Spirit",
+  "score" : "3-0"
+} ]
