@@ -1,0 +1,81 @@
+[ {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "Miami",
+  "score" : "106-105"
+}, {
+  "homeTeam" : "Boston",
+  "awayTeam" : "LA Lakers",
+  "score" : "126-105"
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Utah",
+  "score" : "146-112"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Charlotte",
+  "score" : "86-111"
+}, {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "Portland",
+  "score" : "122-116"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "Denver",
+  "score" : "133-134"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "San Antonio",
+  "score" : "130-117"
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "LA Clippers",
+  "score" : "107-98"
+}, {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "Philadelphia",
+  "score" : "101-116"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Indiana",
+  "score" : "105-120"
+}, {
+  "homeTeam" : "Houston",
+  "awayTeam" : "Phoenix",
+  "score" : "117-98"
+}, {
+  "homeTeam" : "Kentucky Wildcats",
+  "awayTeam" : "Gonzaga Bulldogs",
+  "score" : "59-94"
+}, {
+  "homeTeam" : "CA San Lorenzo De Almagro",
+  "awayTeam" : "Union de Santa Fe",
+  "score" : "80-75"
+}, {
+  "homeTeam" : "Obera Tenis C.",
+  "awayTeam" : "Instituto de Cordoba",
+  "score" : "65-59"
+}, {
+  "homeTeam" : "Gimnasia",
+  "awayTeam" : "Penarol Mar",
+  "score" : "93-67"
+}, {
+  "homeTeam" : "Franca SP",
+  "awayTeam" : "SAO Jose Dos Campos",
+  "score" : "104-85"
+}, {
+  "homeTeam" : "Ec Uniao Corinthians",
+  "awayTeam" : "Minas",
+  "score" : "71-74"
+}, {
+  "homeTeam" : "Leones Quilpue",
+  "awayTeam" : "Colo Colo",
+  "score" : "92-51"
+}, {
+  "homeTeam" : "Hebraica Macabi",
+  "awayTeam" : "CA Goes",
+  "score" : "106-63"
+}, {
+  "homeTeam" : "Club Un. At",
+  "awayTeam" : "Club Malvin",
+  "score" : "72-78"
+} ]
