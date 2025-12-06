@@ -258,104 +258,104 @@
   "homeTeam" : "Cholet",
   "awayTeam" : "Limoges CSP",
   "picks" : [ "167.5 Üst (1.59 - 57.9%)" ],
-  "score" : "-",
+  "score" : "91-88",
   "statuses" : {
-    "167.5 Üst (1.59 - 57.9%)" : "pending"
+    "167.5 Üst (1.59 - 57.9%)" : "won"
   }
 }, {
   "homeTeam" : "SC Jena",
   "awayTeam" : "Ratiopharm Ulm",
   "picks" : [ "MS1 (1.76 - 88.2%)" ],
-  "score" : "-",
+  "score" : "70-92",
   "statuses" : {
-    "MS1 (1.76 - 88.2%)" : "pending"
+    "MS1 (1.76 - 88.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Araski (K)",
   "awayTeam" : "Cab Estepona (K)",
   "picks" : [ "138.5 Üst (1.61 - 61.8%)" ],
-  "score" : "-",
+  "score" : "71-91",
   "statuses" : {
-    "138.5 Üst (1.61 - 61.8%)" : "pending"
+    "138.5 Üst (1.61 - 61.8%)" : "won"
   }
 }, {
   "homeTeam" : "Menorca Basquet",
   "awayTeam" : "Innova Chef Cb Zamora",
   "picks" : [ "164.5 Alt (1.6 - 57.9%)" ],
-  "score" : "-",
+  "score" : "86-74",
   "statuses" : {
-    "164.5 Alt (1.6 - 57.9%)" : "pending"
+    "164.5 Alt (1.6 - 57.9%)" : "won"
   }
 }, {
   "homeTeam" : "SC Braga",
   "awayTeam" : "Imortal BC",
   "picks" : [ "MS1 (1.64 - 80.7%)" ],
-  "score" : "-",
+  "score" : "83-80",
   "statuses" : {
-    "MS1 (1.64 - 80.7%)" : "pending"
+    "MS1 (1.64 - 80.7%)" : "won"
   }
 }, {
   "homeTeam" : "Telekom Bonn",
   "awayTeam" : "Niners Chemnitz",
   "picks" : [ "MS1 (1.57 - 77.0%)" ],
-  "score" : "-",
+  "score" : "86-82",
   "statuses" : {
-    "MS1 (1.57 - 77.0%)" : "pending"
+    "MS1 (1.57 - 77.0%)" : "won"
   }
 }, {
   "homeTeam" : "Ludwigsburg",
   "awayTeam" : "Gladiators Trier",
   "picks" : [ "173.5 Üst (1.63 - 55.9%)" ],
-  "score" : "-",
+  "score" : "80-86",
   "statuses" : {
-    "173.5 Üst (1.63 - 55.9%)" : "pending"
+    "173.5 Üst (1.63 - 55.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Aris Leeuwarden",
   "awayTeam" : "Rotterdam City Basketball",
   "picks" : [ "178.5 Üst (1.65 - 61.5%)" ],
-  "score" : "-",
+  "score" : "98-85",
   "statuses" : {
-    "178.5 Üst (1.65 - 61.5%)" : "pending"
+    "178.5 Üst (1.65 - 61.5%)" : "won"
   }
 }, {
   "homeTeam" : "Reggiana Emilia",
   "awayTeam" : "Brescia",
   "picks" : [ "MS2 (1.42 - 66.8%)" ],
-  "score" : "-",
+  "score" : "87-93",
   "statuses" : {
-    "MS2 (1.42 - 66.8%)" : "pending"
+    "MS2 (1.42 - 66.8%)" : "won"
   }
 }, {
   "homeTeam" : "Leuven Bears",
   "awayTeam" : "Den Helder Suns",
   "picks" : [ "162.5 Üst (1.64 - 57.1%)" ],
-  "score" : "-",
+  "score" : "84-71",
   "statuses" : {
-    "162.5 Üst (1.64 - 57.1%)" : "pending"
+    "162.5 Üst (1.64 - 57.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Urania Milano",
   "awayTeam" : "Basket Mestre 1958",
   "picks" : [ "MS1 (1.39 - 65.5%)" ],
-  "score" : "-",
+  "score" : "86-85",
   "statuses" : {
-    "MS1 (1.39 - 65.5%)" : "pending"
+    "MS1 (1.39 - 65.5%)" : "won"
   }
 }, {
   "homeTeam" : "Basket Scafati 1969",
   "awayTeam" : "Rimini",
   "picks" : [ "MS1 (1.45 - 80.0%)" ],
-  "score" : "-",
+  "score" : "79-92",
   "statuses" : {
-    "MS1 (1.45 - 80.0%)" : "pending"
+    "MS1 (1.45 - 80.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Paffoni Omegna",
   "awayTeam" : "Montecatiniterme Basketball",
   "picks" : [ "157.5 Üst (1.61 - 71.1%)" ],
-  "score" : "-",
+  "score" : "100-92",
   "statuses" : {
-    "157.5 Üst (1.61 - 71.1%)" : "pending"
+    "157.5 Üst (1.61 - 71.1%)" : "won"
   }
 } ]
