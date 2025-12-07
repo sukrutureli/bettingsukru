@@ -2,17 +2,17 @@
   "homeTeam" : "Tampico Madero",
   "awayTeam" : "Irapuato",
   "picks" : [ "Alt (1.52 - 68.2%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.52 - 68.2%)" : "pending"
+    "Alt (1.52 - 68.2%)" : "won"
   }
 }, {
   "homeTeam" : "Western Suburbs",
   "awayTeam" : "Wellington P. 2",
   "picks" : [ "MS1 (1.46 - 53.4%)" ],
-  "score" : "-",
+  "score" : "2-7",
   "statuses" : {
-    "MS1 (1.46 - 53.4%)" : "pending"
+    "MS1 (1.46 - 53.4%)" : "lost"
   }
 }, {
   "homeTeam" : "AD San Carlos",
