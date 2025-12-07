@@ -26,105 +26,105 @@
   "homeTeam" : "Kagoshima Rebnise",
   "awayTeam" : "Fukui Blowwinds",
   "picks" : [ "169.5 Üst (1.66 - 71.4%)" ],
-  "score" : "-",
+  "score" : "112-106",
   "statuses" : {
-    "169.5 Üst (1.66 - 71.4%)" : "pending"
+    "169.5 Üst (1.66 - 71.4%)" : "won"
   }
 }, {
   "homeTeam" : "LG Sakers",
   "awayTeam" : "KT Sonicboom",
   "picks" : [ "147.5 Üst (1.66 - 63.1%)" ],
-  "score" : "-",
+  "score" : "66-63",
   "statuses" : {
-    "147.5 Üst (1.66 - 63.1%)" : "pending"
+    "147.5 Üst (1.66 - 63.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Kyoto Hannarizu",
   "awayTeam" : "Brave Thunders",
   "picks" : [ "155.5 Alt (1.59 - 68.5%)" ],
-  "score" : "-",
+  "score" : "77-80",
   "statuses" : {
-    "155.5 Alt (1.59 - 68.5%)" : "pending"
+    "155.5 Alt (1.59 - 68.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Chiba Jets",
   "awayTeam" : "Diamond Dolphins",
   "picks" : [ "MS2 (1.86 - 55.5%)" ],
-  "score" : "-",
+  "score" : "87-86",
   "statuses" : {
-    "MS2 (1.86 - 55.5%)" : "pending"
+    "MS2 (1.86 - 55.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Osaka Evessa",
   "awayTeam" : "Altiri Chiba",
   "picks" : [ "MS1 (1.34 - 64.5%)" ],
-  "score" : "-",
+  "score" : "68-93",
   "statuses" : {
-    "MS1 (1.34 - 64.5%)" : "pending"
+    "MS1 (1.34 - 64.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Qingdao E.",
   "awayTeam" : "Tianjin P.",
   "picks" : [ "187.5 Üst (1.64 - 86.2%)" ],
-  "score" : "-",
+  "score" : "116-93",
   "statuses" : {
-    "187.5 Üst (1.64 - 86.2%)" : "pending"
+    "187.5 Üst (1.64 - 86.2%)" : "won"
   }
 }, {
   "homeTeam" : "Yongin Samsung L. (K)",
   "awayTeam" : "Woori Bank H. (K)",
   "picks" : [ "MS1 (1.41 - 78.9%)" ],
-  "score" : "-",
+  "score" : "59-62",
   "statuses" : {
-    "MS1 (1.41 - 78.9%)" : "pending"
+    "MS1 (1.41 - 78.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Veltex Shizuoka",
   "awayTeam" : "Tokyo Excellence",
   "picks" : [ "MS2 (1.35 - 81.8%)" ],
-  "score" : "-",
+  "score" : "61-96",
   "statuses" : {
-    "MS2 (1.35 - 81.8%)" : "pending"
+    "MS2 (1.35 - 81.8%)" : "won"
   }
 }, {
   "homeTeam" : "KCC Egis",
   "awayTeam" : "Seoul SK Knights",
   "picks" : [ "154.5 Üst (1.61 - 60.8%)" ],
-  "score" : "-",
+  "score" : "83-80",
   "statuses" : {
-    "154.5 Üst (1.61 - 60.8%)" : "pending"
+    "154.5 Üst (1.61 - 60.8%)" : "won"
   }
 }, {
   "homeTeam" : "Zaragoza (K)",
   "awayTeam" : "Perf. Avenida (K)",
   "picks" : [ "145.5 Alt (1.6 - 57.4%)" ],
-  "score" : "-",
+  "score" : "85-73",
   "statuses" : {
-    "145.5 Alt (1.6 - 57.4%)" : "pending"
+    "145.5 Alt (1.6 - 57.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Beijing D.",
   "awayTeam" : "Shandong H.",
   "picks" : [ "186.5 Üst (1.63 - 74.9%)" ],
-  "score" : "-",
+  "score" : "95-99",
   "statuses" : {
-    "186.5 Üst (1.63 - 74.9%)" : "pending"
+    "186.5 Üst (1.63 - 74.9%)" : "won"
   }
 }, {
   "homeTeam" : "Rain or Shine",
   "awayTeam" : "Converge Fiberxers",
   "picks" : [ "210.5 Alt (1.66 - 62.3%)" ],
-  "score" : "-",
+  "score" : "90-84",
   "statuses" : {
-    "210.5 Alt (1.66 - 62.3%)" : "pending"
+    "210.5 Alt (1.66 - 62.3%)" : "won"
   }
 }, {
   "homeTeam" : "Start Lublin",
   "awayTeam" : "Dziki Warshawa",
   "picks" : [ "MS2 (1.74 - 75.2%)" ],
-  "score" : "-",
+  "score" : "76-101",
   "statuses" : {
-    "MS2 (1.74 - 75.2%)" : "pending"
+    "MS2 (1.74 - 75.2%)" : "won"
   }
 }, {
   "homeTeam" : "Malbas (K)",
