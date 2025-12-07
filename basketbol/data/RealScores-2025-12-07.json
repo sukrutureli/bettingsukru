@@ -334,4 +334,192 @@
   "homeTeam" : "Panathinaikos",
   "awayTeam" : "Panionios",
   "score" : "110-66"
+}, {
+  "homeTeam" : "Anadolu Efes",
+  "awayTeam" : "Petkim Spor",
+  "score" : "92-96"
+}, {
+  "homeTeam" : "OGM Ormanspor",
+  "awayTeam" : "Ted Ankara Kolejliler",
+  "score" : "93-96"
+}, {
+  "homeTeam" : "Rasta Vechta",
+  "awayTeam" : "Hamburg Towers",
+  "score" : "97-95"
+}, {
+  "homeTeam" : "MLP A. Heidelberg",
+  "awayTeam" : "Braunschweig",
+  "score" : "95-75"
+}, {
+  "homeTeam" : "Alba Berlin",
+  "awayTeam" : "Frankfurt",
+  "score" : "89-83"
+}, {
+  "homeTeam" : "JL Bourg",
+  "awayTeam" : "Nanterre 92",
+  "score" : "86-83"
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Andorra",
+  "score" : "102-71"
+}, {
+  "homeTeam" : "Bilbao Basket",
+  "awayTeam" : "Gran Canaria",
+  "score" : "79-72"
+}, {
+  "homeTeam" : "Pall Udinese",
+  "awayTeam" : "Napoli Basket",
+  "score" : "78-71"
+}, {
+  "homeTeam" : "Reyer Venezia",
+  "awayTeam" : "Cantu",
+  "score" : "101-95"
+}, {
+  "homeTeam" : "Olimpia Milano",
+  "awayTeam" : "A. Basket Trento",
+  "score" : "94-90"
+}, {
+  "homeTeam" : "Fmp",
+  "awayTeam" : "KK Split",
+  "score" : "96-80"
+}, {
+  "homeTeam" : "Michigan Wolverines (K)",
+  "awayTeam" : "Purdue Boilermakers(K)",
+  "score" : "104-56"
+}, {
+  "homeTeam" : "South Carolina (K)",
+  "awayTeam" : "N.Carolina Eagles (K)",
+  "score" : "106-42"
+}, {
+  "homeTeam" : "N. Carolina Tar Heels (K)",
+  "awayTeam" : "Boston University Terr (K)",
+  "score" : "82-40"
+}, {
+  "homeTeam" : "Louisville Cardinals (K)",
+  "awayTeam" : "N. Hampshire Wildcats (K)",
+  "score" : "94-43"
+}, {
+  "homeTeam" : "EPG Baskets Koblenz",
+  "awayTeam" : "Nürnberg Falcons",
+  "score" : "101-97"
+}, {
+  "homeTeam" : "Sokol Pisek",
+  "awayTeam" : "Usti nad Labem",
+  "score" : "82-94"
+}, {
+  "homeTeam" : "ADA Blois Basket 41",
+  "awayTeam" : "Poitiers Basket 86",
+  "score" : "95-90"
+}, {
+  "homeTeam" : "UNI Girona CB (K)",
+  "awayTeam" : "Gipuzkoa IDK (K)",
+  "score" : "71-60"
+}, {
+  "homeTeam" : "Univ. de Ferrol (K)",
+  "awayTeam" : "Gernika Kesb (K)",
+  "score" : "71-57"
+}, {
+  "homeTeam" : "Jouventut Badalona (K)",
+  "awayTeam" : "Porta XI Ensino (K)",
+  "score" : "69-63"
+}, {
+  "homeTeam" : "Iberojet Pa",
+  "awayTeam" : "CB Tizona",
+  "score" : "87-86"
+}, {
+  "homeTeam" : "Visby Ladies (K)",
+  "awayTeam" : "Ostersund (K)",
+  "score" : "53-85"
+}, {
+  "homeTeam" : "Malbas (K)",
+  "awayTeam" : "Sodertalje (K)",
+  "score" : "65-56"
+}, {
+  "homeTeam" : "San Martino (K)",
+  "awayTeam" : "Asd Broni 2022 (K)",
+  "score" : "69-73"
+}, {
+  "homeTeam" : "San Giovanni (K)",
+  "awayTeam" : "Schio (K)",
+  "score" : "44-66"
+}, {
+  "homeTeam" : "Battipaglia (K)",
+  "awayTeam" : "Magnolia Basket (K)",
+  "score" : "59-71"
+}, {
+  "homeTeam" : "Verona",
+  "awayTeam" : "Roseto Shark",
+  "score" : "89-87"
+}, {
+  "homeTeam" : "Brindisi",
+  "awayTeam" : "VL Pesaro",
+  "score" : "68-64"
+}, {
+  "homeTeam" : "Torino",
+  "awayTeam" : "R. Sebastiani Rieti",
+  "score" : "82-72"
+}, {
+  "homeTeam" : "Fortitudo Bologna",
+  "awayTeam" : "Libertas Livorno",
+  "score" : "66-64"
+}, {
+  "homeTeam" : "Benedetto Cento",
+  "awayTeam" : "Asd Del Fes Avellino",
+  "score" : "101-90"
+}, {
+  "homeTeam" : "Rucker Sanve San Vendemiano",
+  "awayTeam" : "Orlandina",
+  "score" : "87-70"
+}, {
+  "homeTeam" : "Fulgor Fidenza",
+  "awayTeam" : "Treviglio Brianza Basket",
+  "score" : "66-85"
+}, {
+  "homeTeam" : "Agrigento",
+  "awayTeam" : "Legnano Knights",
+  "score" : "80-65"
+}, {
+  "homeTeam" : "P. Fiorenzuola",
+  "awayTeam" : "E. Vigevano",
+  "score" : "74-102"
+}, {
+  "homeTeam" : "Novipiu Casale M.",
+  "awayTeam" : "Agribertocchi Orzinuovi",
+  "score" : "81-90"
+}, {
+  "homeTeam" : "Virtus Lumezzane",
+  "awayTeam" : "Assigeco Piacenza",
+  "score" : "76-81"
+}, {
+  "homeTeam" : "Virtus Imola",
+  "awayTeam" : "Rekico Faenza",
+  "score" : "69-67"
+}, {
+  "homeTeam" : "Psa Basket Casoria",
+  "awayTeam" : "Power Basket Nocera",
+  "score" : "63-77"
+}, {
+  "homeTeam" : "Virtus Gvm Roma 1960",
+  "awayTeam" : "Ravenna Pie",
+  "score" : "69-60"
+}, {
+  "homeTeam" : "Solbat Basket Golfo Piombino",
+  "awayTeam" : "Dany Basket Quarrata",
+  "score" : "61-57"
+}, {
+  "homeTeam" : "Latina",
+  "awayTeam" : "Asd Loreto Basket",
+  "score" : "91-80"
+}, {
+  "homeTeam" : "Juvecaserta 2021",
+  "awayTeam" : "Andrea Imola",
+  "score" : "71-62"
+}, {
+  "homeTeam" : "Budapesti Honved SE",
+  "awayTeam" : "Duna Aszfalt",
+  "score" : "85-63"
+}, {
+  "homeTeam" : "Slask Wroclaw",
+  "awayTeam" : "Torun",
+  "score" : "87-75"
 } ]

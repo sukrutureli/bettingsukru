@@ -130,73 +130,73 @@
   "homeTeam" : "Malbas (K)",
   "awayTeam" : "Sodertalje (K)",
   "picks" : [ "150.5 Üst (1.61 - 57.9%)" ],
-  "score" : "-",
+  "score" : "65-56",
   "statuses" : {
-    "150.5 Üst (1.61 - 57.9%)" : "pending"
+    "150.5 Üst (1.61 - 57.9%)" : "lost"
   }
 }, {
   "homeTeam" : "JL Bourg",
   "awayTeam" : "Nanterre 92",
   "picks" : [ "168.5 Alt (1.64 - 66.2%)" ],
-  "score" : "-",
+  "score" : "86-83",
   "statuses" : {
-    "168.5 Alt (1.64 - 66.2%)" : "pending"
+    "168.5 Alt (1.64 - 66.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Fmp",
   "awayTeam" : "KK Split",
   "picks" : [ "168.5 Üst (1.66 - 64.2%)" ],
-  "score" : "-",
+  "score" : "96-80",
   "statuses" : {
-    "168.5 Üst (1.66 - 64.2%)" : "pending"
+    "168.5 Üst (1.66 - 64.2%)" : "won"
   }
 }, {
   "homeTeam" : "EPG Baskets Koblenz",
   "awayTeam" : "Nürnberg Falcons",
   "picks" : [ "MS2 (1.54 - 58.0%)" ],
-  "score" : "-",
+  "score" : "101-97",
   "statuses" : {
-    "MS2 (1.54 - 58.0%)" : "pending"
+    "MS2 (1.54 - 58.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Slask Wroclaw",
   "awayTeam" : "Torun",
   "picks" : [ "174.5 Üst (1.62 - 72.0%)" ],
-  "score" : "-",
+  "score" : "87-75",
   "statuses" : {
-    "174.5 Üst (1.62 - 72.0%)" : "pending"
+    "174.5 Üst (1.62 - 72.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Bilbao Basket",
   "awayTeam" : "Gran Canaria",
   "picks" : [ "164.5 Üst (1.59 - 73.4%)" ],
-  "score" : "-",
+  "score" : "79-72",
   "statuses" : {
-    "164.5 Üst (1.59 - 73.4%)" : "pending"
+    "164.5 Üst (1.59 - 73.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Olimpia Milano",
   "awayTeam" : "A. Basket Trento",
   "picks" : [ "166.5 Üst (1.64 - 79.0%)" ],
-  "score" : "-",
+  "score" : "94-90",
   "statuses" : {
-    "166.5 Üst (1.64 - 79.0%)" : "pending"
+    "166.5 Üst (1.64 - 79.0%)" : "won"
   }
 }, {
   "homeTeam" : "Univ. de Ferrol (K)",
   "awayTeam" : "Gernika Kesb (K)",
   "picks" : [ "MS1 (1.39 - 91.3%)" ],
-  "score" : "-",
+  "score" : "71-57",
   "statuses" : {
-    "MS1 (1.39 - 91.3%)" : "pending"
+    "MS1 (1.39 - 91.3%)" : "won"
   }
 }, {
   "homeTeam" : "Battipaglia (K)",
   "awayTeam" : "Magnolia Basket (K)",
   "picks" : [ "133.5 Üst (1.61 - 68.4%)" ],
-  "score" : "-",
+  "score" : "59-71",
   "statuses" : {
-    "133.5 Üst (1.61 - 68.4%)" : "pending"
+    "133.5 Üst (1.61 - 68.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Fabriano Basket",
