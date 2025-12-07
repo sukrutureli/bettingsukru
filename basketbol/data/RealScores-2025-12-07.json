@@ -1,0 +1,69 @@
+[ {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "New Orleans",
+  "score" : "119-101"
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Atlanta",
+  "score" : "116-131"
+}, {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "Milwaukee",
+  "score" : "124-112"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Golden State",
+  "score" : "94-99"
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Sacramento",
+  "score" : "111-127"
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "LA Clippers",
+  "score" : "109-106"
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Houston",
+  "score" : "122-109"
+}, {
+  "homeTeam" : "Arkansas Razorbacks",
+  "awayTeam" : "Fresno St Bulldogs",
+  "score" : "82-58"
+}, {
+  "homeTeam" : "Michigan Wolverines",
+  "awayTeam" : "Rutgers Scarlet Knights",
+  "score" : "101-60"
+}, {
+  "homeTeam" : "Tennessee Volunteers",
+  "awayTeam" : "Illinois Fighting Illini",
+  "score" : "62-75"
+}, {
+  "homeTeam" : "Houston Cougars",
+  "awayTeam" : "Florida State Seminoles",
+  "score" : "82-67"
+}, {
+  "homeTeam" : "St. John's Red Storm",
+  "awayTeam" : "Ole Miss Rebels",
+  "score" : "63-61"
+}, {
+  "homeTeam" : "South Carolina Upstate Spartans",
+  "awayTeam" : "N.Carolina Greensboro (K)",
+  "score" : "39-70"
+}, {
+  "homeTeam" : "Rutgers Scarlet (K)",
+  "awayTeam" : "Iowa Hawk (K)",
+  "score" : "36-79"
+}, {
+  "homeTeam" : "Boca Juniors",
+  "awayTeam" : "Argentino J.",
+  "score" : "116-83"
+}, {
+  "homeTeam" : "Regatas Corrientes",
+  "awayTeam" : "Olimpia Kings",
+  "score" : "64-62"
+}, {
+  "homeTeam" : "CP Esgueira",
+  "awayTeam" : "Sporting CP",
+  "score" : "95-87"
+} ]

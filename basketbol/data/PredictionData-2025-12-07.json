@@ -2,25 +2,25 @@
   "homeTeam" : "Regatas Corrientes",
   "awayTeam" : "Olimpia Kings",
   "picks" : [ "156.5 Üst (1.62 - 57.8%)" ],
-  "score" : "-",
+  "score" : "64-62",
   "statuses" : {
-    "156.5 Üst (1.62 - 57.8%)" : "pending"
+    "156.5 Üst (1.62 - 57.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Cleveland",
   "awayTeam" : "Golden State",
   "picks" : [ "229.5 Üst (1.64 - 56.9%)" ],
-  "score" : "-",
+  "score" : "94-99",
   "statuses" : {
-    "229.5 Üst (1.64 - 56.9%)" : "pending"
+    "229.5 Üst (1.64 - 56.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Miami",
   "awayTeam" : "Sacramento",
   "picks" : [ "240.5 Alt (1.65 - 76.8%)" ],
-  "score" : "-",
+  "score" : "111-127",
   "statuses" : {
-    "240.5 Alt (1.65 - 76.8%)" : "pending"
+    "240.5 Alt (1.65 - 76.8%)" : "won"
   }
 }, {
   "homeTeam" : "Kagoshima Rebnise",
