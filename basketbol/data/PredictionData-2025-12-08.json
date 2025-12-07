@@ -1,0 +1,73 @@
+[ {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Portland",
+  "picks" : [ "MS1 (1.59 - 70.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.59 - 70.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CA Platense",
+  "awayTeam" : "Independiente de Oliva",
+  "picks" : [ "MS1 (1.58 - 59.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.58 - 59.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Golden State",
+  "picks" : [ "MS2 (1.59 - 55.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.59 - 55.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shandong H.",
+  "awayTeam" : "Qingdao E.",
+  "picks" : [ "190.5 Üst (1.62 - 70.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "190.5 Üst (1.62 - 70.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cremona",
+  "awayTeam" : "Varese",
+  "picks" : [ "MS1 (1.3 - 84.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.3 - 84.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Flyers Wels",
+  "awayTeam" : "BC Vienna",
+  "picks" : [ "165.5 Üst (1.65 - 76.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "165.5 Üst (1.65 - 76.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UBSC Graz",
+  "awayTeam" : "Klosterneubu",
+  "picks" : [ "165.5 Alt (1.59 - 68.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "165.5 Alt (1.59 - 68.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "SK Slavia Prague",
+  "awayTeam" : "BK Olomoucko",
+  "picks" : [ "163.5 Üst (1.67 - 74.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "163.5 Üst (1.67 - 74.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Derthona Basket",
+  "picks" : [ "168.5 Üst (1.65 - 68.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Üst (1.65 - 68.7%)" : "pending"
+  }
+} ]
