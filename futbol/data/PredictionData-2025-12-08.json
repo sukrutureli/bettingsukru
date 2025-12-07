@@ -1,0 +1,113 @@
+[ {
+  "homeTeam" : "M. Per. Zeledon",
+  "awayTeam" : "CS Herediano",
+  "picks" : [ "Var (1.45 - 61.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.45 - 61.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Suwon City",
+  "awayTeam" : "Bucheon",
+  "picks" : [ "Alt (1.5 - 91.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.5 - 91.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Athletic Carpi U23",
+  "awayTeam" : "Vis Pesaro",
+  "picks" : [ "Alt (1.35 - 77.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.35 - 77.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "C. Lecco",
+  "awayTeam" : "Alcione Milano",
+  "picks" : [ "Alt (1.3 - 74.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.3 - 74.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ascoli",
+  "awayTeam" : "Forli",
+  "picks" : [ "Alt (1.5 - 57.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.5 - 57.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Virt. Verona",
+  "awayTeam" : "Pergolettese",
+  "picks" : [ "Alt (1.44 - 67.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.44 - 67.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Padova",
+  "awayTeam" : "AC Cesena",
+  "picks" : [ "Alt (1.37 - 79.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.37 - 79.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Siroki Brijeg",
+  "awayTeam" : "Rad. Bijelji",
+  "picks" : [ "Alt (1.41 - 61.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.41 - 61.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Burgos",
+  "awayTeam" : "Albacete",
+  "picks" : [ "Alt (1.41 - 68.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.41 - 68.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Korona Kielce",
+  "awayTeam" : "Wisla Plock",
+  "picks" : [ "Alt (1.48 - 71.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.48 - 71.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "V. Entella",
+  "awayTeam" : "Spezia",
+  "picks" : [ "Alt (1.4 - 63.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 63.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Botosani",
+  "awayTeam" : "Rapid 1923",
+  "picks" : [ "Alt (1.56 - 58.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.56 - 58.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Torino",
+  "awayTeam" : "AC Milan",
+  "picks" : [ "Alt (1.56 - 72.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.56 - 72.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CD Tolima",
+  "awayTeam" : "Fortaleza",
+  "picks" : [ "MS1 (1.61 - 71.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.61 - 71.3%)" : "pending"
+  }
+} ]
