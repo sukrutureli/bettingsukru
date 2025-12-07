@@ -346,48 +346,48 @@
   "homeTeam" : "Antwerp",
   "awayTeam" : "KRC Genk",
   "picks" : [ "Var (1.54 - 72.7%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Var (1.54 - 72.7%)" : "pending"
+    "Var (1.54 - 72.7%)" : "lost"
   }
 }, {
   "homeTeam" : "O. H. Leuven",
   "awayTeam" : "Zulte Waregem",
   "picks" : [ "Var (1.55 - 76.0%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.55 - 76.0%)" : "pending"
+    "Var (1.55 - 76.0%)" : "won"
   }
 }, {
   "homeTeam" : "Erzgebirge A.",
   "awayTeam" : "Ingolstadt",
   "picks" : [ "Var (1.35 - 56.2%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Var (1.35 - 56.2%)" : "pending"
+    "Var (1.35 - 56.2%)" : "won"
   }
 }, {
   "homeTeam" : "Sampdoria",
   "awayTeam" : "Carrarese C.",
   "picks" : [ "Alt (1.48 - 63.3%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Alt (1.48 - 63.3%)" : "pending"
+    "Alt (1.48 - 63.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Napoli",
   "awayTeam" : "Juventus",
   "picks" : [ "Alt (1.37 - 66.0%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.37 - 66.0%)" : "pending"
+    "Alt (1.37 - 66.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Tondela",
   "awayTeam" : "Porto",
   "picks" : [ "Yok (1.44 - 72.7%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Yok (1.44 - 72.7%)" : "pending"
+    "Yok (1.44 - 72.7%)" : "won"
   }
 } ]
