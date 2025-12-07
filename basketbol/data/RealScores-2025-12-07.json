@@ -522,4 +522,84 @@
   "homeTeam" : "Slask Wroclaw",
   "awayTeam" : "Torun",
   "score" : "87-75"
+}, {
+  "homeTeam" : "Esenler Erokspor",
+  "awayTeam" : "Türk Telekom",
+  "score" : "61-67"
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Orlando",
+  "score" : "106-100"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Boston",
+  "score" : "113-121"
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Saint Quentin",
+  "score" : "99-69"
+}, {
+  "homeTeam" : "Baskonia",
+  "awayTeam" : "Valencia",
+  "score" : "89-91"
+}, {
+  "homeTeam" : "Treviso",
+  "awayTeam" : "Trapani",
+  "score" : "82-89"
+}, {
+  "homeTeam" : "Cluj Napoca",
+  "awayTeam" : "Partizan",
+  "score" : "85-92"
+}, {
+  "homeTeam" : "Olimp Ljubljana",
+  "awayTeam" : "KD Ilirija",
+  "score" : "83-69"
+}, {
+  "homeTeam" : "Alabama Crimson Tide",
+  "awayTeam" : "UTSA Roadrunners",
+  "score" : "97-55"
+}, {
+  "homeTeam" : "Texas Tech Red Raiders",
+  "awayTeam" : "LSU Tigers",
+  "score" : "82-58"
+}, {
+  "homeTeam" : "Connecticut Huskies (K)",
+  "awayTeam" : "DePaul Blue Demons",
+  "score" : "102-35"
+}, {
+  "homeTeam" : "Florida State (K)",
+  "awayTeam" : "Notre Dame (K)",
+  "score" : "60-93"
+}, {
+  "homeTeam" : "Oklahoma Sooners (K)",
+  "awayTeam" : "Maryland Eastern Shore Hawks",
+  "score" : "90-37"
+}, {
+  "homeTeam" : "Kansas State Wildcats (K)",
+  "awayTeam" : "Ole Mississippi Rebels (K)",
+  "score" : "61-60"
+}, {
+  "homeTeam" : "Texas Longhorns (K)",
+  "awayTeam" : "Prairie View A&M Panthers (K)",
+  "score" : "101-42"
+}, {
+  "homeTeam" : "Baylor Bears (K)",
+  "awayTeam" : "Ut San Antonio (K)",
+  "score" : "73-55"
+}, {
+  "homeTeam" : "Defensor Sporting",
+  "awayTeam" : "Olimpia Kings",
+  "score" : "98-63"
+}, {
+  "homeTeam" : "Cheshire Phoenix",
+  "awayTeam" : "Leicester Riders",
+  "score" : "88-89"
+}, {
+  "homeTeam" : "Fabriano Basket",
+  "awayTeam" : "San Severo",
+  "score" : "104-94"
+}, {
+  "homeTeam" : "Stjarnan",
+  "awayTeam" : "UMF Grindavik",
+  "score" : "118-67"
 } ]
