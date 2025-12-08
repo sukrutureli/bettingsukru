@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Sacramento",
+  "picks" : [ "234.5 Alt (1.64 - 75.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "234.5 Alt (1.64 - 75.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "LG Sakers",
+  "awayTeam" : "Ulanbator Xac Broncos",
+  "picks" : [ "167.5 Alt (1.63 - 64.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Alt (1.63 - 64.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Panionios",
+  "picks" : [ "162.5 Üst (1.64 - 60.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "162.5 Üst (1.64 - 60.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AS Karditsas",
+  "awayTeam" : "Mersin Spor",
+  "picks" : [ "162.5 Üst (1.63 - 68.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "162.5 Üst (1.63 - 68.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Gravelines",
+  "awayTeam" : "Limoges CSP",
+  "picks" : [ "172.5 Alt (1.65 - 58.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "172.5 Alt (1.65 - 58.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Valencia (K)",
+  "awayTeam" : "Zaragoza (K)",
+  "picks" : [ "145.5 Üst (1.64 - 61.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "145.5 Üst (1.64 - 61.8%)" : "pending"
+  }
+} ]
