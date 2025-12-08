@@ -306,4 +306,116 @@
   "homeTeam" : "Panseraikos",
   "awayTeam" : "Paneitolikos",
   "score" : "0-1"
+}, {
+  "homeTeam" : "Wolverhampton",
+  "awayTeam" : "Man. Utd",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Osasuna",
+  "awayTeam" : "Levante",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Torino",
+  "awayTeam" : "AC Milan",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "V. Guimaraes",
+  "awayTeam" : "Gil Vicente",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Brackley",
+  "awayTeam" : "Burton Albion",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Gimnasia",
+  "awayTeam" : "Estudiantes",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Flamurtari Vlore",
+  "awayTeam" : "D. Tirana",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Af Elbasani",
+  "awayTeam" : "KF Vllaznia",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "San Antonio B. B.",
+  "awayTeam" : "Real Tomayapo",
+  "score" : "5-4"
+}, {
+  "homeTeam" : "MC Alger",
+  "awayTeam" : "CR Belouizdad",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Vejle",
+  "awayTeam" : "Brondby",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Reims",
+  "awayTeam" : "Stade Laval.",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Jong Utrecht",
+  "awayTeam" : "Graafschap",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Wolverhampton U21",
+  "awayTeam" : "Millwall U21",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Brentford U21",
+  "awayTeam" : "W. Bromwich Albion U21",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "Las Palmas",
+  "awayTeam" : "Mirandes",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Malaga",
+  "awayTeam" : "Zaragoza",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "SD Tarazona",
+  "awayTeam" : "Europa",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "V. Entella",
+  "awayTeam" : "Spezia",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "CD Tolima",
+  "awayTeam" : "Fortaleza",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Coleraine Gençler",
+  "awayTeam" : "Crusaders Gençler",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Portadown Gençler",
+  "awayTeam" : "Glenavon Gençler",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "Cliftonville Gençler",
+  "awayTeam" : "Bangor Gençler",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Glentoran Gençler",
+  "awayTeam" : "Linfield Swifts Gençler",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Korona Kielce",
+  "awayTeam" : "Wisla Plock",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Slask Wroclaw",
+  "awayTeam" : "Stal Rzeszow",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Botosani",
+  "awayTeam" : "Rapid 1923",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Spartak Subotica",
+  "awayTeam" : "Tsc Backa T.",
+  "score" : "1-2"
 } ]

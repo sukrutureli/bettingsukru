@@ -74,40 +74,40 @@
   "homeTeam" : "Korona Kielce",
   "awayTeam" : "Wisla Plock",
   "picks" : [ "Alt (1.48 - 71.1%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.48 - 71.1%)" : "pending"
+    "Alt (1.48 - 71.1%)" : "won"
   }
 }, {
   "homeTeam" : "V. Entella",
   "awayTeam" : "Spezia",
   "picks" : [ "Alt (1.4 - 63.3%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.4 - 63.3%)" : "pending"
+    "Alt (1.4 - 63.3%)" : "won"
   }
 }, {
   "homeTeam" : "Botosani",
   "awayTeam" : "Rapid 1923",
   "picks" : [ "Alt (1.56 - 58.4%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.56 - 58.4%)" : "pending"
+    "Alt (1.56 - 58.4%)" : "won"
   }
 }, {
   "homeTeam" : "Torino",
   "awayTeam" : "AC Milan",
   "picks" : [ "Alt (1.56 - 72.2%)" ],
-  "score" : "-",
+  "score" : "2-3",
   "statuses" : {
-    "Alt (1.56 - 72.2%)" : "pending"
+    "Alt (1.56 - 72.2%)" : "lost"
   }
 }, {
   "homeTeam" : "CD Tolima",
   "awayTeam" : "Fortaleza",
   "picks" : [ "MS1 (1.61 - 71.3%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "MS1 (1.61 - 71.3%)" : "pending"
+    "MS1 (1.61 - 71.3%)" : "won"
   }
 } ]
