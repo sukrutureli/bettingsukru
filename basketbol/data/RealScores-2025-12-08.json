@@ -58,4 +58,24 @@
   "homeTeam" : "CD Espanol Osorno",
   "awayTeam" : "CD Valdivia",
   "score" : "78-68"
+}, {
+  "homeTeam" : "Shandong H.",
+  "awayTeam" : "Qingdao E.",
+  "score" : "100-93"
+}, {
+  "homeTeam" : "Zhejiang L.",
+  "awayTeam" : "Beijing D.",
+  "score" : "92-89"
+}, {
+  "homeTeam" : "Bucheon Hana (K)",
+  "awayTeam" : "Incheon Shinhan (K)",
+  "score" : "69-58"
+}, {
+  "homeTeam" : "Dongbu Promy",
+  "awayTeam" : "Mobis Phoebus",
+  "score" : "82-77"
+}, {
+  "homeTeam" : "Darıca Bas. Feneri (K)",
+  "awayTeam" : "Mersin Basketbol (K)",
+  "score" : "87-79"
 } ]

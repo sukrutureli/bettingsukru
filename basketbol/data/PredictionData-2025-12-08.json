@@ -26,9 +26,9 @@
   "homeTeam" : "Shandong H.",
   "awayTeam" : "Qingdao E.",
   "picks" : [ "190.5 Üst (1.62 - 70.8%)" ],
-  "score" : "-",
+  "score" : "100-93",
   "statuses" : {
-    "190.5 Üst (1.62 - 70.8%)" : "pending"
+    "190.5 Üst (1.62 - 70.8%)" : "won"
   }
 }, {
   "homeTeam" : "Cremona",
