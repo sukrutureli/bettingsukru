@@ -66,8 +66,8 @@
   "homeTeam" : "Virtus Bologna",
   "awayTeam" : "Derthona Basket",
   "picks" : [ "168.5 Üst (1.65 - 68.7%)" ],
-  "score" : "-",
+  "score" : "92-77",
   "statuses" : {
-    "168.5 Üst (1.65 - 68.7%)" : "pending"
+    "168.5 Üst (1.65 - 68.7%)" : "won"
   }
 } ]

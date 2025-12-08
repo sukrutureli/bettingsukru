@@ -126,4 +126,32 @@
   "homeTeam" : "Kk Rogaska",
   "awayTeam" : "Kk Sentjur",
   "score" : "72-97"
+}, {
+  "homeTeam" : "Bamberg",
+  "awayTeam" : "Rostock Seawolves",
+  "score" : "74-87"
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Derthona Basket",
+  "score" : "92-77"
+}, {
+  "homeTeam" : "KK Igokea",
+  "awayTeam" : "BC Dubai",
+  "score" : "74-88"
+}, {
+  "homeTeam" : "Bremerhaven",
+  "awayTeam" : "Gottingen",
+  "score" : "67-84"
+}, {
+  "homeTeam" : "PS Karlsruhe Lions",
+  "awayTeam" : "C. Merlins",
+  "score" : "95-85"
+}, {
+  "homeTeam" : "BC Lulea",
+  "awayTeam" : "Hogsbo Basket",
+  "score" : "97-73"
+}, {
+  "homeTeam" : "Forli",
+  "awayTeam" : "Pistoia",
+  "score" : "85-72"
 } ]
