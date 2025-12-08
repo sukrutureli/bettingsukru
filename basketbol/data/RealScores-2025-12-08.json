@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Portland",
+  "score" : "119-96"
+}, {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Denver",
+  "score" : "106-115"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Golden State",
+  "score" : "91-123"
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "LA Lakers",
+  "score" : "108-112"
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Oklahoma",
+  "score" : "101-131"
+}, {
+  "homeTeam" : "Minnesota Gophers (K)",
+  "awayTeam" : "Maryland Terrapins (K)",
+  "score" : "99-100"
+}, {
+  "homeTeam" : "New Orleans Privateers",
+  "awayTeam" : "LSU Tigers (K)",
+  "score" : "62-126"
+}, {
+  "homeTeam" : "Wisconsin Bad (K)",
+  "awayTeam" : "Michigan St Spartans (K)",
+  "score" : "78-64"
+}, {
+  "homeTeam" : "USC Trojans (K)",
+  "awayTeam" : "Washington Huskies (K)",
+  "score" : "59-50"
+}, {
+  "homeTeam" : "North Carolina Tar Heels",
+  "awayTeam" : "Georgetown Hoyas",
+  "score" : "81-61"
+}, {
+  "homeTeam" : "Gonzaga Bulldogs",
+  "awayTeam" : "North Florida Ospreys",
+  "score" : "109-58"
+}, {
+  "homeTeam" : "Obras Sanita",
+  "awayTeam" : "Penarol Mar",
+  "score" : "95-86"
+}, {
+  "homeTeam" : "CA Platense",
+  "awayTeam" : "Independiente de Oliva",
+  "score" : "86-84"
+}, {
+  "homeTeam" : "Ferro Carril",
+  "awayTeam" : "Regatas Corrientes",
+  "score" : "85-68"
+}, {
+  "homeTeam" : "CD Espanol Osorno",
+  "awayTeam" : "CD Valdivia",
+  "score" : "78-68"
+} ]

@@ -2,25 +2,25 @@
   "homeTeam" : "Memphis",
   "awayTeam" : "Portland",
   "picks" : [ "MS1 (1.59 - 70.9%)" ],
-  "score" : "-",
+  "score" : "119-96",
   "statuses" : {
-    "MS1 (1.59 - 70.9%)" : "pending"
+    "MS1 (1.59 - 70.9%)" : "won"
   }
 }, {
   "homeTeam" : "CA Platense",
   "awayTeam" : "Independiente de Oliva",
   "picks" : [ "MS1 (1.58 - 59.0%)" ],
-  "score" : "-",
+  "score" : "86-84",
   "statuses" : {
-    "MS1 (1.58 - 59.0%)" : "pending"
+    "MS1 (1.58 - 59.0%)" : "won"
   }
 }, {
   "homeTeam" : "Chicago",
   "awayTeam" : "Golden State",
   "picks" : [ "MS2 (1.59 - 55.2%)" ],
-  "score" : "-",
+  "score" : "91-123",
   "statuses" : {
-    "MS2 (1.59 - 55.2%)" : "pending"
+    "MS2 (1.59 - 55.2%)" : "won"
   }
 }, {
   "homeTeam" : "Shandong H.",
