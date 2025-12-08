@@ -58,17 +58,17 @@
   "homeTeam" : "Siroki Brijeg",
   "awayTeam" : "Rad. Bijelji",
   "picks" : [ "Alt (1.41 - 61.6%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Alt (1.41 - 61.6%)" : "pending"
+    "Alt (1.41 - 61.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Burgos",
   "awayTeam" : "Albacete",
   "picks" : [ "Alt (1.41 - 68.8%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.41 - 68.8%)" : "pending"
+    "Alt (1.41 - 68.8%)" : "won"
   }
 }, {
   "homeTeam" : "Korona Kielce",
