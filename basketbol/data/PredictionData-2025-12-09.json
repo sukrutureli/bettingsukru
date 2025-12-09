@@ -18,32 +18,32 @@
   "homeTeam" : "Niners Chemnitz",
   "awayTeam" : "Panionios",
   "picks" : [ "162.5 Üst (1.64 - 60.6%)" ],
-  "score" : "-",
+  "score" : "73-68",
   "statuses" : {
-    "162.5 Üst (1.64 - 60.6%)" : "pending"
+    "162.5 Üst (1.64 - 60.6%)" : "lost"
   }
 }, {
   "homeTeam" : "AS Karditsas",
   "awayTeam" : "Mersin Spor",
   "picks" : [ "162.5 Üst (1.63 - 68.0%)" ],
-  "score" : "-",
+  "score" : "72-80",
   "statuses" : {
-    "162.5 Üst (1.63 - 68.0%)" : "pending"
+    "162.5 Üst (1.63 - 68.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Gravelines",
   "awayTeam" : "Limoges CSP",
   "picks" : [ "172.5 Alt (1.65 - 58.7%)" ],
-  "score" : "-",
+  "score" : "79-84",
   "statuses" : {
-    "172.5 Alt (1.65 - 58.7%)" : "pending"
+    "172.5 Alt (1.65 - 58.7%)" : "won"
   }
 }, {
   "homeTeam" : "Valencia (K)",
   "awayTeam" : "Zaragoza (K)",
   "picks" : [ "145.5 Üst (1.64 - 61.8%)" ],
-  "score" : "-",
+  "score" : "63-70",
   "statuses" : {
-    "145.5 Üst (1.64 - 61.8%)" : "pending"
+    "145.5 Üst (1.64 - 61.8%)" : "lost"
   }
 } ]

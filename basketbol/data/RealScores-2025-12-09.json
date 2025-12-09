@@ -62,4 +62,52 @@
   "homeTeam" : "CSKA Moskova",
   "awayTeam" : "Parma Permsk",
   "score" : "93-55"
+}, {
+  "homeTeam" : "Beşiktaş",
+  "awayTeam" : "Lietkabelis",
+  "score" : "94-85"
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Panionios",
+  "score" : "73-68"
+}, {
+  "homeTeam" : "JL Bourg",
+  "awayTeam" : "A. Basket Trento",
+  "score" : "73-91"
+}, {
+  "homeTeam" : "Hapoel Jerusalem",
+  "awayTeam" : "Hamburg Towers",
+  "score" : "86-76"
+}, {
+  "homeTeam" : "Elan Chalon",
+  "awayTeam" : "Alba Berlin",
+  "score" : "91-100"
+}, {
+  "homeTeam" : "AS Karditsas",
+  "awayTeam" : "Mersin Spor",
+  "score" : "72-80"
+}, {
+  "homeTeam" : "BC Oostende",
+  "awayTeam" : "Unicaja Malaga",
+  "score" : "73-89"
+}, {
+  "homeTeam" : "Gravelines",
+  "awayTeam" : "Limoges CSP",
+  "score" : "79-84"
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Le Portel",
+  "score" : "110-80"
+}, {
+  "homeTeam" : "Valencia (K)",
+  "awayTeam" : "Zaragoza (K)",
+  "score" : "63-70"
+}, {
+  "homeTeam" : "KB Priştine",
+  "awayTeam" : "BK Opava",
+  "score" : "102-75"
+}, {
+  "homeTeam" : "Dziki Warshawa",
+  "awayTeam" : "Furnir Dubrava",
+  "score" : "72-67"
 } ]
