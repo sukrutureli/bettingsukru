@@ -2,9 +2,9 @@
   "homeTeam" : "Indiana",
   "awayTeam" : "Sacramento",
   "picks" : [ "234.5 Alt (1.64 - 75.8%)" ],
-  "score" : "-",
+  "score" : "116-105",
   "statuses" : {
-    "234.5 Alt (1.64 - 75.8%)" : "pending"
+    "234.5 Alt (1.64 - 75.8%)" : "won"
   }
 }, {
   "homeTeam" : "LG Sakers",

@@ -1,0 +1,21 @@
+[ {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Sacramento",
+  "score" : "116-105"
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "Phoenix",
+  "score" : "105-108"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "San Antonio",
+  "score" : "132-135"
+}, {
+  "homeTeam" : "CA San Lorenzo De Almagro",
+  "awayTeam" : "Argentino J.",
+  "score" : "88-52"
+}, {
+  "homeTeam" : "CA Penarol",
+  "awayTeam" : "Club Nacional",
+  "score" : "82-69"
+} ]
