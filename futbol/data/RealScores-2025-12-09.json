@@ -130,4 +130,68 @@
   "homeTeam" : "Calvary",
   "awayTeam" : "Vipers SC",
   "score" : "0-0"
+}, {
+  "homeTeam" : "K. Almaty",
+  "awayTeam" : "Olympiakos",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Cezayir",
+  "awayTeam" : "Irak",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Bahreyn",
+  "awayTeam" : "Sudan",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Sumgayit",
+  "awayTeam" : "Imisli FK",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Botev Vratsa",
+  "awayTeam" : "Montana 1921",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "De Graafschap U19",
+  "awayTeam" : "Sparta Rotterdam U19",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Port Vale",
+  "awayTeam" : "Bradford",
+  "score" : "-"
+}, {
+  "homeTeam" : "Bamber Bridge",
+  "awayTeam" : "Warrington T.",
+  "score" : "-"
+}, {
+  "homeTeam" : "Esteghlal K.",
+  "awayTeam" : "Kheybar Khorramabad",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Farco",
+  "awayTeam" : "Al Mokawloon",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Vizela U23",
+  "awayTeam" : "Academico V. U23",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Rio Ave U23",
+  "awayTeam" : "CS Maritimo U23",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Inter U19",
+  "awayTeam" : "Liverpool U19",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Barcelona U19",
+  "awayTeam" : "E. Frankfurt U19",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "PAOK U19",
+  "awayTeam" : "Legia Varşova U19",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AZ Alkmaar U19",
+  "awayTeam" : "Aston Villa U19",
+  "score" : "2-1"
 } ]
