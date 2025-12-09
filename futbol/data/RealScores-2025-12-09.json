@@ -1,0 +1,37 @@
+[ {
+  "homeTeam" : "Nacional Potosi",
+  "awayTeam" : "Academia del Balompie",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "CS Emelec",
+  "awayTeam" : "CSD Macara",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Xelaju",
+  "awayTeam" : "Antigua",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AFC Sudbury",
+  "awayTeam" : "Real Bedford",
+  "score" : "-"
+}, {
+  "homeTeam" : "Cavalier",
+  "awayTeam" : "Montego Bay Utd",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Tivoli Gardens",
+  "awayTeam" : "Waterhouse",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "I. Medellin",
+  "awayTeam" : "Atl Junior",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "America De Cali",
+  "awayTeam" : "Atl. Nacional Medellin",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "I. Santa Fe",
+  "awayTeam" : "CA Bucaramanga",
+  "score" : "0-0"
+} ]

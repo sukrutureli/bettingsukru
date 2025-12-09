@@ -2,9 +2,9 @@
   "homeTeam" : "Xelaju",
   "awayTeam" : "Antigua",
   "picks" : [ "Alt (1.4 - 66.0%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.4 - 66.0%)" : "pending"
+    "Alt (1.4 - 66.0%)" : "won"
   }
 }, {
   "homeTeam" : "K. Almaty U19",
