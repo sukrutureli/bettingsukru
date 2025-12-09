@@ -58,17 +58,17 @@
   "homeTeam" : "Penybont",
   "awayTeam" : "Barry Town",
   "picks" : [ "Üst (1.45 - 68.6%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Üst (1.45 - 68.6%)" : "pending"
+    "Üst (1.45 - 68.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Sheffield Utd",
   "awayTeam" : "Norwich City",
   "picks" : [ "Üst (1.57 - 74.8%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Üst (1.57 - 74.8%)" : "pending"
+    "Üst (1.57 - 74.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Berkhamsted",
