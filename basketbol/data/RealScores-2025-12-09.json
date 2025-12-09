@@ -18,4 +18,24 @@
   "homeTeam" : "CA Penarol",
   "awayTeam" : "Club Nacional",
   "score" : "82-69"
+}, {
+  "homeTeam" : "Canberra Capitals (K)",
+  "awayTeam" : "Adelaide Lightning (K)",
+  "score" : "76-71"
+}, {
+  "homeTeam" : "LG Sakers",
+  "awayTeam" : "Ulanbator Xac Broncos",
+  "score" : "98-83"
+}, {
+  "homeTeam" : "Goyang Orions",
+  "awayTeam" : "Anyang KGC",
+  "score" : "78-87"
+}, {
+  "homeTeam" : "CSKA Moskow",
+  "awayTeam" : "BK Samara-2",
+  "score" : "79-40"
+}, {
+  "homeTeam" : "Zenit-M Saint Petersburg",
+  "awayTeam" : "Minsk-M Minsk",
+  "score" : "93-81"
 } ]

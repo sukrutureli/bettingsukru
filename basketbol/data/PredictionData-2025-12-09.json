@@ -10,9 +10,9 @@
   "homeTeam" : "LG Sakers",
   "awayTeam" : "Ulanbator Xac Broncos",
   "picks" : [ "167.5 Alt (1.63 - 64.5%)" ],
-  "score" : "-",
+  "score" : "98-83",
   "statuses" : {
-    "167.5 Alt (1.63 - 64.5%)" : "pending"
+    "167.5 Alt (1.63 - 64.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Niners Chemnitz",
