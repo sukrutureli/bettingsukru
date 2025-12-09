@@ -38,4 +38,28 @@
   "homeTeam" : "Zenit-M Saint Petersburg",
   "awayTeam" : "Minsk-M Minsk",
   "score" : "93-81"
+}, {
+  "homeTeam" : "BK Sabah Baku",
+  "awayTeam" : "Nymburk",
+  "score" : "105-87"
+}, {
+  "homeTeam" : "Bnei Herzelia",
+  "awayTeam" : "Tofaş",
+  "score" : "82-81"
+}, {
+  "homeTeam" : "L. Korikobrat",
+  "awayTeam" : "U-K. Uusikaupunki",
+  "score" : "66-81"
+}, {
+  "homeTeam" : "Kouvot Kouvola",
+  "awayTeam" : "Kataja",
+  "score" : "90-108"
+}, {
+  "homeTeam" : "KTP Kotka",
+  "awayTeam" : "Helsinki Seagulls",
+  "score" : "82-88"
+}, {
+  "homeTeam" : "CSKA Moskova",
+  "awayTeam" : "Parma Permsk",
+  "score" : "93-55"
 } ]
