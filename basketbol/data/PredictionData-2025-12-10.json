@@ -2,17 +2,17 @@
   "homeTeam" : "Orlando",
   "awayTeam" : "Miami",
   "picks" : [ "MS1 (1.61 - 81.7%)" ],
-  "score" : "-",
+  "score" : "117-108",
   "statuses" : {
-    "MS1 (1.61 - 81.7%)" : "pending"
+    "MS1 (1.61 - 81.7%)" : "won"
   }
 }, {
   "homeTeam" : "Union de Santa Fe",
   "awayTeam" : "Independiente de Oliva",
   "picks" : [ "MS2 (1.84 - 72.6%)" ],
-  "score" : "-",
+  "score" : "100-85",
   "statuses" : {
-    "MS2 (1.84 - 72.6%)" : "pending"
+    "MS2 (1.84 - 72.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Daegu Pegasus",

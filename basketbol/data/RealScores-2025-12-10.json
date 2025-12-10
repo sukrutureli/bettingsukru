@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "Miami",
+  "score" : "117-108"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "New York",
+  "score" : "101-117"
+}, {
+  "homeTeam" : "Brigham Young Cougars",
+  "awayTeam" : "Clemson Tigers",
+  "score" : "67-64"
+}, {
+  "homeTeam" : "Michigan Wolverines",
+  "awayTeam" : "Villanova Wildcats",
+  "score" : "89-61"
+}, {
+  "homeTeam" : "Virginia Cavaliers",
+  "awayTeam" : "Maryland Eastern Shore Hawks",
+  "score" : "84-60"
+}, {
+  "homeTeam" : "Ohio State Buckeyes",
+  "awayTeam" : "Illinois Fighting Illini",
+  "score" : "80-88"
+}, {
+  "homeTeam" : "Nebraska Cornhuskers (K)",
+  "awayTeam" : "Nebraska-Omaha Mavericks",
+  "score" : "87-35"
+}, {
+  "homeTeam" : "Union de Santa Fe",
+  "awayTeam" : "Independiente de Oliva",
+  "score" : "100-85"
+}, {
+  "homeTeam" : "Colo Colo",
+  "awayTeam" : "Leones Quilpue",
+  "score" : "71-62"
+}, {
+  "homeTeam" : "CA Welcome",
+  "awayTeam" : "Urunday Universitario",
+  "score" : "63-102"
+}, {
+  "homeTeam" : "CA Cordon",
+  "awayTeam" : "Club Malvin",
+  "score" : "77-91"
+}, {
+  "homeTeam" : "Club Un. At",
+  "awayTeam" : "Hebraica Macabi",
+  "score" : "108-93"
+} ]
