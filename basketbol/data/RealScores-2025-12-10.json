@@ -210,4 +210,132 @@
   "homeTeam" : "Zenit",
   "awayTeam" : "BC Samara",
   "score" : "95-56"
+}, {
+  "homeTeam" : "Neptunas K.",
+  "awayTeam" : "Slask Wroclaw",
+  "score" : "103-87"
+}, {
+  "homeTeam" : "Aris",
+  "awayTeam" : "Reyer Venezia",
+  "score" : "90-86"
+}, {
+  "homeTeam" : "Manresa",
+  "awayTeam" : "Olimp Ljubljana",
+  "score" : "99-82"
+}, {
+  "homeTeam" : "Buducnost",
+  "awayTeam" : "London Lions",
+  "score" : "94-63"
+}, {
+  "homeTeam" : "Ratiopharm Ulm",
+  "awayTeam" : "Türk Telekom",
+  "score" : "53-87"
+}, {
+  "homeTeam" : "Telekom Bonn",
+  "awayTeam" : "Frankfurt",
+  "score" : "88-76"
+}, {
+  "homeTeam" : "Vef Riga",
+  "awayTeam" : "Szolnoki Olaj Kk",
+  "score" : "76-62"
+}, {
+  "homeTeam" : "Aek",
+  "awayTeam" : "BK Levicki Patrioti",
+  "score" : "99-88"
+}, {
+  "homeTeam" : "Tenerife",
+  "awayTeam" : "Trapani",
+  "score" : "80-83"
+}, {
+  "homeTeam" : "CSM Oradea",
+  "awayTeam" : "KK Bosna Royal Sarajevo",
+  "score" : "79-84"
+}, {
+  "homeTeam" : "Kk Cedevita Zagreb Junior",
+  "awayTeam" : "Reggiana Emilia",
+  "score" : "90-94"
+}, {
+  "homeTeam" : "Bilbao Basket",
+  "awayTeam" : "Sporting CP",
+  "score" : "94-79"
+}, {
+  "homeTeam" : "PAOK",
+  "awayTeam" : "Prievidza",
+  "score" : "101-70"
+}, {
+  "homeTeam" : "Rostock Seawolves",
+  "awayTeam" : "Trefl Sopot",
+  "score" : "97-72"
+}, {
+  "homeTeam" : "UCAM Murcia",
+  "awayTeam" : "F. Szombathely",
+  "score" : "97-67"
+}, {
+  "homeTeam" : "Zaragoza",
+  "awayTeam" : "Peristeri",
+  "score" : "80-92"
+}, {
+  "homeTeam" : "Sassari",
+  "awayTeam" : "Petkim Spor",
+  "score" : "72-76"
+}, {
+  "homeTeam" : "Decin",
+  "awayTeam" : "Basket Brno",
+  "score" : "77-73"
+}, {
+  "homeTeam" : "Bears Academy",
+  "awayTeam" : "Horsens IC",
+  "score" : "92-99"
+}, {
+  "homeTeam" : "Naestved",
+  "awayTeam" : "Copenhagen Wolfpack",
+  "score" : "134-93"
+}, {
+  "homeTeam" : "USK Prag (K)",
+  "awayTeam" : "Galatasaray (K)",
+  "score" : "64-55"
+}, {
+  "homeTeam" : "UNI Girona CB (K)",
+  "awayTeam" : "Schio (K)",
+  "score" : "81-72"
+}, {
+  "homeTeam" : "Tango Bourges (K)",
+  "awayTeam" : "Flammes Carolo (K)",
+  "score" : "85-57"
+}, {
+  "homeTeam" : "UF Angers Basket (K)",
+  "awayTeam" : "ESB Villeneuve (K)",
+  "score" : "67-95"
+}, {
+  "homeTeam" : "M. Castors Braine (K)",
+  "awayTeam" : "Arka Gdynia (K)",
+  "score" : "80-73"
+}, {
+  "homeTeam" : "Huddinge Basketklubb",
+  "awayTeam" : "Alvik BBK",
+  "score" : "93-97"
+}, {
+  "homeTeam" : "Basket 1971",
+  "awayTeam" : "Fortitudo Bologna",
+  "score" : "65-56"
+}, {
+  "homeTeam" : "Ueb Cividale",
+  "awayTeam" : "Urania Milano",
+  "score" : "78-65"
+}, {
+  "homeTeam" : "Ferrara Basket 2018",
+  "awayTeam" : "ASD Luiss Roma",
+  "score" : "79-82"
+}, {
+  "homeTeam" : "Pielle Livorno",
+  "awayTeam" : "Chiusi",
+  "score" : "83-75"
+}, {
+  "homeTeam" : "Donar Groningen",
+  "awayTeam" : "Fyllingen BK",
+  "score" : "88-80"
+}, {
+  "homeTeam" : "Gimle BK",
+  "awayTeam" : "BK Inter Bratislava",
+  "score" : "77-80"
 } ]
