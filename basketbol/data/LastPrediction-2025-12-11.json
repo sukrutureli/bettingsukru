@@ -1,0 +1,76 @@
+[ {
+  "name" : "CD Universidad De Concepcion - Instituto de Cordoba",
+  "time" : "01:10",
+  "predictions" : [ "154.5 Alt (1.65 - 68.3%)" ],
+  "score" : "79-69"
+}, {
+  "name" : "Regatas Corrientes - CA Platense",
+  "time" : "03:00",
+  "predictions" : [ "158.5 Alt (1.61 - 55.3%)" ],
+  "score" : "79-78"
+}, {
+  "name" : "Illawarra Hawks - Brisbane Bullets",
+  "time" : "11:30",
+  "predictions" : [ "186.5 Alt (1.63 - 60.1%)" ],
+  "score" : "97-87"
+}, {
+  "name" : "Dongbu Promy - Seoul SK Knights",
+  "time" : "13:00",
+  "predictions" : [ "155.5 Üst (1.63 - 70.9%)" ],
+  "score" : "82-82"
+}, {
+  "name" : "Panathinaikos BC (K) - ZKK Crvena Zvezda (K)",
+  "time" : "19:00",
+  "predictions" : [ "151.5 Üst (1.63 - 83.3%)" ],
+  "score" : "79-88"
+}, {
+  "name" : "BK Zabiny Brno (K) - AZS Lublin (K)",
+  "time" : "20:00",
+  "predictions" : [ "143.5 Üst (1.62 - 79.4%)" ],
+  "score" : "82-74"
+}, {
+  "name" : "KP Brno (K) - K. Mechelen (K)",
+  "time" : "20:00",
+  "predictions" : [ "143.5 Üst (1.61 - 60.3%)" ],
+  "score" : "75-73"
+}, {
+  "name" : "Randers Cimb. - Bakken Bears",
+  "time" : "20:30",
+  "predictions" : [ "173.5 Alt (1.62 - 55.6%)" ],
+  "score" : "86-87"
+}, {
+  "name" : "Holbaek St. - BK Amager",
+  "time" : "21:00",
+  "predictions" : [ "175.5 Alt (1.65 - 59.6%)" ],
+  "score" : "87-85"
+}, {
+  "name" : "Charnay Basket (K) - Lattes Montp (K)",
+  "time" : "22:00",
+  "predictions" : [ "145.5 Üst (1.63 - 58.1%)" ],
+  "score" : "74-75"
+}, {
+  "name" : "IA Akranes - Stjarnan",
+  "time" : "22:15",
+  "predictions" : [ "189.5 Alt (1.63 - 62.1%)" ],
+  "score" : "89-97"
+}, {
+  "name" : "Valur Reykjavik - Keflavik",
+  "time" : "22:15",
+  "predictions" : [ "176.5 Üst (1.66 - 65.2%)" ],
+  "score" : "90-93"
+}, {
+  "name" : "KR Reykjavik - IR Reykjavik",
+  "time" : "22:15",
+  "predictions" : [ "180.5 Üst (1.65 - 60.2%)" ],
+  "score" : "93-92"
+}, {
+  "name" : "Olimpia Milano - Panathinaikos",
+  "time" : "22:30",
+  "predictions" : [ "MS2 (1.41 - 71.3%)" ],
+  "score" : "85-89"
+}, {
+  "name" : "Paris - Zalgiris Kaunas",
+  "time" : "22:45",
+  "predictions" : [ "176.5 Üst (1.63 - 68.8%)" ],
+  "score" : "94-90"
+} ]
