@@ -114,9 +114,9 @@
   "homeTeam" : "Dvtk Miskolc (K)",
   "awayTeam" : "Basket Landes (K)",
   "picks" : [ "136.5 Alt (1.63 - 56.4%)" ],
-  "score" : "-",
+  "score" : "70-77",
   "statuses" : {
-    "136.5 Alt (1.63 - 56.4%)" : "pending"
+    "136.5 Alt (1.63 - 56.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Ratiopharm Ulm",

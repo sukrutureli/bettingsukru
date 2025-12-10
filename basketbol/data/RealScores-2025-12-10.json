@@ -146,4 +146,68 @@
   "homeTeam" : "Barangay Ginebra",
   "awayTeam" : "Blackwater",
   "score" : "103-85"
+}, {
+  "homeTeam" : "Bahçeşehir Koleji",
+  "awayTeam" : "Cluj Napoca",
+  "score" : "84-72"
+}, {
+  "homeTeam" : "Dvtk Miskolc (K)",
+  "awayTeam" : "Basket Landes (K)",
+  "score" : "70-77"
+}, {
+  "homeTeam" : "Fenerbahçe (K)",
+  "awayTeam" : "Reyer Venezia (K)",
+  "score" : "96-48"
+}, {
+  "homeTeam" : "Taltech",
+  "awayTeam" : "BK Ogre",
+  "score" : "80-77"
+}, {
+  "homeTeam" : "Kk Viimsi",
+  "awayTeam" : "Valmiera Glass Via",
+  "score" : "69-99"
+}, {
+  "homeTeam" : "Kibirkstis MRU (K)",
+  "awayTeam" : "Magnolia Basket (K)",
+  "score" : "87-70"
+}, {
+  "homeTeam" : "San Giovanni (K)",
+  "awayTeam" : "Univ. de Ferrol (K)",
+  "score" : "62-81"
+}, {
+  "homeTeam" : "Zaglebie Sosnowiec (K)",
+  "awayTeam" : "Stars Keltern (K)",
+  "score" : "83-75"
+}, {
+  "homeTeam" : "Lahti Basketball",
+  "awayTeam" : "Pyrinto Tampere",
+  "score" : "77-78"
+}, {
+  "homeTeam" : "Kauhajoki Karhu",
+  "awayTeam" : "Bisons Loimaa",
+  "score" : "86-78"
+}, {
+  "homeTeam" : "Dinamo Zagreb",
+  "awayTeam" : "Cibona Zagreb",
+  "score" : "82-89"
+}, {
+  "homeTeam" : "Kk Krka",
+  "awayTeam" : "KD Ilirija",
+  "score" : "85-65"
+}, {
+  "homeTeam" : "Yalova VIP (K)",
+  "awayTeam" : "Burhaniye Bld (K)",
+  "score" : "92-82"
+}, {
+  "homeTeam" : "N. Novgorod",
+  "awayTeam" : "Unics Kazan",
+  "score" : "69-100"
+}, {
+  "homeTeam" : "MBA Moscow",
+  "awayTeam" : "Avtodor Sara",
+  "score" : "95-90"
+}, {
+  "homeTeam" : "Zenit",
+  "awayTeam" : "BC Samara",
+  "score" : "95-56"
 } ]
