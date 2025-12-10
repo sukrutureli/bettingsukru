@@ -18,65 +18,65 @@
   "homeTeam" : "Daegu Pegasus",
   "awayTeam" : "Samsung Thunders",
   "picks" : [ "MS1 (1.62 - 68.0%)" ],
-  "score" : "-",
+  "score" : "80-76",
   "statuses" : {
-    "MS1 (1.62 - 68.0%)" : "pending"
+    "MS1 (1.62 - 68.0%)" : "won"
   }
 }, {
   "homeTeam" : "Gunma Crane",
   "awayTeam" : "Sun Rockers Shibuya",
   "picks" : [ "155.5 Üst (1.65 - 69.8%)" ],
-  "score" : "-",
+  "score" : "94-92",
   "statuses" : {
-    "155.5 Üst (1.65 - 69.8%)" : "pending"
+    "155.5 Üst (1.65 - 69.8%)" : "won"
   }
 }, {
   "homeTeam" : "F. Eagles Nagoya",
   "awayTeam" : "Toyama Grouses",
   "picks" : [ "MS1 (1.32 - 72.3%)" ],
-  "score" : "-",
+  "score" : "90-71",
   "statuses" : {
-    "MS1 (1.32 - 72.3%)" : "pending"
+    "MS1 (1.32 - 72.3%)" : "won"
   }
 }, {
   "homeTeam" : "Kyoto Hannarizu",
   "awayTeam" : "Sh. Susanoo",
   "picks" : [ "160.5 Üst (1.62 - 68.0%)" ],
-  "score" : "-",
+  "score" : "57-81",
   "statuses" : {
-    "160.5 Üst (1.62 - 68.0%)" : "pending"
+    "160.5 Üst (1.62 - 68.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Iwate Big Bulls",
   "awayTeam" : "Tokyo Excellence",
   "picks" : [ "MS2 (1.37 - 55.7%)" ],
-  "score" : "-",
+  "score" : "66-85",
   "statuses" : {
-    "MS2 (1.37 - 55.7%)" : "pending"
+    "MS2 (1.37 - 55.7%)" : "won"
   }
 }, {
   "homeTeam" : "Ehime O. V.",
   "awayTeam" : "Rizing Fukuoka",
   "picks" : [ "148.5 Üst (1.65 - 66.9%)" ],
-  "score" : "-",
+  "score" : "82-71",
   "statuses" : {
-    "148.5 Üst (1.65 - 66.9%)" : "pending"
+    "148.5 Üst (1.65 - 66.9%)" : "won"
   }
 }, {
   "homeTeam" : "R. G. K. Okinaw",
   "awayTeam" : "Diamond Dolphins",
   "picks" : [ "158.5 Alt (1.65 - 55.5%)" ],
-  "score" : "-",
+  "score" : "60-73",
   "statuses" : {
-    "158.5 Alt (1.65 - 55.5%)" : "pending"
+    "158.5 Alt (1.65 - 55.5%)" : "won"
   }
 }, {
   "homeTeam" : "Shinsh Brave",
   "awayTeam" : "Fukui Blowwinds",
   "picks" : [ "MS1 (1.38 - 81.0%)" ],
-  "score" : "-",
+  "score" : "96-75",
   "statuses" : {
-    "MS1 (1.38 - 81.0%)" : "pending"
+    "MS1 (1.38 - 81.0%)" : "won"
   }
 }, {
   "homeTeam" : "Neptunas K.",
