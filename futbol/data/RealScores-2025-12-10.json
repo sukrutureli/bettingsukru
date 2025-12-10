@@ -10,4 +10,184 @@
   "homeTeam" : "Hav Waterloo",
   "awayTeam" : "Bracknell Town",
   "score" : "-"
+}, {
+  "homeTeam" : "Seoul",
+  "awayTeam" : "Melbourne City",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "S. Hiroshima",
+  "awayTeam" : "Shanghai S.",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Persib Bandung",
+  "awayTeam" : "Bangkok Utd",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Selangor FA",
+  "awayTeam" : "Lion C. Sailors",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "UE Santa Coloma",
+  "awayTeam" : "Rangers",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Atl. Club d'Escaldes",
+  "awayTeam" : "Esperanca D. Andorra",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Canberra Utd (K)",
+  "awayTeam" : "Sydney (K)",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Mingechevir",
+  "awayTeam" : "Cabrayil",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Baku SC",
+  "awayTeam" : "Sahdag Qusar",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "MOIK Baku",
+  "awayTeam" : "Simal",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Tayland (K)",
+  "awayTeam" : "Singapur (K)",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Meshakhte Tkibuli",
+  "awayTeam" : "Telavi",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Gareji",
+  "awayTeam" : "Spaeri",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "AL Hussein",
+  "awayTeam" : "Karbalaa",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Aluminium A.",
+  "awayTeam" : "M. Sepahan",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Fajr Sepasi",
+  "awayTeam" : "Chador Malu Y.",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Mes Rafsanjan",
+  "awayTeam" : "F. Khuzestan",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Esteghlal",
+  "awayTeam" : "Malavan Bandar Anzali",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Sepahan Novin",
+  "awayTeam" : "NM Soleyman",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Recreativo",
+  "awayTeam" : "Ucam Murcia",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "OFK Petrovac",
+  "awayTeam" : "FK Bokelj Kotor",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "FK Jezero Plav",
+  "awayTeam" : "Buducnost",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "FK Arsenal Tivat",
+  "awayTeam" : "FK Jedinstvo Bijelo Polje",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Moyale Barracks",
+  "awayTeam" : "Nyasa Big Bullets",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Blue Eagles Malawi",
+  "awayTeam" : "Kamuzu Barracks",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Ekhaya",
+  "awayTeam" : "Silver Strikers",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Doma Utd",
+  "awayTeam" : "Sokoto Utd",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "FK Buxoro",
+  "awayTeam" : "Xorazm Fk Urganch",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Estoril Praia U23",
+  "awayTeam" : "UD Leiria U23",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Ruzomberok",
+  "awayTeam" : "FK Kosice",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "Karabağ U19",
+  "awayTeam" : "Ajax U19",
+  "score" : "0-8"
+}, {
+  "homeTeam" : "Villarreal U19",
+  "awayTeam" : "Kopenhag U19",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Benfica U19",
+  "awayTeam" : "Napoli U19",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Ath. Bilbao U19",
+  "awayTeam" : "PSG U19",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Club Brugge U19",
+  "awayTeam" : "Arsenal U19",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "B. Leverkusen U19",
+  "awayTeam" : "Newcastle Utd U19",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Juventus U19",
+  "awayTeam" : "Pafos U19",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Midtjylland U19",
+  "awayTeam" : "1 Köln U19",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "D. Tiflis U19",
+  "awayTeam" : "Dinamo Minsk U19",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Buhimba Utd Saints",
+  "awayTeam" : "Updf",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Lugazi Municipal",
+  "awayTeam" : "Uganda Police",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Kfarsoum",
+  "awayTeam" : "Jerash",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "Al Yarmouk",
+  "awayTeam" : "Sama",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Arabi",
+  "awayTeam" : "Maan",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Doqarah",
+  "awayTeam" : "Ittihad AL Ramtha",
+  "score" : "1-1"
 } ]

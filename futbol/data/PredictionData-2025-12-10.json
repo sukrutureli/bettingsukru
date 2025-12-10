@@ -2,9 +2,9 @@
   "homeTeam" : "Esteghlal",
   "awayTeam" : "Malavan Bandar A.",
   "picks" : [ "Alt (1.3 - 74.8%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.3 - 74.8%)" : "pending"
+    "Alt (1.3 - 74.8%)" : "won"
   }
 }, {
   "homeTeam" : "Ternana Calcio",
