@@ -10,9 +10,9 @@
   "homeTeam" : "Ternana Calcio",
   "awayTeam" : "Union Brescia",
   "picks" : [ "Alt (1.37 - 61.3%)" ],
-  "score" : "-",
+  "score" : "4-1",
   "statuses" : {
-    "Alt (1.37 - 61.3%)" : "pending"
+    "Alt (1.37 - 61.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Crewe Alexandra",
