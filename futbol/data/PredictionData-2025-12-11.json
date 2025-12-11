@@ -26,32 +26,32 @@
   "homeTeam" : "Ludogorets",
   "awayTeam" : "PAOK",
   "picks" : [ "Var (1.59 - 77.2%)" ],
-  "score" : "-",
+  "score" : "3-3",
   "statuses" : {
-    "Var (1.59 - 77.2%)" : "pending"
+    "Var (1.59 - 77.2%)" : "won"
   }
 }, {
   "homeTeam" : "D. Zagreb",
   "awayTeam" : "Real Betis",
   "picks" : [ "Var (1.54 - 79.0%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Var (1.54 - 79.0%)" : "pending"
+    "Var (1.54 - 79.0%)" : "won"
   }
 }, {
   "homeTeam" : "Odense",
   "awayTeam" : "AGF Aarhus",
   "picks" : [ "Var (1.38 - 72.2%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.38 - 72.2%)" : "pending"
+    "Var (1.38 - 72.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Aalesunds",
   "awayTeam" : "Bryne",
   "picks" : [ "Üst (1.52 - 75.3%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Üst (1.52 - 75.3%)" : "pending"
+    "Üst (1.52 - 75.3%)" : "lost"
   }
 } ]
