@@ -18,17 +18,17 @@
   "homeTeam" : "Illawarra Hawks",
   "awayTeam" : "Brisbane Bullets",
   "picks" : [ "186.5 Alt (1.63 - 60.1%)" ],
-  "score" : "-",
+  "score" : "100-85",
   "statuses" : {
-    "186.5 Alt (1.63 - 60.1%)" : "pending"
+    "186.5 Alt (1.63 - 60.1%)" : "won"
   }
 }, {
   "homeTeam" : "Dongbu Promy",
   "awayTeam" : "Seoul SK Knights",
   "picks" : [ "155.5 Üst (1.63 - 70.9%)" ],
-  "score" : "-",
+  "score" : "65-63",
   "statuses" : {
-    "155.5 Üst (1.63 - 70.9%)" : "pending"
+    "155.5 Üst (1.63 - 70.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Panathinaikos BC (K)",

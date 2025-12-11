@@ -50,4 +50,24 @@
   "homeTeam" : "EC Pinheiros SP",
   "awayTeam" : "Mogi Das Cruzes",
   "score" : "84-69"
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "San Antonio",
+  "score" : "119-132"
+}, {
+  "homeTeam" : "Illawarra Hawks",
+  "awayTeam" : "Brisbane Bullets",
+  "score" : "100-85"
+}, {
+  "homeTeam" : "Dongbu Promy",
+  "awayTeam" : "Seoul SK Knights",
+  "score" : "65-63"
+}, {
+  "homeTeam" : "Petro Novin Mahshahr",
+  "awayTeam" : "Shahrdari Gorgan",
+  "score" : "62-73"
+}, {
+  "homeTeam" : "Tabiaat",
+  "awayTeam" : "Esteghlal Tehran",
+  "score" : "70-80"
 } ]
