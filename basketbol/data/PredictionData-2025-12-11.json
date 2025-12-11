@@ -58,64 +58,64 @@
   "homeTeam" : "Randers Cimb.",
   "awayTeam" : "Bakken Bears",
   "picks" : [ "173.5 Alt (1.62 - 55.6%)" ],
-  "score" : "-",
+  "score" : "96-91",
   "statuses" : {
-    "173.5 Alt (1.62 - 55.6%)" : "pending"
+    "173.5 Alt (1.62 - 55.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Holbaek St.",
   "awayTeam" : "BK Amager",
   "picks" : [ "175.5 Alt (1.65 - 59.6%)" ],
-  "score" : "-",
+  "score" : "77-83",
   "statuses" : {
-    "175.5 Alt (1.65 - 59.6%)" : "pending"
+    "175.5 Alt (1.65 - 59.6%)" : "won"
   }
 }, {
   "homeTeam" : "Charnay Basket (K)",
   "awayTeam" : "Lattes Montp (K)",
   "picks" : [ "145.5 Üst (1.63 - 58.1%)" ],
-  "score" : "-",
+  "score" : "63-55",
   "statuses" : {
-    "145.5 Üst (1.63 - 58.1%)" : "pending"
+    "145.5 Üst (1.63 - 58.1%)" : "lost"
   }
 }, {
   "homeTeam" : "IA Akranes",
   "awayTeam" : "Stjarnan",
   "picks" : [ "189.5 Alt (1.63 - 62.1%)" ],
-  "score" : "-",
+  "score" : "85-115",
   "statuses" : {
-    "189.5 Alt (1.63 - 62.1%)" : "pending"
+    "189.5 Alt (1.63 - 62.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Valur Reykjavik",
   "awayTeam" : "Keflavik",
   "picks" : [ "176.5 Üst (1.66 - 65.2%)" ],
-  "score" : "-",
+  "score" : "111-91",
   "statuses" : {
-    "176.5 Üst (1.66 - 65.2%)" : "pending"
+    "176.5 Üst (1.66 - 65.2%)" : "won"
   }
 }, {
   "homeTeam" : "KR Reykjavik",
   "awayTeam" : "IR Reykjavik",
   "picks" : [ "180.5 Üst (1.65 - 60.2%)" ],
-  "score" : "-",
+  "score" : "102-96",
   "statuses" : {
-    "180.5 Üst (1.65 - 60.2%)" : "pending"
+    "180.5 Üst (1.65 - 60.2%)" : "won"
   }
 }, {
   "homeTeam" : "Olimpia Milano",
   "awayTeam" : "Panathinaikos",
   "picks" : [ "MS2 (1.41 - 71.3%)" ],
-  "score" : "-",
+  "score" : "96-89",
   "statuses" : {
-    "MS2 (1.41 - 71.3%)" : "pending"
+    "MS2 (1.41 - 71.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Paris",
   "awayTeam" : "Zalgiris Kaunas",
   "picks" : [ "176.5 Üst (1.63 - 68.8%)" ],
-  "score" : "-",
+  "score" : "105-108",
   "statuses" : {
-    "176.5 Üst (1.63 - 68.8%)" : "pending"
+    "176.5 Üst (1.63 - 68.8%)" : "won"
   }
 } ]

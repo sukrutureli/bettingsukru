@@ -110,4 +110,68 @@
   "homeTeam" : "Ose Lions",
   "awayTeam" : "Kormend",
   "score" : "93-94"
+}, {
+  "homeTeam" : "M. Tel Aviv",
+  "awayTeam" : "Asvel Vil.",
+  "score" : "92-84"
+}, {
+  "homeTeam" : "Olimpia Milano",
+  "awayTeam" : "Panathinaikos",
+  "score" : "96-89"
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "Anadolu Efes",
+  "score" : "94-82"
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Zalgiris Kaunas",
+  "score" : "105-108"
+}, {
+  "homeTeam" : "Real Madrid",
+  "awayTeam" : "Baskonia",
+  "score" : "94-87"
+}, {
+  "homeTeam" : "Randers Cimb.",
+  "awayTeam" : "Bakken Bears",
+  "score" : "96-91"
+}, {
+  "homeTeam" : "Holbaek-St.",
+  "awayTeam" : "BK Amager",
+  "score" : "77-83"
+}, {
+  "homeTeam" : "Sleza Wroclaw (K)",
+  "awayTeam" : "CB Estudiantes (K)",
+  "score" : "65-62"
+}, {
+  "homeTeam" : "Charnay Basket (K)",
+  "awayTeam" : "Lattes Montp (K)",
+  "score" : "63-55"
+}, {
+  "homeTeam" : "Gernika Kesb (K)",
+  "awayTeam" : "Peac Pecs (K)",
+  "score" : "62-43"
+}, {
+  "homeTeam" : "Cb Jairis (K)",
+  "awayTeam" : "Athinaikos (K)",
+  "score" : "75-80"
+}, {
+  "homeTeam" : "IA Akranes",
+  "awayTeam" : "Stjarnan",
+  "score" : "85-115"
+}, {
+  "homeTeam" : "UMF Grindavik",
+  "awayTeam" : "Armann",
+  "score" : "105-85"
+}, {
+  "homeTeam" : "Valur Reykjavik",
+  "awayTeam" : "Keflavik",
+  "score" : "111-91"
+}, {
+  "homeTeam" : "KR Reykjavik",
+  "awayTeam" : "IR Reykjavik",
+  "score" : "102-96"
+}, {
+  "homeTeam" : "Budapesti Honved SE",
+  "awayTeam" : "NKA Universitas Pecs",
+  "score" : "78-79"
 } ]
