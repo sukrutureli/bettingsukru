@@ -1,0 +1,53 @@
+[ {
+  "homeTeam" : "Oklahoma",
+  "awayTeam" : "Phoenix",
+  "score" : "138-89"
+}, {
+  "homeTeam" : "Maryland Terrapins (K)",
+  "awayTeam" : "Delaware State Hornets",
+  "score" : "91-21"
+}, {
+  "homeTeam" : "Iowa State Cyclones (K)",
+  "awayTeam" : "Iowa Hawk (K)",
+  "score" : "74-69"
+}, {
+  "homeTeam" : "Louisville Cardinals (K)",
+  "awayTeam" : "Ball State Cardinals (K)",
+  "score" : "93-62"
+}, {
+  "homeTeam" : "Purdue Boilermakers",
+  "awayTeam" : "Minnesota Golden Gophers",
+  "score" : "85-57"
+}, {
+  "homeTeam" : "Nebraska Cornhuskers",
+  "awayTeam" : "Wisconsin Badgers",
+  "score" : "90-60"
+}, {
+  "homeTeam" : "CD Universidad De Concepcion",
+  "awayTeam" : "Instituto de Cordoba",
+  "score" : "74-80"
+}, {
+  "homeTeam" : "Aguada",
+  "awayTeam" : "Boca Juniors",
+  "score" : "71-88"
+}, {
+  "homeTeam" : "Regatas Corrientes",
+  "awayTeam" : "CA Platense",
+  "score" : "67-89"
+}, {
+  "homeTeam" : "Penarol Mar",
+  "awayTeam" : "Ciclista Olimpico",
+  "score" : "82-76"
+}, {
+  "homeTeam" : "SAO Jose Dos Campos",
+  "awayTeam" : "Universo Brasilia",
+  "score" : "87-73"
+}, {
+  "homeTeam" : "Bauru Basket",
+  "awayTeam" : "SC Corinthians P.",
+  "score" : "94-84"
+}, {
+  "homeTeam" : "EC Pinheiros SP",
+  "awayTeam" : "Mogi Das Cruzes",
+  "score" : "84-69"
+} ]

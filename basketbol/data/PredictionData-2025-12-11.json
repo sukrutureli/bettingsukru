@@ -2,17 +2,17 @@
   "homeTeam" : "CD Universidad De Concepcion",
   "awayTeam" : "Instituto de Cordoba",
   "picks" : [ "154.5 Alt (1.65 - 68.3%)" ],
-  "score" : "-",
+  "score" : "74-80",
   "statuses" : {
-    "154.5 Alt (1.65 - 68.3%)" : "pending"
+    "154.5 Alt (1.65 - 68.3%)" : "won"
   }
 }, {
   "homeTeam" : "Regatas Corrientes",
   "awayTeam" : "CA Platense",
   "picks" : [ "158.5 Alt (1.61 - 55.3%)" ],
-  "score" : "-",
+  "score" : "67-89",
   "statuses" : {
-    "158.5 Alt (1.61 - 55.3%)" : "pending"
+    "158.5 Alt (1.61 - 55.3%)" : "won"
   }
 }, {
   "homeTeam" : "Illawarra Hawks",
