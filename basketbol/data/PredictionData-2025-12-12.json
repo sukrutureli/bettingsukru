@@ -1,0 +1,225 @@
+[ {
+  "homeTeam" : "Club Bigua De Villa Biarritz",
+  "awayTeam" : "CA Goes",
+  "picks" : [ "172.5 Alt (1.6 - 56.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "172.5 Alt (1.6 - 56.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Portland",
+  "picks" : [ "240.5 Alt (1.65 - 63.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "240.5 Alt (1.65 - 63.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Adelaide 36ers",
+  "awayTeam" : "Melbourne Utd",
+  "picks" : [ "MS1 (1.47 - 78.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.47 - 78.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "KT Sonicboom",
+  "awayTeam" : "Anyang KGC",
+  "picks" : [ "MS2 (1.35 - 62.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.35 - 62.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tokyo Excellence",
+  "awayTeam" : "Bambitious",
+  "picks" : [ "MS1 (1.38 - 88.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.38 - 88.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rizing Fukuoka",
+  "awayTeam" : "Kagoshima Rebnise",
+  "picks" : [ "157.5 Üst (1.6 - 81.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "157.5 Üst (1.6 - 81.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Phoenix Puls",
+  "awayTeam" : "Meralco",
+  "picks" : [ "189.5 Alt (1.63 - 59.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "189.5 Alt (1.63 - 59.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "KK Split",
+  "awayTeam" : "KK Igokea",
+  "picks" : [ "MS1 (1.64 - 91.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.64 - 91.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Mega Bemax",
+  "awayTeam" : "KK Zadar",
+  "picks" : [ "166.5 Alt (1.65 - 56.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Alt (1.65 - 56.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Szedeak",
+  "awayTeam" : "Soproni Sordogok",
+  "picks" : [ "158.5 Üst (1.66 - 56.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "158.5 Üst (1.66 - 56.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Duna Aszfalt",
+  "awayTeam" : "Alba Fehervar",
+  "picks" : [ "175.5 Alt (1.67 - 74.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "175.5 Alt (1.67 - 74.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kopenhagen B.",
+  "awayTeam" : "Vaerlose Bbk",
+  "picks" : [ "164.5 Üst (1.63 - 59.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "164.5 Üst (1.63 - 59.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sodertalje",
+  "awayTeam" : "Umea",
+  "picks" : [ "163.5 Üst (1.65 - 80.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "163.5 Üst (1.65 - 80.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Fenerbahçe",
+  "picks" : [ "167.5 Üst (1.64 - 71.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Üst (1.64 - 71.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Wurzburg",
+  "picks" : [ "163.5 Alt (1.65 - 64.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "163.5 Alt (1.65 - 64.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Stade Rochelais B.",
+  "awayTeam" : "Caen Basket",
+  "picks" : [ "160.5 Üst (1.64 - 55.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "160.5 Üst (1.64 - 55.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hermine Nantes B.",
+  "awayTeam" : "Poitiers Basket 86",
+  "picks" : [ "MS2 (1.54 - 65.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.54 - 65.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ujap Quimper 29",
+  "awayTeam" : "A. S. Alsace",
+  "picks" : [ "MS2 (1.66 - 59.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.66 - 59.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UMFN Njardvik",
+  "awayTeam" : "Thor Thorl",
+  "picks" : [ "193.5 Alt (1.67 - 61.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "193.5 Alt (1.67 - 61.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "SL Benfica",
+  "awayTeam" : "SC Braga",
+  "picks" : [ "165.5 Üst (1.63 - 66.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "165.5 Üst (1.63 - 66.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Olympiakos",
+  "picks" : [ "166.5 Üst (1.65 - 59.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Üst (1.65 - 59.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Partizan",
+  "awayTeam" : "Kızıl Yıldız",
+  "picks" : [ "168.5 Üst (1.62 - 60.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Üst (1.62 - 60.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Hap. Tel Aviv",
+  "picks" : [ "168.5 Alt (1.64 - 55.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Alt (1.64 - 55.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Nanterre 92",
+  "awayTeam" : "Le Mans",
+  "picks" : [ "MS1 (1.61 - 92.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.61 - 92.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Excels Brus",
+  "awayTeam" : "Z. Leiden",
+  "picks" : [ "MS1 (1.48 - 76.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.48 - 76.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Surrey 89ers",
+  "awayTeam" : "Caledonia Gladiators",
+  "picks" : [ "169.5 Alt (1.63 - 56.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "169.5 Alt (1.63 - 56.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bristol Flyers",
+  "awayTeam" : "London Lions",
+  "picks" : [ "154.5 Üst (1.64 - 67.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "154.5 Üst (1.64 - 67.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Alftanes",
+  "awayTeam" : "UMF Tindastoll",
+  "picks" : [ "176.5 Üst (1.65 - 68.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "176.5 Üst (1.65 - 68.9%)" : "pending"
+  }
+} ]
