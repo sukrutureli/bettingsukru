@@ -126,4 +126,72 @@
   "homeTeam" : "Thailand",
   "awayTeam" : "Singapore",
   "score" : "3-0"
+}, {
+  "homeTeam" : "Fas",
+  "awayTeam" : "Suriye",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Levski Sofya",
+  "awayTeam" : "Vitosha Bistrica",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Sporting Cascades",
+  "awayTeam" : "RC Bobo Dioulasso",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Majestic",
+  "awayTeam" : "AS Douanes Ouagadougou",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Rahimo",
+  "awayTeam" : "ASFA Yennega",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Cffeb",
+  "awayTeam" : "Etoile Filante de Ouagadougou",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Rail Club de Kadiogo",
+  "awayTeam" : "Vitesse",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "CS Constantine",
+  "awayTeam" : "Temouchent",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Kanifing East",
+  "awayTeam" : "Gamtel",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Wallidan",
+  "awayTeam" : "Marimoo",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Elite Utd",
+  "awayTeam" : "North Star",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Colley Stars",
+  "awayTeam" : "Gunjur Utd",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AL Ittihad",
+  "awayTeam" : "Al Masry",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Plateau Utd",
+  "awayTeam" : "Rivers Utd",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AL Hilal (Sdn)",
+  "awayTeam" : "Bugesera",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "SC Villa",
+  "awayTeam" : "URA",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Al Wehdat",
+  "awayTeam" : "Al Ahli (Ürd)",
+  "score" : "4-1"
 } ]

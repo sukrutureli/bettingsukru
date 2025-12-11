@@ -18,9 +18,9 @@
   "homeTeam" : "CS Constantine",
   "awayTeam" : "Temouchent",
   "picks" : [ "Alt (1.36 - 77.0%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.36 - 77.0%)" : "pending"
+    "Alt (1.36 - 77.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Ludogorets",
