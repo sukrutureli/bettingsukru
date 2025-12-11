@@ -26,4 +26,104 @@
   "homeTeam" : "Huachipato",
   "awayTeam" : "Deportes Limache",
   "score" : "1-1"
+}, {
+  "homeTeam" : "Gamba Osaka",
+  "awayTeam" : "Ratchaburi",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Nam Dinh",
+  "awayTeam" : "Eastern Sports",
+  "score" : "9-0"
+}, {
+  "homeTeam" : "Beijing Guoan",
+  "awayTeam" : "Macarthur",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Wofoo Tai PO",
+  "awayTeam" : "Cong An Nhan Dan",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Kaya Iloi",
+  "awayTeam" : "Pohang S.",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "BG Pathum Utd",
+  "awayTeam" : "Tampines Rov.",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Safa",
+  "awayTeam" : "Zaqatala FK",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Sabayil",
+  "awayTeam" : "Difai Agsu",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "CA Batna",
+  "awayTeam" : "ESM Kolea",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "Paradou AC",
+  "awayTeam" : "Usf Constantine",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Jb Ain Kercha",
+  "awayTeam" : "ASM Oran",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "JSM Bejaia",
+  "awayTeam" : "WA Boufarik",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Ulinzi Stars",
+  "awayTeam" : "Kenya Com.",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "BE Forward Wanderers",
+  "awayTeam" : "Karonga Utd",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "EL Terasanah",
+  "awayTeam" : "Tanta",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "La Viena",
+  "awayTeam" : "ABO Qair Semads",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Amagaju",
+  "awayTeam" : "Rutsiro",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Gunners",
+  "awayTeam" : "Kiluvya",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Songea Utd",
+  "awayTeam" : "Polisi Tanzania",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Transit Camp",
+  "awayTeam" : "Stand Utd",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Gaddafi",
+  "awayTeam" : "Express",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Al Hashemehya",
+  "awayTeam" : "Amman",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Al Jazeera",
+  "awayTeam" : "Shabab AL Ordon",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Katar U23",
+  "awayTeam" : "S. Arabistan U23",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Thailand",
+  "awayTeam" : "Singapore",
+  "score" : "3-0"
 } ]
