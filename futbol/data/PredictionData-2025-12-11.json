@@ -2,9 +2,9 @@
   "homeTeam" : "Liberia",
   "awayTeam" : "Alajuelense",
   "picks" : [ "Alt (1.4 - 73.7%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.4 - 73.7%)" : "pending"
+    "Alt (1.4 - 73.7%)" : "won"
   }
 }, {
   "homeTeam" : "CA Batna",

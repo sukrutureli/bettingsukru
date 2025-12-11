@@ -1,0 +1,29 @@
+[ {
+  "homeTeam" : "U. de Vinto",
+  "awayTeam" : "Independiente P.",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Cruzeiro MG",
+  "awayTeam" : "Corinthians",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Independiente D. V.",
+  "awayTeam" : "LDU Quito",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Municipal",
+  "awayTeam" : "CD Mictlan",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Liberia",
+  "awayTeam" : "Alajuelense",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "S. Cristal",
+  "awayTeam" : "Cusco",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Huachipato",
+  "awayTeam" : "Deportes Limache",
+  "score" : "1-1"
+} ]
