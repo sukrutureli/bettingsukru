@@ -70,4 +70,44 @@
   "homeTeam" : "Tabiaat",
   "awayTeam" : "Esteghlal Tehran",
   "score" : "70-80"
+}, {
+  "homeTeam" : "Sagesse",
+  "awayTeam" : "AL Wahda",
+  "score" : "75-69"
+}, {
+  "homeTeam" : "Emlak Konut (K)",
+  "awayTeam" : "Perf. Avenida (K)",
+  "score" : "78-81"
+}, {
+  "homeTeam" : "Panathinaikos BC (K)",
+  "awayTeam" : "ZKK Crvena Zvezda (K)",
+  "score" : "85-76"
+}, {
+  "homeTeam" : "Beşiktaş (K)",
+  "awayTeam" : "Sopron B. (K)",
+  "score" : "106-90"
+}, {
+  "homeTeam" : "BK Zabiny Brno (K)",
+  "awayTeam" : "AZS Lublin (K)",
+  "score" : "51-92"
+}, {
+  "homeTeam" : "KP Brno (K)",
+  "awayTeam" : "K. Mechelen (K)",
+  "score" : "66-72"
+}, {
+  "homeTeam" : "Rapid Bucuresti (K)",
+  "awayTeam" : "ÇBK Mersin (K)",
+  "score" : "78-82"
+}, {
+  "homeTeam" : "Elitzur Ramla (K)",
+  "awayTeam" : "Olympiakos (K)",
+  "score" : "86-93"
+}, {
+  "homeTeam" : "AL Khor",
+  "awayTeam" : "Qatar SC",
+  "score" : "77-70"
+}, {
+  "homeTeam" : "Ose Lions",
+  "awayTeam" : "Kormend",
+  "score" : "93-94"
 } ]

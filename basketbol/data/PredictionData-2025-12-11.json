@@ -34,25 +34,25 @@
   "homeTeam" : "Panathinaikos BC (K)",
   "awayTeam" : "ZKK Crvena Zvezda (K)",
   "picks" : [ "151.5 Üst (1.63 - 83.3%)" ],
-  "score" : "-",
+  "score" : "85-76",
   "statuses" : {
-    "151.5 Üst (1.63 - 83.3%)" : "pending"
+    "151.5 Üst (1.63 - 83.3%)" : "won"
   }
 }, {
   "homeTeam" : "BK Zabiny Brno (K)",
   "awayTeam" : "AZS Lublin (K)",
   "picks" : [ "143.5 Üst (1.62 - 79.4%)" ],
-  "score" : "-",
+  "score" : "51-92",
   "statuses" : {
-    "143.5 Üst (1.62 - 79.4%)" : "pending"
+    "143.5 Üst (1.62 - 79.4%)" : "lost"
   }
 }, {
   "homeTeam" : "KP Brno (K)",
   "awayTeam" : "K. Mechelen (K)",
   "picks" : [ "143.5 Üst (1.61 - 60.3%)" ],
-  "score" : "-",
+  "score" : "66-72",
   "statuses" : {
-    "143.5 Üst (1.61 - 60.3%)" : "pending"
+    "143.5 Üst (1.61 - 60.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Randers Cimb.",
