@@ -30,4 +30,56 @@
   "homeTeam" : "Club Bigua De Villa Biarritz",
   "awayTeam" : "CA Goes",
   "score" : "110-106"
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Denver",
+  "score" : "105-136"
+}, {
+  "homeTeam" : "Adelaide 36ers",
+  "awayTeam" : "Melbourne U.",
+  "score" : "114-105"
+}, {
+  "homeTeam" : "Perth Wildcats",
+  "awayTeam" : "Sydney Kings",
+  "score" : "79-108"
+}, {
+  "homeTeam" : "Canberra Capitals (K)",
+  "awayTeam" : "Southside Flyers (K)",
+  "score" : "97-71"
+}, {
+  "homeTeam" : "Zhejiang L.",
+  "awayTeam" : "Shanxi L.",
+  "score" : "88-74"
+}, {
+  "homeTeam" : "Woori Bank H. (K)",
+  "awayTeam" : "Cheongju KB Stars (K)",
+  "score" : "59-54"
+}, {
+  "homeTeam" : "KT Sonicboom",
+  "awayTeam" : "Anyang KGC",
+  "score" : "89-69"
+}, {
+  "homeTeam" : "Tokyo Excellence",
+  "awayTeam" : "Bambitious",
+  "score" : "74-69"
+}, {
+  "homeTeam" : "Rizing Fukuoka",
+  "awayTeam" : "Kagoshima Rebnise",
+  "score" : "81-79"
+}, {
+  "homeTeam" : "Shonan Utd BC",
+  "awayTeam" : "Veertin Mie",
+  "score" : "73-70"
+}, {
+  "homeTeam" : "Tokyo Hac",
+  "awayTeam" : "Tokyo Utd",
+  "score" : "89-72"
+}, {
+  "homeTeam" : "Terrafirma Dyip",
+  "awayTeam" : "Barangay Ginebra",
+  "score" : "77-108"
+}, {
+  "homeTeam" : "Phoenix Puls",
+  "awayTeam" : "Meralco",
+  "score" : "78-88"
 } ]

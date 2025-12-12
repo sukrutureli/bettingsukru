@@ -18,41 +18,41 @@
   "homeTeam" : "Adelaide 36ers",
   "awayTeam" : "Melbourne Utd",
   "picks" : [ "MS1 (1.47 - 78.8%)" ],
-  "score" : "-",
+  "score" : "114-105",
   "statuses" : {
-    "MS1 (1.47 - 78.8%)" : "pending"
+    "MS1 (1.47 - 78.8%)" : "won"
   }
 }, {
   "homeTeam" : "KT Sonicboom",
   "awayTeam" : "Anyang KGC",
   "picks" : [ "MS2 (1.35 - 62.5%)" ],
-  "score" : "-",
+  "score" : "89-69",
   "statuses" : {
-    "MS2 (1.35 - 62.5%)" : "pending"
+    "MS2 (1.35 - 62.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Tokyo Excellence",
   "awayTeam" : "Bambitious",
   "picks" : [ "MS1 (1.38 - 88.2%)" ],
-  "score" : "-",
+  "score" : "74-69",
   "statuses" : {
-    "MS1 (1.38 - 88.2%)" : "pending"
+    "MS1 (1.38 - 88.2%)" : "won"
   }
 }, {
   "homeTeam" : "Rizing Fukuoka",
   "awayTeam" : "Kagoshima Rebnise",
   "picks" : [ "157.5 Üst (1.6 - 81.6%)" ],
-  "score" : "-",
+  "score" : "81-79",
   "statuses" : {
-    "157.5 Üst (1.6 - 81.6%)" : "pending"
+    "157.5 Üst (1.6 - 81.6%)" : "won"
   }
 }, {
   "homeTeam" : "Phoenix Puls",
   "awayTeam" : "Meralco",
   "picks" : [ "189.5 Alt (1.63 - 59.2%)" ],
-  "score" : "-",
+  "score" : "78-88",
   "statuses" : {
-    "189.5 Alt (1.63 - 59.2%)" : "pending"
+    "189.5 Alt (1.63 - 59.2%)" : "won"
   }
 }, {
   "homeTeam" : "KK Split",
