@@ -42,25 +42,25 @@
   "homeTeam" : "Obolon Kiev",
   "awayTeam" : "Metalist 1925",
   "picks" : [ "Yok (1.51 - 63.3%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Yok (1.51 - 63.3%)" : "pending"
+    "Yok (1.51 - 63.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Wsc Hertha",
   "awayTeam" : "Aus. Lustenau",
   "picks" : [ "Alt (1.51 - 65.7%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.51 - 65.7%)" : "pending"
+    "Alt (1.51 - 65.7%)" : "won"
   }
 }, {
   "homeTeam" : "Austria Wien II",
   "awayTeam" : "Klagenfurt",
   "picks" : [ "Alt (1.59 - 59.2%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.59 - 59.2%)" : "pending"
+    "Alt (1.59 - 59.2%)" : "lost"
   }
 }, {
   "homeTeam" : "G. Furth",
