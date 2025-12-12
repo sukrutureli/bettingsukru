@@ -82,4 +82,28 @@
   "homeTeam" : "Phoenix Puls",
   "awayTeam" : "Meralco",
   "score" : "78-88"
+}, {
+  "homeTeam" : "Galatasaray",
+  "awayTeam" : "Merkezefendi Bld",
+  "score" : "98-89"
+}, {
+  "homeTeam" : "Göztepe Basketbol",
+  "awayTeam" : "Final Spor",
+  "score" : "67-63"
+}, {
+  "homeTeam" : "BC Dubai",
+  "awayTeam" : "Bayern Münih",
+  "score" : "89-88"
+}, {
+  "homeTeam" : "KK Split",
+  "awayTeam" : "KK Igokea",
+  "score" : "98-93"
+}, {
+  "homeTeam" : "Szedeak",
+  "awayTeam" : "Soproni Sordogok",
+  "score" : "65-78"
+}, {
+  "homeTeam" : "CSKA Moskova",
+  "awayTeam" : "BC Samara",
+  "score" : "113-60"
 } ]

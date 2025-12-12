@@ -58,9 +58,9 @@
   "homeTeam" : "KK Split",
   "awayTeam" : "KK Igokea",
   "picks" : [ "MS1 (1.64 - 91.9%)" ],
-  "score" : "-",
+  "score" : "98-93",
   "statuses" : {
-    "MS1 (1.64 - 91.9%)" : "pending"
+    "MS1 (1.64 - 91.9%)" : "won"
   }
 }, {
   "homeTeam" : "Mega Bemax",
@@ -74,9 +74,9 @@
   "homeTeam" : "Szedeak",
   "awayTeam" : "Soproni Sordogok",
   "picks" : [ "158.5 Üst (1.66 - 56.7%)" ],
-  "score" : "-",
+  "score" : "65-78",
   "statuses" : {
-    "158.5 Üst (1.66 - 56.7%)" : "pending"
+    "158.5 Üst (1.66 - 56.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Duna Aszfalt",
