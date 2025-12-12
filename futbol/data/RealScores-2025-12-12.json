@@ -446,4 +446,268 @@
   "homeTeam" : "Obolon Kiev",
   "awayTeam" : "Metalist 1925",
   "score" : "1-3"
+}, {
+  "homeTeam" : "Union Berlin",
+  "awayTeam" : "Leipzig",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "R. Sociedad",
+  "awayTeam" : "Girona",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Lecce",
+  "awayTeam" : "AC Pisa",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Angers",
+  "awayTeam" : "Nantes",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Standard Liege",
+  "awayTeam" : "O. H. Leuven",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "G. Furth",
+  "awayTeam" : "Hertha Berlin",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "D. Dresden",
+  "awayTeam" : "Braunschweig",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Ulm 1846",
+  "awayTeam" : "Osnabrück",
+  "score" : "3-5"
+}, {
+  "homeTeam" : "Altglienicke",
+  "awayTeam" : "Lok. Leipzig",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "SV Babelsberg 03",
+  "awayTeam" : "Meuselwitz",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Werder Bremen (K)",
+  "awayTeam" : "B. Leverkusen (K)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Cezayir",
+  "awayTeam" : "B. A. Emirlikleri",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Amstetten",
+  "awayTeam" : "Admira Wacker",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "KRC Genk (K)",
+  "awayTeam" : "KVC Westerlo (K)",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Lommel SK",
+  "awayTeam" : "KAA Gent II",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "SK Beveren",
+  "awayTeam" : "RSC Anderlecht U23",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "RFC Seraing U21",
+  "awayTeam" : "K Beerschot VA U21",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "RWD Molenbeek U21",
+  "awayTeam" : "Lierse K. U21",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "Jeugd Lommel SK U21",
+  "awayTeam" : "KVC Westerlo U21",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Royal Francs Borains U21",
+  "awayTeam" : "Jeugd Patro Eisden U21",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "PSG (K)",
+  "awayTeam" : "Montpellier (K)",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Annecy",
+  "awayTeam" : "Le Mans",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Pau",
+  "awayTeam" : "Amiens",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Rodez AF",
+  "awayTeam" : "Guingamp",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AS Nancy",
+  "awayTeam" : "Clermont",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Stade Laval.",
+  "awayTeam" : "Dunkerque",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Chateauroux",
+  "awayTeam" : "Dijon",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Orleans",
+  "awayTeam" : "Versailles 78",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Stade Briochin",
+  "awayTeam" : "Aubagne",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Villefranche",
+  "awayTeam" : "Bourg En Bresse",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Paris 13 Atl",
+  "awayTeam" : "US Concarneau",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Le Puy Foot 43",
+  "awayTeam" : "Fleury 91",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Rouen",
+  "awayTeam" : "US Quevilly",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "TOP Oss",
+  "awayTeam" : "ADO Den Haag",
+  "score" : "3-4"
+}, {
+  "homeTeam" : "Graafschap",
+  "awayTeam" : "Roda",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Jong PSV",
+  "awayTeam" : "Almere City",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Jong AZ Alkmaar",
+  "awayTeam" : "Jong Utrecht",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Willem II",
+  "awayTeam" : "SC Cambuur",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Maastricht",
+  "awayTeam" : "Jong Ajax",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Dordrecht",
+  "awayTeam" : "Eindhoven",
+  "score" : "3-4"
+}, {
+  "homeTeam" : "Den Bosch",
+  "awayTeam" : "VVV Venlo",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Emmen",
+  "awayTeam" : "Helmond",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Feyenoord (K)",
+  "awayTeam" : "PEC Zwolle (K)",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Ajax (K)",
+  "awayTeam" : "AZ Alkmaar (K)",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "W. Bromwich",
+  "awayTeam" : "Sheffield Utd",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Cardiff City U21",
+  "awayTeam" : "QPR U21",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Nottingham F. U21",
+  "awayTeam" : "Millwall U21",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Norwich City U21",
+  "awayTeam" : "Sunderland U21",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Ayr Utd",
+  "awayTeam" : "St. Johnstone",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "Cultural Leonesa",
+  "awayTeam" : "Huesca",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Betis D. Balompie",
+  "awayTeam" : "Alcorcon",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Europa",
+  "awayTeam" : "Antequera",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "CP Cacereno Sad",
+  "awayTeam" : "Zamora",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Rapperswil",
+  "awayTeam" : "Vaduz",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Aarau",
+  "awayTeam" : "Etoile Carouge",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "US Palermo",
+  "awayTeam" : "Sampdoria",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Juventus U23",
+  "awayTeam" : "US Pianese",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Coleraine",
+  "awayTeam" : "Bangor",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Larne",
+  "awayTeam" : "Glentoran",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Mosta",
+  "awayTeam" : "Zabbar Saint Patrick",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Hibernians",
+  "awayTeam" : "Tarxien Rainbows",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "El Ahly (Mıs)",
+  "awayTeam" : "Enppi Club",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Porto B",
+  "awayTeam" : "Penafiel",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Oliveirense",
+  "awayTeam" : "Chaves",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Torreense",
+  "awayTeam" : "CD Feirense",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Cluj",
+  "awayTeam" : "FK Csikszereda",
+  "score" : "3-1"
 } ]
