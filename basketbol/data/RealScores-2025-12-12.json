@@ -106,4 +106,88 @@
   "homeTeam" : "CSKA Moskova",
   "awayTeam" : "BC Samara",
   "score" : "113-60"
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Fenerbahçe",
+  "score" : "86-92"
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Olympiakos",
+  "score" : "98-85"
+}, {
+  "homeTeam" : "Partizan",
+  "awayTeam" : "Kızıl Yıldız",
+  "score" : "79-76"
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Hap. Tel Aviv",
+  "score" : "74-79"
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Wurzburg",
+  "score" : "67-86"
+}, {
+  "homeTeam" : "Nanterre 92",
+  "awayTeam" : "Le Mans",
+  "score" : "98-88"
+}, {
+  "homeTeam" : "Mega Bemax",
+  "awayTeam" : "KK Zadar",
+  "score" : "90-89"
+}, {
+  "homeTeam" : "Paderborn Baskets",
+  "awayTeam" : "Sbb Baskets Wolmirstedt",
+  "score" : "74-87"
+}, {
+  "homeTeam" : "Excels Brus",
+  "awayTeam" : "Z. Leiden",
+  "score" : "97-80"
+}, {
+  "homeTeam" : "BK Vejen81",
+  "awayTeam" : "Svendborg",
+  "score" : "69-103"
+}, {
+  "homeTeam" : "Lyon Asvel (K)",
+  "awayTeam" : "Chartres (K)",
+  "score" : "78-64"
+}, {
+  "homeTeam" : "Stade Rochelais B.",
+  "awayTeam" : "Caen Basket",
+  "score" : "81-78"
+}, {
+  "homeTeam" : "Surrey 89ers",
+  "awayTeam" : "Caledonia Gladiators",
+  "score" : "99-69"
+}, {
+  "homeTeam" : "Bristol Flyers",
+  "awayTeam" : "London Lions",
+  "score" : "62-71"
+}, {
+  "homeTeam" : "Lucentum Alicante",
+  "awayTeam" : "Oviedo",
+  "score" : "88-89"
+}, {
+  "homeTeam" : "CD Maristas Palencia",
+  "awayTeam" : "Gipuzkoa",
+  "score" : "64-76"
+}, {
+  "homeTeam" : "Boras",
+  "awayTeam" : "Uppsala",
+  "score" : "82-84"
+}, {
+  "homeTeam" : "Sodertalje",
+  "awayTeam" : "Umea",
+  "score" : "78-137"
+}, {
+  "homeTeam" : "Duna Aszfalt",
+  "awayTeam" : "Alba Fehervar",
+  "score" : "82-84"
+}, {
+  "homeTeam" : "Gornik Walbrzych",
+  "awayTeam" : "Legia Warsz.",
+  "score" : "81-79"
+}, {
+  "homeTeam" : "SL Benfica",
+  "awayTeam" : "SC Braga",
+  "score" : "81-82"
 } ]
