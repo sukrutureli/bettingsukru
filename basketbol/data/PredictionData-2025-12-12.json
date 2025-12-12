@@ -2,17 +2,17 @@
   "homeTeam" : "Club Bigua De Villa Biarritz",
   "awayTeam" : "CA Goes",
   "picks" : [ "172.5 Alt (1.6 - 56.0%)" ],
-  "score" : "-",
+  "score" : "110-106",
   "statuses" : {
-    "172.5 Alt (1.6 - 56.0%)" : "pending"
+    "172.5 Alt (1.6 - 56.0%)" : "lost"
   }
 }, {
   "homeTeam" : "New Orleans",
   "awayTeam" : "Portland",
   "picks" : [ "240.5 Alt (1.65 - 63.3%)" ],
-  "score" : "-",
+  "score" : "143-120",
   "statuses" : {
-    "240.5 Alt (1.65 - 63.3%)" : "pending"
+    "240.5 Alt (1.65 - 63.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Adelaide 36ers",

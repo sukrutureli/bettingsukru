@@ -1,0 +1,33 @@
+[ {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "Boston",
+  "score" : "116-101"
+}, {
+  "homeTeam" : "Houston",
+  "awayTeam" : "LA Clippers",
+  "score" : "115-113"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Portland",
+  "score" : "143-120"
+}, {
+  "homeTeam" : "Instituto de Cordoba",
+  "awayTeam" : "Franca SP",
+  "score" : "93-89"
+}, {
+  "homeTeam" : "Boca Juniors",
+  "awayTeam" : "Minas",
+  "score" : "61-80"
+}, {
+  "homeTeam" : "CA Paulistano",
+  "awayTeam" : "Vasco Da Gama",
+  "score" : "65-69"
+}, {
+  "homeTeam" : "Defensor Sporting",
+  "awayTeam" : "CA Welcome",
+  "score" : "103-82"
+}, {
+  "homeTeam" : "Club Bigua De Villa Biarritz",
+  "awayTeam" : "CA Goes",
+  "score" : "110-106"
+} ]
