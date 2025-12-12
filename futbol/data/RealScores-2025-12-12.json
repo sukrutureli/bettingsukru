@@ -1,0 +1,41 @@
+[ {
+  "homeTeam" : "Cdt Real Oruro",
+  "awayTeam" : "Nacional Potosi",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Always Ready",
+  "awayTeam" : "Guabira M.",
+  "score" : "6-0"
+}, {
+  "homeTeam" : "Club Bolivar",
+  "awayTeam" : "San Antonio B. B.",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Vasco Da G.",
+  "awayTeam" : "Fluminense",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Deportivo Mixco",
+  "awayTeam" : "Dep. Achuapa",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Antigua",
+  "awayTeam" : "Xelaju",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Molynes",
+  "awayTeam" : "Cavalier",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Waterhouse",
+  "awayTeam" : "Portmore Utd",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "CS Cartagines",
+  "awayTeam" : "D. Saprissa",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Tigres",
+  "awayTeam" : "D. Toluca",
+  "score" : "1-0"
+} ]
