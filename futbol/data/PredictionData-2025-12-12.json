@@ -10,33 +10,33 @@
   "homeTeam" : "Aps Bomet",
   "awayTeam" : "Posta Ranger",
   "picks" : [ "Alt (1.35 - 79.2%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.35 - 79.2%)" : "pending"
+    "Alt (1.35 - 79.2%)" : "won"
   }
 }, {
   "homeTeam" : "Abha Club",
   "awayTeam" : "AL Ula",
   "picks" : [ "Var (1.49 - 77.5%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Var (1.49 - 77.5%)" : "pending"
+    "Var (1.49 - 77.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Bologna U20",
   "awayTeam" : "Milan U20",
   "picks" : [ "Var (1.58 - 64.0%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.58 - 64.0%)" : "pending"
+    "Var (1.58 - 64.0%)" : "won"
   }
 }, {
   "homeTeam" : "Bechar Djedid",
   "awayTeam" : "ES Setif",
   "picks" : [ "Alt (1.37 - 77.6%)" ],
-  "score" : "-",
+  "score" : "0-4",
   "statuses" : {
-    "Alt (1.37 - 77.6%)" : "pending"
+    "Alt (1.37 - 77.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Obolon Kiev",
