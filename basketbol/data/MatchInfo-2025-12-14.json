@@ -1,0 +1,1873 @@
+[ {
+  "name" : "Auburn Tigers - Chattanooga Mocs",
+  "time" : "00:30",
+  "detailUrl" : "https://istatistik.nesine.com/2508163",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 0.0,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 0.0,
+    "over" : 0.0,
+    "under" : 0.0
+  },
+  "index" : 0
+}, {
+  "name" : "Vitoria - CP Esgueira",
+  "time" : "00:30",
+  "detailUrl" : "https://istatistik.nesine.com/2561197",
+  "odds" : {
+    "ms1" : 1.55,
+    "ms2" : 1.72,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 175.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 1
+}, {
+  "name" : "Orlando - New York",
+  "time" : "01:30",
+  "detailUrl" : "https://istatistik.nesine.com/2589185",
+  "odds" : {
+    "ms1" : 2.23,
+    "ms2" : 1.29,
+    "h1Value" : 5.5,
+    "h2Value" : 0.0,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 224.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 2
+}, {
+  "name" : "Club Nacional - Flamengo",
+  "time" : "03:10",
+  "detailUrl" : "https://istatistik.nesine.com/2510847",
+  "odds" : {
+    "ms1" : 2.86,
+    "ms2" : 1.14,
+    "h1Value" : 6.5,
+    "h2Value" : 0.0,
+    "h1" : 1.7,
+    "h2" : 1.58,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 3
+}, {
+  "name" : "Oklahoma - San Antonio",
+  "time" : "05:00",
+  "detailUrl" : "https://istatistik.nesine.com/2591198",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.1,
+    "h1Value" : 0.0,
+    "h2Value" : 10.5,
+    "h1" : 1.6,
+    "h2" : 1.67,
+    "hOverUnderValue" : 232.5,
+    "over" : 1.67,
+    "under" : 1.6
+  },
+  "index" : 4
+}, {
+  "name" : "Melbourne Utd - Sydney Kings",
+  "time" : "06:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511420",
+  "odds" : {
+    "ms1" : 1.35,
+    "ms2" : 2.05,
+    "h1Value" : 0.0,
+    "h2Value" : 3.5,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 186.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 5
+}, {
+  "name" : "Diamond Dolphins - Ibaraki Robots",
+  "time" : "07:05",
+  "detailUrl" : "https://istatistik.nesine.com/2510417",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 9.9,
+    "h1Value" : 0.0,
+    "h2Value" : 17.5,
+    "h1" : 1.67,
+    "h2" : 1.59,
+    "hOverUnderValue" : 155.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 6
+}, {
+  "name" : "Fukushima - Kumamoto V.",
+  "time" : "07:35",
+  "detailUrl" : "https://istatistik.nesine.com/2511023",
+  "odds" : {
+    "ms1" : 1.15,
+    "ms2" : 2.8,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 161.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
+  "index" : 7
+}, {
+  "name" : "KCC Egis - Anyang KGC",
+  "time" : "08:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510560",
+  "odds" : {
+    "ms1" : 1.76,
+    "ms2" : 1.53,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.67,
+    "h2" : 1.59,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 8
+}, {
+  "name" : "Goyang Orions - LG Sakers",
+  "time" : "08:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511208",
+  "odds" : {
+    "ms1" : 2.11,
+    "ms2" : 1.33,
+    "h1Value" : 3.5,
+    "h2Value" : 0.0,
+    "h1" : 1.69,
+    "h2" : 1.58,
+    "hOverUnderValue" : 150.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 9
+}, {
+  "name" : "Saga Ballooners - R. G. K. Okinaw",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2510505",
+  "odds" : {
+    "ms1" : 3.79,
+    "ms2" : 0.0,
+    "h1Value" : 9.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.69,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 10
+}, {
+  "name" : "Levanga Hokkaido - Toyama Grouses",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2510713",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 11.1,
+    "h1Value" : 0.0,
+    "h2Value" : 18.5,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 182.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 11
+}, {
+  "name" : "Sendai 89ers - Kyoto Hannarizu",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2510858",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.6,
+    "h1Value" : 0.0,
+    "h2Value" : 11.5,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 150.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 12
+}, {
+  "name" : "Akita - Seahorses Mikawa",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2510936",
+  "odds" : {
+    "ms1" : 5.44,
+    "ms2" : 0.0,
+    "h1Value" : 11.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 155.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 13
+}, {
+  "name" : "Yokohama - Osaka Evessa",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2511111",
+  "odds" : {
+    "ms1" : 1.35,
+    "ms2" : 2.07,
+    "h1Value" : 0.0,
+    "h2Value" : 3.5,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 163.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 14
+}, {
+  "name" : "Shiga Lake Stars - Nagasaki Velca",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2511137",
+  "odds" : {
+    "ms1" : 10.5,
+    "ms2" : 0.0,
+    "h1Value" : 17.5,
+    "h2Value" : 0.0,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 175.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 15
+}, {
+  "name" : "Sun Rockers Shibuya - Chiba Jets",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2511491",
+  "odds" : {
+    "ms1" : 4.97,
+    "ms2" : 0.0,
+    "h1Value" : 11.5,
+    "h2Value" : 0.0,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 159.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 16
+}, {
+  "name" : "Yamagata Wyverns - Shinsh Brave",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2510825",
+  "odds" : {
+    "ms1" : 2.5,
+    "ms2" : 1.22,
+    "h1Value" : 5.5,
+    "h2Value" : 0.0,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 155.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 17
+}, {
+  "name" : "Iwate Big Bulls - Ehime O. V.",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2511037",
+  "odds" : {
+    "ms1" : 1.92,
+    "ms2" : 1.42,
+    "h1Value" : 2.5,
+    "h2Value" : 0.0,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 151.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 18
+}, {
+  "name" : "Fukui Blowwinds - Aomori Watts",
+  "time" : "08:05",
+  "detailUrl" : "https://istatistik.nesine.com/2511462",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.11,
+    "h1Value" : 0.0,
+    "h2Value" : 12.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 19
+}, {
+  "name" : "Brisbane Bullets - Perth Wildcats",
+  "time" : "08:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511077",
+  "odds" : {
+    "ms1" : 2.19,
+    "ms2" : 1.3,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 184.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 20
+}, {
+  "name" : "Utsunomiya Brex - San En Neophoenix",
+  "time" : "09:05",
+  "detailUrl" : "https://istatistik.nesine.com/2510817",
+  "odds" : {
+    "ms1" : 1.19,
+    "ms2" : 2.59,
+    "h1Value" : 0.0,
+    "h2Value" : 5.5,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 21
+}, {
+  "name" : "Gunma Crane - Koshigaya Alphas",
+  "time" : "09:05",
+  "detailUrl" : "https://istatistik.nesine.com/2511174",
+  "odds" : {
+    "ms1" : 1.05,
+    "ms2" : 3.65,
+    "h1Value" : 0.0,
+    "h2Value" : 8.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 22
+}, {
+  "name" : "Sh. Susanoo - Hiroshima Dr.",
+  "time" : "09:05",
+  "detailUrl" : "https://istatistik.nesine.com/2511175",
+  "odds" : {
+    "ms1" : 1.39,
+    "ms2" : 1.98,
+    "h1Value" : 0.0,
+    "h2Value" : 3.5,
+    "h1" : 1.67,
+    "h2" : 1.59,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 23
+}, {
+  "name" : "Brave Thunders - Alvark Tokyo",
+  "time" : "09:05",
+  "detailUrl" : "https://istatistik.nesine.com/2511286",
+  "odds" : {
+    "ms1" : 3.68,
+    "ms2" : 0.0,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 156.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 24
+}, {
+  "name" : "F. Eagles Nagoya - Altiri Chiba",
+  "time" : "09:35",
+  "detailUrl" : "https://istatistik.nesine.com/2510519",
+  "odds" : {
+    "ms1" : 1.21,
+    "ms2" : 2.52,
+    "h1Value" : 0.0,
+    "h2Value" : 5.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 163.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 25
+}, {
+  "name" : "Incheon Shinhan (K) - Woori Bank H. (K)",
+  "time" : "10:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510456",
+  "odds" : {
+    "ms1" : 1.88,
+    "ms2" : 1.45,
+    "h1Value" : 2.5,
+    "h2Value" : 0.0,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 121.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 26
+}, {
+  "name" : "KT Sonicboom - Seoul SK Knights",
+  "time" : "10:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511225",
+  "odds" : {
+    "ms1" : 1.99,
+    "ms2" : 1.39,
+    "h1Value" : 3.5,
+    "h2Value" : 0.0,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 149.5,
+    "over" : 1.67,
+    "under" : 1.6
+  },
+  "index" : 27
+}, {
+  "name" : "Nishinomiya - Veltex Shizuoka",
+  "time" : "12:05",
+  "detailUrl" : "https://istatistik.nesine.com/2511203",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 10.7,
+    "h1Value" : 0.0,
+    "h2Value" : 20.5,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 144.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 28
+}, {
+  "name" : "Taoyuan Pilots - Macau Black",
+  "time" : "12:10",
+  "detailUrl" : "https://istatistik.nesine.com/2511301",
+  "odds" : {
+    "ms1" : 1.11,
+    "ms2" : 3.08,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.67,
+    "h2" : 1.59,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 29
+}, {
+  "name" : "Phoenix Puls - Titan Ultra Giant Risers",
+  "time" : "12:15",
+  "detailUrl" : "https://istatistik.nesine.com/2511156",
+  "odds" : {
+    "ms1" : 1.34,
+    "ms2" : 2.1,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.67,
+    "h2" : 1.59,
+    "hOverUnderValue" : 206.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 30
+}, {
+  "name" : "Estudiantes - CB Tizona",
+  "time" : "13:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511251",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.37,
+    "h1Value" : 0.0,
+    "h2Value" : 14.5,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 31
+}, {
+  "name" : "Bilbao Basket - Força Lleida",
+  "time" : "14:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510840",
+  "odds" : {
+    "ms1" : 1.24,
+    "ms2" : 2.39,
+    "h1Value" : 0.0,
+    "h2Value" : 5.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 32
+}, {
+  "name" : "Trapani - Pall Udinese",
+  "time" : "14:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511770",
+  "odds" : {
+    "ms1" : 1.29,
+    "ms2" : 2.2,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 167.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 33
+}, {
+  "name" : "Cb Jairis (K) - Univ. de Ferrol (K)",
+  "time" : "14:00",
+  "detailUrl" : "https://istatistik.nesine.com/2506606",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.82,
+    "h1Value" : 0.0,
+    "h2Value" : 8.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 142.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 34
+}, {
+  "name" : "Perf. Avenida (K) - Jouventut Badalona (K)",
+  "time" : "14:00",
+  "detailUrl" : "https://istatistik.nesine.com/2506985",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.52,
+    "h1Value" : 0.0,
+    "h2Value" : 10.5,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 142.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 35
+}, {
+  "name" : "Montecatiniterme Basketball - Agrigento",
+  "time" : "14:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510663",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.69,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.57,
+    "h2" : 1.71,
+    "hOverUnderValue" : 148.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 36
+}, {
+  "name" : "BC Maroussi Athens - PAOK",
+  "time" : "14:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510571",
+  "odds" : {
+    "ms1" : 1.98,
+    "ms2" : 1.39,
+    "h1Value" : 3.5,
+    "h2Value" : 0.0,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 167.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 37
+}, {
+  "name" : "Valencia (K) - Zaragoza (K)",
+  "time" : "14:15",
+  "detailUrl" : "https://istatistik.nesine.com/2506699",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.74,
+    "h1Value" : 0.0,
+    "h2Value" : 8.5,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 146.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 38
+}, {
+  "name" : "UCAM Murcia - Joventut Badalona",
+  "time" : "14:30",
+  "detailUrl" : "https://istatistik.nesine.com/2507134",
+  "odds" : {
+    "ms1" : 1.37,
+    "ms2" : 2.02,
+    "h1Value" : 0.0,
+    "h2Value" : 3.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 164.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 39
+}, {
+  "name" : "Porta XI Ensino (K) - Araski (K)",
+  "time" : "14:30",
+  "detailUrl" : "https://istatistik.nesine.com/2507469",
+  "odds" : {
+    "ms1" : 1.1,
+    "ms2" : 3.19,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 140.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 40
+}, {
+  "name" : "Meralco - Converge Fiberxers",
+  "time" : "14:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511141",
+  "odds" : {
+    "ms1" : 2.0,
+    "ms2" : 1.38,
+    "h1Value" : 3.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 196.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 41
+}, {
+  "name" : "Anwil Wlocl. - Miasto Szkla",
+  "time" : "14:30",
+  "detailUrl" : "https://istatistik.nesine.com/2504109",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.47,
+    "h1Value" : 0.0,
+    "h2Value" : 13.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.67,
+    "under" : 1.59
+  },
+  "index" : 42
+}, {
+  "name" : "Guandong S. T. - Nanjing M. K.",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2510532",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.27,
+    "h1Value" : 0.0,
+    "h2Value" : 15.5,
+    "h1" : 1.59,
+    "h2" : 1.67,
+    "hOverUnderValue" : 175.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 43
+}, {
+  "name" : "Shanghai S. - Jilin N.T.",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2510870",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 9.35,
+    "h1Value" : 0.0,
+    "h2Value" : 16.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 176.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 44
+}, {
+  "name" : "Zhejiang G. B. - Ningbo Rockets",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2511025",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.91,
+    "h1Value" : 0.0,
+    "h2Value" : 16.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 180.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 45
+}, {
+  "name" : "Gernika Kesb (K) - Baloncesto Leganes (K)",
+  "time" : "15:00",
+  "detailUrl" : "https://istatistik.nesine.com/2506550",
+  "odds" : {
+    "ms1" : 1.33,
+    "ms2" : 2.12,
+    "h1Value" : 0.0,
+    "h2Value" : 3.5,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 137.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 46
+}, {
+  "name" : "Parma Permsk - Lokomotiv Kuban",
+  "time" : "15:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511044",
+  "odds" : {
+    "ms1" : 2.11,
+    "ms2" : 1.33,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 47
+}, {
+  "name" : "Çanakkale Bld (K) - Galatasaray (K)",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2506538",
+  "odds" : {
+    "ms1" : 15.5,
+    "ms2" : 0.0,
+    "h1Value" : 0.0,
+    "h2Value" : 0.0,
+    "h1" : 0.0,
+    "h2" : 0.0,
+    "hOverUnderValue" : 0.0,
+    "over" : 0.0,
+    "under" : 0.0
+  },
+  "index" : 48
+}, {
+  "name" : "Landstede - Belfius Mons Hainaut",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510772",
+  "odds" : {
+    "ms1" : 1.45,
+    "ms2" : 1.88,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 49
+}, {
+  "name" : "Oldenburg - Bayern Münih",
+  "time" : "17:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511000",
+  "odds" : {
+    "ms1" : 3.63,
+    "ms2" : 1.05,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 50
+}, {
+  "name" : "Mitteldeutscher - Braunschweig",
+  "time" : "17:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511185",
+  "odds" : {
+    "ms1" : 1.09,
+    "ms2" : 3.25,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.58,
+    "h2" : 1.7,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 51
+}, {
+  "name" : "LTI Giessen - Bayreuth",
+  "time" : "17:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510863",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.97,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.62,
+    "h2" : 1.64,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 52
+}, {
+  "name" : "Limburg Utd - Spirou Charleroi",
+  "time" : "17:00",
+  "detailUrl" : "https://istatistik.nesine.com/2504299",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.79,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 161.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 53
+}, {
+  "name" : "Den Bosch - Okapi Aalst",
+  "time" : "17:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510620",
+  "odds" : {
+    "ms1" : 1.13,
+    "ms2" : 2.92,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 54
+}, {
+  "name" : "Ostersund (K) - Lulea Bbk (K)",
+  "time" : "17:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511277",
+  "odds" : {
+    "ms1" : 15.85,
+    "ms2" : 0.0,
+    "h1Value" : 24.5,
+    "h2Value" : 0.0,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 151.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 55
+}, {
+  "name" : "Uppsala (K) - Norrkoping Dolphins (K)",
+  "time" : "17:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511414",
+  "odds" : {
+    "ms1" : 1.07,
+    "ms2" : 3.43,
+    "h1Value" : 0.0,
+    "h2Value" : 7.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 154.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 56
+}, {
+  "name" : "Dziki Warshawa - Torun",
+  "time" : "17:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510485",
+  "odds" : {
+    "ms1" : 1.23,
+    "ms2" : 2.45,
+    "h1Value" : 0.0,
+    "h2Value" : 5.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 57
+}, {
+  "name" : "Peristeri - Olympiakos",
+  "time" : "17:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511101",
+  "odds" : {
+    "ms1" : 7.32,
+    "ms2" : 0.0,
+    "h1Value" : 14.5,
+    "h2Value" : 0.0,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 164.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 58
+}, {
+  "name" : "ESB Villeneuve (K) - Basket Landes (K)",
+  "time" : "17:15",
+  "detailUrl" : "https://istatistik.nesine.com/2510958",
+  "odds" : {
+    "ms1" : 1.66,
+    "ms2" : 1.6,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.57,
+    "h2" : 1.7,
+    "hOverUnderValue" : 134.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 59
+}, {
+  "name" : "Giants Leverkusen - EPG Baskets Koblenz",
+  "time" : "18:00",
+  "detailUrl" : "https://istatistik.nesine.com/2507191",
+  "odds" : {
+    "ms1" : 1.56,
+    "ms2" : 1.72,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 60
+}, {
+  "name" : "Donar Groningen - Antwerp",
+  "time" : "18:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511253",
+  "odds" : {
+    "ms1" : 4.96,
+    "ms2" : 0.0,
+    "h1Value" : 11.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 167.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 61
+}, {
+  "name" : "Monthey - Massagno",
+  "time" : "18:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510559",
+  "odds" : {
+    "ms1" : 1.2,
+    "ms2" : 2.56,
+    "h1Value" : 0.0,
+    "h2Value" : 5.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 175.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 62
+}, {
+  "name" : "CD Povoa - Ovarense",
+  "time" : "18:00",
+  "detailUrl" : "https://istatistik.nesine.com/2576358",
+  "odds" : {
+    "ms1" : 5.7,
+    "ms2" : 0.0,
+    "h1Value" : 11.5,
+    "h2Value" : 0.0,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 159.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 63
+}, {
+  "name" : "Frankfurt - SC Jena",
+  "time" : "18:30",
+  "detailUrl" : "https://istatistik.nesine.com/2510786",
+  "odds" : {
+    "ms1" : 1.29,
+    "ms2" : 2.2,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 167.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 64
+}, {
+  "name" : "Gravelines - JL Bourg",
+  "time" : "18:30",
+  "detailUrl" : "https://istatistik.nesine.com/2510473",
+  "odds" : {
+    "ms1" : 2.73,
+    "ms2" : 1.17,
+    "h1Value" : 6.5,
+    "h2Value" : 0.0,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 171.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 65
+}, {
+  "name" : "Monaco - Strasbourg",
+  "time" : "18:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511409",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.71,
+    "h1Value" : 0.0,
+    "h2Value" : 11.5,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 173.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 66
+}, {
+  "name" : "Derthona Basket - Sassari",
+  "time" : "18:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511855",
+  "odds" : {
+    "ms1" : 1.09,
+    "ms2" : 3.28,
+    "h1Value" : 0.0,
+    "h2Value" : 8.5,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 67
+}, {
+  "name" : "Lattes Montp (K) - UF Angers Basket (K)",
+  "time" : "18:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511024",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.61,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.59,
+    "h2" : 1.67,
+    "hOverUnderValue" : 143.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 68
+}, {
+  "name" : "Real Madrid - B. Girona",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510994",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 7.1,
+    "h1Value" : 0.0,
+    "h2Value" : 14.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 69
+}, {
+  "name" : "Brescia - Varese",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511656",
+  "odds" : {
+    "ms1" : 1.05,
+    "ms2" : 3.58,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 70
+}, {
+  "name" : "Nürnberg Falcons - Artland Dragons",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511456",
+  "odds" : {
+    "ms1" : 1.66,
+    "ms2" : 1.6,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.58,
+    "h2" : 1.7,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 71
+}, {
+  "name" : "Sokol Pisek - USK Praha",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510574",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.76,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.65,
+    "h2" : 1.61,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 72
+}, {
+  "name" : "Charnay Basket (K) - Tango Bourges (K)",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2510951",
+  "odds" : {
+    "ms1" : 1.61,
+    "ms2" : 1.65,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.71,
+    "h2" : 1.57,
+    "hOverUnderValue" : 137.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 73
+}, {
+  "name" : "CB Estudiantes (K) - Cab Estepona (K)",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2507681",
+  "odds" : {
+    "ms1" : 1.44,
+    "ms2" : 1.88,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 151.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 74
+}, {
+  "name" : "London Lions - Surrey 89ers",
+  "time" : "19:00",
+  "detailUrl" : "https://istatistik.nesine.com/2591251",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 8.55,
+    "h1Value" : 0.0,
+    "h2Value" : 15.5,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 75
+}, {
+  "name" : "BC Vienna - UBSC Graz",
+  "time" : "19:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511824",
+  "odds" : {
+    "ms1" : 1.66,
+    "ms2" : 1.6,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.57,
+    "h2" : 1.7,
+    "hOverUnderValue" : 169.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 76
+}, {
+  "name" : "Legnano Knights - Orlandina",
+  "time" : "19:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511659",
+  "odds" : {
+    "ms1" : 1.29,
+    "ms2" : 2.23,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 150.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 77
+}, {
+  "name" : "A. Arka Gdynia - Dabrowa Gorn.",
+  "time" : "19:30",
+  "detailUrl" : "https://istatistik.nesine.com/2511527",
+  "odds" : {
+    "ms1" : 1.15,
+    "ms2" : 2.83,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 78
+}, {
+  "name" : "Hamburg Towers - Alba Berlin",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511712",
+  "odds" : {
+    "ms1" : 4.05,
+    "ms2" : 0.0,
+    "h1Value" : 9.5,
+    "h2Value" : 0.0,
+    "h1" : 1.67,
+    "h2" : 1.59,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 79
+}, {
+  "name" : "Valencia - Zaragoza",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511568",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 5.75,
+    "h1Value" : 0.0,
+    "h2Value" : 12.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 179.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
+  "index" : 80
+}, {
+  "name" : "Napoli Basket - Cremona",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511820",
+  "odds" : {
+    "ms1" : 1.28,
+    "ms2" : 2.26,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 81
+}, {
+  "name" : "Palmer Basquet Mallorca Palma - Basket Cartagena",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511610",
+  "odds" : {
+    "ms1" : 1.5,
+    "ms2" : 1.79,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 160.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 82
+}, {
+  "name" : "Club Melilla - Iberojet Pa",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511765",
+  "odds" : {
+    "ms1" : 1.67,
+    "ms2" : 1.59,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.69,
+    "hOverUnderValue" : 163.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 83
+}, {
+  "name" : "Schio (K) - Battipaglia (K)",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511619",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 17.15,
+    "h1Value" : 0.0,
+    "h2Value" : 34.5,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 136.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 84
+}, {
+  "name" : "Reyer Venezia (K) - San Martino (K)",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511812",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 17.15,
+    "h1Value" : 0.0,
+    "h2Value" : 29.5,
+    "h1" : 1.65,
+    "h2" : 1.61,
+    "hOverUnderValue" : 137.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
+  "index" : 85
+}, {
+  "name" : "Talos Ruvo DI Puglia - Urania Milano",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511517",
+  "odds" : {
+    "ms1" : 1.61,
+    "ms2" : 1.65,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.7,
+    "h2" : 1.57,
+    "hOverUnderValue" : 159.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 86
+}, {
+  "name" : "Basket 1971 - Brindisi",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511621",
+  "odds" : {
+    "ms1" : 2.02,
+    "ms2" : 1.37,
+    "h1Value" : 3.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 156.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 87
+}, {
+  "name" : "Rimini - Fortitudo Bologna",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511645",
+  "odds" : {
+    "ms1" : 1.32,
+    "ms2" : 2.14,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 88
+}, {
+  "name" : "Juvi Cremona - Torino",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511667",
+  "odds" : {
+    "ms1" : 1.7,
+    "ms2" : 1.58,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 89
+}, {
+  "name" : "Roseto Shark - Basket Scafati 1969",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511695",
+  "odds" : {
+    "ms1" : 2.31,
+    "ms2" : 1.27,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 90
+}, {
+  "name" : "VL Pesaro - Benedetto Cento",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511716",
+  "odds" : {
+    "ms1" : 1.06,
+    "ms2" : 3.48,
+    "h1Value" : 0.0,
+    "h2Value" : 8.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 160.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 91
+}, {
+  "name" : "Pistoia - Ueb Cividale",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511720",
+  "odds" : {
+    "ms1" : 1.53,
+    "ms2" : 1.76,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 158.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 92
+}, {
+  "name" : "Asd Del Fes Avellino - Forli",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511787",
+  "odds" : {
+    "ms1" : 1.18,
+    "ms2" : 2.65,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.7,
+    "h2" : 1.57,
+    "hOverUnderValue" : 157.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 93
+}, {
+  "name" : "R. Sebastiani Rieti - Libertas Livorno",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511854",
+  "odds" : {
+    "ms1" : 1.4,
+    "ms2" : 1.96,
+    "h1Value" : 0.0,
+    "h2Value" : 3.5,
+    "h1" : 1.67,
+    "h2" : 1.59,
+    "hOverUnderValue" : 154.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 94
+}, {
+  "name" : "San Severo - Aurora Jesi",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511543",
+  "odds" : {
+    "ms1" : 1.94,
+    "ms2" : 1.41,
+    "h1Value" : 2.5,
+    "h2Value" : 0.0,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 153.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 95
+}, {
+  "name" : "Chiusi - Fabriano Basket",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511574",
+  "odds" : {
+    "ms1" : 1.25,
+    "ms2" : 2.35,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 154.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 96
+}, {
+  "name" : "Bakery Basket Piacenza - Paffoni Omegna",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511607",
+  "odds" : {
+    "ms1" : 3.58,
+    "ms2" : 1.05,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.58,
+    "h2" : 1.7,
+    "hOverUnderValue" : 161.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 97
+}, {
+  "name" : "Ravenna Pie - Solbat Basket Golfo Piombino",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511660",
+  "odds" : {
+    "ms1" : 1.16,
+    "ms2" : 2.75,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 152.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 98
+}, {
+  "name" : "Rucker Sanve San Vendemiano - Assigeco Piacenza",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511675",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.0,
+    "h1Value" : 0.0,
+    "h2Value" : 8.5,
+    "h1" : 1.63,
+    "h2" : 1.63,
+    "hOverUnderValue" : 164.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 99
+}, {
+  "name" : "E. Vigevano - Herons Basket",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511706",
+  "odds" : {
+    "ms1" : 1.24,
+    "ms2" : 2.38,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.57,
+    "h2" : 1.7,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 100
+}, {
+  "name" : "P. Fiorenzuola - Aurora Desio",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511713",
+  "odds" : {
+    "ms1" : 1.71,
+    "ms2" : 1.56,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 158.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 101
+}, {
+  "name" : "Pielle Livorno - ASD Luiss Roma",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511762",
+  "odds" : {
+    "ms1" : 1.66,
+    "ms2" : 1.6,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 146.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 102
+}, {
+  "name" : "Rekico Faenza - Ferrara Basket 2018",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511826",
+  "odds" : {
+    "ms1" : 1.45,
+    "ms2" : 1.87,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 161.5,
+    "over" : 1.67,
+    "under" : 1.6
+  },
+  "index" : 103
+}, {
+  "name" : "Fulgor Fidenza - Virtus Lumezzane",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511844",
+  "odds" : {
+    "ms1" : 1.78,
+    "ms2" : 1.51,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 147.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 104
+}, {
+  "name" : "F. Szombathely - Zalakeramia ZTE",
+  "time" : "20:00",
+  "detailUrl" : "https://istatistik.nesine.com/2556725",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 10.7,
+    "h1Value" : 0.0,
+    "h2Value" : 19.5,
+    "h1" : 1.59,
+    "h2" : 1.67,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 105
+}, {
+  "name" : "Asvel Vil. - Cholet",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511544",
+  "odds" : {
+    "ms1" : 1.06,
+    "ms2" : 3.49,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 165.5,
+    "over" : 1.64,
+    "under" : 1.62
+  },
+  "index" : 106
+}, {
+  "name" : "Manresa - Barcelona",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511558",
+  "odds" : {
+    "ms1" : 2.47,
+    "ms2" : 1.22,
+    "h1Value" : 5.5,
+    "h2Value" : 0.0,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 170.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 107
+}, {
+  "name" : "Treviso - Cantu",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511701",
+  "odds" : {
+    "ms1" : 1.41,
+    "ms2" : 1.93,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.59,
+    "h2" : 1.69,
+    "hOverUnderValue" : 171.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 108
+}, {
+  "name" : "Kızıl Yıldız - Spartak Subotica",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511643",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.39,
+    "h1Value" : 0.0,
+    "h2Value" : 10.5,
+    "h1" : 1.7,
+    "h2" : 1.58,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 109
+}, {
+  "name" : "Imortal BC - Sporting CP",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2561202",
+  "odds" : {
+    "ms1" : 3.22,
+    "ms2" : 1.1,
+    "h1Value" : 7.5,
+    "h2Value" : 0.0,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 110
+}, {
+  "name" : "Illiabum Clube - Oliveirense",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2576348",
+  "odds" : {
+    "ms1" : 11.1,
+    "ms2" : 0.0,
+    "h1Value" : 18.5,
+    "h2Value" : 0.0,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 158.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 111
+}, {
+  "name" : "Kosice Wolves - MBK Handlova",
+  "time" : "21:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511562",
+  "odds" : {
+    "ms1" : 2.97,
+    "ms2" : 1.12,
+    "h1Value" : 6.5,
+    "h2Value" : 0.0,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 112
+}, {
+  "name" : "Olimpia Milano - Virtus Bologna",
+  "time" : "22:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511766",
+  "odds" : {
+    "ms1" : 1.27,
+    "ms2" : 2.3,
+    "h1Value" : 0.0,
+    "h2Value" : 4.5,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 166.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 113
+}, {
+  "name" : "Indiana - Washington",
+  "time" : "23:00",
+  "detailUrl" : "https://istatistik.nesine.com/2562869",
+  "odds" : {
+    "ms1" : 1.1,
+    "ms2" : 3.16,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 234.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 114
+}, {
+  "name" : "Fmp - Partizan",
+  "time" : "23:00",
+  "detailUrl" : "https://istatistik.nesine.com/2511512",
+  "odds" : {
+    "ms1" : 3.46,
+    "ms2" : 1.07,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 171.5,
+    "over" : 1.59,
+    "under" : 1.67
+  },
+  "index" : 115
+}, {
+  "name" : "Cleveland - Charlotte",
+  "time" : "23:30",
+  "detailUrl" : "https://istatistik.nesine.com/2562882",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 3.92,
+    "h1Value" : 0.0,
+    "h2Value" : 11.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 236.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 116
+} ]
