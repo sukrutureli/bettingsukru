@@ -202,49 +202,49 @@
   "homeTeam" : "Ratiopharm Ulm",
   "awayTeam" : "Rasta Vechta",
   "picks" : [ "164.5 Alt (1.66 - 66.8%)" ],
-  "score" : "-",
+  "score" : "77-75",
   "statuses" : {
-    "164.5 Alt (1.66 - 66.8%)" : "pending"
+    "164.5 Alt (1.66 - 66.8%)" : "won"
   }
 }, {
   "homeTeam" : "Saint Quentin",
   "awayTeam" : "Dijon Basket",
   "picks" : [ "166.5 Üst (1.67 - 71.3%)" ],
-  "score" : "-",
+  "score" : "77-83",
   "statuses" : {
-    "166.5 Üst (1.67 - 71.3%)" : "pending"
+    "166.5 Üst (1.67 - 71.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Bochum",
   "awayTeam" : "PS Karlsruhe Lions",
   "picks" : [ "169.5 Alt (1.66 - 58.7%)" ],
-  "score" : "-",
+  "score" : "96-77",
   "statuses" : {
-    "169.5 Alt (1.66 - 58.7%)" : "pending"
+    "169.5 Alt (1.66 - 58.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Basket Brno",
   "awayTeam" : "Decin",
   "picks" : [ "165.5 Alt (1.66 - 60.0%)" ],
-  "score" : "-",
+  "score" : "80-97",
   "statuses" : {
-    "165.5 Alt (1.66 - 60.0%)" : "pending"
+    "165.5 Alt (1.66 - 60.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Nitra Blue Wings",
   "awayTeam" : "Prievidza",
   "picks" : [ "161.5 Üst (1.59 - 70.4%)" ],
-  "score" : "-",
+  "score" : "84-74",
   "statuses" : {
-    "161.5 Üst (1.59 - 70.4%)" : "pending"
+    "161.5 Üst (1.59 - 70.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Kk Sentjur",
   "awayTeam" : "Polzela",
   "picks" : [ "162.5 Üst (1.6 - 57.7%)" ],
-  "score" : "-",
+  "score" : "93-80",
   "statuses" : {
-    "162.5 Üst (1.6 - 57.7%)" : "pending"
+    "162.5 Üst (1.6 - 57.7%)" : "won"
   }
 }, {
   "homeTeam" : "Gran Canaria",
@@ -258,24 +258,24 @@
   "homeTeam" : "A. Basket Trento",
   "awayTeam" : "Reyer Venezia",
   "picks" : [ "174.5 Üst (1.62 - 65.7%)" ],
-  "score" : "-",
+  "score" : "96-90",
   "statuses" : {
-    "174.5 Üst (1.62 - 65.7%)" : "pending"
+    "174.5 Üst (1.62 - 65.7%)" : "won"
   }
 }, {
   "homeTeam" : "Academie Limburg",
   "awayTeam" : "Rotterdam City Basketball",
   "picks" : [ "MS2 (1.72 - 70.4%)" ],
-  "score" : "-",
+  "score" : "85-75",
   "statuses" : {
-    "MS2 (1.72 - 70.4%)" : "pending"
+    "MS2 (1.72 - 70.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Basket Mestre 1958",
   "awayTeam" : "Verona",
   "picks" : [ "MS2 (1.34 - 60.8%)" ],
-  "score" : "-",
+  "score" : "74-72",
   "statuses" : {
-    "MS2 (1.34 - 60.8%)" : "pending"
+    "MS2 (1.34 - 60.8%)" : "lost"
   }
 } ]

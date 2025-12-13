@@ -402,4 +402,208 @@
   "homeTeam" : "Panionios",
   "awayTeam" : "Promitheas",
   "score" : "95-101"
+}, {
+  "homeTeam" : "Bamberg",
+  "awayTeam" : "MLP A. Heidelberg",
+  "score" : "80-69"
+}, {
+  "homeTeam" : "Ratiopharm Ulm",
+  "awayTeam" : "Rasta Vechta",
+  "score" : "77-75"
+}, {
+  "homeTeam" : "Gladiators Trier",
+  "awayTeam" : "Telekom Bonn",
+  "score" : "102-98"
+}, {
+  "homeTeam" : "Elan Chalon",
+  "awayTeam" : "Boulazac Dord.",
+  "score" : "90-74"
+}, {
+  "homeTeam" : "Saint Quentin",
+  "awayTeam" : "Dijon Basket",
+  "score" : "77-83"
+}, {
+  "homeTeam" : "Sluc Nancy Basket",
+  "awayTeam" : "Paris",
+  "score" : "97-90"
+}, {
+  "homeTeam" : "Unicaja Malaga",
+  "awayTeam" : "San Pablo Burgos",
+  "score" : "99-91"
+}, {
+  "homeTeam" : "CB Breogan",
+  "awayTeam" : "Tenerife",
+  "score" : "96-108"
+}, {
+  "homeTeam" : "Andorra",
+  "awayTeam" : "CB Granada",
+  "score" : "86-81"
+}, {
+  "homeTeam" : "Trieste",
+  "awayTeam" : "Reggiana Emilia",
+  "score" : "92-82"
+}, {
+  "homeTeam" : "A. Basket Trento",
+  "awayTeam" : "Reyer Venezia",
+  "score" : "96-90"
+}, {
+  "homeTeam" : "Olimp Ljubljana",
+  "awayTeam" : "KK Bosna Royal Sarajevo",
+  "score" : "89-73"
+}, {
+  "homeTeam" : "St. John's Red Storm",
+  "awayTeam" : "Iona Gaels",
+  "score" : "91-64"
+}, {
+  "homeTeam" : "Texas Tech Red Raiders",
+  "awayTeam" : "Arkansas Razorbacks",
+  "score" : "86-93"
+}, {
+  "homeTeam" : "Penn State Nittany L.",
+  "awayTeam" : "Michigan State Spartans",
+  "score" : "72-76"
+}, {
+  "homeTeam" : "Purdue Boilermakers",
+  "awayTeam" : "Marquette Golden Eagles",
+  "score" : "79-59"
+}, {
+  "homeTeam" : "North Carolina Tar Heels",
+  "awayTeam" : "SC Upstate Spartans",
+  "score" : "80-62"
+}, {
+  "homeTeam" : "Florida Gators",
+  "awayTeam" : "George Washington Colonials",
+  "score" : "80-70"
+}, {
+  "homeTeam" : "Houston Cougars",
+  "awayTeam" : "New Orleans Privateers",
+  "score" : "99-57"
+}, {
+  "homeTeam" : "Louisville Cardinals",
+  "awayTeam" : "Memphis Tigers",
+  "score" : "99-73"
+}, {
+  "homeTeam" : "Gottingen",
+  "awayTeam" : "Rheinstars Cologne",
+  "score" : "95-83"
+}, {
+  "homeTeam" : "VFL Kirchheim Knights",
+  "awayTeam" : "Phoenix Hagen",
+  "score" : "81-60"
+}, {
+  "homeTeam" : "Bochum",
+  "awayTeam" : "PS Karlsruhe Lions",
+  "score" : "96-77"
+}, {
+  "homeTeam" : "Tigers Tubingen",
+  "awayTeam" : "Uni Baskets Munster",
+  "score" : "71-83"
+}, {
+  "homeTeam" : "C. Merlins",
+  "awayTeam" : "Bremerhaven",
+  "score" : "103-81"
+}, {
+  "homeTeam" : "BBC Nord Dragonz",
+  "awayTeam" : "Flyers Wels",
+  "score" : "68-78"
+}, {
+  "homeTeam" : "Den Helder Suns",
+  "awayTeam" : "Kangoeroes  Mechelen",
+  "score" : "68-76"
+}, {
+  "homeTeam" : "Academie Limburg",
+  "awayTeam" : "Rotterdam City Basketball",
+  "score" : "85-75"
+}, {
+  "homeTeam" : "Aris Leeuwarden",
+  "awayTeam" : "Kortrijk Spurs",
+  "score" : "91-97"
+}, {
+  "homeTeam" : "Leuven Bears",
+  "awayTeam" : "BC Oostende",
+  "score" : "76-80"
+}, {
+  "homeTeam" : "Basket Brno",
+  "awayTeam" : "Decin",
+  "score" : "80-97"
+}, {
+  "homeTeam" : "Vilpas Vikings",
+  "awayTeam" : "Honka Espoo",
+  "score" : "99-103"
+}, {
+  "homeTeam" : "SAS Toulouse (K)",
+  "awayTeam" : "Landerneau B. (K)",
+  "score" : "64-78"
+}, {
+  "homeTeam" : "Flammes Carolo (K)",
+  "awayTeam" : "Roche Vendee (K)",
+  "score" : "72-67"
+}, {
+  "homeTeam" : "Dinamo Zagreb",
+  "awayTeam" : "KK Split",
+  "score" : "103-116"
+}, {
+  "homeTeam" : "Estela",
+  "awayTeam" : "Menorca Basquet",
+  "score" : "83-80"
+}, {
+  "homeTeam" : "Norrkoping",
+  "awayTeam" : "Koping Stars",
+  "score" : "92-81"
+}, {
+  "homeTeam" : "Alvik BBK",
+  "awayTeam" : "AIK Basket",
+  "score" : "79-74"
+}, {
+  "homeTeam" : "Union Neuchatel",
+  "awayTeam" : "Bnt Fribourg",
+  "score" : "79-74"
+}, {
+  "homeTeam" : "Brixia (K)",
+  "awayTeam" : "Panthers Roseto (K)",
+  "score" : "64-75"
+}, {
+  "homeTeam" : "Basket Mestre 1958",
+  "awayTeam" : "Verona",
+  "score" : "74-72"
+}, {
+  "homeTeam" : "Virtus Gvm Roma 1960",
+  "awayTeam" : "Juvecaserta 2021",
+  "score" : "99-63"
+}, {
+  "homeTeam" : "Andrea Imola",
+  "awayTeam" : "Psa Basket Casoria",
+  "score" : "61-55"
+}, {
+  "homeTeam" : "Dany Basket Quarrata",
+  "awayTeam" : "Virtus Imola",
+  "score" : "84-78"
+}, {
+  "homeTeam" : "Siaz Basket",
+  "awayTeam" : "Vicenza",
+  "score" : "67-77"
+}, {
+  "homeTeam" : "CA Queluz",
+  "awayTeam" : "Vasco Da Gama",
+  "score" : "101-99"
+}, {
+  "homeTeam" : "Nitra Blue Wings",
+  "awayTeam" : "Prievidza",
+  "score" : "84-74"
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "BK Iskra Svit",
+  "score" : "97-82"
+}, {
+  "homeTeam" : "KK Sencur",
+  "awayTeam" : "KK Podcetrtek",
+  "score" : "84-74"
+}, {
+  "homeTeam" : "Kk Sentjur",
+  "awayTeam" : "Polzela",
+  "score" : "93-80"
+}, {
+  "homeTeam" : "Aek",
+  "awayTeam" : "Panathinaikos",
+  "score" : "63-101"
 } ]
