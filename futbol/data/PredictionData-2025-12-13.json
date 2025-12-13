@@ -2,9 +2,9 @@
   "homeTeam" : "Atl Junior",
   "awayTeam" : "CD Tolima",
   "picks" : [ "Alt (1.48 - 79.3%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.48 - 79.3%)" : "pending"
+    "Alt (1.48 - 79.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Newcastle Jets (K)",
