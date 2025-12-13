@@ -34,89 +34,89 @@
   "homeTeam" : "Golden State",
   "awayTeam" : "Minnesota",
   "picks" : [ "231.5 Alt (1.6 - 73.3%)" ],
-  "score" : "-",
+  "score" : "120-127",
   "statuses" : {
-    "231.5 Alt (1.6 - 73.3%)" : "pending"
+    "231.5 Alt (1.6 - 73.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Sh. Susanoo",
   "awayTeam" : "Hiroshima Dr.",
   "picks" : [ "MS1 (1.32 - 82.6%)" ],
-  "score" : "-",
+  "score" : "71-73",
   "statuses" : {
-    "MS1 (1.32 - 82.6%)" : "pending"
+    "MS1 (1.32 - 82.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Gunma Crane",
   "awayTeam" : "Koshigaya Alphas",
   "picks" : [ "154.5 Üst (1.61 - 81.9%)" ],
-  "score" : "-",
+  "score" : "87-54",
   "statuses" : {
-    "154.5 Üst (1.61 - 81.9%)" : "pending"
+    "154.5 Üst (1.61 - 81.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Iwate Big Bulls",
   "awayTeam" : "Ehime O. V.",
   "picks" : [ "149.5 Üst (1.61 - 69.5%)" ],
-  "score" : "-",
+  "score" : "55-63",
   "statuses" : {
-    "149.5 Üst (1.61 - 69.5%)" : "pending"
+    "149.5 Üst (1.61 - 69.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Cairns Taipans",
   "awayTeam" : "Tasmania Jackjumpers",
   "picks" : [ "178.5 Üst (1.65 - 59.0%)" ],
-  "score" : "-",
+  "score" : "68-81",
   "statuses" : {
-    "178.5 Üst (1.65 - 59.0%)" : "pending"
+    "178.5 Üst (1.65 - 59.0%)" : "lost"
   }
 }, {
   "homeTeam" : "F. Eagles Nagoya",
   "awayTeam" : "Altiri Chiba",
   "picks" : [ "MS1 (1.44 - 75.8%)" ],
-  "score" : "-",
+  "score" : "93-77",
   "statuses" : {
-    "MS1 (1.44 - 75.8%)" : "pending"
+    "MS1 (1.44 - 75.8%)" : "won"
   }
 }, {
   "homeTeam" : "Bucheon Hana (K)",
   "awayTeam" : "Yongin Samsung L. (K)",
   "picks" : [ "MS1 (1.32 - 78.3%)" ],
-  "score" : "-",
+  "score" : "74-67",
   "statuses" : {
-    "MS1 (1.32 - 78.3%)" : "pending"
+    "MS1 (1.32 - 78.3%)" : "won"
   }
 }, {
   "homeTeam" : "Mobis Phoebus",
   "awayTeam" : "Samsung Thunders",
   "picks" : [ "MS2 (1.65 - 71.0%)" ],
-  "score" : "-",
+  "score" : "61-84",
   "statuses" : {
-    "MS2 (1.65 - 71.0%)" : "pending"
+    "MS2 (1.65 - 71.0%)" : "won"
   }
 }, {
   "homeTeam" : "Brave Thunders",
   "awayTeam" : "Alvark Tokyo",
   "picks" : [ "153.5 Alt (1.59 - 65.4%)" ],
-  "score" : "-",
+  "score" : "82-92",
   "statuses" : {
-    "153.5 Alt (1.59 - 65.4%)" : "pending"
+    "153.5 Alt (1.59 - 65.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Taipei Fubon Braves",
   "awayTeam" : "Hong Kong",
   "picks" : [ "173.5 Üst (1.64 - 91.8%)" ],
-  "score" : "-",
+  "score" : "95-81",
   "statuses" : {
-    "173.5 Üst (1.64 - 91.8%)" : "pending"
+    "173.5 Üst (1.64 - 91.8%)" : "won"
   }
 }, {
   "homeTeam" : "Tropang Giga",
   "awayTeam" : "Road Warriors",
   "picks" : [ "182.5 Üst (1.65 - 72.9%)" ],
-  "score" : "-",
+  "score" : "119-100",
   "statuses" : {
-    "182.5 Üst (1.65 - 72.9%)" : "pending"
+    "182.5 Üst (1.65 - 72.9%)" : "won"
   }
 }, {
   "homeTeam" : "Sichuan B. W.",
@@ -130,49 +130,49 @@
   "homeTeam" : "Jiangsu D.",
   "awayTeam" : "Beijing D.",
   "picks" : [ "173.5 Üst (1.66 - 84.2%)" ],
-  "score" : "-",
+  "score" : "74-84",
   "statuses" : {
-    "173.5 Üst (1.66 - 84.2%)" : "pending"
+    "173.5 Üst (1.66 - 84.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Beijing R. F.",
   "awayTeam" : "Shandong H.",
   "picks" : [ "175.5 Üst (1.63 - 92.4%)" ],
-  "score" : "-",
+  "score" : "97-92",
   "statuses" : {
-    "175.5 Üst (1.63 - 92.4%)" : "pending"
+    "175.5 Üst (1.63 - 92.4%)" : "won"
   }
 }, {
   "homeTeam" : "Tianjin P.",
   "awayTeam" : "Liaoning F. L.",
   "picks" : [ "177.5 Üst (1.6 - 86.6%)" ],
-  "score" : "-",
+  "score" : "68-80",
   "statuses" : {
-    "177.5 Üst (1.6 - 86.6%)" : "pending"
+    "177.5 Üst (1.6 - 86.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Shenzhen Leopards",
   "awayTeam" : "Qingdao E.",
   "picks" : [ "184.5 Üst (1.65 - 76.2%)" ],
-  "score" : "-",
+  "score" : "77-89",
   "statuses" : {
-    "184.5 Üst (1.65 - 76.2%)" : "pending"
+    "184.5 Üst (1.65 - 76.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Iraklis 2022",
   "awayTeam" : "Aris",
   "picks" : [ "161.5 Üst (1.6 - 73.1%)" ],
-  "score" : "-",
+  "score" : "80-82",
   "statuses" : {
-    "161.5 Üst (1.6 - 73.1%)" : "pending"
+    "161.5 Üst (1.6 - 73.1%)" : "won"
   }
 }, {
   "homeTeam" : "AO Mykonoy",
   "awayTeam" : "AS Karditsas",
   "picks" : [ "159.5 Üst (1.65 - 56.2%)" ],
-  "score" : "-",
+  "score" : "75-65",
   "statuses" : {
-    "159.5 Üst (1.65 - 56.2%)" : "pending"
+    "159.5 Üst (1.65 - 56.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Nymburk",
