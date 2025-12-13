@@ -2,33 +2,33 @@
   "homeTeam" : "Charlotte",
   "awayTeam" : "Chicago",
   "picks" : [ "229.5 Alt (1.63 - 70.2%)" ],
-  "score" : "-",
+  "score" : "126-129",
   "statuses" : {
-    "229.5 Alt (1.63 - 70.2%)" : "pending"
+    "229.5 Alt (1.63 - 70.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Racing de Chivilcoy",
   "awayTeam" : "La Union Formosa",
   "picks" : [ "MS2 (1.5 - 66.1%)" ],
-  "score" : "-",
+  "score" : "87-66",
   "statuses" : {
-    "MS2 (1.5 - 66.1%)" : "pending"
+    "MS2 (1.5 - 66.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Club Un. At",
   "awayTeam" : "CA Cordon",
   "picks" : [ "171.5 Üst (1.67 - 65.1%)" ],
-  "score" : "-",
+  "score" : "89-79",
   "statuses" : {
-    "171.5 Üst (1.67 - 65.1%)" : "pending"
+    "171.5 Üst (1.67 - 65.1%)" : "lost"
   }
 }, {
   "homeTeam" : "San Martin C.",
   "awayTeam" : "CA Platense",
   "picks" : [ "153.5 Üst (1.64 - 67.8%)" ],
-  "score" : "-",
+  "score" : "85-63",
   "statuses" : {
-    "153.5 Üst (1.64 - 67.8%)" : "pending"
+    "153.5 Üst (1.64 - 67.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Golden State",

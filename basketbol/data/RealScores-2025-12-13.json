@@ -1,0 +1,69 @@
+[ {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Chicago",
+  "score" : "126-129"
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Cleveland",
+  "score" : "126-130"
+}, {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "Atlanta",
+  "score" : "142-115"
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Indiana",
+  "score" : "115-105"
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Utah",
+  "score" : "126-130"
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Brooklyn",
+  "score" : "119-111"
+}, {
+  "homeTeam" : "Connecticut Huskies",
+  "awayTeam" : "Texas Longh.",
+  "score" : "71-63"
+}, {
+  "homeTeam" : "CD Universidad De Concepcion",
+  "awayTeam" : "Franca SP",
+  "score" : "79-85"
+}, {
+  "homeTeam" : "Aguada",
+  "awayTeam" : "Minas",
+  "score" : "74-77"
+}, {
+  "homeTeam" : "Ferro Carril",
+  "awayTeam" : "Ciclista Olimpico",
+  "score" : "87-83"
+}, {
+  "homeTeam" : "Racing de Chivilcoy",
+  "awayTeam" : "La Union Formosa",
+  "score" : "87-66"
+}, {
+  "homeTeam" : "San Martin C.",
+  "awayTeam" : "CA Platense",
+  "score" : "85-63"
+}, {
+  "homeTeam" : "Bauru Basket",
+  "awayTeam" : "Mogi Das Cruzes",
+  "score" : "62-58"
+}, {
+  "homeTeam" : "Unifacisa",
+  "awayTeam" : "Basquete Osasco",
+  "score" : "89-70"
+}, {
+  "homeTeam" : "SC Corinthians P.",
+  "awayTeam" : "Universo Brasilia",
+  "score" : "79-66"
+}, {
+  "homeTeam" : "CD Valdivia",
+  "awayTeam" : "CD Espanol Osorno",
+  "score" : "87-70"
+}, {
+  "homeTeam" : "Club Un. At",
+  "awayTeam" : "CA Cordon",
+  "score" : "89-79"
+} ]
