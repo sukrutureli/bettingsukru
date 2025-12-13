@@ -1,0 +1,465 @@
+[ {
+  "homeTeam" : "Alianza",
+  "awayTeam" : "C.D. Cacahuatique",
+  "picks" : [ "MS1 (1.3 - 72.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.3 - 72.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "A. Keçiörengücü",
+  "awayTeam" : "Esenler Erokspor",
+  "picks" : [ "Var (1.46 - 80.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.46 - 80.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dobrudzha Dobrich",
+  "awayTeam" : "Botev Vratsa",
+  "picks" : [ "Alt (1.41 - 84.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.41 - 84.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Terrassa",
+  "awayTeam" : "A. Baleares",
+  "picks" : [ "Alt (1.4 - 78.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 78.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UE Porreres",
+  "awayTeam" : "CE Andratx",
+  "picks" : [ "Alt (1.37 - 66.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.37 - 66.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Alaves II",
+  "awayTeam" : "Naxara CD",
+  "picks" : [ "Alt (1.43 - 60.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.43 - 60.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Portimonense",
+  "awayTeam" : "Leixoes",
+  "picks" : [ "Alt (1.58 - 62.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.58 - 62.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ayutthaya Utd",
+  "awayTeam" : "Bangkok Utd",
+  "picks" : [ "Var (1.39 - 68.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.39 - 68.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Real Valladolid B",
+  "awayTeam" : "Rayo Cantabria",
+  "picks" : [ "Alt (1.45 - 66.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.45 - 66.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Inter Milano U23",
+  "awayTeam" : "AS Giana E.",
+  "picks" : [ "Alt (1.35 - 72.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.35 - 72.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "West Ham Utd (K)",
+  "awayTeam" : "Liverpool (K)",
+  "picks" : [ "Var (1.47 - 68.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.47 - 68.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "TS Tabriz",
+  "awayTeam" : "Paykan",
+  "picks" : [ "Alt (1.53 - 76.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.53 - 76.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Faisaly (Sar)",
+  "awayTeam" : "AL Orubah",
+  "picks" : [ "Var (1.56 - 72.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.56 - 72.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sevilla",
+  "awayTeam" : "Real Oviedo",
+  "picks" : [ "Alt (1.47 - 73.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 73.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hallescher",
+  "awayTeam" : "Magdeburg II",
+  "picks" : [ "Var (1.43 - 62.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.43 - 62.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dolomiti Bellunesi",
+  "awayTeam" : "Union Brescia",
+  "picks" : [ "Alt (1.45 - 62.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.45 - 62.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Pontedera",
+  "awayTeam" : "Sambenedettese",
+  "picks" : [ "Alt (1.37 - 70.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.37 - 70.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cittadella",
+  "awayTeam" : "Novara Calcio",
+  "picks" : [ "Alt (1.38 - 65.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.38 - 65.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rakow C.",
+  "awayTeam" : "Zaglebie Lubin",
+  "picks" : [ "MS1 (1.39 - 62.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.39 - 62.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "F. Karagümrük",
+  "awayTeam" : "Kocaelispor",
+  "picks" : [ "Alt (1.53 - 76.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.53 - 76.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Udinese",
+  "awayTeam" : "Napoli",
+  "picks" : [ "Alt (1.42 - 70.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.42 - 70.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Loko Plovdiv",
+  "awayTeam" : "Montana 1921",
+  "picks" : [ "Alt (1.52 - 59.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.52 - 59.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lazio (K)",
+  "awayTeam" : "Parma Calcio (K)",
+  "picks" : [ "Alt (1.57 - 77.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.57 - 77.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Carrarese C.",
+  "awayTeam" : "V. Entella",
+  "picks" : [ "Alt (1.48 - 65.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.48 - 65.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sohar",
+  "awayTeam" : "Oman",
+  "picks" : [ "Alt (1.32 - 56.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.32 - 56.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "KFC Komarno",
+  "awayTeam" : "FK Kosice",
+  "picks" : [ "Var (1.4 - 61.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 61.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "FCV Dender EH",
+  "awayTeam" : "Club Brugge",
+  "picks" : [ "Üst (1.39 - 67.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.39 - 67.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bechem Utd",
+  "awayTeam" : "Eleven Wonders",
+  "picks" : [ "Alt (1.34 - 65.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.34 - 65.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Aberdeen",
+  "awayTeam" : "Kilmarnock",
+  "picks" : [ "MS1 (1.61 - 69.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.61 - 69.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UD Santarem",
+  "awayTeam" : "Amora",
+  "picks" : [ "Alt (1.36 - 58.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.36 - 58.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "1 Dezembro",
+  "awayTeam" : "Caldas",
+  "picks" : [ "Alt (1.43 - 76.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.43 - 76.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Torreense U23",
+  "awayTeam" : "Sporting U23",
+  "picks" : [ "Var (1.54 - 74.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.54 - 74.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Wehda",
+  "awayTeam" : "AL Anwar",
+  "picks" : [ "Var (1.58 - 57.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.58 - 57.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Asante Kotoko",
+  "awayTeam" : "Dreams",
+  "picks" : [ "Alt (1.42 - 67.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.42 - 67.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Marino Luanco",
+  "awayTeam" : "Coruxo",
+  "picks" : [ "Alt (1.46 - 71.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.46 - 71.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Real Avila",
+  "awayTeam" : "Burgos Promesas",
+  "picks" : [ "Alt (1.46 - 56.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.46 - 56.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Salamanca",
+  "awayTeam" : "Real Oviedo B",
+  "picks" : [ "Alt (1.43 - 57.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.43 - 57.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Novi Pazar",
+  "awayTeam" : "Radnicki Nis",
+  "picks" : [ "MS1 (1.63 - 65.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.63 - 65.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "RC Lens",
+  "awayTeam" : "Nice",
+  "picks" : [ "MS1 (1.3 - 78.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.3 - 78.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Pescara",
+  "awayTeam" : "Frosinone",
+  "picks" : [ "MS2 (1.66 - 73.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.66 - 73.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sestao River Club",
+  "awayTeam" : "SD Gernika Club",
+  "picks" : [ "Alt (1.35 - 73.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.35 - 73.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Monterosi T.",
+  "awayTeam" : "Ascoli",
+  "picks" : [ "Alt (1.33 - 57.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 57.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Acd Ospitaletto",
+  "awayTeam" : "Pro Vercelli",
+  "picks" : [ "Alt (1.34 - 62.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.34 - 62.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Motor Lublin",
+  "awayTeam" : "J. Bialystok",
+  "picks" : [ "Var (1.38 - 67.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.38 - 67.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Samsunspor",
+  "awayTeam" : "Başakşehir",
+  "picks" : [ "Var (1.52 - 65.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.52 - 65.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Trabzonspor",
+  "awayTeam" : "Beşiktaş",
+  "picks" : [ "Var (1.4 - 78.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 78.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Barcelona B",
+  "awayTeam" : "Valencia M.",
+  "picks" : [ "Alt (1.56 - 61.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.56 - 61.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Pontevedra",
+  "awayTeam" : "A. Club De Getxo",
+  "picks" : [ "Alt (1.33 - 69.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 69.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "A. Sanluqueno",
+  "awayTeam" : "Hercules",
+  "picks" : [ "Alt (1.36 - 73.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.36 - 73.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Gimnastic",
+  "awayTeam" : "Cartagena",
+  "picks" : [ "Alt (1.32 - 67.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.32 - 67.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Valletta",
+  "awayTeam" : "Sliema Wanderers",
+  "picks" : [ "Alt (1.4 - 57.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 57.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Almeria",
+  "awayTeam" : "Burgos",
+  "picks" : [ "Yok (1.53 - 59.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Yok (1.53 - 59.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Schweinfurt",
+  "awayTeam" : "TSV Havelse",
+  "picks" : [ "Var (1.32 - 64.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.32 - 64.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "L. Varşova",
+  "awayTeam" : "Piast Gliwice",
+  "picks" : [ "Alt (1.55 - 70.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.55 - 70.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Arzignano V.",
+  "awayTeam" : "PRO Patria",
+  "picks" : [ "Alt (1.34 - 55.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.34 - 55.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Altamura",
+  "awayTeam" : "Audace Cerignola",
+  "picks" : [ "Alt (1.45 - 68.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.45 - 68.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Marsilya",
+  "awayTeam" : "Monaco",
+  "picks" : [ "Üst (1.33 - 72.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.33 - 72.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AD Fafe",
+  "awayTeam" : "CD Trofense",
+  "picks" : [ "Alt (1.37 - 66.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.37 - 66.0%)" : "pending"
+  }
+} ]
