@@ -1426,4 +1426,176 @@
   "homeTeam" : "Ofi Crete",
   "awayTeam" : "Panseraikos",
   "score" : "3-0"
+}, {
+  "homeTeam" : "B. Leverkusen",
+  "awayTeam" : "Köln",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Burnley",
+  "awayTeam" : "Fulham",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Arsenal",
+  "awayTeam" : "Wolverhampton",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Osasuna",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Getafe",
+  "awayTeam" : "Espanyol",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Atalanta",
+  "awayTeam" : "Cagliari",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Metz",
+  "awayTeam" : "PSG",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Toulouse",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Zulte Waregem",
+  "awayTeam" : "RAAL La Louviere",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Anderlecht",
+  "awayTeam" : "St. Truidense",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Groningen",
+  "awayTeam" : "Volendam",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "PSV",
+  "awayTeam" : "Heracles",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "Zwolle",
+  "awayTeam" : "F. Sittard",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Rio Ave",
+  "awayTeam" : "V. Guimaraes",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Sporting CP",
+  "awayTeam" : "Avs Futebol Sad",
+  "score" : "6-0"
+}, {
+  "homeTeam" : "Dallas Trinity (K)",
+  "awayTeam" : "Carolina Uslw L. (K)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Hannover 96",
+  "awayTeam" : "Bochum",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "KAA Gent (K)",
+  "awayTeam" : "SV Zulte Waregem (K)",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "RWD Molenbeek",
+  "awayTeam" : "Royal OC Charleroi",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "Francs Borains",
+  "awayTeam" : "Lierse K.",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Beerschot",
+  "awayTeam" : "Patro Maasmechelen",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Siroki Brijeg",
+  "awayTeam" : "NK Posusje",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Delfin",
+  "awayTeam" : "SD Aucas",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "CSD Macara",
+  "awayTeam" : "CD Cuenca",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "St Etienne",
+  "awayTeam" : "SC Bastia",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Cardiff Metro.",
+  "awayTeam" : "Caernarfon",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "Falkirk",
+  "awayTeam" : "Hearts",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Santander",
+  "awayTeam" : "Leganes",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Dep. La Coruna",
+  "awayTeam" : "R. Sociedad B",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Zaragoza",
+  "awayTeam" : "Cadiz",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Madrid Ccf (K)",
+  "awayTeam" : "Ath Bilbao (K)",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Ourense",
+  "awayTeam" : "Barakaldo",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Real Aviles",
+  "awayTeam" : "Tenerife",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Murcia",
+  "awayTeam" : "CE Sabadell",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "SD Eibar B",
+  "awayTeam" : "Amorebieta",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Thun",
+  "awayTeam" : "St. Gallen",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "AC Cesena",
+  "awayTeam" : "Mantova 1911",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "MTK Budapeşte",
+  "awayTeam" : "Ujpest",
+  "score" : "3-4"
+}, {
+  "homeTeam" : "SC Braga B",
+  "awayTeam" : "Vitoria Guimaraes B",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Rapid 1923",
+  "awayTeam" : "Otelul Galati",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Newtown United FC",
+  "awayTeam" : "Bath United FC",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Partizan",
+  "awayTeam" : "FK Napredak Kru.",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "AE Kifisia",
+  "awayTeam" : "Asteras T.",
+  "score" : "0-0"
 } ]

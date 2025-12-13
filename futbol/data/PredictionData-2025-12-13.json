@@ -386,32 +386,32 @@
   "homeTeam" : "Burnley",
   "awayTeam" : "Fulham",
   "picks" : [ "MS2 (1.73 - 63.6%)" ],
-  "score" : "-",
+  "score" : "2-3",
   "statuses" : {
-    "MS2 (1.73 - 63.6%)" : "pending"
+    "MS2 (1.73 - 63.6%)" : "won"
   }
 }, {
   "homeTeam" : "Zwolle",
   "awayTeam" : "F. Sittard",
   "picks" : [ "Var (1.42 - 72.6%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.42 - 72.6%)" : "pending"
+    "Var (1.42 - 72.6%)" : "lost"
   }
 }, {
   "homeTeam" : "SC Braga B",
   "awayTeam" : "Vitoria Guimaraes B",
   "picks" : [ "Alt (1.33 - 80.6%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.33 - 80.6%)" : "pending"
+    "Alt (1.33 - 80.6%)" : "won"
   }
 }, {
   "homeTeam" : "Paris",
   "awayTeam" : "Toulouse",
   "picks" : [ "Alt (1.58 - 63.8%)" ],
-  "score" : "-",
+  "score" : "0-3",
   "statuses" : {
-    "Alt (1.58 - 63.8%)" : "pending"
+    "Alt (1.58 - 63.8%)" : "lost"
   }
 } ]
