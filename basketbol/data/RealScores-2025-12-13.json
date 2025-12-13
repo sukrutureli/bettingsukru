@@ -294,4 +294,112 @@
   "homeTeam" : "AO Mykonoy",
   "awayTeam" : "AS Karditsas",
   "score" : "75-65"
+}, {
+  "homeTeam" : "Bahçeşehir Koleji",
+  "awayTeam" : "Beşiktaş",
+  "score" : "88-95"
+}, {
+  "homeTeam" : "Kocaeli Bşb Kağıtspor",
+  "awayTeam" : "Çayırova Bld",
+  "score" : "80-82"
+}, {
+  "homeTeam" : "Borac Cacak",
+  "awayTeam" : "Studentski Centar",
+  "score" : "89-82"
+}, {
+  "homeTeam" : "Penarol Mar",
+  "awayTeam" : "Atenas Cord",
+  "score" : "87-67"
+}, {
+  "homeTeam" : "Traiskirchen",
+  "awayTeam" : "Kapfenberg",
+  "score" : "69-83"
+}, {
+  "homeTeam" : "St. Polten",
+  "awayTeam" : "Oberwart",
+  "score" : "89-87"
+}, {
+  "homeTeam" : "Klosterneubu",
+  "awayTeam" : "Swan Gmunden",
+  "score" : "98-93"
+}, {
+  "homeTeam" : "Nymburk",
+  "awayTeam" : "BK Jip Pardubice",
+  "score" : "95-100"
+}, {
+  "homeTeam" : "BK NH Ostrava",
+  "awayTeam" : "BK Opava",
+  "score" : "106-102"
+}, {
+  "homeTeam" : "BK Olomoucko",
+  "awayTeam" : "Usti nad Labem",
+  "score" : "82-100"
+}, {
+  "homeTeam" : "Gipuzkoa IDK (K)",
+  "awayTeam" : "AE Sedis Basquet (K)",
+  "score" : "70-75"
+}, {
+  "homeTeam" : "Innova Chef Cb Zamora",
+  "awayTeam" : "Leyma Basquet Coruna",
+  "score" : "69-81"
+}, {
+  "homeTeam" : "Sloga Uppsala",
+  "awayTeam" : "KFUM Nassjo",
+  "score" : "83-107"
+}, {
+  "homeTeam" : "IK Eos Lund (K)",
+  "awayTeam" : "Brahe Basket (K)",
+  "score" : "84-78"
+}, {
+  "homeTeam" : "AIK Basket (K)",
+  "awayTeam" : "Rig Lulea (K)",
+  "score" : "64-60"
+}, {
+  "homeTeam" : "Hogsbo (K)",
+  "awayTeam" : "Malbas (K)",
+  "score" : "105-70"
+}, {
+  "homeTeam" : "Lugano Tigers",
+  "awayTeam" : "Nyon",
+  "score" : "72-68"
+}, {
+  "homeTeam" : "Geneve Lions",
+  "awayTeam" : "BBC Lausanne",
+  "score" : "88-71"
+}, {
+  "homeTeam" : "Asd Loreto Basket",
+  "awayTeam" : "Power Basket Nocera",
+  "score" : "73-70"
+}, {
+  "homeTeam" : "Atomeromu SE",
+  "awayTeam" : "Szolnoki Olaj Kk",
+  "score" : "90-87"
+}, {
+  "homeTeam" : "Kaposvari KK",
+  "awayTeam" : "Debreceni Eac",
+  "score" : "91-88"
+}, {
+  "homeTeam" : "Zielona Gora",
+  "awayTeam" : "Slam Stal",
+  "score" : "98-84"
+}, {
+  "homeTeam" : "Spisski Rytieri",
+  "awayTeam" : "BK Inter Bratislava",
+  "score" : "75-99"
+}, {
+  "homeTeam" : "BKM Lucenec",
+  "awayTeam" : "Komarno",
+  "score" : "79-83"
+}, {
+  "homeTeam" : "Kk Krka",
+  "awayTeam" : "Helios Suns",
+  "score" : "80-85"
+}, {
+  "homeTeam" : "Kk Rogaska",
+  "awayTeam" : "Zlatorog Lasko",
+  "score" : "103-81"
+}, {
+  "homeTeam" : "Panionios",
+  "awayTeam" : "Promitheas",
+  "score" : "95-101"
 } ]

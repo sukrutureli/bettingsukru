@@ -178,25 +178,25 @@
   "homeTeam" : "Nymburk",
   "awayTeam" : "BK Jip Pardubice",
   "picks" : [ "175.5 Üst (1.65 - 57.3%)" ],
-  "score" : "-",
+  "score" : "95-100",
   "statuses" : {
-    "175.5 Üst (1.65 - 57.3%)" : "pending"
+    "175.5 Üst (1.65 - 57.3%)" : "won"
   }
 }, {
   "homeTeam" : "BK Olomoucko",
   "awayTeam" : "Usti nad Labem",
   "picks" : [ "160.5 Üst (1.62 - 65.6%)" ],
-  "score" : "-",
+  "score" : "82-100",
   "statuses" : {
-    "160.5 Üst (1.62 - 65.6%)" : "pending"
+    "160.5 Üst (1.62 - 65.6%)" : "won"
   }
 }, {
   "homeTeam" : "Kaposvari KK",
   "awayTeam" : "Debreceni Eac",
   "picks" : [ "170.5 Alt (1.67 - 56.6%)" ],
-  "score" : "-",
+  "score" : "91-88",
   "statuses" : {
-    "170.5 Alt (1.67 - 56.6%)" : "pending"
+    "170.5 Alt (1.67 - 56.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Ratiopharm Ulm",
