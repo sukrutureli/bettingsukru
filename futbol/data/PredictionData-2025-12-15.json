@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Fas",
+  "awayTeam" : "B. A. Emirlikleri",
+  "picks" : [ "MS1 (1.65 - 68.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.65 - 68.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rivers Utd",
+  "awayTeam" : "Wikki Tourists",
+  "picks" : [ "Alt (1.53 - 71.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.53 - 71.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "N. Madeira",
+  "awayTeam" : "Tondela",
+  "picks" : [ "Alt (1.54 - 72.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.54 - 72.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Suudi Arabistan",
+  "awayTeam" : "Ürdün",
+  "picks" : [ "Alt (1.35 - 60.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.35 - 60.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "SS Arezzo",
+  "awayTeam" : "ASD Pineto Calcio",
+  "picks" : [ "Alt (1.51 - 68.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.51 - 68.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Man. Utd",
+  "awayTeam" : "Bournemouth",
+  "picks" : [ "Üst (1.37 - 68.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.37 - 68.2%)" : "pending"
+  }
+} ]
