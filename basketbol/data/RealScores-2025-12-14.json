@@ -1,0 +1,57 @@
+[ {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "New York",
+  "score" : "120-132"
+}, {
+  "homeTeam" : "Illinois Fighting Illini",
+  "awayTeam" : "Nebraska Cornhuskers",
+  "score" : "80-83"
+}, {
+  "homeTeam" : "Auburn Tigers",
+  "awayTeam" : "Chattanooga Mocs",
+  "score" : "92-78"
+}, {
+  "homeTeam" : "NCS Wolfpack",
+  "awayTeam" : "Kansas Jayhawks",
+  "score" : "76-77"
+}, {
+  "homeTeam" : "Vanderbilt Commodores",
+  "awayTeam" : "Central Arkansas Bears",
+  "score" : "83-72"
+}, {
+  "homeTeam" : "Brigham Young Cougars",
+  "awayTeam" : "California Riverside Highlands",
+  "score" : "100-53"
+}, {
+  "homeTeam" : "Oklahoma Sooners (K)",
+  "awayTeam" : "Oklahoma St. Cowgirls (K)",
+  "score" : "92-70"
+}, {
+  "homeTeam" : "Club Nacional",
+  "awayTeam" : "Flamengo",
+  "score" : "75-63"
+}, {
+  "homeTeam" : "Sydney Uni Flames (K)",
+  "awayTeam" : "Adelaide Lightning (K)",
+  "score" : "75-94"
+}, {
+  "homeTeam" : "Botafogo",
+  "awayTeam" : "Ec Uniao Corinthians",
+  "score" : "61-81"
+}, {
+  "homeTeam" : "EC Pinheiros SP",
+  "awayTeam" : "Vasco Da Gama",
+  "score" : "84-70"
+}, {
+  "homeTeam" : "Olimpia Kings",
+  "awayTeam" : "Colonias Gold",
+  "score" : "63-71"
+}, {
+  "homeTeam" : "Vitoria",
+  "awayTeam" : "CP Esgueira",
+  "score" : "105-106"
+}, {
+  "homeTeam" : "Filipinler (K)",
+  "awayTeam" : "Singapore",
+  "score" : "92-59"
+} ]

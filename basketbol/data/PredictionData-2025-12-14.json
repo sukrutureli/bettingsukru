@@ -2,9 +2,9 @@
   "homeTeam" : "Club Nacional",
   "awayTeam" : "Flamengo",
   "picks" : [ "168.5 Alt (1.61 - 57.3%)" ],
-  "score" : "-",
+  "score" : "75-63",
   "statuses" : {
-    "168.5 Alt (1.61 - 57.3%)" : "pending"
+    "168.5 Alt (1.61 - 57.3%)" : "won"
   }
 }, {
   "homeTeam" : "Oklahoma",
