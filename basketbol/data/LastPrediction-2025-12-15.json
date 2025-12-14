@@ -1,0 +1,36 @@
+[ {
+  "name" : "Brooklyn - Milwaukee",
+  "time" : "02:00",
+  "predictions" : [ "215.5 Üst (1.6 - 76.9%)" ],
+  "score" : "115-112"
+}, {
+  "name" : "Chicago - New Orleans",
+  "time" : "03:00",
+  "predictions" : [ "247.5 Alt (1.66 - 71.5%)" ],
+  "score" : "119-121"
+}, {
+  "name" : "Phoenix - LA Lakers",
+  "time" : "04:00",
+  "predictions" : [ "230.5 Üst (1.6 - 60.3%)" ],
+  "score" : "117-118"
+}, {
+  "name" : "Daegu Pegasus - Mobis Phoebus",
+  "time" : "13:00",
+  "predictions" : [ "MS1 (1.32 - 90.4%)" ],
+  "score" : "80-69"
+}, {
+  "name" : "Beijing D. - Xinjiang F. T.",
+  "time" : "14:35",
+  "predictions" : [ "176.5 Üst (1.62 - 64.9%)" ],
+  "score" : "94-89"
+}, {
+  "name" : "N. Novgorod - Avtodor Sara",
+  "time" : "19:00",
+  "predictions" : [ "158.5 Üst (1.66 - 58.7%)" ],
+  "score" : "83-79"
+}, {
+  "name" : "Rostock Seawolves - Ludwigsburg",
+  "time" : "22:00",
+  "predictions" : [ "MS1 (1.48 - 86.7%)" ],
+  "score" : "86-77"
+} ]

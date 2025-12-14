@@ -1,0 +1,57 @@
+[ {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Milwaukee",
+  "picks" : [ "215.5 Üst (1.6 - 76.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "215.5 Üst (1.6 - 76.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "New Orleans",
+  "picks" : [ "247.5 Alt (1.66 - 71.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "247.5 Alt (1.66 - 71.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "LA Lakers",
+  "picks" : [ "230.5 Üst (1.6 - 60.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "230.5 Üst (1.6 - 60.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Daegu Pegasus",
+  "awayTeam" : "Mobis Phoebus",
+  "picks" : [ "MS1 (1.32 - 90.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.32 - 90.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Beijing D.",
+  "awayTeam" : "Xinjiang F. T.",
+  "picks" : [ "176.5 Üst (1.62 - 64.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "176.5 Üst (1.62 - 64.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "N. Novgorod",
+  "awayTeam" : "Avtodor Sara",
+  "picks" : [ "158.5 Üst (1.66 - 58.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "158.5 Üst (1.66 - 58.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rostock Seawolves",
+  "awayTeam" : "Ludwigsburg",
+  "picks" : [ "MS1 (1.48 - 86.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.48 - 86.7%)" : "pending"
+  }
+} ]
