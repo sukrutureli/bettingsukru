@@ -2,9 +2,9 @@
   "homeTeam" : "Alianza",
   "awayTeam" : "C.D. Cacahuatique",
   "picks" : [ "MS1 (1.3 - 72.9%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "MS1 (1.3 - 72.9%)" : "pending"
+    "MS1 (1.3 - 72.9%)" : "won"
   }
 }, {
   "homeTeam" : "A. Keçiörengücü",

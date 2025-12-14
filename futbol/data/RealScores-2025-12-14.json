@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "Sporting Jacksonville (K)",
+  "awayTeam" : "Fort Lauderdale Utd (K)",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Tampa Bay Sun (K)",
+  "awayTeam" : "Brooklyn (K)",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Racing Club",
+  "awayTeam" : "Estudiantes",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "SV Deportivo Nacional",
+  "awayTeam" : "Real Koyari",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Wellington P.",
+  "awayTeam" : "Newcastle Utd Jets",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "GV San Jose",
+  "awayTeam" : "U. de Vinto",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Alianza",
+  "awayTeam" : "C.D. Cacahuatique",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Angel Firpo",
+  "awayTeam" : "CD Aguila",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Tenerife B",
+  "awayTeam" : "Rayo Vallecano B",
+  "score" : "-"
+}, {
+  "homeTeam" : "Torrent",
+  "awayTeam" : "UD Poblense",
+  "score" : "-"
+}, {
+  "homeTeam" : "S. Hiroshima (K)",
+  "awayTeam" : "Cerezo Osaka S. (K)",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Atl. Nacional Medellin",
+  "awayTeam" : "I. Medellin",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Alajuelense",
+  "awayTeam" : "Liberia",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Managua",
+  "awayTeam" : "Diriangen",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "SLH Horsfords St. Pauls Utd",
+  "awayTeam" : "Sandy Point",
+  "score" : "1-0"
+} ]
