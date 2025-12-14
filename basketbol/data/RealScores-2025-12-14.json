@@ -350,4 +350,224 @@
   "homeTeam" : "Peristeri",
   "awayTeam" : "Olympiakos",
   "score" : "62-105"
+}, {
+  "homeTeam" : "Mersin Spor",
+  "awayTeam" : "Esenler Erokspor",
+  "score" : "83-88"
+}, {
+  "homeTeam" : "Frankfurt",
+  "awayTeam" : "SC Jena",
+  "score" : "79-70"
+}, {
+  "homeTeam" : "Hamburg Towers",
+  "awayTeam" : "Alba Berlin",
+  "score" : "99-80"
+}, {
+  "homeTeam" : "Gravelines",
+  "awayTeam" : "JL Bourg",
+  "score" : "75-84"
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Strasbourg",
+  "score" : "88-74"
+}, {
+  "homeTeam" : "Real Madrid",
+  "awayTeam" : "B. Girona",
+  "score" : "112-76"
+}, {
+  "homeTeam" : "Derthona Basket",
+  "awayTeam" : "Sassari",
+  "score" : "118-113"
+}, {
+  "homeTeam" : "Brescia",
+  "awayTeam" : "Varese",
+  "score" : "102-94"
+}, {
+  "homeTeam" : "Napoli Basket",
+  "awayTeam" : "Cremona",
+  "score" : "102-76"
+}, {
+  "homeTeam" : "Giants Leverkusen",
+  "awayTeam" : "EPG Baskets Koblenz",
+  "score" : "83-95"
+}, {
+  "homeTeam" : "Nürnberg Falcons",
+  "awayTeam" : "Artland Dragons",
+  "score" : "92-104"
+}, {
+  "homeTeam" : "BC Vienna",
+  "awayTeam" : "UBSC Graz",
+  "score" : "90-82"
+}, {
+  "homeTeam" : "Donar Groningen",
+  "awayTeam" : "Antwerp",
+  "score" : "74-94"
+}, {
+  "homeTeam" : "Sokol Pisek",
+  "awayTeam" : "USK Praha",
+  "score" : "95-79"
+}, {
+  "homeTeam" : "Lattes Montp (K)",
+  "awayTeam" : "UF Angers Basket (K)",
+  "score" : "79-76"
+}, {
+  "homeTeam" : "Charnay Basket (K)",
+  "awayTeam" : "Tango Bourges (K)",
+  "score" : "66-73"
+}, {
+  "homeTeam" : "Zabok",
+  "awayTeam" : "Cibona Zagreb",
+  "score" : "89-87"
+}, {
+  "homeTeam" : "Furnir Dubrava",
+  "awayTeam" : "Kk Cedevita Zagreb Junior",
+  "score" : "80-86"
+}, {
+  "homeTeam" : "CB Estudiantes (K)",
+  "awayTeam" : "Cab Estepona (K)",
+  "score" : "85-60"
+}, {
+  "homeTeam" : "Palmer Basquet Mallorca Palma",
+  "awayTeam" : "Basket Cartagena",
+  "score" : "77-68"
+}, {
+  "homeTeam" : "Club Melilla",
+  "awayTeam" : "Iberojet Pa",
+  "score" : "72-79"
+}, {
+  "homeTeam" : "London Lions",
+  "awayTeam" : "Surrey 89ers",
+  "score" : "87-83"
+}, {
+  "homeTeam" : "Eskilstuna Basket",
+  "awayTeam" : "Tureberg",
+  "score" : "87-75"
+}, {
+  "homeTeam" : "IK Eos",
+  "awayTeam" : "Wetterbygden",
+  "score" : "78-85"
+}, {
+  "homeTeam" : "Monthey",
+  "awayTeam" : "Massagno",
+  "score" : "100-86"
+}, {
+  "homeTeam" : "Schio (K)",
+  "awayTeam" : "Battipaglia (K)",
+  "score" : "100-52"
+}, {
+  "homeTeam" : "Asd Broni 2022 (K)",
+  "awayTeam" : "Derthona Basket (K)",
+  "score" : "63-84"
+}, {
+  "homeTeam" : "Reyer Venezia (K)",
+  "awayTeam" : "San Martino (K)",
+  "score" : "87-66"
+}, {
+  "homeTeam" : "Talos Ruvo DI Puglia",
+  "awayTeam" : "Urania Milano",
+  "score" : "75-80"
+}, {
+  "homeTeam" : "Basket 1971",
+  "awayTeam" : "Brindisi",
+  "score" : "95-80"
+}, {
+  "homeTeam" : "Rimini",
+  "awayTeam" : "Fortitudo Bologna",
+  "score" : "83-68"
+}, {
+  "homeTeam" : "Juvi Cremona",
+  "awayTeam" : "Torino",
+  "score" : "69-73"
+}, {
+  "homeTeam" : "Roseto Shark",
+  "awayTeam" : "Basket Scafati 1969",
+  "score" : "68-87"
+}, {
+  "homeTeam" : "VL Pesaro",
+  "awayTeam" : "Benedetto Cento",
+  "score" : "80-66"
+}, {
+  "homeTeam" : "Pistoia",
+  "awayTeam" : "Ueb Cividale",
+  "score" : "78-81"
+}, {
+  "homeTeam" : "Asd Del Fes Avellino",
+  "awayTeam" : "Forli",
+  "score" : "90-79"
+}, {
+  "homeTeam" : "R. Sebastiani Rieti",
+  "awayTeam" : "Libertas Livorno",
+  "score" : "64-75"
+}, {
+  "homeTeam" : "Legnano Knights",
+  "awayTeam" : "Orlandina",
+  "score" : "84-90"
+}, {
+  "homeTeam" : "Agribertocchi Orzinuovi",
+  "awayTeam" : "Treviglio Brianza Basket",
+  "score" : "87-71"
+}, {
+  "homeTeam" : "Bakery Basket Piacenza",
+  "awayTeam" : "Paffoni Omegna",
+  "score" : "81-78"
+}, {
+  "homeTeam" : "Rucker Sanve San Vendemiano",
+  "awayTeam" : "Assigeco Piacenza",
+  "score" : "97-82"
+}, {
+  "homeTeam" : "E. Vigevano",
+  "awayTeam" : "Herons Basket",
+  "score" : "94-85"
+}, {
+  "homeTeam" : "P. Fiorenzuola",
+  "awayTeam" : "Aurora Desio",
+  "score" : "75-79"
+}, {
+  "homeTeam" : "Fulgor Fidenza",
+  "awayTeam" : "Virtus Lumezzane",
+  "score" : "81-83"
+}, {
+  "homeTeam" : "San Severo",
+  "awayTeam" : "Aurora Jesi",
+  "score" : "91-89"
+}, {
+  "homeTeam" : "Chiusi",
+  "awayTeam" : "Fabriano Basket",
+  "score" : "73-78"
+}, {
+  "homeTeam" : "Ravenna Pie",
+  "awayTeam" : "Solbat Basket Golfo Piombino",
+  "score" : "67-86"
+}, {
+  "homeTeam" : "Pielle Livorno",
+  "awayTeam" : "ASD Luiss Roma",
+  "score" : "94-62"
+}, {
+  "homeTeam" : "Rekico Faenza",
+  "awayTeam" : "Ferrara Basket 2018",
+  "score" : "89-81"
+}, {
+  "homeTeam" : "Juventus Utena",
+  "awayTeam" : "Zalgiris Kaunas",
+  "score" : "75-91"
+}, {
+  "homeTeam" : "F. Szombathely",
+  "awayTeam" : "Zalakeramia ZTE",
+  "score" : "104-72"
+}, {
+  "homeTeam" : "A. Arka Gdynia",
+  "awayTeam" : "Dabrowa Gorn.",
+  "score" : "92-84"
+}, {
+  "homeTeam" : "Miners Katowice",
+  "awayTeam" : "Astoria Bydgoszcz",
+  "score" : "65-84"
+}, {
+  "homeTeam" : "CD Povoa",
+  "awayTeam" : "Ovarense",
+  "score" : "67-68"
+}, {
+  "homeTeam" : "Bars-Rgeu Rostov Na Donu",
+  "awayTeam" : "Kupol Rodniki Izhevsk",
+  "score" : "75-80"
 } ]
