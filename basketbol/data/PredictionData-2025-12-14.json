@@ -266,40 +266,40 @@
   "homeTeam" : "Asvel Vil.",
   "awayTeam" : "Cholet",
   "picks" : [ "165.5 Üst (1.64 - 67.9%)" ],
-  "score" : "-",
+  "score" : "85-87",
   "statuses" : {
-    "165.5 Üst (1.64 - 67.9%)" : "pending"
+    "165.5 Üst (1.64 - 67.9%)" : "won"
   }
 }, {
   "homeTeam" : "Treviso",
   "awayTeam" : "Cantu",
   "picks" : [ "171.5 Üst (1.61 - 55.8%)" ],
-  "score" : "-",
+  "score" : "86-81",
   "statuses" : {
-    "171.5 Üst (1.61 - 55.8%)" : "pending"
+    "171.5 Üst (1.61 - 55.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Illiabum Clube",
   "awayTeam" : "Oliveirense",
   "picks" : [ "158.5 Alt (1.65 - 64.9%)" ],
-  "score" : "-",
+  "score" : "63-85",
   "statuses" : {
-    "158.5 Alt (1.65 - 64.9%)" : "pending"
+    "158.5 Alt (1.65 - 64.9%)" : "won"
   }
 }, {
   "homeTeam" : "Kosice Wolves",
   "awayTeam" : "MBK Handlova",
   "picks" : [ "162.5 Üst (1.61 - 68.0%)" ],
-  "score" : "-",
+  "score" : "61-67",
   "statuses" : {
-    "162.5 Üst (1.61 - 68.0%)" : "pending"
+    "162.5 Üst (1.61 - 68.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Cleveland",
   "awayTeam" : "Charlotte",
   "picks" : [ "236.5 Alt (1.62 - 68.0%)" ],
-  "score" : "-",
+  "score" : "111-119",
   "statuses" : {
-    "236.5 Alt (1.62 - 68.0%)" : "pending"
+    "236.5 Alt (1.62 - 68.0%)" : "won"
   }
 } ]

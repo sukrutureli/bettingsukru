@@ -570,4 +570,60 @@
   "homeTeam" : "Bars-Rgeu Rostov Na Donu",
   "awayTeam" : "Kupol Rodniki Izhevsk",
   "score" : "75-80"
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Anadolu Efes",
+  "score" : "97-94"
+}, {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Washington",
+  "score" : "89-108"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Charlotte",
+  "score" : "111-119"
+}, {
+  "homeTeam" : "Asvel Vil.",
+  "awayTeam" : "Cholet",
+  "score" : "85-87"
+}, {
+  "homeTeam" : "Manresa",
+  "awayTeam" : "Barcelona",
+  "score" : "62-89"
+}, {
+  "homeTeam" : "Treviso",
+  "awayTeam" : "Cantu",
+  "score" : "86-81"
+}, {
+  "homeTeam" : "Olimpia Milano",
+  "awayTeam" : "Virtus Bologna",
+  "score" : "74-63"
+}, {
+  "homeTeam" : "Fmp",
+  "awayTeam" : "Partizan",
+  "score" : "79-91"
+}, {
+  "homeTeam" : "Kızıl Yıldız",
+  "awayTeam" : "Spartak Subotica",
+  "score" : "93-77"
+}, {
+  "homeTeam" : "South Carolina (K)",
+  "awayTeam" : "Penn State (K)",
+  "score" : "95-55"
+}, {
+  "homeTeam" : "Magnolia Basket (K)",
+  "awayTeam" : "San Giovanni (K)",
+  "score" : "55-60"
+}, {
+  "homeTeam" : "Imortal BC",
+  "awayTeam" : "Sporting CP",
+  "score" : "82-89"
+}, {
+  "homeTeam" : "Illiabum Clube",
+  "awayTeam" : "Oliveirense",
+  "score" : "63-85"
+}, {
+  "homeTeam" : "Kosice Wolves",
+  "awayTeam" : "MBK Handlova",
+  "score" : "61-67"
 } ]
