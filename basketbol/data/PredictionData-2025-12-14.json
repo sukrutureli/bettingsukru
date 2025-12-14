@@ -10,81 +10,81 @@
   "homeTeam" : "Oklahoma",
   "awayTeam" : "San Antonio",
   "picks" : [ "232.5 Üst (1.67 - 77.9%)" ],
-  "score" : "-",
+  "score" : "109-111",
   "statuses" : {
-    "232.5 Üst (1.67 - 77.9%)" : "pending"
+    "232.5 Üst (1.67 - 77.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Melbourne Utd",
   "awayTeam" : "Sydney Kings",
   "picks" : [ "MS1 (1.35 - 68.6%)" ],
-  "score" : "-",
+  "score" : "86-92",
   "statuses" : {
-    "MS1 (1.35 - 68.6%)" : "pending"
+    "MS1 (1.35 - 68.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Fukushima",
   "awayTeam" : "Kumamoto V.",
   "picks" : [ "161.5 Üst (1.63 - 60.5%)" ],
-  "score" : "-",
+  "score" : "69-92",
   "statuses" : {
-    "161.5 Üst (1.63 - 60.5%)" : "pending"
+    "161.5 Üst (1.63 - 60.5%)" : "lost"
   }
 }, {
   "homeTeam" : "KCC Egis",
   "awayTeam" : "Anyang KGC",
   "picks" : [ "152.5 Üst (1.61 - 58.4%)" ],
-  "score" : "-",
+  "score" : "103-76",
   "statuses" : {
-    "152.5 Üst (1.61 - 58.4%)" : "pending"
+    "152.5 Üst (1.61 - 58.4%)" : "won"
   }
 }, {
   "homeTeam" : "Yokohama",
   "awayTeam" : "Osaka Evessa",
   "picks" : [ "MS1 (1.35 - 74.5%)" ],
-  "score" : "-",
+  "score" : "63-71",
   "statuses" : {
-    "MS1 (1.35 - 74.5%)" : "pending"
+    "MS1 (1.35 - 74.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Brisbane Bullets",
   "awayTeam" : "Perth Wildcats",
   "picks" : [ "MS2 (1.3 - 68.9%)" ],
-  "score" : "-",
+  "score" : "62-86",
   "statuses" : {
-    "MS2 (1.3 - 68.9%)" : "pending"
+    "MS2 (1.3 - 68.9%)" : "won"
   }
 }, {
   "homeTeam" : "Taoyuan Pilots",
   "awayTeam" : "Macau Black",
   "picks" : [ "169.5 Üst (1.62 - 93.3%)" ],
-  "score" : "-",
+  "score" : "104-86",
   "statuses" : {
-    "169.5 Üst (1.62 - 93.3%)" : "pending"
+    "169.5 Üst (1.62 - 93.3%)" : "won"
   }
 }, {
   "homeTeam" : "Phoenix Puls",
   "awayTeam" : "Titan Ultra Giant Risers",
   "picks" : [ "206.5 Alt (1.62 - 69.0%)" ],
-  "score" : "-",
+  "score" : "119-127",
   "statuses" : {
-    "206.5 Alt (1.62 - 69.0%)" : "pending"
+    "206.5 Alt (1.62 - 69.0%)" : "lost"
   }
 }, {
   "homeTeam" : "BC Maroussi Athens",
   "awayTeam" : "PAOK",
   "picks" : [ "MS2 (1.39 - 58.8%)" ],
-  "score" : "-",
+  "score" : "87-97",
   "statuses" : {
-    "MS2 (1.39 - 58.8%)" : "pending"
+    "MS2 (1.39 - 58.8%)" : "won"
   }
 }, {
   "homeTeam" : "Meralco",
   "awayTeam" : "Converge Fiberxers",
   "picks" : [ "196.5 Alt (1.64 - 67.7%)" ],
-  "score" : "-",
+  "score" : "105-84",
   "statuses" : {
-    "196.5 Alt (1.64 - 67.7%)" : "pending"
+    "196.5 Alt (1.64 - 67.7%)" : "won"
   }
 }, {
   "homeTeam" : "Guandong S. T.",
@@ -98,49 +98,49 @@
   "homeTeam" : "Shanghai S.",
   "awayTeam" : "Jilin N.T.",
   "picks" : [ "176.5 Üst (1.6 - 79.1%)" ],
-  "score" : "-",
+  "score" : "95-85",
   "statuses" : {
-    "176.5 Üst (1.6 - 79.1%)" : "pending"
+    "176.5 Üst (1.6 - 79.1%)" : "won"
   }
 }, {
   "homeTeam" : "Gernika Kesb (K)",
   "awayTeam" : "Baloncesto Leganes (K)",
   "picks" : [ "MS1 (1.33 - 77.7%)" ],
-  "score" : "-",
+  "score" : "62-76",
   "statuses" : {
-    "MS1 (1.33 - 77.7%)" : "pending"
+    "MS1 (1.33 - 77.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Parma Permsk",
   "awayTeam" : "Lokomotiv Kuban",
   "picks" : [ "MS2 (1.33 - 78.5%)" ],
-  "score" : "-",
+  "score" : "93-85",
   "statuses" : {
-    "MS2 (1.33 - 78.5%)" : "pending"
+    "MS2 (1.33 - 78.5%)" : "lost"
   }
 }, {
   "homeTeam" : "LTI Giessen",
   "awayTeam" : "Bayreuth",
   "picks" : [ "168.5 Alt (1.61 - 65.4%)" ],
-  "score" : "-",
+  "score" : "95-84",
   "statuses" : {
-    "168.5 Alt (1.61 - 65.4%)" : "pending"
+    "168.5 Alt (1.61 - 65.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Limburg Utd",
   "awayTeam" : "Spirou Charleroi",
   "picks" : [ "161.5 Üst (1.65 - 75.5%)" ],
-  "score" : "-",
+  "score" : "96-74",
   "statuses" : {
-    "161.5 Üst (1.65 - 75.5%)" : "pending"
+    "161.5 Üst (1.65 - 75.5%)" : "won"
   }
 }, {
   "homeTeam" : "ESB Villeneuve (K)",
   "awayTeam" : "Basket Landes (K)",
   "picks" : [ "134.5 Üst (1.63 - 68.5%)" ],
-  "score" : "-",
+  "score" : "77-72",
   "statuses" : {
-    "134.5 Üst (1.63 - 68.5%)" : "pending"
+    "134.5 Üst (1.63 - 68.5%)" : "won"
   }
 }, {
   "homeTeam" : "Giants Leverkusen",
