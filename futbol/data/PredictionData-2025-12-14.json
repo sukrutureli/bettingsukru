@@ -402,64 +402,64 @@
   "homeTeam" : "Valletta",
   "awayTeam" : "Sliema Wanderers",
   "picks" : [ "Alt (1.4 - 57.7%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.4 - 57.7%)" : "pending"
+    "Alt (1.4 - 57.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Almeria",
   "awayTeam" : "Burgos",
   "picks" : [ "Yok (1.53 - 59.2%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Yok (1.53 - 59.2%)" : "pending"
+    "Yok (1.53 - 59.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Schweinfurt",
   "awayTeam" : "TSV Havelse",
   "picks" : [ "Var (1.32 - 64.7%)" ],
-  "score" : "-",
+  "score" : "2-3",
   "statuses" : {
-    "Var (1.32 - 64.7%)" : "pending"
+    "Var (1.32 - 64.7%)" : "won"
   }
 }, {
   "homeTeam" : "L. Varşova",
   "awayTeam" : "Piast Gliwice",
   "picks" : [ "Alt (1.55 - 70.7%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.55 - 70.7%)" : "pending"
+    "Alt (1.55 - 70.7%)" : "won"
   }
 }, {
   "homeTeam" : "Arzignano V.",
   "awayTeam" : "PRO Patria",
   "picks" : [ "Alt (1.34 - 55.4%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.34 - 55.4%)" : "pending"
+    "Alt (1.34 - 55.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Altamura",
   "awayTeam" : "Audace Cerignola",
   "picks" : [ "Alt (1.45 - 68.7%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.45 - 68.7%)" : "pending"
+    "Alt (1.45 - 68.7%)" : "won"
   }
 }, {
   "homeTeam" : "Marsilya",
   "awayTeam" : "Monaco",
   "picks" : [ "Üst (1.33 - 72.0%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Üst (1.33 - 72.0%)" : "pending"
+    "Üst (1.33 - 72.0%)" : "lost"
   }
 }, {
   "homeTeam" : "AD Fafe",
   "awayTeam" : "CD Trofense",
   "picks" : [ "Alt (1.37 - 66.0%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.37 - 66.0%)" : "pending"
+    "Alt (1.37 - 66.0%)" : "lost"
   }
 } ]
