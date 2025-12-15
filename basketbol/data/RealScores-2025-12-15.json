@@ -138,4 +138,24 @@
   "homeTeam" : "N. Novgorod",
   "awayTeam" : "Avtodor Sara",
   "score" : "83-80"
+}, {
+  "homeTeam" : "Rostock Seawolves",
+  "awayTeam" : "Ludwigsburg",
+  "score" : "96-89"
+}, {
+  "homeTeam" : "Lokomotiv Plovdiv 1926",
+  "awayTeam" : "Minyor 2015",
+  "score" : "88-72"
+}, {
+  "homeTeam" : "Uppsala",
+  "awayTeam" : "BC Lulea",
+  "score" : "95-110"
+}, {
+  "homeTeam" : "Slask Wroclaw",
+  "awayTeam" : "Czarni Slupsk",
+  "score" : "87-64"
+}, {
+  "homeTeam" : "P. St. Gdanski",
+  "awayTeam" : "AZS Politechnika Opolska",
+  "score" : "99-71"
 } ]

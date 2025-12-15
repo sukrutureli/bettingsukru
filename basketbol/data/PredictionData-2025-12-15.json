@@ -50,8 +50,8 @@
   "homeTeam" : "Rostock Seawolves",
   "awayTeam" : "Ludwigsburg",
   "picks" : [ "MS1 (1.48 - 86.7%)" ],
-  "score" : "-",
+  "score" : "96-89",
   "statuses" : {
-    "MS1 (1.48 - 86.7%)" : "pending"
+    "MS1 (1.48 - 86.7%)" : "won"
   }
 } ]
