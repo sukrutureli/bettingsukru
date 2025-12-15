@@ -1,0 +1,57 @@
+[ {
+  "homeTeam" : "Lazio U20",
+  "awayTeam" : "Torino U20",
+  "picks" : [ "Var (1.55 - 63.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.55 - 63.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Mısır",
+  "awayTeam" : "Nijerya",
+  "picks" : [ "Alt (1.47 - 70.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 70.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Royal OC Charleroi",
+  "awayTeam" : "Lommel SK",
+  "picks" : [ "Var (1.41 - 80.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.41 - 80.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Blooming",
+  "awayTeam" : "Club Bolivar",
+  "picks" : [ "Üst (1.4 - 76.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.4 - 76.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cardiff Metro.",
+  "awayTeam" : "Briton Ferry",
+  "picks" : [ "Üst (1.54 - 69.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.54 - 69.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dorking Wanderers",
+  "awayTeam" : "Weston Super Mare",
+  "picks" : [ "Var (1.49 - 70.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.49 - 70.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "S. Gijon",
+  "awayTeam" : "Valencia",
+  "picks" : [ "Alt (1.44 - 66.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.44 - 66.2%)" : "pending"
+  }
+} ]
