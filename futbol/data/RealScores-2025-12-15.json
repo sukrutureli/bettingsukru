@@ -102,4 +102,72 @@
   "homeTeam" : "Tayland U22",
   "awayTeam" : "Malezya U22",
   "score" : "1-0"
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Konyaspor",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Sakaryaspor",
+  "awayTeam" : "Hatayspor",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Union Berlin (K)",
+  "awayTeam" : "E. Frankfurt (K)",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Fas",
+  "awayTeam" : "B. A. Emirlikleri",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Neftçi",
+  "awayTeam" : "Sumgayit",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "FK Septemvri Sofia",
+  "awayTeam" : "Ludogorets",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Accra Lions",
+  "awayTeam" : "Great Ambition",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AEK Larnaka",
+  "awayTeam" : "Omonia",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Preston U21",
+  "awayTeam" : "Ipswich Town U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "F. Khuzestan",
+  "awayTeam" : "M. Sepahan",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Rivers Utd",
+  "awayTeam" : "Wikki Tourists",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Ikorodu City",
+  "awayTeam" : "Katsina Utd",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "UD Leiria U23",
+  "awayTeam" : "Farense U23",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Farul Cons.",
+  "awayTeam" : "UTA Arad",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AL Hilal (Sdn)",
+  "awayTeam" : "Rutsiro",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "ASC Niarry Tally",
+  "awayTeam" : "ASEC Ndiambour",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "East End Lions",
+  "awayTeam" : "Old Edwardians",
+  "score" : "2-1"
 } ]

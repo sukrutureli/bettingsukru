@@ -2,17 +2,17 @@
   "homeTeam" : "Fas",
   "awayTeam" : "B. A. Emirlikleri",
   "picks" : [ "MS1 (1.65 - 68.3%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "MS1 (1.65 - 68.3%)" : "pending"
+    "MS1 (1.65 - 68.3%)" : "won"
   }
 }, {
   "homeTeam" : "Rivers Utd",
   "awayTeam" : "Wikki Tourists",
   "picks" : [ "Alt (1.53 - 71.9%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.53 - 71.9%)" : "pending"
+    "Alt (1.53 - 71.9%)" : "won"
   }
 }, {
   "homeTeam" : "N. Madeira",
