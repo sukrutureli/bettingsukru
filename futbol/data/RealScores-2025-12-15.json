@@ -54,4 +54,52 @@
   "homeTeam" : "Elco Ltd St. Peters",
   "awayTeam" : "SOL Island Auto Conaree",
   "score" : "2-2"
+}, {
+  "homeTeam" : "Imisli FK",
+  "awayTeam" : "FK Karvan Yevlakh",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Ethiopian Coffee SC",
+  "awayTeam" : "Mekelle 70 Enderta",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Kadhimiya SC",
+  "awayTeam" : "AL Hussein",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Malavan Bandar Anzali",
+  "awayTeam" : "Fajr Sepasi",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Kheybar Khorramabad",
+  "awayTeam" : "Esteghlal",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Chador Malu Y.",
+  "awayTeam" : "Esteghlal K.",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "GOL Gohar",
+  "awayTeam" : "Mes Rafsanjan",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "NM Soleyman",
+  "awayTeam" : "Ferdowsi Samen",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Spad Alvand Tehran",
+  "awayTeam" : "Sepahan Novin",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AC Siena",
+  "awayTeam" : "Camaiore",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Vietnam",
+  "awayTeam" : "Filipinler",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Tayland U22",
+  "awayTeam" : "Malezya U22",
+  "score" : "1-0"
 } ]
