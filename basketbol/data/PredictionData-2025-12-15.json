@@ -2,25 +2,25 @@
   "homeTeam" : "Brooklyn",
   "awayTeam" : "Milwaukee",
   "picks" : [ "215.5 Üst (1.6 - 76.9%)" ],
-  "score" : "-",
+  "score" : "127-82",
   "statuses" : {
-    "215.5 Üst (1.6 - 76.9%)" : "pending"
+    "215.5 Üst (1.6 - 76.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Chicago",
   "awayTeam" : "New Orleans",
   "picks" : [ "247.5 Alt (1.66 - 71.5%)" ],
-  "score" : "-",
+  "score" : "104-114",
   "statuses" : {
-    "247.5 Alt (1.66 - 71.5%)" : "pending"
+    "247.5 Alt (1.66 - 71.5%)" : "won"
   }
 }, {
   "homeTeam" : "Phoenix",
   "awayTeam" : "LA Lakers",
   "picks" : [ "230.5 Üst (1.6 - 60.3%)" ],
-  "score" : "-",
+  "score" : "114-116",
   "statuses" : {
-    "230.5 Üst (1.6 - 60.3%)" : "pending"
+    "230.5 Üst (1.6 - 60.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Daegu Pegasus",

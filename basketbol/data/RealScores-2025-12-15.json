@@ -1,0 +1,41 @@
+[ {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Milwaukee",
+  "score" : "127-82"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "Philadelphia",
+  "score" : "120-117"
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "Sacramento",
+  "score" : "117-103"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "New Orleans",
+  "score" : "104-114"
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "LA Lakers",
+  "score" : "114-116"
+}, {
+  "homeTeam" : "TCU Horned Frogs (K)",
+  "awayTeam" : "Jacksonville Dolphins",
+  "score" : "89-49"
+}, {
+  "homeTeam" : "Flamengo",
+  "awayTeam" : "Obras Sanita",
+  "score" : "84-80"
+}, {
+  "homeTeam" : "Gimnasia",
+  "awayTeam" : "Obera Tenis C.",
+  "score" : "80-87"
+}, {
+  "homeTeam" : "Argentino J.",
+  "awayTeam" : "La Union Formosa",
+  "score" : "66-85"
+}, {
+  "homeTeam" : "Singapur (K)",
+  "awayTeam" : "Malezya (K)",
+  "score" : "34-70"
+} ]
