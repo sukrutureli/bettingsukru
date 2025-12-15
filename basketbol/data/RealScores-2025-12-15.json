@@ -94,4 +94,48 @@
   "homeTeam" : "Shinagawa City Club",
   "awayTeam" : "Saitama Broncos",
   "score" : "65-75"
+}, {
+  "homeTeam" : "Büyükçekmece",
+  "awayTeam" : "Karşıyaka",
+  "score" : "83-87"
+}, {
+  "homeTeam" : "Georgia Bulldogs (K)",
+  "awayTeam" : "N.Carolina A&T Aggies (K)",
+  "score" : "77-49"
+}, {
+  "homeTeam" : "AL Arabi (Kat)",
+  "awayTeam" : "AL Kuwait",
+  "score" : "58-93"
+}, {
+  "homeTeam" : "AL Khor",
+  "awayTeam" : "AL Ahli (Kat)",
+  "score" : "94-118"
+}, {
+  "homeTeam" : "Qatar SC",
+  "awayTeam" : "AL Gharafa",
+  "score" : "111-99"
+}, {
+  "homeTeam" : "Hotshots P.",
+  "awayTeam" : "Rain or Shine",
+  "score" : "92-101"
+}, {
+  "homeTeam" : "Dynamo Kursk (K)",
+  "awayTeam" : "Enisey Krasnoyarsk (K)",
+  "score" : "87-55"
+}, {
+  "homeTeam" : "CSKA 2 Moscow",
+  "awayTeam" : "BK Zenit Farm St Petersburg",
+  "score" : "72-65"
+}, {
+  "homeTeam" : "BC Tambov",
+  "awayTeam" : "BK Dynamo Grozny",
+  "score" : "60-61"
+}, {
+  "homeTeam" : "Mersin Basketbol (K)",
+  "awayTeam" : "Emlak Konut Gelişim (K)",
+  "score" : "69-49"
+}, {
+  "homeTeam" : "N. Novgorod",
+  "awayTeam" : "Avtodor Sara",
+  "score" : "83-80"
 } ]

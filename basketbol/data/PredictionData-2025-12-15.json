@@ -42,9 +42,9 @@
   "homeTeam" : "N. Novgorod",
   "awayTeam" : "Avtodor Sara",
   "picks" : [ "158.5 Üst (1.66 - 58.7%)" ],
-  "score" : "-",
+  "score" : "83-80",
   "statuses" : {
-    "158.5 Üst (1.66 - 58.7%)" : "pending"
+    "158.5 Üst (1.66 - 58.7%)" : "won"
   }
 }, {
   "homeTeam" : "Rostock Seawolves",
