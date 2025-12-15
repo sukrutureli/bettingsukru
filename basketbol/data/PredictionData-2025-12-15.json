@@ -26,17 +26,17 @@
   "homeTeam" : "Daegu Pegasus",
   "awayTeam" : "Mobis Phoebus",
   "picks" : [ "MS1 (1.32 - 90.4%)" ],
-  "score" : "-",
+  "score" : "73-76",
   "statuses" : {
-    "MS1 (1.32 - 90.4%)" : "pending"
+    "MS1 (1.32 - 90.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Beijing D.",
   "awayTeam" : "Xinjiang F. T.",
   "picks" : [ "176.5 Üst (1.62 - 64.9%)" ],
-  "score" : "-",
+  "score" : "111-84",
   "statuses" : {
-    "176.5 Üst (1.62 - 64.9%)" : "pending"
+    "176.5 Üst (1.62 - 64.9%)" : "won"
   }
 }, {
   "homeTeam" : "N. Novgorod",

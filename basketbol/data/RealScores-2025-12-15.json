@@ -38,4 +38,60 @@
   "homeTeam" : "Singapur (K)",
   "awayTeam" : "Malezya (K)",
   "score" : "34-70"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Golden State",
+  "score" : "136-131"
+}, {
+  "homeTeam" : "BC Academic Plovdiv",
+  "awayTeam" : "Lukoil Levski",
+  "score" : "78-66"
+}, {
+  "homeTeam" : "Beijing D.",
+  "awayTeam" : "Xinjiang F.T.",
+  "score" : "111-84"
+}, {
+  "homeTeam" : "Liaoning F. L.",
+  "awayTeam" : "Zhejiang L.",
+  "score" : "95-79"
+}, {
+  "homeTeam" : "Qingdao E.",
+  "awayTeam" : "Sichuan B.W.",
+  "score" : "96-64"
+}, {
+  "homeTeam" : "Filipinler",
+  "awayTeam" : "Vietnam",
+  "score" : "78-67"
+}, {
+  "homeTeam" : "Endonezya",
+  "awayTeam" : "Singapur",
+  "score" : "87-48"
+}, {
+  "homeTeam" : "Tayland",
+  "awayTeam" : "Myanmar",
+  "score" : "133-38"
+}, {
+  "homeTeam" : "Tayland (K)",
+  "awayTeam" : "Vietnam (K)",
+  "score" : "89-46"
+}, {
+  "homeTeam" : "Cheongju KB Stars (K)",
+  "awayTeam" : "Yongin Samsung Life (K)",
+  "score" : "66-55"
+}, {
+  "homeTeam" : "Daegu Pegasus",
+  "awayTeam" : "Mobis Phoebus",
+  "score" : "73-76"
+}, {
+  "homeTeam" : "Golnoor Isfahan",
+  "awayTeam" : "Tabiaat",
+  "score" : "72-68"
+}, {
+  "homeTeam" : "Nishinomiya",
+  "awayTeam" : "Veltex Shizuoka",
+  "score" : "79-62"
+}, {
+  "homeTeam" : "Shinagawa City Club",
+  "awayTeam" : "Saitama Broncos",
+  "score" : "65-75"
 } ]
