@@ -170,4 +170,120 @@
   "homeTeam" : "East End Lions",
   "awayTeam" : "Old Edwardians",
   "score" : "2-1"
+}, {
+  "homeTeam" : "Man. Utd",
+  "awayTeam" : "Bournemouth",
+  "score" : "4-4"
+}, {
+  "homeTeam" : "Vallecano",
+  "awayTeam" : "Real Betis",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "AS Roma",
+  "awayTeam" : "Como 1907",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "N. Madeira",
+  "awayTeam" : "Tondela",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Braga",
+  "awayTeam" : "Santa Clara",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Porto",
+  "awayTeam" : "Estrela",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Suudi Arabistan",
+  "awayTeam" : "Ürdün",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "S. A. Bulo Bulo",
+  "awayTeam" : "Cdt Real Oruro",
+  "score" : "5-3"
+}, {
+  "homeTeam" : "Manchester 62 FC",
+  "awayTeam" : "Glacis Utd",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Wb Aiin Benian",
+  "awayTeam" : "CR Belouizdad",
+  "score" : "1-5"
+}, {
+  "homeTeam" : "US Boulogne",
+  "awayTeam" : "Troyes",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "S. Wednesday",
+  "awayTeam" : "Derby County",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Redditch Utd",
+  "awayTeam" : "Stamford",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Barwell",
+  "awayTeam" : "Banbury Utd",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Stockport County U21",
+  "awayTeam" : "Burnley U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "Bromley U21",
+  "awayTeam" : "Colchester Utd U21",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Sheffield Utd U21",
+  "awayTeam" : "Stoke City U21",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "Rangers",
+  "awayTeam" : "Hibernian",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Castellon",
+  "awayTeam" : "Mirandes",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Foggia",
+  "awayTeam" : "SS Monopoli",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Crotone",
+  "awayTeam" : "Casarano",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "SS Arezzo",
+  "awayTeam" : "ASD Pineto Calcio",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "Vis Pesaro",
+  "awayTeam" : "Ravenna 1913",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Linfield Swifts Gençler",
+  "awayTeam" : "Portadown Gençler",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Crusaders Gençler",
+  "awayTeam" : "Dungannon Swifts Gençler",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Bangor Gençler",
+  "awayTeam" : "Glentoran Gençler",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "Unirea Slobozia",
+  "awayTeam" : "FCSB",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Tsc Backa T.",
+  "awayTeam" : "Kızıl Yıldız",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Everton U21",
+  "awayTeam" : "PSV",
+  "score" : "3-2"
 } ]
