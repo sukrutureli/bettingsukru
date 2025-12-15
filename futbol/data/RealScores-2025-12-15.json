@@ -1,0 +1,57 @@
+[ {
+  "homeTeam" : "SV Britannia",
+  "awayTeam" : "Bubali",
+  "score" : "2-5"
+}, {
+  "homeTeam" : "SV River Plate Aruba",
+  "awayTeam" : "La Fama",
+  "score" : "2-6"
+}, {
+  "homeTeam" : "Guabira M.",
+  "awayTeam" : "Blooming",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Corinthians",
+  "awayTeam" : "Cruzeiro MG",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Fluminense",
+  "awayTeam" : "Vasco Da G.",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Libertad Loja",
+  "awayTeam" : "LDU Quito",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Barcelona (Ekv)",
+  "awayTeam" : "Orense SC",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Uni. Catolica",
+  "awayTeam" : "Independiente D. V.",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Dep. Achuapa",
+  "awayTeam" : "Municipal",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Cavalier",
+  "awayTeam" : "Racing Utd",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "D. Saprissa",
+  "awayTeam" : "CS Cartagines",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "D. Toluca",
+  "awayTeam" : "Tigres",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Cusco",
+  "awayTeam" : "S. Cristal",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Elco Ltd St. Peters",
+  "awayTeam" : "SOL Island Auto Conaree",
+  "score" : "2-2"
+} ]
