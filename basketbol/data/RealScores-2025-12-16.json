@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Detroit",
+  "score" : "105-112"
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Toronto",
+  "score" : "96-106"
+}, {
+  "homeTeam" : "Vanderbilt Commod (K)",
+  "awayTeam" : "South Florida (K)",
+  "score" : "87-58"
+}, {
+  "homeTeam" : "Club Nacional",
+  "awayTeam" : "Obras Sanita",
+  "score" : "75-71"
+}, {
+  "homeTeam" : "CA Platense",
+  "awayTeam" : "Atenas Cord",
+  "score" : "86-81"
+}, {
+  "homeTeam" : "B. Cearense",
+  "awayTeam" : "CA Paulistano",
+  "score" : "77-100"
+}, {
+  "homeTeam" : "Leones Quilpue",
+  "awayTeam" : "CD Valdivia",
+  "score" : "70-63"
+}, {
+  "homeTeam" : "Hebraica Macabi",
+  "awayTeam" : "Defensor Sporting",
+  "score" : "91-90"
+}, {
+  "homeTeam" : "Club Malvin",
+  "awayTeam" : "CA Penarol",
+  "score" : "67-89"
+}, {
+  "homeTeam" : "Deportivo Viedma",
+  "awayTeam" : "Ciclista Juninense",
+  "score" : "85-81"
+}, {
+  "homeTeam" : "Barrio Parque",
+  "awayTeam" : "Deportivo Rivadavia Mendoza",
+  "score" : "89-84"
+}, {
+  "homeTeam" : "El Talar Y Anexo B Mitre",
+  "awayTeam" : "Provincial de Rosario",
+  "score" : "76-91"
+} ]
