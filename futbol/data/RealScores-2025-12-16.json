@@ -1,0 +1,17 @@
+[ {
+  "homeTeam" : "Club Aurora",
+  "awayTeam" : "Academia del Balompie",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "CS Emelec",
+  "awayTeam" : "El Nacional",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Spanish Town Police",
+  "awayTeam" : "Waterhouse",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Arnett Gardens",
+  "awayTeam" : "Montego Bay Utd",
+  "score" : "0-1"
+} ]
