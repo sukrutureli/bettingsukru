@@ -2,9 +2,9 @@
   "homeTeam" : "Lazio U20",
   "awayTeam" : "Torino U20",
   "picks" : [ "Var (1.55 - 63.9%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Var (1.55 - 63.9%)" : "pending"
+    "Var (1.55 - 63.9%)" : "won"
   }
 }, {
   "homeTeam" : "Mısır",
