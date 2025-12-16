@@ -58,9 +58,9 @@
   "homeTeam" : "BC Dubai",
   "awayTeam" : "M. Tel Aviv",
   "picks" : [ "181.5 Alt (1.63 - 66.0%)" ],
-  "score" : "-",
+  "score" : "95-97",
   "statuses" : {
-    "181.5 Alt (1.63 - 66.0%)" : "pending"
+    "181.5 Alt (1.63 - 66.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Lietkabelis",
@@ -74,9 +74,9 @@
   "homeTeam" : "BK Levicki Patrioti",
   "awayTeam" : "Vef Riga",
   "picks" : [ "159.5 Üst (1.65 - 82.9%)" ],
-  "score" : "-",
+  "score" : "85-69",
   "statuses" : {
-    "159.5 Üst (1.65 - 82.9%)" : "pending"
+    "159.5 Üst (1.65 - 82.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Olimp Ljubljana",

@@ -94,4 +94,36 @@
   "homeTeam" : "Shinagawa City Club",
   "awayTeam" : "Saitama Broncos",
   "score" : "54-85"
+}, {
+  "homeTeam" : "BC Dubai",
+  "awayTeam" : "M. Tel Aviv",
+  "score" : "95-97"
+}, {
+  "homeTeam" : "Szolnoki Olaj Kk",
+  "awayTeam" : "Aek",
+  "score" : "80-69"
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "Vef Riga",
+  "score" : "85-69"
+}, {
+  "homeTeam" : "CZ.Academy",
+  "awayTeam" : "Decin",
+  "score" : "83-93"
+}, {
+  "homeTeam" : "Honka Espoo",
+  "awayTeam" : "Kauhajoki Karhu",
+  "score" : "97-79"
+}, {
+  "homeTeam" : "Helsinki Seagulls",
+  "awayTeam" : "Kouvot Kouvola",
+  "score" : "88-105"
+}, {
+  "homeTeam" : "CSO Voluntari",
+  "awayTeam" : "Bristol Flyers",
+  "score" : "99-85"
+}, {
+  "homeTeam" : "Unics Kazan",
+  "awayTeam" : "MBA Moscow",
+  "score" : "83-66"
 } ]
