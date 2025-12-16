@@ -1,0 +1,65 @@
+[ {
+  "homeTeam" : "CD Tolima",
+  "awayTeam" : "Atl Junior",
+  "picks" : [ "Alt (1.47 - 67.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 67.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hellas Verona U20",
+  "awayTeam" : "İnter U20",
+  "picks" : [ "Var (1.44 - 67.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.44 - 67.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Albacete",
+  "awayTeam" : "Celta Vigo",
+  "picks" : [ "Alt (1.59 - 60.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.59 - 60.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "C. Brugge U23",
+  "awayTeam" : "RWD Molenbeek",
+  "picks" : [ "Var (1.42 - 59.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.42 - 59.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zürih",
+  "awayTeam" : "Lugano",
+  "picks" : [ "Var (1.43 - 69.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.43 - 69.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Luzern",
+  "awayTeam" : "Basel",
+  "picks" : [ "Var (1.34 - 59.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.34 - 59.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Stourbridge",
+  "awayTeam" : "Harborough Town",
+  "picks" : [ "MS2 (1.3 - 67.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.3 - 67.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Juventus (K)",
+  "awayTeam" : "Man. Utd (K)",
+  "picks" : [ "Üst (1.5 - 78.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.5 - 78.1%)" : "pending"
+  }
+} ]
