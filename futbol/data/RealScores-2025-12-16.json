@@ -146,4 +146,44 @@
   "homeTeam" : "Updf",
   "awayTeam" : "NEC",
   "score" : "0-0"
+}, {
+  "homeTeam" : "Demokratik Kongo C.",
+  "awayTeam" : "Zambiya",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "U. Sportive Ouagadougou",
+  "awayTeam" : "9 Athletic",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Bombada",
+  "awayTeam" : "Bst Galaxy",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Steve Biko",
+  "awayTeam" : "Fortune",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Samger",
+  "awayTeam" : "Banjul Hawks",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Maritimo",
+  "awayTeam" : "Benfica B",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Gil Vicente U23",
+  "awayTeam" : "Rio Ave U23",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Academico V. U23",
+  "awayTeam" : "Famalicao U23",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "CS Maritimo U23",
+  "awayTeam" : "Vizela U23",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Kampala C.",
+  "awayTeam" : "Buhimba Utd Saints",
+  "score" : "1-0"
 } ]
