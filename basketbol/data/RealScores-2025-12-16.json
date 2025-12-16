@@ -46,4 +46,52 @@
   "homeTeam" : "El Talar Y Anexo B Mitre",
   "awayTeam" : "Provincial de Rosario",
   "score" : "76-91"
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Dallas",
+  "score" : "140-133"
+}, {
+  "homeTeam" : "Denver",
+  "awayTeam" : "Houston",
+  "score" : "128-125"
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "Memphis",
+  "score" : "103-121"
+}, {
+  "homeTeam" : "Southside Flyers (K)",
+  "awayTeam" : "Geelong Supe (K)",
+  "score" : "86-58"
+}, {
+  "homeTeam" : "Fujian S.",
+  "awayTeam" : "Jiangsu D.",
+  "score" : "104-80"
+}, {
+  "homeTeam" : "Nanjing M.K.",
+  "awayTeam" : "Shanghai S.",
+  "score" : "105-97"
+}, {
+  "homeTeam" : "Zhejiang G.B.",
+  "awayTeam" : "Guandong S.T.",
+  "score" : "98-101"
+}, {
+  "homeTeam" : "Shenzhen Leopards",
+  "awayTeam" : "Jilin N.T.",
+  "score" : "99-81"
+}, {
+  "homeTeam" : "Shanxi L.",
+  "awayTeam" : "Ningbo Rockets",
+  "score" : "95-87"
+}, {
+  "homeTeam" : "Beijing R. F.",
+  "awayTeam" : "Tianjin P.",
+  "score" : "92-89"
+}, {
+  "homeTeam" : "Goyang Orions",
+  "awayTeam" : "KT Sonicboom",
+  "score" : "85-86"
+}, {
+  "homeTeam" : "Shinagawa City Club",
+  "awayTeam" : "Saitama Broncos",
+  "score" : "54-85"
 } ]
