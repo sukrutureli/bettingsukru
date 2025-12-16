@@ -126,4 +126,116 @@
   "homeTeam" : "Unics Kazan",
   "awayTeam" : "MBA Moscow",
   "score" : "83-66"
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Panathinaikos",
+  "score" : "77-81"
+}, {
+  "homeTeam" : "Hap. Tel Aviv",
+  "awayTeam" : "Kızıl Yıldız",
+  "score" : "84-78"
+}, {
+  "homeTeam" : "Olympiakos",
+  "awayTeam" : "Valencia",
+  "score" : "92-99"
+}, {
+  "homeTeam" : "Olimpia Milano",
+  "awayTeam" : "Real Madrid",
+  "score" : "89-82"
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Barcelona",
+  "score" : "69-85"
+}, {
+  "homeTeam" : "Lietkabelis",
+  "awayTeam" : "Niners Chemnitz",
+  "score" : "79-85"
+}, {
+  "homeTeam" : "A. Basket Trento",
+  "awayTeam" : "Buducnost",
+  "score" : "91-90"
+}, {
+  "homeTeam" : "Olimp Ljubljana",
+  "awayTeam" : "Hapoel Jerusalem",
+  "score" : "81-84"
+}, {
+  "homeTeam" : "Tofaş",
+  "awayTeam" : "Trapani",
+  "score" : "99-93"
+}, {
+  "homeTeam" : "Bnei Herzelia",
+  "awayTeam" : "Tenerife",
+  "score" : "94-86"
+}, {
+  "homeTeam" : "Elan Chalon",
+  "awayTeam" : "Nymburk",
+  "score" : "97-84"
+}, {
+  "homeTeam" : "Alba Berlin",
+  "awayTeam" : "BK Sabah Baku",
+  "score" : "106-82"
+}, {
+  "homeTeam" : "Gran Canaria",
+  "awayTeam" : "SL Benfica",
+  "score" : "87-63"
+}, {
+  "homeTeam" : "Le Mans",
+  "awayTeam" : "Spartak Subotica",
+  "score" : "76-61"
+}, {
+  "homeTeam" : "Tj Sokol Karvina",
+  "awayTeam" : "BK Jip Pardubice",
+  "score" : "71-115"
+}, {
+  "homeTeam" : "Vaerlose Bbk",
+  "awayTeam" : "Naestved",
+  "score" : "67-99"
+}, {
+  "homeTeam" : "Chalons Reims",
+  "awayTeam" : "Roanne Chorale",
+  "score" : "84-76"
+}, {
+  "homeTeam" : "Obradoiro",
+  "awayTeam" : "Innova Chef Cb Zamora",
+  "score" : "106-80"
+}, {
+  "homeTeam" : "Lucentum Alicante",
+  "awayTeam" : "Fuenlabrada",
+  "score" : "91-86"
+}, {
+  "homeTeam" : "Sloga Uppsala",
+  "awayTeam" : "Norrkoping",
+  "score" : "64-100"
+}, {
+  "homeTeam" : "KFUM Nassjo",
+  "awayTeam" : "Sodertalje",
+  "score" : "73-88"
+}, {
+  "homeTeam" : "Umea",
+  "awayTeam" : "Koping Stars",
+  "score" : "78-84"
+}, {
+  "homeTeam" : "Fyllingen BK",
+  "awayTeam" : "Taltech",
+  "score" : "71-89"
+}, {
+  "homeTeam" : "Donar Groningen",
+  "awayTeam" : "Alkar Sinj",
+  "score" : "90-71"
+}, {
+  "homeTeam" : "Dinamo Zagreb",
+  "awayTeam" : "Keila Basket",
+  "score" : "98-73"
+}, {
+  "homeTeam" : "Manchester Basketball",
+  "awayTeam" : "BK Opava",
+  "score" : "112-92"
+}, {
+  "homeTeam" : "Ose Lions",
+  "awayTeam" : "Atomeromu SE",
+  "score" : "84-90"
+}, {
+  "homeTeam" : "KD Ilirija",
+  "awayTeam" : "KK Triglav Kranj",
+  "score" : "77-85"
 } ]

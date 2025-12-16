@@ -66,9 +66,9 @@
   "homeTeam" : "Lietkabelis",
   "awayTeam" : "Niners Chemnitz",
   "picks" : [ "163.5 Alt (1.61 - 62.9%)" ],
-  "score" : "-",
+  "score" : "79-85",
   "statuses" : {
-    "163.5 Alt (1.61 - 62.9%)" : "pending"
+    "163.5 Alt (1.61 - 62.9%)" : "lost"
   }
 }, {
   "homeTeam" : "BK Levicki Patrioti",
@@ -82,56 +82,56 @@
   "homeTeam" : "Olimp Ljubljana",
   "awayTeam" : "Hapoel Jerusalem",
   "picks" : [ "174.5 Alt (1.64 - 56.0%)" ],
-  "score" : "-",
+  "score" : "81-84",
   "statuses" : {
-    "174.5 Alt (1.64 - 56.0%)" : "pending"
+    "174.5 Alt (1.64 - 56.0%)" : "won"
   }
 }, {
   "homeTeam" : "KFUM Nassjo",
   "awayTeam" : "Sodertalje",
   "picks" : [ "166.5 Üst (1.63 - 82.7%)" ],
-  "score" : "-",
+  "score" : "73-88",
   "statuses" : {
-    "166.5 Üst (1.63 - 82.7%)" : "pending"
+    "166.5 Üst (1.63 - 82.7%)" : "lost"
   }
 }, {
   "homeTeam" : "A. Basket Trento",
   "awayTeam" : "Buducnost",
   "picks" : [ "MS2 (1.83 - 55.3%)" ],
-  "score" : "-",
+  "score" : "91-90",
   "statuses" : {
-    "MS2 (1.83 - 55.3%)" : "pending"
+    "MS2 (1.83 - 55.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Elan Chalon",
   "awayTeam" : "Nymburk",
   "picks" : [ "172.5 Üst (1.6 - 64.9%)" ],
-  "score" : "-",
+  "score" : "97-84",
   "statuses" : {
-    "172.5 Üst (1.6 - 64.9%)" : "pending"
+    "172.5 Üst (1.6 - 64.9%)" : "won"
   }
 }, {
   "homeTeam" : "Le Mans",
   "awayTeam" : "Spartak Subotica",
   "picks" : [ "165.5 Üst (1.63 - 55.1%)" ],
-  "score" : "-",
+  "score" : "76-61",
   "statuses" : {
-    "165.5 Üst (1.63 - 55.1%)" : "pending"
+    "165.5 Üst (1.63 - 55.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Chalons Reims",
   "awayTeam" : "Roanne Chorale",
   "picks" : [ "167.5 Üst (1.59 - 63.1%)" ],
-  "score" : "-",
+  "score" : "84-76",
   "statuses" : {
-    "167.5 Üst (1.59 - 63.1%)" : "pending"
+    "167.5 Üst (1.59 - 63.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Hap. Tel Aviv",
   "awayTeam" : "Kızıl Yıldız",
   "picks" : [ "171.5 Alt (1.67 - 64.3%)" ],
-  "score" : "-",
+  "score" : "84-78",
   "statuses" : {
-    "171.5 Alt (1.67 - 64.3%)" : "pending"
+    "171.5 Alt (1.67 - 64.3%)" : "won"
   }
 } ]
