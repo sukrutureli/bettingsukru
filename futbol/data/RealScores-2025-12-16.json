@@ -186,4 +186,196 @@
   "homeTeam" : "Kampala C.",
   "awayTeam" : "Buhimba Utd Saints",
   "score" : "1-0"
+}, {
+  "homeTeam" : "Cardiff City",
+  "awayTeam" : "Chelsea",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Heracles",
+  "awayTeam" : "Hzvv Hoogeveen",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Amsterdamsche",
+  "awayTeam" : "NEC Nijmegen",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Hoek",
+  "awayTeam" : "Telstar",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Den Bosch",
+  "awayTeam" : "Katwijk",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "PSV",
+  "awayTeam" : "Gvvv",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Eibar",
+  "awayTeam" : "Elche",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Dep. La Coruna",
+  "awayTeam" : "Mallorca",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "S. Gijon",
+  "awayTeam" : "Valencia",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "C. Dep. Eldense",
+  "awayTeam" : "R. Sociedad",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "CD Guadalajara",
+  "awayTeam" : "Barcelona",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Mısır",
+  "awayTeam" : "Nijerya",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Beerschot",
+  "awayTeam" : "KAA Gent II",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Royal OC Charleroi",
+  "awayTeam" : "Lommel SK",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Lierse K.",
+  "awayTeam" : "Kortrijk",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Blooming",
+  "awayTeam" : "Club Bolivar",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Afan Lido",
+  "awayTeam" : "Ynyshir Albions",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Llandudno",
+  "awayTeam" : "Mold Alexandra",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Cardiff Metro.",
+  "awayTeam" : "Briton Ferry",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Hanwell Town",
+  "awayTeam" : "Hungerford",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Alvechurch",
+  "awayTeam" : "Bishop´s Stortford",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Kettering",
+  "awayTeam" : "AFC Sudbury",
+  "score" : "-"
+}, {
+  "homeTeam" : "G'borough Tr.",
+  "awayTeam" : "Leek Town",
+  "score" : "-"
+}, {
+  "homeTeam" : "Bristol City U21",
+  "awayTeam" : "Derby County U21",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Millwall U21",
+  "awayTeam" : "Nottingham F. U21",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Charlton Ath U21",
+  "awayTeam" : "Leicester City U21",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Exeter City U21",
+  "awayTeam" : "W. Bromwich Albion U21",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Blackburn R. U21",
+  "awayTeam" : "Watford U21",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "Halifax Town",
+  "awayTeam" : "Newcastle U21",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Truro City",
+  "awayTeam" : "Wealdstone",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Dorking Wanderers",
+  "awayTeam" : "Weston Super Mare",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Dagenham Red",
+  "awayTeam" : "Slough Town",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Scarborough",
+  "awayTeam" : "Radcliffe",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Bedford Town",
+  "awayTeam" : "Macclesfield",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Alfreton",
+  "awayTeam" : "Southport",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "South Shields",
+  "awayTeam" : "Peterborough S.",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Elgin City",
+  "awayTeam" : "East Fife",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Queen's Park",
+  "awayTeam" : "Clyde Bank",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Queen of The South",
+  "awayTeam" : "Dunfermline",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "Dumbarton",
+  "awayTeam" : "Inverness",
+  "score" : "0-9"
+}, {
+  "homeTeam" : "Cove Rangers",
+  "awayTeam" : "P. Thistle",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Montrose",
+  "awayTeam" : "Spartans Edinburgh",
+  "score" : "-"
+}, {
+  "homeTeam" : "Heart of Midlothian B",
+  "awayTeam" : "St. Johnstone",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "CD Sobradillo U19",
+  "awayTeam" : "Las Palmas",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Winterthur",
+  "awayTeam" : "Thun",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "St. Gallen",
+  "awayTeam" : "Sion",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Man. City U21",
+  "awayTeam" : "Real Madrid U21",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Leeds Utd U21",
+  "awayTeam" : "B. Dortmund",
+  "score" : "0-3"
 } ]
