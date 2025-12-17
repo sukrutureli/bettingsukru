@@ -238,4 +238,72 @@
   "homeTeam" : "Zesco Utd",
   "awayTeam" : "Nchanga Rangers",
   "score" : "0-0"
+}, {
+  "homeTeam" : "Rizespor",
+  "awayTeam" : "Gaziantep",
+  "score" : "5-2"
+}, {
+  "homeTeam" : "Cultural Leonesa",
+  "awayTeam" : "Levante",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Zelezniçar",
+  "awayTeam" : "FK Sloga Doboj",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "PSG",
+  "awayTeam" : "Flamengo",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Greater Tomorrow",
+  "awayTeam" : "Real de Banjul",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Tmt",
+  "awayTeam" : "Team Rhino",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Calavera U19",
+  "awayTeam" : "Cordoba U19",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Hellas Verona U20",
+  "awayTeam" : "İnter U20",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "Cremonese U20",
+  "awayTeam" : "ACF Fiorentina U20",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Sassuolo U20",
+  "awayTeam" : "Bologna U20",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Al Qadsia",
+  "awayTeam" : "AL Arabi",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Benfica U19",
+  "awayTeam" : "CD Mafra U19",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "CD Tondela U19",
+  "awayTeam" : "S. Lizbon U19",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Porto U19",
+  "awayTeam" : "SC Braga U19",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Radnicki",
+  "awayTeam" : "FK Cukaricki",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "SC Villa",
+  "awayTeam" : "Calvary",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Olympiakos",
+  "awayTeam" : "PO Triglias",
+  "score" : "6-0"
 } ]

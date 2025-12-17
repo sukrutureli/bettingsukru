@@ -10,9 +10,9 @@
   "homeTeam" : "Hellas Verona U20",
   "awayTeam" : "İnter U20",
   "picks" : [ "Var (1.44 - 67.1%)" ],
-  "score" : "-",
+  "score" : "3-3",
   "statuses" : {
-    "Var (1.44 - 67.1%)" : "pending"
+    "Var (1.44 - 67.1%)" : "won"
   }
 }, {
   "homeTeam" : "Albacete",
