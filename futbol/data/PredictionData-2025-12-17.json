@@ -2,9 +2,9 @@
   "homeTeam" : "CD Tolima",
   "awayTeam" : "Atl Junior",
   "picks" : [ "Alt (1.47 - 67.9%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.47 - 67.9%)" : "pending"
+    "Alt (1.47 - 67.9%)" : "won"
   }
 }, {
   "homeTeam" : "Hellas Verona U20",
