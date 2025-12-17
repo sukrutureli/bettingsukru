@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Gaddafi",
+  "awayTeam" : "Airtel Kitara",
+  "picks" : [ "Alt (1.43 - 66.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.43 - 66.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sabah",
+  "awayTeam" : "Karabağ",
+  "picks" : [ "Var (1.56 - 77.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.56 - 77.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Patro Maasmechelen",
+  "awayTeam" : "Eupen",
+  "picks" : [ "Alt (1.57 - 61.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.57 - 61.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Napoli",
+  "awayTeam" : "AC Milan",
+  "picks" : [ "Alt (1.44 - 63.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.44 - 63.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hibernians",
+  "awayTeam" : "Zabbar Saint Patrick",
+  "picks" : [ "Alt (1.56 - 66.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.56 - 66.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Reading",
+  "awayTeam" : "Luton Town",
+  "picks" : [ "Var (1.55 - 67.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.55 - 67.0%)" : "pending"
+  }
+} ]
