@@ -1,0 +1,129 @@
+[ {
+  "homeTeam" : "New York",
+  "awayTeam" : "San Antonio",
+  "score" : "124-113"
+}, {
+  "homeTeam" : "Duke Blue Devils",
+  "awayTeam" : "L.Bisons",
+  "score" : "97-73"
+}, {
+  "homeTeam" : "Michigan State Spartans",
+  "awayTeam" : "Toledo Rockets",
+  "score" : "92-69"
+}, {
+  "homeTeam" : "St. John's Red Storm",
+  "awayTeam" : "DePaul Blue Demons",
+  "score" : "79-66"
+}, {
+  "homeTeam" : "Tennessee Volunteers",
+  "awayTeam" : "Louisville Cardinals",
+  "score" : "83-62"
+}, {
+  "homeTeam" : "North Carolina Tar Heels",
+  "awayTeam" : "East Tennessee State Buccaneers",
+  "score" : "77-58"
+}, {
+  "homeTeam" : "Texas Tech Red Raiders",
+  "awayTeam" : "Northern Colorado Bears",
+  "score" : "101-90"
+}, {
+  "homeTeam" : "Connecticut Huskies",
+  "awayTeam" : "Butler Bulldogs",
+  "score" : "79-60"
+}, {
+  "homeTeam" : "Kansas Jayhawks",
+  "awayTeam" : "Towson Tigers",
+  "score" : "73-49"
+}, {
+  "homeTeam" : "Brigham Young Cougars",
+  "awayTeam" : "Pacific Tigers",
+  "score" : "93-57"
+}, {
+  "homeTeam" : "Arkansas Razorbacks",
+  "awayTeam" : "Queens Uni",
+  "score" : "108-80"
+}, {
+  "homeTeam" : "Arizona Wildcats",
+  "awayTeam" : "Abilene Christian Wildcats",
+  "score" : "96-62"
+}, {
+  "homeTeam" : "TCU Horned Frogs (K)",
+  "awayTeam" : "Arkansas-Pine Bluff Golden Lady Lions",
+  "score" : "109-54"
+}, {
+  "homeTeam" : "Ferro Carril",
+  "awayTeam" : "Quimsa S.",
+  "score" : "89-92"
+}, {
+  "homeTeam" : "CA San Lorenzo De Almagro",
+  "awayTeam" : "Regatas Corrientes",
+  "score" : "70-92"
+}, {
+  "homeTeam" : "Boca Juniors",
+  "awayTeam" : "Obera Tenis C.",
+  "score" : "70-80"
+}, {
+  "homeTeam" : "Sydney Kings",
+  "awayTeam" : "Adelaide 36ers",
+  "score" : "97-93"
+}, {
+  "homeTeam" : "Unifacisa",
+  "awayTeam" : "EC Pinheiros SP",
+  "score" : "79-89"
+}, {
+  "homeTeam" : "SAO Jose Dos Campos",
+  "awayTeam" : "Caxias Do Sul",
+  "score" : "61-74"
+}, {
+  "homeTeam" : "Mogi Das Cruzes",
+  "awayTeam" : "Universo Brasilia",
+  "score" : "57-68"
+}, {
+  "homeTeam" : "Vasco Da Gama",
+  "awayTeam" : "Ec Uniao Corinthians",
+  "score" : "78-85"
+}, {
+  "homeTeam" : "Shandong H.",
+  "awayTeam" : "Sichuan B.W.",
+  "score" : "94-87"
+}, {
+  "homeTeam" : "Beijing D.",
+  "awayTeam" : "Liaoning F. L.",
+  "score" : "94-81"
+}, {
+  "homeTeam" : "Seoul SK Knights",
+  "awayTeam" : "Utsunomiya Brex",
+  "score" : "84-78"
+}, {
+  "homeTeam" : "R. G. K. Okinaw",
+  "awayTeam" : "Macau Black",
+  "score" : "87-81"
+}, {
+  "homeTeam" : "Alvark Tokyo",
+  "awayTeam" : "LG Sakers",
+  "score" : "92-73"
+}, {
+  "homeTeam" : "Busan BNK Sum (K)",
+  "awayTeam" : "Bucheon Hana (K)",
+  "score" : "69-66"
+}, {
+  "homeTeam" : "Mobis Phoebus",
+  "awayTeam" : "Anyang KGC",
+  "score" : "63-66"
+}, {
+  "homeTeam" : "Converge Fiberxers",
+  "awayTeam" : "Road Warriors",
+  "score" : "107-95"
+}, {
+  "homeTeam" : "Leones Quilpue",
+  "awayTeam" : "CD Valdivia",
+  "score" : "79-65"
+}, {
+  "homeTeam" : "Urunday Universitario",
+  "awayTeam" : "Aguada",
+  "score" : "99-104"
+}, {
+  "homeTeam" : "BK Uralmash Yekaterinburg",
+  "awayTeam" : "CSKA Moskova",
+  "score" : "64-86"
+} ]

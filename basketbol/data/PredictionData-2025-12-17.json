@@ -2,33 +2,33 @@
   "homeTeam" : "Sydney Kings",
   "awayTeam" : "Adelaide 36ers",
   "picks" : [ "184.5 Alt (1.67 - 65.0%)" ],
-  "score" : "-",
+  "score" : "97-93",
   "statuses" : {
-    "184.5 Alt (1.67 - 65.0%)" : "pending"
+    "184.5 Alt (1.67 - 65.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Busan BNK Sum (K)",
   "awayTeam" : "Bucheon Hana (K)",
   "picks" : [ "MS2 (1.47 - 56.4%)" ],
-  "score" : "-",
+  "score" : "69-66",
   "statuses" : {
-    "MS2 (1.47 - 56.4%)" : "pending"
+    "MS2 (1.47 - 56.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Mobis Phoebus",
   "awayTeam" : "Anyang KGC",
   "picks" : [ "MS2 (1.31 - 60.6%)" ],
-  "score" : "-",
+  "score" : "63-66",
   "statuses" : {
-    "MS2 (1.31 - 60.6%)" : "pending"
+    "MS2 (1.31 - 60.6%)" : "won"
   }
 }, {
   "homeTeam" : "Shandong H.",
   "awayTeam" : "Sichuan B. W.",
   "picks" : [ "170.5 Üst (1.65 - 81.0%)" ],
-  "score" : "-",
+  "score" : "94-87",
   "statuses" : {
-    "170.5 Üst (1.65 - 81.0%)" : "pending"
+    "170.5 Üst (1.65 - 81.0%)" : "won"
   }
 }, {
   "homeTeam" : "Petkim Spor",
