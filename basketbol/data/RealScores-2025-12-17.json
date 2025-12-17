@@ -126,4 +126,76 @@
   "homeTeam" : "BK Uralmash Yekaterinburg",
   "awayTeam" : "CSKA Moskova",
   "score" : "64-86"
+}, {
+  "homeTeam" : "Bordo Basketbol",
+  "awayTeam" : "Balıkesir Bşb",
+  "score" : "75-58"
+}, {
+  "homeTeam" : "Gaziantep",
+  "awayTeam" : "Darüşşafaka",
+  "score" : "80-74"
+}, {
+  "homeTeam" : "Türk Telekom",
+  "awayTeam" : "JL Bourg",
+  "score" : "76-80"
+}, {
+  "homeTeam" : "Cluj Napoca",
+  "awayTeam" : "Neptunas K.",
+  "score" : "118-97"
+}, {
+  "homeTeam" : "Promitheas",
+  "awayTeam" : "Rytas Vilnius",
+  "score" : "111-95"
+}, {
+  "homeTeam" : "KK Igokea",
+  "awayTeam" : "Galatasaray",
+  "score" : "65-82"
+}, {
+  "homeTeam" : "Petkim Spor",
+  "awayTeam" : "Zaragoza",
+  "score" : "98-75"
+}, {
+  "homeTeam" : "F. Szombathely",
+  "awayTeam" : "Rostock Seawolves",
+  "score" : "77-84"
+}, {
+  "homeTeam" : "USK Praha",
+  "awayTeam" : "Sokol Pisek",
+  "score" : "78-88"
+}, {
+  "homeTeam" : "BK NH Ostrava",
+  "awayTeam" : "BK Jip Pardubice",
+  "score" : "85-98"
+}, {
+  "homeTeam" : "Galatasaray (K)",
+  "awayTeam" : "Tango Bourges (K)",
+  "score" : "80-62"
+}, {
+  "homeTeam" : "Arka Gdynia (K)",
+  "awayTeam" : "M. Castors Braine (K)",
+  "score" : "54-91"
+}, {
+  "homeTeam" : "Peac Pecs (K)",
+  "awayTeam" : "Gernika Kesb (K)",
+  "score" : "78-61"
+}, {
+  "homeTeam" : "Valmiera Glass Via",
+  "awayTeam" : "Kapfenberg",
+  "score" : "102-89"
+}, {
+  "homeTeam" : "Rain or Shine",
+  "awayTeam" : "Barangay Ginebra",
+  "score" : "100-102"
+}, {
+  "homeTeam" : "MBK Handlova",
+  "awayTeam" : "BK Iskra Svit",
+  "score" : "98-82"
+}, {
+  "homeTeam" : "BC Samara",
+  "awayTeam" : "Enisey Krasnoyarsk",
+  "score" : "72-94"
+}, {
+  "homeTeam" : "Zenit",
+  "awayTeam" : "Lokomotiv Kuban",
+  "score" : "98-69"
 } ]

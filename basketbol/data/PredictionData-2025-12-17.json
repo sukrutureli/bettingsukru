@@ -34,25 +34,25 @@
   "homeTeam" : "Petkim Spor",
   "awayTeam" : "Zaragoza",
   "picks" : [ "169.5 Alt (1.66 - 56.6%)" ],
-  "score" : "-",
+  "score" : "98-75",
   "statuses" : {
-    "169.5 Alt (1.66 - 56.6%)" : "pending"
+    "169.5 Alt (1.66 - 56.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Cluj Napoca",
   "awayTeam" : "Neptunas K.",
   "picks" : [ "187.5 Alt (1.63 - 58.1%)" ],
-  "score" : "-",
+  "score" : "118-97",
   "statuses" : {
-    "187.5 Alt (1.63 - 58.1%)" : "pending"
+    "187.5 Alt (1.63 - 58.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Valmiera Glass Via",
   "awayTeam" : "Kapfenberg",
   "picks" : [ "168.5 Alt (1.64 - 68.5%)" ],
-  "score" : "-",
+  "score" : "102-89",
   "statuses" : {
-    "168.5 Alt (1.64 - 68.5%)" : "pending"
+    "168.5 Alt (1.64 - 68.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Komarno",
@@ -66,9 +66,9 @@
   "homeTeam" : "KK Igokea",
   "awayTeam" : "Galatasaray",
   "picks" : [ "171.5 Alt (1.6 - 71.4%)" ],
-  "score" : "-",
+  "score" : "65-82",
   "statuses" : {
-    "171.5 Alt (1.6 - 71.4%)" : "pending"
+    "171.5 Alt (1.6 - 71.4%)" : "won"
   }
 }, {
   "homeTeam" : "Malbas (K)",
