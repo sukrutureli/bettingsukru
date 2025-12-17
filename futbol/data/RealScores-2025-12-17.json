@@ -306,4 +306,168 @@
   "homeTeam" : "Olympiakos",
   "awayTeam" : "PO Triglias",
   "score" : "6-0"
+}, {
+  "homeTeam" : "Trabzonspor",
+  "awayTeam" : "Alanyaspor",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Man. City",
+  "awayTeam" : "Brentford",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Newcastle Utd",
+  "awayTeam" : "Fulham",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Excelsior Maassluis",
+  "awayTeam" : "Ajax",
+  "score" : "2-7"
+}, {
+  "homeTeam" : "TOP Oss",
+  "awayTeam" : "Utrecht",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Roda",
+  "awayTeam" : "Go Ahead Eagles",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "F. Sittard",
+  "awayTeam" : "Almere City",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Feyenoord",
+  "awayTeam" : "Heerenveen",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Huesca",
+  "awayTeam" : "Osasuna",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "Albacete",
+  "awayTeam" : "Celta Vigo",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "CD A. Baleares",
+  "awayTeam" : "Atl Madrid",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Santander",
+  "awayTeam" : "Villarreal",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Alaves",
+  "awayTeam" : "Sevilla",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Talavera R.",
+  "awayTeam" : "Real Madrid",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Jong KRC Genk U23",
+  "awayTeam" : "SK Beveren",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "RSC Anderlecht U23",
+  "awayTeam" : "Francs Borains",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "C. Brugge U23",
+  "awayTeam" : "RWD Molenbeek",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Bristol City (K)",
+  "awayTeam" : "Crystal Palace (K)",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Stourbridge",
+  "awayTeam" : "Harborough Town",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Dundee Utd",
+  "awayTeam" : "Celtic",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "UD Tomares U19",
+  "awayTeam" : "UD La Mosca U19",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "CD Bunol",
+  "awayTeam" : "Recambios Colon CD",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Atl Santa Cruz",
+  "awayTeam" : "Yeclano Deportivo B",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Zürih",
+  "awayTeam" : "Lugano",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Luzern",
+  "awayTeam" : "Basel",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Young Boys",
+  "awayTeam" : "Grasshoppers",
+  "score" : "2-6"
+}, {
+  "homeTeam" : "Racing Utd",
+  "awayTeam" : "Mount Pleasant",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Casa Pia",
+  "awayTeam" : "Torreense",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "V. Guimaraes",
+  "awayTeam" : "Avs Futebol Sad",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "S. Farense",
+  "awayTeam" : "Benfica",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Juventus (K)",
+  "awayTeam" : "Man. Utd (K)",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "OH Leuven (K)",
+  "awayTeam" : "Arsenal (K)",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "O. Lyon (K)",
+  "awayTeam" : "Atl Madrid (K)",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "AS Roma (K)",
+  "awayTeam" : "St. Polten (K)",
+  "score" : "6-1"
+}, {
+  "homeTeam" : "Twente (K)",
+  "awayTeam" : "Real Madrid (K)",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Paris (K)",
+  "awayTeam" : "Barcelona (K)",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Wolfsburg (K)",
+  "awayTeam" : "Chelsea (K)",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "B. Münih (K)",
+  "awayTeam" : "Valerenga (K)",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Benfica (K)",
+  "awayTeam" : "PSG (K)",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "West Ham U21",
+  "awayTeam" : "Sporting CP U21",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "PAOK",
+  "awayTeam" : "Marko",
+  "score" : "4-1"
 } ]
