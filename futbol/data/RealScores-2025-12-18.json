@@ -1,0 +1,17 @@
+[ {
+  "homeTeam" : "Corinthians",
+  "awayTeam" : "Vasco Da G.",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Antigua",
+  "awayTeam" : "Aurora",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "I. Medellin",
+  "awayTeam" : "Atl. Nacional Medellin",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "D. Saprissa",
+  "awayTeam" : "Alajuelense",
+  "score" : "2-2"
+} ]
