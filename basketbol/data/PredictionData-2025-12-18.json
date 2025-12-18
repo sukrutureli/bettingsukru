@@ -42,9 +42,9 @@
   "homeTeam" : "Sopron B. (K)",
   "awayTeam" : "Beşiktaş (K)",
   "picks" : [ "155.5 Üst (1.65 - 72.4%)" ],
-  "score" : "-",
+  "score" : "80-59",
   "statuses" : {
-    "155.5 Üst (1.65 - 72.4%)" : "pending"
+    "155.5 Üst (1.65 - 72.4%)" : "lost"
   }
 }, {
   "homeTeam" : "BK Amager",

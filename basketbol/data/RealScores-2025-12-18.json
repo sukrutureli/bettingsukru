@@ -118,4 +118,20 @@
   "homeTeam" : "Tokyo Hac",
   "awayTeam" : "Tachikawa Dice",
   "score" : "86-77"
+}, {
+  "homeTeam" : "ÇBK Mersin (K)",
+  "awayTeam" : "Rapid Bucuresti (K)",
+  "score" : "95-87"
+}, {
+  "homeTeam" : "ZKK Crvena Zvezda (K)",
+  "awayTeam" : "Panathinaikos BC (K)",
+  "score" : "68-69"
+}, {
+  "homeTeam" : "AZS Lublin (K)",
+  "awayTeam" : "BK Zabiny Brno (K)",
+  "score" : "58-81"
+}, {
+  "homeTeam" : "Sopron B. (K)",
+  "awayTeam" : "Beşiktaş (K)",
+  "score" : "80-59"
 } ]
