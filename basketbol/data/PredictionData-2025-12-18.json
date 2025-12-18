@@ -50,64 +50,64 @@
   "homeTeam" : "BK Amager",
   "awayTeam" : "Holbaek St.",
   "picks" : [ "175.5 Alt (1.63 - 63.7%)" ],
-  "score" : "-",
+  "score" : "96-90",
   "statuses" : {
-    "175.5 Alt (1.63 - 63.7%)" : "pending"
+    "175.5 Alt (1.63 - 63.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Svendborg",
   "awayTeam" : "Horsens IC",
   "picks" : [ "162.5 Üst (1.64 - 72.8%)" ],
-  "score" : "-",
+  "score" : "69-62",
   "statuses" : {
-    "162.5 Üst (1.64 - 72.8%)" : "pending"
+    "162.5 Üst (1.64 - 72.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Basket Landes (K)",
   "awayTeam" : "Valencia (K)",
   "picks" : [ "137.5 Üst (1.63 - 56.1%)" ],
-  "score" : "-",
+  "score" : "57-66",
   "statuses" : {
-    "137.5 Üst (1.63 - 56.1%)" : "pending"
+    "137.5 Üst (1.63 - 56.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Uni Baskets Munster",
   "awayTeam" : "VFL Kirchheim Knights",
   "picks" : [ "MS2 (1.41 - 68.6%)" ],
-  "score" : "-",
+  "score" : "79-93",
   "statuses" : {
-    "MS2 (1.41 - 68.6%)" : "pending"
+    "MS2 (1.41 - 68.6%)" : "won"
   }
 }, {
   "homeTeam" : "M. Tel Aviv",
   "awayTeam" : "Valencia",
   "picks" : [ "183.5 Alt (1.61 - 69.8%)" ],
-  "score" : "-",
+  "score" : "85-82",
   "statuses" : {
-    "183.5 Alt (1.61 - 69.8%)" : "pending"
+    "183.5 Alt (1.61 - 69.8%)" : "won"
   }
 }, {
   "homeTeam" : "Panathinaikos",
   "awayTeam" : "Hap. Tel Aviv",
   "picks" : [ "173.5 Alt (1.65 - 67.5%)" ],
-  "score" : "-",
+  "score" : "93-82",
   "statuses" : {
-    "173.5 Alt (1.65 - 67.5%)" : "pending"
+    "173.5 Alt (1.65 - 67.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Olimpia Milano",
   "awayTeam" : "Fenerbahçe",
   "picks" : [ "163.5 Üst (1.64 - 62.7%)" ],
-  "score" : "-",
+  "score" : "72-87",
   "statuses" : {
-    "163.5 Üst (1.64 - 62.7%)" : "pending"
+    "163.5 Üst (1.64 - 62.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Ravenna Pie",
   "awayTeam" : "Ferrara Basket 2018",
   "picks" : [ "160.5 Alt (1.65 - 55.9%)" ],
-  "score" : "-",
+  "score" : "83-68",
   "statuses" : {
-    "160.5 Alt (1.65 - 55.9%)" : "pending"
+    "160.5 Alt (1.65 - 55.9%)" : "won"
   }
 } ]

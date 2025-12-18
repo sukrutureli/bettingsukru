@@ -134,4 +134,108 @@
   "homeTeam" : "Sopron B. (K)",
   "awayTeam" : "Beşiktaş (K)",
   "score" : "80-59"
+}, {
+  "homeTeam" : "M. Tel Aviv",
+  "awayTeam" : "Valencia",
+  "score" : "85-82"
+}, {
+  "homeTeam" : "Panathinaikos",
+  "awayTeam" : "Hap. Tel Aviv",
+  "score" : "93-82"
+}, {
+  "homeTeam" : "Olimpia Milano",
+  "awayTeam" : "Fenerbahçe",
+  "score" : "72-87"
+}, {
+  "homeTeam" : "Real Madrid",
+  "awayTeam" : "Paris",
+  "score" : "95-90"
+}, {
+  "homeTeam" : "Uni Baskets Munster",
+  "awayTeam" : "VFL Kirchheim Knights",
+  "score" : "79-93"
+}, {
+  "homeTeam" : "BK Gapa Hradec Kralove",
+  "awayTeam" : "BK Opava",
+  "score" : "80-98"
+}, {
+  "homeTeam" : "Bakken Bears",
+  "awayTeam" : "Randers Cimb.",
+  "score" : "92-76"
+}, {
+  "homeTeam" : "BK Amager",
+  "awayTeam" : "Holbaek-St.",
+  "score" : "96-90"
+}, {
+  "homeTeam" : "Svendborg",
+  "awayTeam" : "Horsens IC",
+  "score" : "69-62"
+}, {
+  "homeTeam" : "Copenhagen Wolfpack",
+  "awayTeam" : "Kopenhagen B.",
+  "score" : "72-96"
+}, {
+  "homeTeam" : "Reyer Venezia (K)",
+  "awayTeam" : "Dvtk Miskolc (K)",
+  "score" : "83-81"
+}, {
+  "homeTeam" : "Basket Landes (K)",
+  "awayTeam" : "Valencia (K)",
+  "score" : "57-66"
+}, {
+  "homeTeam" : "Zaragoza (K)",
+  "awayTeam" : "Fenerbahçe (K)",
+  "score" : "64-95"
+}, {
+  "homeTeam" : "Olympiakos (K)",
+  "awayTeam" : "Elitzur Ramla (K)",
+  "score" : "75-80"
+}, {
+  "homeTeam" : "Athinaikos (K)",
+  "awayTeam" : "Cb Jairis (K)",
+  "score" : "73-51"
+}, {
+  "homeTeam" : "Lattes Montp (K)",
+  "awayTeam" : "Charnay Basket (K)",
+  "score" : "70-55"
+}, {
+  "homeTeam" : "CB Estudiantes (K)",
+  "awayTeam" : "Sleza Wroclaw (K)",
+  "score" : "72-61"
+}, {
+  "homeTeam" : "Univ. de Ferrol (K)",
+  "awayTeam" : "San Giovanni (K)",
+  "score" : "66-60"
+}, {
+  "homeTeam" : "K. Mechelen (K)",
+  "awayTeam" : "KP Brno (K)",
+  "score" : "85-69"
+}, {
+  "homeTeam" : "Perf. Avenida (K)",
+  "awayTeam" : "Emlak Konut (K)",
+  "score" : "71-59"
+}, {
+  "homeTeam" : "Ravenna Pie",
+  "awayTeam" : "Ferrara Basket 2018",
+  "score" : "83-68"
+}, {
+  "homeTeam" : "Thor Thorl",
+  "awayTeam" : "UMF Grindavik",
+  "score" : "94-106"
+}, {
+  "homeTeam" : "Keflavik",
+  "awayTeam" : "UMFN Njardvik",
+  "score" : "93-83"
+}, {
+  "homeTeam" : "UMF Tindastoll",
+  "awayTeam" : "KR Reykjavik",
+  "score" : "130-117"
+}, {
+  "homeTeam" : "IR Reykjavik",
+  "awayTeam" : "Valur Reykjavik",
+  "score" : "82-85"
+}, {
+  "homeTeam" : "Miasto Szkla",
+  "awayTeam" : "Dabrowa Gorn.",
+  "score" : "92-87"
 } ]
