@@ -18,32 +18,32 @@
   "homeTeam" : "Patro Maasmechelen",
   "awayTeam" : "Eupen",
   "picks" : [ "Alt (1.57 - 61.6%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.57 - 61.6%)" : "pending"
+    "Alt (1.57 - 61.6%)" : "won"
   }
 }, {
   "homeTeam" : "Napoli",
   "awayTeam" : "AC Milan",
   "picks" : [ "Alt (1.44 - 63.2%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.44 - 63.2%)" : "pending"
+    "Alt (1.44 - 63.2%)" : "won"
   }
 }, {
   "homeTeam" : "Hibernians",
   "awayTeam" : "Zabbar Saint Patrick",
   "picks" : [ "Alt (1.56 - 66.2%)" ],
-  "score" : "-",
+  "score" : "3-3",
   "statuses" : {
-    "Alt (1.56 - 66.2%)" : "pending"
+    "Alt (1.56 - 66.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Reading",
   "awayTeam" : "Luton Town",
   "picks" : [ "Var (1.55 - 67.0%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Var (1.55 - 67.0%)" : "pending"
+    "Var (1.55 - 67.0%)" : "won"
   }
 } ]
