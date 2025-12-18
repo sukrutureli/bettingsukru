@@ -1,0 +1,55 @@
+[ {
+  "name" : "FK Kapaz - Turan Tovuz",
+  "time" : "13:00",
+  "predictions" : [ "Alt (1.52 - 73.1%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "MC EL Bayadh - USM Khenchela",
+  "time" : "16:30",
+  "predictions" : [ "Yok (1.31 - 82.3%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "JSM Tiaret - CRB Adrar",
+  "time" : "17:00",
+  "predictions" : [ "Alt (1.33 - 73.1%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "VSN Varazdin - NK Istra 61",
+  "time" : "18:00",
+  "predictions" : [ "Var (1.57 - 66.5%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Caldas - UD Santarem",
+  "time" : "20:45",
+  "predictions" : [ "Alt (1.42 - 85.2%)" ],
+  "score" : "0-0",
+  "mbs" : 3
+}, {
+  "name" : "Cambridge - Accrington",
+  "time" : "22:45",
+  "predictions" : [ "Alt (1.41 - 66.5%)" ],
+  "score" : "1-1",
+  "mbs" : 2
+}, {
+  "name" : "Glentoran - Coleraine",
+  "time" : "22:45",
+  "predictions" : [ "Alt (1.56 - 73.6%)" ],
+  "score" : "0-1",
+  "mbs" : 2
+}, {
+  "name" : "Swansea City - Wrexham",
+  "time" : "23:00",
+  "predictions" : [ "Alt (1.47 - 62.0%)" ],
+  "score" : "1-1",
+  "mbs" : 1
+}, {
+  "name" : "Estoril Praia - Braga",
+  "time" : "23:15",
+  "predictions" : [ "MS2 (1.47 - 64.8%)" ],
+  "score" : "0-2",
+  "mbs" : 1
+} ]

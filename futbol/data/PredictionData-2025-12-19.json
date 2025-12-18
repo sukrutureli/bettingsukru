@@ -1,0 +1,73 @@
+[ {
+  "homeTeam" : "FK Kapaz",
+  "awayTeam" : "Turan Tovuz",
+  "picks" : [ "Alt (1.52 - 73.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.52 - 73.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "MC EL Bayadh",
+  "awayTeam" : "USM Khenchela",
+  "picks" : [ "Yok (1.31 - 82.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Yok (1.31 - 82.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "JSM Tiaret",
+  "awayTeam" : "CRB Adrar",
+  "picks" : [ "Alt (1.33 - 73.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 73.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "VSN Varazdin",
+  "awayTeam" : "NK Istra 61",
+  "picks" : [ "Var (1.57 - 66.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.57 - 66.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Caldas",
+  "awayTeam" : "UD Santarem",
+  "picks" : [ "Alt (1.42 - 85.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.42 - 85.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cambridge",
+  "awayTeam" : "Accrington",
+  "picks" : [ "Alt (1.41 - 66.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.41 - 66.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Glentoran",
+  "awayTeam" : "Coleraine",
+  "picks" : [ "Alt (1.56 - 73.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.56 - 73.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Swansea City",
+  "awayTeam" : "Wrexham",
+  "picks" : [ "Alt (1.47 - 62.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 62.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Estoril Praia",
+  "awayTeam" : "Braga",
+  "picks" : [ "MS2 (1.47 - 64.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.47 - 64.8%)" : "pending"
+  }
+} ]
