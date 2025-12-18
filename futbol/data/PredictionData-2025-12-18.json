@@ -10,9 +10,9 @@
   "homeTeam" : "Sabah",
   "awayTeam" : "Karabağ",
   "picks" : [ "Var (1.56 - 77.4%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Var (1.56 - 77.4%)" : "pending"
+    "Var (1.56 - 77.4%)" : "won"
   }
 }, {
   "homeTeam" : "Patro Maasmechelen",
