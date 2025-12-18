@@ -2,9 +2,9 @@
   "homeTeam" : "Gaddafi",
   "awayTeam" : "Airtel Kitara",
   "picks" : [ "Alt (1.43 - 66.4%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.43 - 66.4%)" : "pending"
+    "Alt (1.43 - 66.4%)" : "won"
   }
 }, {
   "homeTeam" : "Sabah",
