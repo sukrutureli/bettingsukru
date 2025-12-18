@@ -10,33 +10,33 @@
   "homeTeam" : "Melbourne Utd",
   "awayTeam" : "Illawarra Hawks",
   "picks" : [ "189.5 Alt (1.6 - 57.0%)" ],
-  "score" : "-",
+  "score" : "97-75",
   "statuses" : {
-    "189.5 Alt (1.6 - 57.0%)" : "pending"
+    "189.5 Alt (1.6 - 57.0%)" : "won"
   }
 }, {
   "homeTeam" : "Perth Wildcats",
   "awayTeam" : "Melbourne Phoenix",
   "picks" : [ "184.5 Alt (1.64 - 56.3%)" ],
-  "score" : "-",
+  "score" : "76-77",
   "statuses" : {
-    "184.5 Alt (1.64 - 56.3%)" : "pending"
+    "184.5 Alt (1.64 - 56.3%)" : "won"
   }
 }, {
   "homeTeam" : "Beijing R. F.",
   "awayTeam" : "Xinjiang F. T.",
   "picks" : [ "MS1 (1.7 - 75.4%)" ],
-  "score" : "-",
+  "score" : "95-105",
   "statuses" : {
-    "MS1 (1.7 - 75.4%)" : "pending"
+    "MS1 (1.7 - 75.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Jilin N.T.",
   "awayTeam" : "Tianjin P.",
   "picks" : [ "MS1 (1.51 - 89.2%)" ],
-  "score" : "-",
+  "score" : "90-80",
   "statuses" : {
-    "MS1 (1.51 - 89.2%)" : "pending"
+    "MS1 (1.51 - 89.2%)" : "won"
   }
 }, {
   "homeTeam" : "Sopron B. (K)",

@@ -66,4 +66,56 @@
   "homeTeam" : "Basquete Osasco",
   "awayTeam" : "SC Corinthians P.",
   "score" : "80-81"
+}, {
+  "homeTeam" : "CO Basketbol",
+  "awayTeam" : "Konya BŞB Spor",
+  "score" : "86-96"
+}, {
+  "homeTeam" : "MKE Ankaragücü Basketbol",
+  "awayTeam" : "Göztepe Basketbol",
+  "score" : "84-64"
+}, {
+  "homeTeam" : "Fenerbahçe Koleji",
+  "awayTeam" : "İstiklal Spor",
+  "score" : "94-89"
+}, {
+  "homeTeam" : "Melbourne U.",
+  "awayTeam" : "Illawarra Hawks",
+  "score" : "97-75"
+}, {
+  "homeTeam" : "Perth Wildcats",
+  "awayTeam" : "Melbourne Phoenix",
+  "score" : "76-77"
+}, {
+  "homeTeam" : "Shanxi L.",
+  "awayTeam" : "Zhejiang G.B.",
+  "score" : "102-91"
+}, {
+  "homeTeam" : "Qingdao E.",
+  "awayTeam" : "Nanjing M.K.",
+  "score" : "99-88"
+}, {
+  "homeTeam" : "Fujian S.",
+  "awayTeam" : "Zhejiang L.",
+  "score" : "80-98"
+}, {
+  "homeTeam" : "Ningbo Rockets",
+  "awayTeam" : "Shenzhen Leopards",
+  "score" : "81-72"
+}, {
+  "homeTeam" : "Beijing R. F.",
+  "awayTeam" : "Xinjiang F.T.",
+  "score" : "95-105"
+}, {
+  "homeTeam" : "Jilin N.T.",
+  "awayTeam" : "Tianjin P.",
+  "score" : "90-80"
+}, {
+  "homeTeam" : "KCC Egis",
+  "awayTeam" : "Daegu Pegasus",
+  "score" : "88-84"
+}, {
+  "homeTeam" : "Tokyo Hac",
+  "awayTeam" : "Tachikawa Dice",
+  "score" : "86-77"
 } ]
