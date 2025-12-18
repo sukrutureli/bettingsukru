@@ -1,0 +1,69 @@
+[ {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "Memphis",
+  "score" : "110-116"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Cleveland",
+  "score" : "127-111"
+}, {
+  "homeTeam" : "Ole Mississippi Rebels (K)",
+  "awayTeam" : "Mississippi Valley St. (K)",
+  "score" : "102-34"
+}, {
+  "homeTeam" : "Louisville Cardinals (K)",
+  "awayTeam" : "Eastern Kentucky Colonels",
+  "score" : "76-51"
+}, {
+  "homeTeam" : "Texas Longhorns (K)",
+  "awayTeam" : "Northwestern State D. (K)",
+  "score" : "96-38"
+}, {
+  "homeTeam" : "Florida Gators",
+  "awayTeam" : "St. Francis (PA) Red Flash",
+  "score" : "102-61"
+}, {
+  "homeTeam" : "Memphis Tigers",
+  "awayTeam" : "Vanderbilt Commodores",
+  "score" : "70-77"
+}, {
+  "homeTeam" : "Alabama Crimson Tide",
+  "awayTeam" : "South Florida Bulls",
+  "score" : "104-93"
+}, {
+  "homeTeam" : "Gonzaga Bulldogs",
+  "awayTeam" : "Campbell Fighting Camels",
+  "score" : "98-70"
+}, {
+  "homeTeam" : "Union de Santa Fe",
+  "awayTeam" : "Instituto de Cordoba",
+  "score" : "80-87"
+}, {
+  "homeTeam" : "Independiente de Oliva",
+  "awayTeam" : "Racing de Chivilcoy",
+  "score" : "88-86"
+}, {
+  "homeTeam" : "CA Lanus",
+  "awayTeam" : "Tomas de Rocamora",
+  "score" : "99-65"
+}, {
+  "homeTeam" : "Villa Mitre de Bahia Blanca",
+  "awayTeam" : "Ciclista Juninense",
+  "score" : "87-61"
+}, {
+  "homeTeam" : "Bochas Sport Club de Colonia Caroya",
+  "awayTeam" : "Deportivo Rivadavia Mendoza",
+  "score" : "76-82"
+}, {
+  "homeTeam" : "Santa Paula de Galvez",
+  "awayTeam" : "Independiente Bbc de Santiago Del Estero",
+  "score" : "79-83"
+}, {
+  "homeTeam" : "Centenario de Venado Tuerto",
+  "awayTeam" : "Quilmes Mar",
+  "score" : "86-62"
+}, {
+  "homeTeam" : "Basquete Osasco",
+  "awayTeam" : "SC Corinthians P.",
+  "score" : "80-81"
+} ]

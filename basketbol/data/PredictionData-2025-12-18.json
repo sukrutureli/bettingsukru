@@ -2,9 +2,9 @@
   "homeTeam" : "Union de Santa Fe",
   "awayTeam" : "Instituto de Cordoba",
   "picks" : [ "157.5 Alt (1.67 - 59.7%)" ],
-  "score" : "-",
+  "score" : "80-87",
   "statuses" : {
-    "157.5 Alt (1.67 - 59.7%)" : "pending"
+    "157.5 Alt (1.67 - 59.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Melbourne Utd",
