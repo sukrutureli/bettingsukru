@@ -66,104 +66,104 @@
   "homeTeam" : "Orleans",
   "awayTeam" : "Stade Rochelais B.",
   "picks" : [ "158.5 Üst (1.6 - 57.3%)" ],
-  "score" : "-",
+  "score" : "91-61",
   "statuses" : {
-    "158.5 Üst (1.6 - 57.3%)" : "pending"
+    "158.5 Üst (1.6 - 57.3%)" : "lost"
   }
 }, {
   "homeTeam" : "AIX Maurienne",
   "awayTeam" : "Hermine Nantes B.",
   "picks" : [ "170.5 Alt (1.66 - 63.6%)" ],
-  "score" : "-",
+  "score" : "80-89",
   "statuses" : {
-    "170.5 Alt (1.66 - 63.6%)" : "pending"
+    "170.5 Alt (1.66 - 63.6%)" : "won"
   }
 }, {
   "homeTeam" : "Armann",
   "awayTeam" : "IA Akranes",
   "picks" : [ "188.5 Alt (1.67 - 60.9%)" ],
-  "score" : "-",
+  "score" : "102-83",
   "statuses" : {
-    "188.5 Alt (1.67 - 60.9%)" : "pending"
+    "188.5 Alt (1.67 - 60.9%)" : "won"
   }
 }, {
   "homeTeam" : "Olympiakos",
   "awayTeam" : "Asvel Vil.",
   "picks" : [ "167.5 Üst (1.6 - 73.2%)" ],
-  "score" : "-",
+  "score" : "107-84",
   "statuses" : {
-    "167.5 Üst (1.6 - 73.2%)" : "pending"
+    "167.5 Üst (1.6 - 73.2%)" : "won"
   }
 }, {
   "homeTeam" : "Czarni Slupsk",
   "awayTeam" : "Dziki Warshawa",
   "picks" : [ "MS2 (1.71 - 74.5%)" ],
-  "score" : "-",
+  "score" : "96-102",
   "statuses" : {
-    "MS2 (1.71 - 74.5%)" : "pending"
+    "MS2 (1.71 - 74.5%)" : "won"
   }
 }, {
   "homeTeam" : "Belfius Mons Hainaut",
   "awayTeam" : "Den Bosch",
   "picks" : [ "173.5 Üst (1.62 - 69.1%)" ],
-  "score" : "-",
+  "score" : "88-93",
   "statuses" : {
-    "173.5 Üst (1.62 - 69.1%)" : "pending"
+    "173.5 Üst (1.62 - 69.1%)" : "won"
   }
 }, {
   "homeTeam" : "Pau Orthez",
   "awayTeam" : "Rouen Metropole B.",
   "picks" : [ "168.5 Üst (1.65 - 56.8%)" ],
-  "score" : "-",
+  "score" : "86-72",
   "statuses" : {
-    "168.5 Üst (1.65 - 56.8%)" : "pending"
+    "168.5 Üst (1.65 - 56.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Surrey 89ers",
   "awayTeam" : "Cheshire Phoenix",
   "picks" : [ "179.5 Alt (1.66 - 58.5%)" ],
-  "score" : "-",
+  "score" : "79-101",
   "statuses" : {
-    "179.5 Alt (1.66 - 58.5%)" : "pending"
+    "179.5 Alt (1.66 - 58.5%)" : "lost"
   }
 }, {
   "homeTeam" : "London Lions",
   "awayTeam" : "Manchester Basketball",
   "picks" : [ "162.5 Üst (1.62 - 72.7%)" ],
-  "score" : "-",
+  "score" : "74-91",
   "statuses" : {
-    "162.5 Üst (1.62 - 72.7%)" : "pending"
+    "162.5 Üst (1.62 - 72.7%)" : "won"
   }
 }, {
   "homeTeam" : "Newcastle Eagles",
   "awayTeam" : "Leicester Riders",
   "picks" : [ "169.5 Üst (1.61 - 64.0%)" ],
-  "score" : "-",
+  "score" : "98-85",
   "statuses" : {
-    "169.5 Üst (1.61 - 64.0%)" : "pending"
+    "169.5 Üst (1.61 - 64.0%)" : "won"
   }
 }, {
   "homeTeam" : "Stjarnan",
   "awayTeam" : "Alftanes",
   "picks" : [ "183.5 Üst (1.62 - 79.9%)" ],
-  "score" : "-",
+  "score" : "108-104",
   "statuses" : {
-    "183.5 Üst (1.62 - 79.9%)" : "pending"
+    "183.5 Üst (1.62 - 79.9%)" : "won"
   }
 }, {
   "homeTeam" : "Kızıl Yıldız",
   "awayTeam" : "Virtus Bologna",
   "picks" : [ "162.5 Alt (1.65 - 58.8%)" ],
-  "score" : "-",
+  "score" : "90-89",
   "statuses" : {
-    "162.5 Alt (1.65 - 58.8%)" : "pending"
+    "162.5 Alt (1.65 - 58.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Libertas Livorno",
   "awayTeam" : "Basket Mestre 1958",
   "picks" : [ "155.5 Alt (1.6 - 65.0%)" ],
-  "score" : "-",
+  "score" : "75-79",
   "statuses" : {
-    "155.5 Alt (1.6 - 65.0%)" : "pending"
+    "155.5 Alt (1.6 - 65.0%)" : "won"
   }
 } ]
