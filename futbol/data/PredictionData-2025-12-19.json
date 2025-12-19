@@ -2,25 +2,25 @@
   "homeTeam" : "FK Kapaz",
   "awayTeam" : "Turan Tovuz",
   "picks" : [ "Alt (1.52 - 73.1%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.52 - 73.1%)" : "pending"
+    "Alt (1.52 - 73.1%)" : "won"
   }
 }, {
   "homeTeam" : "MC EL Bayadh",
   "awayTeam" : "USM Khenchela",
   "picks" : [ "Yok (1.31 - 82.3%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Yok (1.31 - 82.3%)" : "pending"
+    "Yok (1.31 - 82.3%)" : "lost"
   }
 }, {
   "homeTeam" : "JSM Tiaret",
   "awayTeam" : "CRB Adrar",
   "picks" : [ "Alt (1.33 - 73.1%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Alt (1.33 - 73.1%)" : "pending"
+    "Alt (1.33 - 73.1%)" : "lost"
   }
 }, {
   "homeTeam" : "VSN Varazdin",
