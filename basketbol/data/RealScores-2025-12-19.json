@@ -1,0 +1,109 @@
+[ {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "New York",
+  "score" : "113-114"
+}, {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Atlanta",
+  "score" : "133-126"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Miami",
+  "score" : "95-106"
+}, {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "Washington",
+  "score" : "119-94"
+}, {
+  "homeTeam" : "Oklahoma",
+  "awayTeam" : "LA Clippers",
+  "score" : "122-101"
+}, {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "Toronto",
+  "score" : "105-111"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Houston",
+  "score" : "133-128"
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Detroit",
+  "score" : "116-114"
+}, {
+  "homeTeam" : "Denver",
+  "awayTeam" : "Orlando",
+  "score" : "126-115"
+}, {
+  "homeTeam" : "Ohio State Buckeyes (K)",
+  "awayTeam" : "Norfolk St Spartans (K)",
+  "score" : "79-45"
+}, {
+  "homeTeam" : "South Florida (K)",
+  "awayTeam" : "South Carolina (K)",
+  "score" : "44-103"
+}, {
+  "homeTeam" : "Vanderbilt Commod (K)",
+  "awayTeam" : "Albany Great Danes",
+  "score" : "64-35"
+}, {
+  "homeTeam" : "Arizona Wildcats(K)",
+  "awayTeam" : "Bellarmine Knights",
+  "score" : "105-59"
+}, {
+  "homeTeam" : "Georgia Bulldogs",
+  "awayTeam" : "Western C. Catamounts",
+  "score" : "112-82"
+}, {
+  "homeTeam" : "Davidson Wildcats",
+  "awayTeam" : "Temple Owls",
+  "score" : "63-68"
+}, {
+  "homeTeam" : "Indiana State Sycamores",
+  "awayTeam" : "Bradley Braves",
+  "score" : "99-108"
+}, {
+  "homeTeam" : "Gimnasia",
+  "awayTeam" : "Quimsa S.",
+  "score" : "86-78"
+}, {
+  "homeTeam" : "Ferro Carril",
+  "awayTeam" : "Regatas Corrientes",
+  "score" : "77-79"
+}, {
+  "homeTeam" : "Unifacisa",
+  "awayTeam" : "CA Paulistano",
+  "score" : "82-70"
+}, {
+  "homeTeam" : "Flamengo",
+  "awayTeam" : "Ec Uniao Corinthians",
+  "score" : "82-65"
+}, {
+  "homeTeam" : "B. Cearense",
+  "awayTeam" : "EC Pinheiros SP",
+  "score" : "61-108"
+}, {
+  "homeTeam" : "Minas",
+  "awayTeam" : "Botafogo",
+  "score" : "95-88"
+}, {
+  "homeTeam" : "Vasco Da Gama",
+  "awayTeam" : "Caxias Do Sul",
+  "score" : "80-79"
+}, {
+  "homeTeam" : "Colonias Gold",
+  "awayTeam" : "Olimpia Kings",
+  "score" : "79-60"
+}, {
+  "homeTeam" : "CA Penarol",
+  "awayTeam" : "Club Un. At",
+  "score" : "88-80"
+}, {
+  "homeTeam" : "CA Cordon",
+  "awayTeam" : "Hebraica Macabi",
+  "score" : "81-92"
+}, {
+  "homeTeam" : "Defensor Sporting",
+  "awayTeam" : "Club Bigua De Villa Biarritz",
+  "score" : "98-76"
+} ]
