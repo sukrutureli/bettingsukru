@@ -106,4 +106,60 @@
   "homeTeam" : "Defensor Sporting",
   "awayTeam" : "Club Bigua De Villa Biarritz",
   "score" : "98-76"
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "LA Lakers",
+  "score" : "135-143"
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "Golden State",
+  "score" : "99-98"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Sacramento",
+  "score" : "134-133"
+}, {
+  "homeTeam" : "USC Trojans (K)",
+  "awayTeam" : "Cal Poly Mustangs (K)",
+  "score" : "86-39"
+}, {
+  "homeTeam" : "Cairns Taipans",
+  "awayTeam" : "N. Z. Breakers",
+  "score" : "99-95"
+}, {
+  "homeTeam" : "Bendigo Spirit (K)",
+  "awayTeam" : "Adelaide Lightning (K)",
+  "score" : "75-67"
+}, {
+  "homeTeam" : "Jiangsu D.",
+  "awayTeam" : "Shanghai S.",
+  "score" : "89-101"
+}, {
+  "homeTeam" : "Guandong S.T.",
+  "awayTeam" : "Guangzhou L.L.",
+  "score" : "97-94"
+}, {
+  "homeTeam" : "Busan BNK Sum (K)",
+  "awayTeam" : "Woori Bank H. (K)",
+  "score" : "52-57"
+}, {
+  "homeTeam" : "KT Sonicboom",
+  "awayTeam" : "Dongbu Promy",
+  "score" : "81-83"
+}, {
+  "homeTeam" : "Brave Thunders",
+  "awayTeam" : "Sh. Susanoo",
+  "score" : "79-68"
+}, {
+  "homeTeam" : "Tropang Giga",
+  "awayTeam" : "Blackwater",
+  "score" : "113-96"
+}, {
+  "homeTeam" : "Meralco",
+  "awayTeam" : "San Miguel",
+  "score" : "104-113"
+}, {
+  "homeTeam" : "BC Metallurg Magnitogorsk",
+  "awayTeam" : "BC Novosibirsk",
+  "score" : "62-76"
 } ]
