@@ -246,4 +246,212 @@
   "homeTeam" : "AL Rustaq",
   "awayTeam" : "Dhofar Scsc",
   "score" : "0-0"
+}, {
+  "homeTeam" : "B. Dortmund",
+  "awayTeam" : "M'gladbach",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "Mallorca",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Charleroi",
+  "awayTeam" : "KRC Genk",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Estoril Praia",
+  "awayTeam" : "Braga",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Paderborn",
+  "awayTeam" : "Darmstadt 98",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Hertha Berlin",
+  "awayTeam" : "A. Bielefeld",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "E. Cottbus",
+  "awayTeam" : "Regensburg",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "SGS Essen (K)",
+  "awayTeam" : "E. Frankfurt (K)",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "KVC Westerlo (K)",
+  "awayTeam" : "RSC Anderlecht (K)",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Lommel SK",
+  "awayTeam" : "Lierse K.",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "KAA Gent II",
+  "awayTeam" : "RFC Seraing",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Croix IC",
+  "awayTeam" : "Reims",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Canet Roussillon",
+  "awayTeam" : "Montpellier",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Perigny",
+  "awayTeam" : "Le Mans",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "LES Herbiers VF",
+  "awayTeam" : "Angers",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Guingamp",
+  "awayTeam" : "Stade Laval.",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "US Avranches",
+  "awayTeam" : "Brest",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "RC Lens",
+  "awayTeam" : "Entente Feignies A.",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Eindhoven",
+  "awayTeam" : "Jong AZ Alkmaar",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "ADO Den Haag",
+  "awayTeam" : "Jong PSV",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "SC Cambuur",
+  "awayTeam" : "Maastricht",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "VVV Venlo",
+  "awayTeam" : "Dordrecht",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Swansea City",
+  "awayTeam" : "Wrexham",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Northampton",
+  "awayTeam" : "Wimbledon",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Cambridge",
+  "awayTeam" : "Accrington",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Crewe Alexandra",
+  "awayTeam" : "Bristol Rovers",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Barrow",
+  "awayTeam" : "Cheltenham",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Prescot Cables",
+  "awayTeam" : "Ashton Utd",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Leicester City U21",
+  "awayTeam" : "Preston U21",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Reading U21",
+  "awayTeam" : "Hull City U21",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "QPR U21",
+  "awayTeam" : "Burnley U21",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Norwich City U21",
+  "awayTeam" : "Bromley U21",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Altrincham",
+  "awayTeam" : "Rochdale",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Eibar",
+  "awayTeam" : "Real Valladolid",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Algeciras",
+  "awayTeam" : "Villarreal B",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Merida AD",
+  "awayTeam" : "Ath Bilbao B",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Std. Nyonnis",
+  "awayTeam" : "N. Xamax",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Vaduz",
+  "awayTeam" : "Aarau",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Etoile Carouge",
+  "awayTeam" : "Stade Ouchy",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "SSC Bari",
+  "awayTeam" : "Catanzaro",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Audace Cerignola",
+  "awayTeam" : "Benevento",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Cosenza",
+  "awayTeam" : "Cavese 1919",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Giugliano 1928",
+  "awayTeam" : "Casertana",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Bologna",
+  "awayTeam" : "Inter",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Glentoran",
+  "awayTeam" : "Coleraine",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Diosgyör",
+  "awayTeam" : "Ferencvaros",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Gzira Utd",
+  "awayTeam" : "Tarxien Rainbows",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Mosta",
+  "awayTeam" : "Naxxar Lions",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Cer. Cleopatra",
+  "awayTeam" : "El Ahly (Mıs)",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Al Masry",
+  "awayTeam" : "ZED",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Caldas",
+  "awayTeam" : "UD Santarem",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Botosani",
+  "awayTeam" : "Cluj",
+  "score" : "0-1"
 } ]
