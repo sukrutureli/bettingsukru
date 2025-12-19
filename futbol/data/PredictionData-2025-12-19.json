@@ -26,9 +26,9 @@
   "homeTeam" : "VSN Varazdin",
   "awayTeam" : "NK Istra 61",
   "picks" : [ "Var (1.57 - 66.5%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Var (1.57 - 66.5%)" : "pending"
+    "Var (1.57 - 66.5%)" : "won"
   }
 }, {
   "homeTeam" : "Caldas",
