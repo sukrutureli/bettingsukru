@@ -58,9 +58,9 @@
   "homeTeam" : "Alba Fehervar",
   "awayTeam" : "NKA Universitas Pecs",
   "picks" : [ "176.5 Alt (1.64 - 59.6%)" ],
-  "score" : "-",
+  "score" : "97-76",
   "statuses" : {
-    "176.5 Alt (1.64 - 59.6%)" : "pending"
+    "176.5 Alt (1.64 - 59.6%)" : "won"
   }
 }, {
   "homeTeam" : "Orleans",

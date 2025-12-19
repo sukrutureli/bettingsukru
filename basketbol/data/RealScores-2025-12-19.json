@@ -162,4 +162,36 @@
   "homeTeam" : "BC Metallurg Magnitogorsk",
   "awayTeam" : "BC Novosibirsk",
   "score" : "62-76"
+}, {
+  "homeTeam" : "Maryland Terrapins (K)",
+  "awayTeam" : "Central Connecticut (K)",
+  "score" : "98-30"
+}, {
+  "homeTeam" : "Lahti Basketball",
+  "awayTeam" : "Honka Espoo",
+  "score" : "96-87"
+}, {
+  "homeTeam" : "KTP Kotka",
+  "awayTeam" : "Bisons Loimaa",
+  "score" : "85-72"
+}, {
+  "homeTeam" : "Kouvot Kouvola",
+  "awayTeam" : "Pyrinto Tampere",
+  "score" : "100-105"
+}, {
+  "homeTeam" : "Visby Ladies (K)",
+  "awayTeam" : "Uppsala (K)",
+  "score" : "52-72"
+}, {
+  "homeTeam" : "Alba Fehervar",
+  "awayTeam" : "NKA Universitas Pecs",
+  "score" : "97-76"
+}, {
+  "homeTeam" : "BC Chelbasket Chelyabinsk",
+  "awayTeam" : "Barnaul Altayskiy Kray",
+  "score" : "79-74"
+}, {
+  "homeTeam" : "Kosice Wolves",
+  "awayTeam" : "Prievidza",
+  "score" : "52-70"
 } ]
