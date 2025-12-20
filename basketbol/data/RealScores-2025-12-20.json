@@ -402,4 +402,216 @@
   "homeTeam" : "Panathinaikos",
   "awayTeam" : "Iraklis 2022",
   "score" : "97-82"
+}, {
+  "homeTeam" : "Alba Berlin",
+  "awayTeam" : "Ratiopharm Ulm",
+  "score" : "66-67"
+}, {
+  "homeTeam" : "SC Jena",
+  "awayTeam" : "Bamberg",
+  "score" : "81-102"
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Rostock Seawolves",
+  "score" : "97-92"
+}, {
+  "homeTeam" : "Dijon Basket",
+  "awayTeam" : "Sluc Nancy Basket",
+  "score" : "90-75"
+}, {
+  "homeTeam" : "Le Mans",
+  "awayTeam" : "Gravelines",
+  "score" : "87-66"
+}, {
+  "homeTeam" : "JL Bourg",
+  "awayTeam" : "Elan Chalon",
+  "score" : "82-80"
+}, {
+  "homeTeam" : "B. Girona",
+  "awayTeam" : "Tenerife",
+  "score" : "89-96"
+}, {
+  "homeTeam" : "Gran Canaria",
+  "awayTeam" : "CB Granada",
+  "score" : "90-85"
+}, {
+  "homeTeam" : "Força Lleida",
+  "awayTeam" : "Real Madrid",
+  "score" : "81-88"
+}, {
+  "homeTeam" : "San Pablo Burgos",
+  "awayTeam" : "Manresa",
+  "score" : "100-102"
+}, {
+  "homeTeam" : "Cantu",
+  "awayTeam" : "Olimpia Milano",
+  "score" : "89-94"
+}, {
+  "homeTeam" : "Fmp",
+  "awayTeam" : "KK Igokea",
+  "score" : "69-85"
+}, {
+  "homeTeam" : "Vanderbilt Commod (K)",
+  "awayTeam" : "Texas Southern T. (K)",
+  "score" : "96-46"
+}, {
+  "homeTeam" : "George Mason Patriots",
+  "awayTeam" : "Princeton (K)",
+  "score" : "69-71"
+}, {
+  "homeTeam" : "Connecticut Huskies (K)",
+  "awayTeam" : "Iowa Hawk (K)",
+  "score" : "90-64"
+}, {
+  "homeTeam" : "Florida State (K)",
+  "awayTeam" : "S.Carolina State Bull (K)",
+  "score" : "89-41"
+}, {
+  "homeTeam" : "Kentucky Wildcats",
+  "awayTeam" : "St. John's Red Storm",
+  "score" : "78-66"
+}, {
+  "homeTeam" : "Ohio State Buckeyes",
+  "awayTeam" : "North Carolina Tar Heels",
+  "score" : "70-71"
+}, {
+  "homeTeam" : "Rheinstars Cologne",
+  "awayTeam" : "C. Merlins",
+  "score" : "83-81"
+}, {
+  "homeTeam" : "Gottingen",
+  "awayTeam" : "Nürnberg Falcons",
+  "score" : "78-91"
+}, {
+  "homeTeam" : "Bayreuth",
+  "awayTeam" : "Tigers Tubingen",
+  "score" : "72-78"
+}, {
+  "homeTeam" : "Phoenix Hagen",
+  "awayTeam" : "Paderborn Baskets",
+  "score" : "103-63"
+}, {
+  "homeTeam" : "Artland Dragons",
+  "awayTeam" : "LTI Giessen",
+  "score" : "107-100"
+}, {
+  "homeTeam" : "EPG Baskets Koblenz",
+  "awayTeam" : "PS Karlsruhe Lions",
+  "score" : "88-82"
+}, {
+  "homeTeam" : "Z. Leiden",
+  "awayTeam" : "Leuven Bears",
+  "score" : "90-72"
+}, {
+  "homeTeam" : "Rotterdam City Basketball",
+  "awayTeam" : "BC Oostende",
+  "score" : "82-84"
+}, {
+  "homeTeam" : "Kangoeroes  Mechelen",
+  "awayTeam" : "Donar Groningen",
+  "score" : "93-84"
+}, {
+  "homeTeam" : "Okapi Aalst",
+  "awayTeam" : "Academie Limburg",
+  "score" : "108-73"
+}, {
+  "homeTeam" : "Franca SP",
+  "awayTeam" : "Bauru Basket",
+  "score" : "85-68"
+}, {
+  "homeTeam" : "BC Academic Plovdiv",
+  "awayTeam" : "Balkan Botevgrad",
+  "score" : "95-106"
+}, {
+  "homeTeam" : "Decin",
+  "awayTeam" : "BK Jip Pardubice",
+  "score" : "87-92"
+}, {
+  "homeTeam" : "SK Slavia Prague",
+  "awayTeam" : "Sokol Pisek",
+  "score" : "73-82"
+}, {
+  "homeTeam" : "Araski (K)",
+  "awayTeam" : "CB Estudiantes (K)",
+  "score" : "75-76"
+}, {
+  "homeTeam" : "Porta XI Ensino (K)",
+  "awayTeam" : "AE Sedis Basquet (K)",
+  "score" : "84-57"
+}, {
+  "homeTeam" : "CB Islas Canarias (K)",
+  "awayTeam" : "Gernika Kesb (K)",
+  "score" : "87-74"
+}, {
+  "homeTeam" : "Fuenlabrada",
+  "awayTeam" : "CD Maristas Palencia",
+  "score" : "73-67"
+}, {
+  "homeTeam" : "Club Ourense",
+  "awayTeam" : "Gipuzkoa",
+  "score" : "77-89"
+}, {
+  "homeTeam" : "Basket Cartagena",
+  "awayTeam" : "Leyma Basquet Coruna",
+  "score" : "80-89"
+}, {
+  "homeTeam" : "Panthers Roseto (K)",
+  "awayTeam" : "Schio (K)",
+  "score" : "62-91"
+}, {
+  "homeTeam" : "Ueb Cividale",
+  "awayTeam" : "Asd Del Fes Avellino",
+  "score" : "75-82"
+}, {
+  "homeTeam" : "Virtus Gvm Roma 1960",
+  "awayTeam" : "ASD Luiss Roma",
+  "score" : "71-72"
+}, {
+  "homeTeam" : "Paffoni Omegna",
+  "awayTeam" : "Agrigento",
+  "score" : "92-77"
+}, {
+  "homeTeam" : "Soproni Sordogok",
+  "awayTeam" : "Budapesti Honved SE",
+  "score" : "74-80"
+}, {
+  "homeTeam" : "Atomeromu SE",
+  "awayTeam" : "Kaposvari KK",
+  "score" : "95-102"
+}, {
+  "homeTeam" : "Wilki Morskie Szczecin",
+  "awayTeam" : "A. Arka Gdynia",
+  "score" : "90-81"
+}, {
+  "homeTeam" : "GTK Gliwice",
+  "awayTeam" : "Legia Warsz.",
+  "score" : "81-89"
+}, {
+  "homeTeam" : "Torun",
+  "awayTeam" : "Trefl Sopot",
+  "score" : "95-86"
+}, {
+  "homeTeam" : "Slam Stal",
+  "awayTeam" : "Slask Wroclaw",
+  "score" : "93-72"
+}, {
+  "homeTeam" : "Spisski Rytieri",
+  "awayTeam" : "Komarno",
+  "score" : "91-87"
+}, {
+  "homeTeam" : "BK Iskra Svit",
+  "awayTeam" : "BK Inter Bratislava",
+  "score" : "81-92"
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "MBK Handlova",
+  "score" : "98-77"
+}, {
+  "homeTeam" : "KK Triglav Kranj",
+  "awayTeam" : "KK Sencur",
+  "score" : "104-87"
+}, {
+  "homeTeam" : "Zlatorog Lasko",
+  "awayTeam" : "Helios Suns",
+  "score" : "110-96"
 } ]
