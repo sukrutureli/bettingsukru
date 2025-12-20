@@ -1,0 +1,57 @@
+[ {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Miami",
+  "score" : "129-116"
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Philadelphia",
+  "score" : "107-116"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "San Antonio",
+  "score" : "98-126"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Chicago",
+  "score" : "125-136"
+}, {
+  "homeTeam" : "Kentucky Wildcats (K)",
+  "awayTeam" : "Wright State Raiders",
+  "score" : "96-53"
+}, {
+  "homeTeam" : "LSU Tigers",
+  "awayTeam" : "SE Louisiana Lions",
+  "score" : "78-65"
+}, {
+  "homeTeam" : "Wisconsin Badgers",
+  "awayTeam" : "Villanova Wildcats",
+  "score" : "66-76"
+}, {
+  "homeTeam" : "Atenas Cord",
+  "awayTeam" : "Racing de Chivilcoy",
+  "score" : "75-70"
+}, {
+  "homeTeam" : "La Union Formosa",
+  "awayTeam" : "Obras Sanita",
+  "score" : "88-77"
+}, {
+  "homeTeam" : "Ciclista Olimpico",
+  "awayTeam" : "CA Platense",
+  "score" : "94-88"
+}, {
+  "homeTeam" : "SAO Jose Dos Campos",
+  "awayTeam" : "Mogi Das Cruzes",
+  "score" : "79-61"
+}, {
+  "homeTeam" : "CD Valdivia",
+  "awayTeam" : "Leones Quilpue",
+  "score" : "58-56"
+}, {
+  "homeTeam" : "CA Welcome",
+  "awayTeam" : "Club Malvin",
+  "score" : "99-89"
+}, {
+  "homeTeam" : "CA Goes",
+  "awayTeam" : "Urunday Universitario",
+  "score" : "86-100"
+} ]
