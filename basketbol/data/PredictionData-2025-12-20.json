@@ -162,65 +162,65 @@
   "homeTeam" : "Imortal BC",
   "awayTeam" : "CP Esgueira",
   "picks" : [ "172.5 Üst (1.61 - 56.5%)" ],
-  "score" : "-",
+  "score" : "102-84",
   "statuses" : {
-    "172.5 Üst (1.61 - 56.5%)" : "pending"
+    "172.5 Üst (1.61 - 56.5%)" : "won"
   }
 }, {
   "homeTeam" : "Bremerhaven",
   "awayTeam" : "Bochum",
   "picks" : [ "168.5 Alt (1.62 - 55.9%)" ],
-  "score" : "-",
+  "score" : "94-86",
   "statuses" : {
-    "168.5 Alt (1.62 - 55.9%)" : "pending"
+    "168.5 Alt (1.62 - 55.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Szolnoki Olaj Kk",
   "awayTeam" : "F. Szombathely",
   "picks" : [ "MS1 (1.54 - 90.4%)" ],
-  "score" : "-",
+  "score" : "84-82",
   "statuses" : {
-    "MS1 (1.54 - 90.4%)" : "pending"
+    "MS1 (1.54 - 90.4%)" : "won"
   }
 }, {
   "homeTeam" : "Oliveirense",
   "awayTeam" : "CA Queluz",
   "picks" : [ "168.5 Üst (1.65 - 70.0%)" ],
-  "score" : "-",
+  "score" : "88-76",
   "statuses" : {
-    "168.5 Üst (1.65 - 70.0%)" : "pending"
+    "168.5 Üst (1.65 - 70.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Aris",
   "awayTeam" : "Peristeri",
   "picks" : [ "160.5 Üst (1.59 - 80.0%)" ],
-  "score" : "-",
+  "score" : "81-76",
   "statuses" : {
-    "160.5 Üst (1.59 - 80.0%)" : "pending"
+    "160.5 Üst (1.59 - 80.0%)" : "lost"
   }
 }, {
   "homeTeam" : "USK Praha",
   "awayTeam" : "BK Olomoucko",
   "picks" : [ "162.5 Üst (1.65 - 60.6%)" ],
-  "score" : "-",
+  "score" : "99-67",
   "statuses" : {
-    "162.5 Üst (1.65 - 60.6%)" : "pending"
+    "162.5 Üst (1.65 - 60.6%)" : "won"
   }
 }, {
   "homeTeam" : "Cab Estepona (K)",
   "awayTeam" : "Jouventut Badalona (K)",
   "picks" : [ "151.5 Alt (1.59 - 66.9%)" ],
-  "score" : "-",
+  "score" : "66-62",
   "statuses" : {
-    "151.5 Alt (1.59 - 66.9%)" : "pending"
+    "151.5 Alt (1.59 - 66.9%)" : "won"
   }
 }, {
   "homeTeam" : "Nyon",
   "awayTeam" : "Starwings Basket",
   "picks" : [ "MS2 (1.87 - 59.3%)" ],
-  "score" : "-",
+  "score" : "84-89",
   "statuses" : {
-    "MS2 (1.87 - 59.3%)" : "pending"
+    "MS2 (1.87 - 59.3%)" : "won"
   }
 }, {
   "homeTeam" : "Wilki Morskie Szczecin",
@@ -234,9 +234,9 @@
   "homeTeam" : "KK Podcetrtek",
   "awayTeam" : "Kk Sentjur",
   "picks" : [ "164.5 Üst (1.65 - 66.5%)" ],
-  "score" : "-",
+  "score" : "70-95",
   "statuses" : {
-    "164.5 Üst (1.65 - 66.5%)" : "pending"
+    "164.5 Üst (1.65 - 66.5%)" : "won"
   }
 }, {
   "homeTeam" : "Dijon Basket",
@@ -266,25 +266,25 @@
   "homeTeam" : "Gipuzkoa IDK (K)",
   "awayTeam" : "Baloncesto Leganes (K)",
   "picks" : [ "132.5 Üst (1.67 - 65.0%)" ],
-  "score" : "-",
+  "score" : "60-73",
   "statuses" : {
-    "132.5 Üst (1.67 - 65.0%)" : "pending"
+    "132.5 Üst (1.67 - 65.0%)" : "won"
   }
 }, {
   "homeTeam" : "Hogsbo (K)",
   "awayTeam" : "Brahe Basket (K)",
   "picks" : [ "148.5 Alt (1.64 - 56.7%)" ],
-  "score" : "-",
+  "score" : "86-70",
   "statuses" : {
-    "148.5 Alt (1.64 - 56.7%)" : "pending"
+    "148.5 Alt (1.64 - 56.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Asd Loreto Basket",
   "awayTeam" : "Dany Basket Quarrata",
   "picks" : [ "146.5 Üst (1.61 - 61.9%)" ],
-  "score" : "-",
+  "score" : "86-82",
   "statuses" : {
-    "146.5 Üst (1.61 - 61.9%)" : "pending"
+    "146.5 Üst (1.61 - 61.9%)" : "won"
   }
 }, {
   "homeTeam" : "Atomeromu SE",
