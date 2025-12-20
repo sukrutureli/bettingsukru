@@ -1,0 +1,13 @@
+[ {
+  "homeTeam" : "SV Deportivo Nacional",
+  "awayTeam" : "Estrella",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "El Nacional",
+  "awayTeam" : "Delfin",
+  "score" : "-"
+}, {
+  "homeTeam" : "Alfreton",
+  "awayTeam" : "Macclesfield",
+  "score" : "-"
+} ]
