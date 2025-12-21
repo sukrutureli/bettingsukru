@@ -1,0 +1,81 @@
+[ {
+  "homeTeam" : "Obera Tenis C.",
+  "awayTeam" : "Obras Sanita",
+  "picks" : [ "MS1 (1.39 - 85.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.39 - 85.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Penarol Mar",
+  "awayTeam" : "Independiente de Oliva",
+  "picks" : [ "167.5 Alt (1.64 - 58.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Alt (1.64 - 58.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "Milwaukee",
+  "picks" : [ "226.5 Alt (1.63 - 60.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "226.5 Alt (1.63 - 60.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Liaoning F. L.",
+  "awayTeam" : "Beijing R. F.",
+  "picks" : [ "184.5 Alt (1.66 - 64.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "184.5 Alt (1.66 - 64.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Jilin N.T.",
+  "awayTeam" : "Ningbo Rockets",
+  "picks" : [ "182.5 Alt (1.6 - 58.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "182.5 Alt (1.6 - 58.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Polzela",
+  "awayTeam" : "Kk Rogaska",
+  "picks" : [ "MS2 (1.6 - 56.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.6 - 56.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cluj Napoca",
+  "awayTeam" : "KK Split",
+  "picks" : [ "174.5 Üst (1.6 - 77.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "174.5 Üst (1.6 - 77.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zielona Gora",
+  "awayTeam" : "Anwil Wlocl.",
+  "picks" : [ "170.5 Üst (1.62 - 70.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "170.5 Üst (1.62 - 70.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Paderborn Baskets",
+  "awayTeam" : "EPG Baskets Koblenz",
+  "picks" : [ "MS2 (1.65 - 73.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.65 - 73.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ludwigsburg",
+  "awayTeam" : "Rasta Vechta",
+  "picks" : [ "167.5 Alt (1.66 - 68.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Alt (1.66 - 68.8%)" : "pending"
+  }
+} ]
