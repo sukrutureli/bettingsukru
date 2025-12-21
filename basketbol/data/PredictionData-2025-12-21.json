@@ -362,24 +362,24 @@
   "homeTeam" : "Uni Baskets Munster",
   "awayTeam" : "Sbb Baskets Wolmirstedt",
   "picks" : [ "162.5 Alt (1.65 - 66.5%)" ],
-  "score" : "-",
+  "score" : "77-67",
   "statuses" : {
-    "162.5 Alt (1.65 - 66.5%)" : "pending"
+    "162.5 Alt (1.65 - 66.5%)" : "won"
   }
 }, {
   "homeTeam" : "Varese",
   "awayTeam" : "Trieste",
   "picks" : [ "174.5 Alt (1.59 - 64.8%)" ],
-  "score" : "-",
+  "score" : "84-69",
   "statuses" : {
-    "174.5 Alt (1.59 - 64.8%)" : "pending"
+    "174.5 Alt (1.59 - 64.8%)" : "won"
   }
 }, {
   "homeTeam" : "Spartak Subotica",
   "awayTeam" : "KK Bosna Royal Sarajevo",
   "picks" : [ "158.5 Üst (1.65 - 55.1%)" ],
-  "score" : "-",
+  "score" : "86-93",
   "statuses" : {
-    "158.5 Üst (1.65 - 55.1%)" : "pending"
+    "158.5 Üst (1.65 - 55.1%)" : "won"
   }
 } ]

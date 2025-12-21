@@ -582,4 +582,56 @@
   "homeTeam" : "SL Benfica",
   "awayTeam" : "Porto",
   "score" : "91-65"
+}, {
+  "homeTeam" : "Manisa Basket",
+  "awayTeam" : "Petkim Spor",
+  "score" : "101-104"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "Chicago",
+  "score" : "150-152"
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Cholet",
+  "score" : "107-84"
+}, {
+  "homeTeam" : "Unicaja Malaga",
+  "awayTeam" : "Baskonia",
+  "score" : "90-93"
+}, {
+  "homeTeam" : "Reggiana Emilia",
+  "awayTeam" : "A. Basket Trento",
+  "score" : "77-68"
+}, {
+  "homeTeam" : "Varese",
+  "awayTeam" : "Trieste",
+  "score" : "84-69"
+}, {
+  "homeTeam" : "Spartak Subotica",
+  "awayTeam" : "KK Bosna Royal Sarajevo",
+  "score" : "86-93"
+}, {
+  "homeTeam" : "Iowa State Cyclones (K)",
+  "awayTeam" : "Kansas Jayhawks (K)",
+  "score" : "79-76"
+}, {
+  "homeTeam" : "South Dakota St (K)",
+  "awayTeam" : "Texas Longhorns (K)",
+  "score" : "51-70"
+}, {
+  "homeTeam" : "Wake Forest Demon Deacons",
+  "awayTeam" : "Vanderbilt Commodores",
+  "score" : "67-98"
+}, {
+  "homeTeam" : "Tennessee Volunteers",
+  "awayTeam" : "Gardner Webb",
+  "score" : "94-52"
+}, {
+  "homeTeam" : "Uni Baskets Munster",
+  "awayTeam" : "Sbb Baskets Wolmirstedt",
+  "score" : "77-67"
+}, {
+  "homeTeam" : "Kapfenberg",
+  "awayTeam" : "Flyers Wels",
+  "score" : "100-102"
 } ]
