@@ -210,113 +210,113 @@
   "homeTeam" : "KSC Lokeren Temse",
   "awayTeam" : "Patro Maasmechelen",
   "picks" : [ "Alt (1.54 - 56.4%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.54 - 56.4%)" : "pending"
+    "Alt (1.54 - 56.4%)" : "won"
   }
 }, {
   "homeTeam" : "Karela Utd",
   "awayTeam" : "Vision",
   "picks" : [ "Alt (1.34 - 62.5%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.34 - 62.5%)" : "pending"
+    "Alt (1.34 - 62.5%)" : "won"
   }
 }, {
   "homeTeam" : "CD Guadalajara",
   "awayTeam" : "Zamora",
   "picks" : [ "Alt (1.46 - 64.3%)" ],
-  "score" : "-",
+  "score" : "2-3",
   "statuses" : {
-    "Alt (1.46 - 64.3%)" : "pending"
+    "Alt (1.46 - 64.3%)" : "lost"
   }
 }, {
   "homeTeam" : "AD Marco 09",
   "awayTeam" : "SAO Joao Ver",
   "picks" : [ "Alt (1.4 - 72.2%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.4 - 72.2%)" : "pending"
+    "Alt (1.4 - 72.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Vitoria Guimaraes B",
   "awayTeam" : "Paredes",
   "picks" : [ "Alt (1.35 - 77.2%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Alt (1.35 - 77.2%)" : "pending"
+    "Alt (1.35 - 77.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Academica",
   "awayTeam" : "Lusitano GC",
   "picks" : [ "Alt (1.43 - 69.2%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Alt (1.43 - 69.2%)" : "pending"
+    "Alt (1.43 - 69.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Villarreal",
   "awayTeam" : "Barcelona",
   "picks" : [ "MS2 (1.61 - 69.6%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "MS2 (1.61 - 69.6%)" : "pending"
+    "MS2 (1.61 - 69.6%)" : "won"
   }
 }, {
   "homeTeam" : "Mirandes",
   "awayTeam" : "Cordoba",
   "picks" : [ "Alt (1.54 - 66.2%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.54 - 66.2%)" : "pending"
+    "Alt (1.54 - 66.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Excelsior (K)",
   "awayTeam" : "ADO Den Haag (K)",
   "picks" : [ "Üst (1.52 - 64.7%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Üst (1.52 - 64.7%)" : "pending"
+    "Üst (1.52 - 64.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Al Najma",
   "awayTeam" : "Malkiya Club",
   "picks" : [ "Alt (1.54 - 67.5%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.54 - 67.5%)" : "pending"
+    "Alt (1.54 - 67.5%)" : "won"
   }
 }, {
   "homeTeam" : "Boreham Wood",
   "awayTeam" : "Carlisle",
   "picks" : [ "Üst (1.41 - 80.1%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Üst (1.41 - 80.1%)" : "pending"
+    "Üst (1.41 - 80.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Aston Villa",
   "awayTeam" : "Man. Utd",
   "picks" : [ "Var (1.38 - 85.0%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Var (1.38 - 85.0%)" : "pending"
+    "Var (1.38 - 85.0%)" : "won"
   }
 }, {
   "homeTeam" : "C. Lecco",
   "awayTeam" : "Pergolettese",
   "picks" : [ "Alt (1.3 - 75.7%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.3 - 75.7%)" : "pending"
+    "Alt (1.3 - 75.7%)" : "won"
   }
 }, {
   "homeTeam" : "Novara Calcio",
   "awayTeam" : "Acd Ospitaletto",
   "picks" : [ "Alt (1.38 - 64.1%)" ],
-  "score" : "-",
+  "score" : "0-3",
   "statuses" : {
-    "Alt (1.38 - 64.1%)" : "pending"
+    "Alt (1.38 - 64.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Cartagena",
