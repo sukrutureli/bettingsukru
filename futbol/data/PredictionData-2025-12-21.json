@@ -322,56 +322,56 @@
   "homeTeam" : "Cartagena",
   "awayTeam" : "Juventud Torremolinos",
   "picks" : [ "Alt (1.33 - 79.0%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.33 - 79.0%)" : "pending"
+    "Alt (1.33 - 79.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Elche",
   "awayTeam" : "Vallecano",
   "picks" : [ "Alt (1.42 - 66.0%)" ],
-  "score" : "-",
+  "score" : "4-0",
   "statuses" : {
-    "Alt (1.42 - 66.0%)" : "pending"
+    "Alt (1.42 - 66.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Granada",
   "awayTeam" : "Albacete",
   "picks" : [ "Alt (1.55 - 57.2%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.55 - 57.2%)" : "pending"
+    "Alt (1.55 - 57.2%)" : "won"
   }
 }, {
   "homeTeam" : "Tondela",
   "awayTeam" : "Casa Pia",
   "picks" : [ "Alt (1.46 - 65.4%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.46 - 65.4%)" : "pending"
+    "Alt (1.46 - 65.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Penafiel",
   "awayTeam" : "Torreense",
   "picks" : [ "Alt (1.5 - 62.3%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.5 - 62.3%)" : "pending"
+    "Alt (1.5 - 62.3%)" : "won"
   }
 }, {
   "homeTeam" : "Murcia",
   "awayTeam" : "Europa",
   "picks" : [ "Alt (1.36 - 67.6%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Alt (1.36 - 67.6%)" : "pending"
+    "Alt (1.36 - 67.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Real Betis",
   "awayTeam" : "Getafe",
   "picks" : [ "MS1 (1.53 - 69.2%)" ],
-  "score" : "-",
+  "score" : "4-0",
   "statuses" : {
-    "MS1 (1.53 - 69.2%)" : "pending"
+    "MS1 (1.53 - 69.2%)" : "won"
   }
 } ]

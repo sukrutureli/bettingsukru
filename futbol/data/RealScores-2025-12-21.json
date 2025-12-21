@@ -549,7 +549,7 @@
 }, {
   "homeTeam" : "Geita Gold",
   "awayTeam" : "Kagera Sugar",
-  "score" : "-"
+  "score" : "1-1"
 }, {
   "homeTeam" : "Transit Camp",
   "awayTeam" : "Kiluvya",
@@ -970,4 +970,124 @@
   "homeTeam" : "Larissa",
   "awayTeam" : "Atromitos",
   "score" : "0-0"
+}, {
+  "homeTeam" : "Elche",
+  "awayTeam" : "Vallecano",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Real Betis",
+  "awayTeam" : "Getafe",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Genoa",
+  "awayTeam" : "Atalanta",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Antwerp",
+  "awayTeam" : "Anderlecht",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "O. H. Leuven",
+  "awayTeam" : "Cercle Brugge",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Tondela",
+  "awayTeam" : "Casa Pia",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Santa Clara",
+  "awayTeam" : "Arouca",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Peru",
+  "awayTeam" : "Bolivya",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Fas",
+  "awayTeam" : "Komorlar",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Viktoria Köln",
+  "awayTeam" : "Duisburg",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Wolfsburg (K)",
+  "awayTeam" : "Hamburger SV (K)",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Eupen",
+  "awayTeam" : "Royal OC Charleroi",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "San Juan",
+  "awayTeam" : "Academia del Balompie",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Lyon",
+  "awayTeam" : "St Cyr Collonges Au",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Burgos",
+  "awayTeam" : "Zaragoza",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Granada",
+  "awayTeam" : "Albacete",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Cadiz",
+  "awayTeam" : "Castellon",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Cartagena",
+  "awayTeam" : "Juventud Torremolinos",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Murcia",
+  "awayTeam" : "Europa",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Malagueno",
+  "awayTeam" : "Y.Deportivo",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Siracusa",
+  "awayTeam" : "Trapani",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Casarano",
+  "awayTeam" : "Altamura",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Racing Utd",
+  "awayTeam" : "Harbour View",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Dunbeholden",
+  "awayTeam" : "Tivoli Gardens",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Mount Pleasant",
+  "awayTeam" : "Spanish Town Police",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Penafiel",
+  "awayTeam" : "Torreense",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "FCSB",
+  "awayTeam" : "Rapid 1923",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Sandy Point",
+  "awayTeam" : "Bath Utd",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "PAOK",
+  "awayTeam" : "Panathinaikos",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Aek",
+  "awayTeam" : "Ofi Crete",
+  "score" : "2-1"
 } ]
