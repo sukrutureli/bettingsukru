@@ -1,0 +1,41 @@
+[ {
+  "homeTeam" : "CA Platense",
+  "awayTeam" : "Estudiantes",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Wellington P.",
+  "awayTeam" : "C. C. Mariners",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Nacional Potosi",
+  "awayTeam" : "Club Bolivar",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "CD Cuenca",
+  "awayTeam" : "CS Emelec",
+  "score" : "5-1"
+}, {
+  "homeTeam" : "SD Aucas",
+  "awayTeam" : "CSD Macara",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Angel Firpo",
+  "awayTeam" : "Alianza",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Alajuelense",
+  "awayTeam" : "D. Saprissa",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Diriangen",
+  "awayTeam" : "Managua",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Tge Dieppe Bay Eagles",
+  "awayTeam" : "OLD Road Jets",
+  "score" : "0-6"
+}, {
+  "homeTeam" : "AL Ula",
+  "awayTeam" : "AL Jandal",
+  "score" : "-"
+} ]
