@@ -58,4 +58,312 @@
   "homeTeam" : "Aguada",
   "awayTeam" : "Club Nacional",
   "score" : "98-94"
+}, {
+  "homeTeam" : "Anadolu Efes",
+  "awayTeam" : "Galatasaray",
+  "score" : "92-84"
+}, {
+  "homeTeam" : "Bursaspor",
+  "awayTeam" : "Mersin Spor",
+  "score" : "99-88"
+}, {
+  "homeTeam" : "Harem Spor",
+  "awayTeam" : "Bordo Basketbol",
+  "score" : "63-86"
+}, {
+  "homeTeam" : "Balıkesir Bşb",
+  "awayTeam" : "Fenerbahçe Koleji",
+  "score" : "72-88"
+}, {
+  "homeTeam" : "Nesibe Aydın (K)",
+  "awayTeam" : "Fenerbahçe (K)",
+  "score" : "69-99"
+}, {
+  "homeTeam" : "OGM Ormanspor (K)",
+  "awayTeam" : "Emlak Konut (K)",
+  "score" : "65-79"
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Orlando",
+  "score" : "127-128"
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Portland",
+  "score" : "93-98"
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "LA Lakers",
+  "score" : "103-88"
+}, {
+  "homeTeam" : "Wurzburg",
+  "awayTeam" : "Mitteldeutscher",
+  "score" : "89-71"
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Nanterre 92",
+  "score" : "105-98"
+}, {
+  "homeTeam" : "CB Breogan",
+  "awayTeam" : "Bilbao Basket",
+  "score" : "100-99"
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Joventut Badalona",
+  "score" : "90-80"
+}, {
+  "homeTeam" : "Sassari",
+  "awayTeam" : "Trapani",
+  "score" : "102-78"
+}, {
+  "homeTeam" : "Studentski Centar",
+  "awayTeam" : "BC Dubai",
+  "score" : "67-80"
+}, {
+  "homeTeam" : "Mega Bemax",
+  "awayTeam" : "Olimp Ljubljana",
+  "score" : "72-90"
+}, {
+  "homeTeam" : "Arizona Wildcats",
+  "awayTeam" : "San Diego State Aztecs",
+  "score" : "68-45"
+}, {
+  "homeTeam" : "Tasmania Jackjumpers",
+  "awayTeam" : "Perth Wildcats",
+  "score" : "85-94"
+}, {
+  "homeTeam" : "Sydney Kings",
+  "awayTeam" : "Cairns Taipans",
+  "score" : "119-77"
+}, {
+  "homeTeam" : "Adelaide Lightning (K)",
+  "awayTeam" : "Perth Lynx (K)",
+  "score" : "82-109"
+}, {
+  "homeTeam" : "Caxias Do Sul",
+  "awayTeam" : "Unifacisa",
+  "score" : "89-80"
+}, {
+  "homeTeam" : "EC Pinheiros SP",
+  "awayTeam" : "SC Corinthians P.",
+  "score" : "109-80"
+}, {
+  "homeTeam" : "Minas",
+  "awayTeam" : "Vasco Da Gama",
+  "score" : "71-59"
+}, {
+  "homeTeam" : "Cruzeiro Basquete",
+  "awayTeam" : "Flamengo",
+  "score" : "80-93"
+}, {
+  "homeTeam" : "Lukoil Levski",
+  "awayTeam" : "BC Spartak Pleven",
+  "score" : "81-69"
+}, {
+  "homeTeam" : "Zhejiang L.",
+  "awayTeam" : "Shanghai S.",
+  "score" : "97-90"
+}, {
+  "homeTeam" : "Jiangsu D.",
+  "awayTeam" : "Guangzhou L.L.",
+  "score" : "86-93"
+}, {
+  "homeTeam" : "Guandong S.T.",
+  "awayTeam" : "Qingdao E.",
+  "score" : "89-80"
+}, {
+  "homeTeam" : "Tianjin P.",
+  "awayTeam" : "Shanxi L.",
+  "score" : "92-99"
+}, {
+  "homeTeam" : "Jiaozuo Culture And Tourism",
+  "awayTeam" : "Hebei Shijiazhuang Xianglan",
+  "score" : "96-94"
+}, {
+  "homeTeam" : "Hangzhou Jingwei",
+  "awayTeam" : "J. Yannan Suke",
+  "score" : "104-82"
+}, {
+  "homeTeam" : "Hunan Changsha Y.",
+  "awayTeam" : "Hubei Culture A. T.",
+  "score" : "111-100"
+}, {
+  "homeTeam" : "H. Kuangfeng",
+  "awayTeam" : "Anhui Wenyi",
+  "score" : "92-82"
+}, {
+  "homeTeam" : "Flammes Carolo (K)",
+  "awayTeam" : "ESB Villeneuve (K)",
+  "score" : "83-75"
+}, {
+  "homeTeam" : "Basket Landes (K)",
+  "awayTeam" : "Lyon Asvel (K)",
+  "score" : "64-61"
+}, {
+  "homeTeam" : "Lattes Montp (K)",
+  "awayTeam" : "SAS Toulouse (K)",
+  "score" : "75-66"
+}, {
+  "homeTeam" : "Bucheon Hana (K)",
+  "awayTeam" : "Woori Bank H. (K)",
+  "score" : "61-53"
+}, {
+  "homeTeam" : "LG Sakers",
+  "awayTeam" : "Dongbu Promy",
+  "score" : "74-69"
+}, {
+  "homeTeam" : "Seoul SK Knights",
+  "awayTeam" : "Mobis Phoebus",
+  "score" : "74-87"
+}, {
+  "homeTeam" : "KCC Egis",
+  "awayTeam" : "KT Sonicboom",
+  "score" : "94-87"
+}, {
+  "homeTeam" : "UNI Girona CB (K)",
+  "awayTeam" : "Valencia (K)",
+  "score" : "96-68"
+}, {
+  "homeTeam" : "Perf. Avenida (K)",
+  "awayTeam" : "Univ. de Ferrol (K)",
+  "score" : "81-75"
+}, {
+  "homeTeam" : "Cb Jairis (K)",
+  "awayTeam" : "Zaragoza (K)",
+  "score" : "62-80"
+}, {
+  "homeTeam" : "Estela",
+  "awayTeam" : "Iberojet Pa",
+  "score" : "77-65"
+}, {
+  "homeTeam" : "CB Tizona",
+  "awayTeam" : "Lucentum Alicante",
+  "score" : "72-85"
+}, {
+  "homeTeam" : "Innova Chef Cb Zamora",
+  "awayTeam" : "Oviedo",
+  "score" : "104-102"
+}, {
+  "homeTeam" : "San Martino (K)",
+  "awayTeam" : "Dinamo Sassari (K)",
+  "score" : "68-66"
+}, {
+  "homeTeam" : "Saga Ballooners",
+  "awayTeam" : "Yokohama",
+  "score" : "90-74"
+}, {
+  "homeTeam" : "Shiga Lake Stars",
+  "awayTeam" : "Koshigaya Alphas",
+  "score" : "83-80"
+}, {
+  "homeTeam" : "Toyama Grouses",
+  "awayTeam" : "R. G. K. Okinaw",
+  "score" : "78-81"
+}, {
+  "homeTeam" : "Osaka Evessa",
+  "awayTeam" : "Sendai 89ers",
+  "score" : "73-75"
+}, {
+  "homeTeam" : "Chiba Jets",
+  "awayTeam" : "Kyoto Hannarizu",
+  "score" : "89-60"
+}, {
+  "homeTeam" : "Alvark Tokyo",
+  "awayTeam" : "Levanga Hokkaido",
+  "score" : "84-80"
+}, {
+  "homeTeam" : "San En Neophoenix",
+  "awayTeam" : "Seahorses Mikawa",
+  "score" : "69-83"
+}, {
+  "homeTeam" : "Altiri Chiba",
+  "awayTeam" : "Utsunomiya Brex",
+  "score" : "83-96"
+}, {
+  "homeTeam" : "Diamond Dolphins",
+  "awayTeam" : "F. Eagles Nagoya",
+  "score" : "83-87"
+}, {
+  "homeTeam" : "Gunma Crane",
+  "awayTeam" : "Hiroshima Dr.",
+  "score" : "76-83"
+}, {
+  "homeTeam" : "Ibaraki  Robots",
+  "awayTeam" : "Akita",
+  "score" : "69-57"
+}, {
+  "homeTeam" : "Nagasaki Velca",
+  "awayTeam" : "Sun Rockers Shibuya",
+  "score" : "85-71"
+}, {
+  "homeTeam" : "Kagoshima Rebnise",
+  "awayTeam" : "Fukushima",
+  "score" : "118-113"
+}, {
+  "homeTeam" : "Kumamoto V.",
+  "awayTeam" : "Nishinomiya",
+  "score" : "83-89"
+}, {
+  "homeTeam" : "Aomori Watts",
+  "awayTeam" : "Rizing Fukuoka",
+  "score" : "65-79"
+}, {
+  "homeTeam" : "Ehime O. V.",
+  "awayTeam" : "Fukui Blowwinds",
+  "score" : "93-76"
+}, {
+  "homeTeam" : "Bambitious",
+  "awayTeam" : "Shinsh Brave",
+  "score" : "70-79"
+}, {
+  "homeTeam" : "Veltex Shizuoka",
+  "awayTeam" : "Iwate Big Bulls",
+  "score" : "77-75"
+}, {
+  "homeTeam" : "Tokyo Excellence",
+  "awayTeam" : "Yamagata Wyverns",
+  "score" : "90-81"
+}, {
+  "homeTeam" : "Erth. Tokyo Z",
+  "awayTeam" : "Yamaguchi Patriots",
+  "score" : "78-87"
+}, {
+  "homeTeam" : "Kagawa F. A.",
+  "awayTeam" : "Gifu Swoops",
+  "score" : "91-82"
+}, {
+  "homeTeam" : "Tokyo Utd",
+  "awayTeam" : "Shinagawa City Club",
+  "score" : "91-76"
+}, {
+  "homeTeam" : "Tropang Giga",
+  "awayTeam" : "Hotshots P.",
+  "score" : "94-83"
+}, {
+  "homeTeam" : "Barangay Ginebra",
+  "awayTeam" : "Titan Ultra Giant Risers",
+  "score" : "108-105"
+}, {
+  "homeTeam" : "Spojnia St.",
+  "awayTeam" : "Polonia Warszawa",
+  "score" : "87-73"
+}, {
+  "homeTeam" : "Darıca Bas. Feneri (K)",
+  "awayTeam" : "Yalova VIP (K)",
+  "score" : "76-75"
+}, {
+  "homeTeam" : "BK Uralmash Yekaterinburg",
+  "awayTeam" : "Parma Permsk",
+  "score" : "74-79"
+}, {
+  "homeTeam" : "N. Novgorod",
+  "awayTeam" : "Lokomotiv Kuban",
+  "score" : "101-105"
+}, {
+  "homeTeam" : "Olympiakos",
+  "awayTeam" : "Kolossos Rhodes",
+  "score" : "100-86"
+}, {
+  "homeTeam" : "AS Karditsas",
+  "awayTeam" : "BC Maroussi Athens",
+  "score" : "103-87"
 } ]
