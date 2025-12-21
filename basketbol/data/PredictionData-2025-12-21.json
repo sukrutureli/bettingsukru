@@ -2,25 +2,25 @@
   "homeTeam" : "Toronto",
   "awayTeam" : "Boston",
   "picks" : [ "MS2 (1.73 - 72.1%)" ],
-  "score" : "-",
+  "score" : "96-112",
   "statuses" : {
-    "MS2 (1.73 - 72.1%)" : "pending"
+    "MS2 (1.73 - 72.1%)" : "won"
   }
 }, {
   "homeTeam" : "Aguada",
   "awayTeam" : "Club Nacional",
   "picks" : [ "174.5 Alt (1.6 - 68.3%)" ],
-  "score" : "-",
+  "score" : "98-94",
   "statuses" : {
-    "174.5 Alt (1.6 - 68.3%)" : "pending"
+    "174.5 Alt (1.6 - 68.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Golden State",
   "awayTeam" : "Phoenix",
   "picks" : [ "226.5 Alt (1.66 - 65.7%)" ],
-  "score" : "-",
+  "score" : "119-116",
   "statuses" : {
-    "226.5 Alt (1.66 - 65.7%)" : "pending"
+    "226.5 Alt (1.66 - 65.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Sacramento",

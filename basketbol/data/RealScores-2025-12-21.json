@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "Denver",
+  "awayTeam" : "Houston",
+  "score" : "101-115"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Boston",
+  "score" : "96-112"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Indiana",
+  "score" : "128-109"
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Dallas",
+  "score" : "121-114"
+}, {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "Charlotte",
+  "score" : "112-86"
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Washington",
+  "score" : "122-130"
+}, {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Phoenix",
+  "score" : "119-116"
+}, {
+  "homeTeam" : "UCLA Bruins (K)",
+  "awayTeam" : "Long Beach State Beach (K)",
+  "score" : "106-44"
+}, {
+  "homeTeam" : "TCU Horned Frogs (K)",
+  "awayTeam" : "Kansas State Wildcats (K)",
+  "score" : "77-55"
+}, {
+  "homeTeam" : "Arkansas Razorbacks",
+  "awayTeam" : "Houston Cougars",
+  "score" : "85-94"
+}, {
+  "homeTeam" : "Virginia Cavaliers",
+  "awayTeam" : "Maryland Terrapins",
+  "score" : "80-72"
+}, {
+  "homeTeam" : "Purdue Boilermakers",
+  "awayTeam" : "Auburn Tigers",
+  "score" : "88-60"
+}, {
+  "homeTeam" : "Duke Blue Devils",
+  "awayTeam" : "Texas Tech Red Raiders",
+  "score" : "81-82"
+}, {
+  "homeTeam" : "Southside Flyers (K)",
+  "awayTeam" : "Bendigo Spirit (K)",
+  "score" : "60-70"
+}, {
+  "homeTeam" : "Aguada",
+  "awayTeam" : "Club Nacional",
+  "score" : "98-94"
+} ]
