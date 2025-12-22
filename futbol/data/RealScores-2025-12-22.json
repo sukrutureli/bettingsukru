@@ -230,4 +230,132 @@
   "homeTeam" : "Panseraikos",
   "awayTeam" : "APO Levadeiakos",
   "score" : "0-2"
+}, {
+  "homeTeam" : "Bodrum FK",
+  "awayTeam" : "Amed Sportif",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Fulham",
+  "awayTeam" : "Nottingham F.",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Ath Bilbao",
+  "awayTeam" : "Espanyol",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Alverca",
+  "awayTeam" : "Porto",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Benfica",
+  "awayTeam" : "Famalicao",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Gharrafa",
+  "awayTeam" : "AL Wahda",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Shorta",
+  "awayTeam" : "Ahli Saudi",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Güney Afrika",
+  "awayTeam" : "Angola",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Mısır",
+  "awayTeam" : "Zimbabve",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "B. Leverkusen (K)",
+  "awayTeam" : "B. Münih (K)",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "College 1975",
+  "awayTeam" : "Lions Gibr",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "USM Alger",
+  "awayTeam" : "MB Rouisset",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AEL Limassol",
+  "awayTeam" : "AEK Larnaka",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Jong Ajax",
+  "awayTeam" : "Waalwijk",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Jong Utrecht",
+  "awayTeam" : "Roda",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Wolverhampton U21",
+  "awayTeam" : "Nottingham F. U21",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "W. Bromwich Albion U21",
+  "awayTeam" : "Luton Town U21",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "Colchester Utd U21",
+  "awayTeam" : "Sunderland U21",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "Bournemouth U21",
+  "awayTeam" : "Birmingham City U21",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Bristol City U21",
+  "awayTeam" : "Sheffield Utd U21",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Ipswich Town U21",
+  "awayTeam" : "Charlton Ath U21",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Stockport County U21",
+  "awayTeam" : "Cardiff City U21",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Montrose",
+  "awayTeam" : "Spartans Edinburgh",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Union Brescia",
+  "awayTeam" : "Inter Milano U23",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Napoli",
+  "awayTeam" : "Bologna",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Cliftonville Gençler",
+  "awayTeam" : "Carrick Rangers Gençler",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Glenavon Gençler",
+  "awayTeam" : "Crusaders Gençler",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Bangor Gençler",
+  "awayTeam" : "Larne Olympic Gençler",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Benfica B",
+  "awayTeam" : "Sporting Lisbon B",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Lusitania",
+  "awayTeam" : "Oliveirense",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Un. Craiova",
+  "awayTeam" : "FK Csikszereda",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "FK Napredak Kru.",
+  "awayTeam" : "Radnicki",
+  "score" : "0-1"
 } ]
