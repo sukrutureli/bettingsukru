@@ -26,17 +26,17 @@
   "homeTeam" : "Liaoning F. L.",
   "awayTeam" : "Beijing R. F.",
   "picks" : [ "184.5 Alt (1.66 - 64.7%)" ],
-  "score" : "-",
+  "score" : "98-86",
   "statuses" : {
-    "184.5 Alt (1.66 - 64.7%)" : "pending"
+    "184.5 Alt (1.66 - 64.7%)" : "won"
   }
 }, {
   "homeTeam" : "Jilin N.T.",
   "awayTeam" : "Ningbo Rockets",
   "picks" : [ "182.5 Alt (1.6 - 58.7%)" ],
-  "score" : "-",
+  "score" : "82-77",
   "statuses" : {
-    "182.5 Alt (1.6 - 58.7%)" : "pending"
+    "182.5 Alt (1.6 - 58.7%)" : "won"
   }
 }, {
   "homeTeam" : "Polzela",

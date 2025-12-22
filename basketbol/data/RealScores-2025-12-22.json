@@ -58,4 +58,64 @@
   "homeTeam" : "Ec Uniao Corinthians",
   "awayTeam" : "B. Cearense",
   "score" : "95-62"
+}, {
+  "homeTeam" : "Final Spor",
+  "awayTeam" : "MKE Ankaragücü Basketbol",
+  "score" : "69-80"
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Houston",
+  "score" : "125-124"
+}, {
+  "homeTeam" : "Brisbane Bullets",
+  "awayTeam" : "N. Z. Breakers",
+  "score" : "99-85"
+}, {
+  "homeTeam" : "Shandong H.",
+  "awayTeam" : "Shenzhen Leopards",
+  "score" : "92-95"
+}, {
+  "homeTeam" : "Sichuan B.W.",
+  "awayTeam" : "Beijing D.",
+  "score" : "46-97"
+}, {
+  "homeTeam" : "Liaoning F. L.",
+  "awayTeam" : "Beijing R. F.",
+  "score" : "98-86"
+}, {
+  "homeTeam" : "Jilin N.T.",
+  "awayTeam" : "Ningbo Rockets",
+  "score" : "82-77"
+}, {
+  "homeTeam" : "Jiangxi Ganchi",
+  "awayTeam" : "Shanghai Blackbird",
+  "score" : "87-100"
+}, {
+  "homeTeam" : "Shandong Honey Badger",
+  "awayTeam" : "Zhangjiakou",
+  "score" : "114-76"
+}, {
+  "homeTeam" : "Busan BNK Sum (K)",
+  "awayTeam" : "Cheongju KB Stars (K)",
+  "score" : "57-70"
+}, {
+  "homeTeam" : "Anyang KGC",
+  "awayTeam" : "Samsung Thunders",
+  "score" : "90-82"
+}, {
+  "homeTeam" : "Palayesh Naft Abadan",
+  "awayTeam" : "Naft Zagros Jonoubi",
+  "score" : "113-90"
+}, {
+  "homeTeam" : "Kouchin Amol (Kalleh Mazandaran)",
+  "awayTeam" : "Golnoor Isfahan",
+  "score" : "89-73"
+}, {
+  "homeTeam" : "Tokyo Excellence",
+  "awayTeam" : "Yamagata Wyverns",
+  "score" : "89-82"
+}, {
+  "homeTeam" : "Emlak Konut Gelişim (K)",
+  "awayTeam" : "Samsun Basketbol (K)",
+  "score" : "63-53"
 } ]
