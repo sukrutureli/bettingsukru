@@ -2,25 +2,25 @@
   "homeTeam" : "Obera Tenis C.",
   "awayTeam" : "Obras Sanita",
   "picks" : [ "MS1 (1.39 - 85.9%)" ],
-  "score" : "-",
+  "score" : "66-78",
   "statuses" : {
-    "MS1 (1.39 - 85.9%)" : "pending"
+    "MS1 (1.39 - 85.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Penarol Mar",
   "awayTeam" : "Independiente de Oliva",
   "picks" : [ "167.5 Alt (1.64 - 58.2%)" ],
-  "score" : "-",
+  "score" : "76-87",
   "statuses" : {
-    "167.5 Alt (1.64 - 58.2%)" : "pending"
+    "167.5 Alt (1.64 - 58.2%)" : "won"
   }
 }, {
   "homeTeam" : "Minnesota",
   "awayTeam" : "Milwaukee",
   "picks" : [ "226.5 Alt (1.63 - 60.3%)" ],
-  "score" : "-",
+  "score" : "103-100",
   "statuses" : {
-    "226.5 Alt (1.63 - 60.3%)" : "pending"
+    "226.5 Alt (1.63 - 60.3%)" : "won"
   }
 }, {
   "homeTeam" : "Liaoning F. L.",

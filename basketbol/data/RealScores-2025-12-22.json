@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "New York",
+  "awayTeam" : "Miami",
+  "score" : "132-125"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Toronto",
+  "score" : "96-81"
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "San Antonio",
+  "score" : "113-124"
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "Milwaukee",
+  "score" : "103-100"
+}, {
+  "homeTeam" : "Michigan Wolverines",
+  "awayTeam" : "La Salle Explorers",
+  "score" : "102-50"
+}, {
+  "homeTeam" : "DePaul Blue Demons",
+  "awayTeam" : "Connecticut Huskies",
+  "score" : "54-72"
+}, {
+  "homeTeam" : "Oregon Ducks",
+  "awayTeam" : "Gonzaga Bulldogs",
+  "score" : "82-91"
+}, {
+  "homeTeam" : "Nebraska Cornhuskers",
+  "awayTeam" : "North Dakota Fighting Hawks",
+  "score" : "78-55"
+}, {
+  "homeTeam" : "Pacific Tigers (K)",
+  "awayTeam" : "Washington Huskies (K)",
+  "score" : "50-90"
+}, {
+  "homeTeam" : "Obera Tenis C.",
+  "awayTeam" : "Obras Sanita",
+  "score" : "66-78"
+}, {
+  "homeTeam" : "Penarol Mar",
+  "awayTeam" : "Independiente de Oliva",
+  "score" : "76-87"
+}, {
+  "homeTeam" : "Instituto de Cordoba",
+  "awayTeam" : "Racing de Chivilcoy",
+  "score" : "78-87"
+}, {
+  "homeTeam" : "Union de Santa Fe",
+  "awayTeam" : "Argentino J.",
+  "score" : "95-84"
+}, {
+  "homeTeam" : "Quimsa S.",
+  "awayTeam" : "CA Platense",
+  "score" : "91-74"
+}, {
+  "homeTeam" : "Ec Uniao Corinthians",
+  "awayTeam" : "B. Cearense",
+  "score" : "95-62"
+} ]
