@@ -34,9 +34,9 @@
   "homeTeam" : "Sharjah",
   "awayTeam" : "Al Hilal",
   "picks" : [ "MS2 (1.33 - 76.8%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "MS2 (1.33 - 76.8%)" : "pending"
+    "MS2 (1.33 - 76.8%)" : "won"
   }
 }, {
   "homeTeam" : "Benfica B",
