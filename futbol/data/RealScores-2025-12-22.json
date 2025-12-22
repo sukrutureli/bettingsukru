@@ -1,0 +1,29 @@
+[ {
+  "homeTeam" : "Vasco Da G.",
+  "awayTeam" : "Corinthians",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "LDU Quito",
+  "awayTeam" : "Uni. Catolica",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Independiente D. V.",
+  "awayTeam" : "Barcelona (Ekv)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Orense SC",
+  "awayTeam" : "Libertad Loja",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Antigua",
+  "awayTeam" : "Municipal",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Molynes",
+  "awayTeam" : "Arnett Gardens",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Rams Village Superstars",
+  "awayTeam" : "SLH Horsfords St. Pauls Utd",
+  "score" : "2-0"
+} ]
