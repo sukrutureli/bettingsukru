@@ -58,24 +58,24 @@
   "homeTeam" : "Zielona Gora",
   "awayTeam" : "Anwil Wlocl.",
   "picks" : [ "170.5 Üst (1.62 - 70.1%)" ],
-  "score" : "-",
+  "score" : "91-82",
   "statuses" : {
-    "170.5 Üst (1.62 - 70.1%)" : "pending"
+    "170.5 Üst (1.62 - 70.1%)" : "won"
   }
 }, {
   "homeTeam" : "Paderborn Baskets",
   "awayTeam" : "EPG Baskets Koblenz",
   "picks" : [ "MS2 (1.65 - 73.8%)" ],
-  "score" : "-",
+  "score" : "94-88",
   "statuses" : {
-    "MS2 (1.65 - 73.8%)" : "pending"
+    "MS2 (1.65 - 73.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Ludwigsburg",
   "awayTeam" : "Rasta Vechta",
   "picks" : [ "167.5 Alt (1.66 - 68.8%)" ],
-  "score" : "-",
+  "score" : "80-86",
   "statuses" : {
-    "167.5 Alt (1.66 - 68.8%)" : "pending"
+    "167.5 Alt (1.66 - 68.8%)" : "won"
   }
 } ]

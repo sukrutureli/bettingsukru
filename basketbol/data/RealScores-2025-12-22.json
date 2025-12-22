@@ -146,4 +146,36 @@
   "homeTeam" : "Polzela",
   "awayTeam" : "Kk Rogaska",
   "score" : "88-81"
+}, {
+  "homeTeam" : "Ludwigsburg",
+  "awayTeam" : "Rasta Vechta",
+  "score" : "80-86"
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Brescia",
+  "score" : "86-76"
+}, {
+  "homeTeam" : "Buducnost",
+  "awayTeam" : "BC Vienna",
+  "score" : "102-91"
+}, {
+  "homeTeam" : "Butler Bulldogs",
+  "awayTeam" : "NJIT Highlanders",
+  "score" : "101-52"
+}, {
+  "homeTeam" : "Georgia Bulldogs",
+  "awayTeam" : "West Georgia Wolves",
+  "score" : "103-74"
+}, {
+  "homeTeam" : "Oklahoma Sooners (K)",
+  "awayTeam" : "N.Carolina Eagles (K)",
+  "score" : "126-54"
+}, {
+  "homeTeam" : "Paderborn Baskets",
+  "awayTeam" : "EPG Baskets Koblenz",
+  "score" : "94-88"
+}, {
+  "homeTeam" : "Zielona Gora",
+  "awayTeam" : "Anwil Wlocl.",
+  "score" : "91-82"
 } ]
