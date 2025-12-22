@@ -2,33 +2,33 @@
   "homeTeam" : "Torino U20",
   "awayTeam" : "Lecce U20",
   "picks" : [ "Var (1.35 - 67.9%)" ],
-  "score" : "-",
+  "score" : "3-3",
   "statuses" : {
-    "Var (1.35 - 67.9%)" : "pending"
+    "Var (1.35 - 67.9%)" : "won"
   }
 }, {
   "homeTeam" : "Al Ahli (Ürd)",
   "awayTeam" : "Ramtha SC",
   "picks" : [ "MS2 (1.44 - 65.6%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "MS2 (1.44 - 65.6%)" : "pending"
+    "MS2 (1.44 - 65.6%)" : "won"
   }
 }, {
   "homeTeam" : "Mali",
   "awayTeam" : "Zambiya",
   "picks" : [ "Yok (1.4 - 67.3%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Yok (1.4 - 67.3%)" : "pending"
+    "Yok (1.4 - 67.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Braga U23",
   "awayTeam" : "Academico V. U23",
   "picks" : [ "Var (1.38 - 67.4%)" ],
-  "score" : "-",
+  "score" : "3-3",
   "statuses" : {
-    "Var (1.38 - 67.4%)" : "pending"
+    "Var (1.38 - 67.4%)" : "won"
   }
 }, {
   "homeTeam" : "Sharjah",
