@@ -118,4 +118,32 @@
   "homeTeam" : "Emlak Konut Gelişim (K)",
   "awayTeam" : "Samsun Basketbol (K)",
   "score" : "63-53"
+}, {
+  "homeTeam" : "Esenler Erokspor",
+  "awayTeam" : "Büyükçekmece",
+  "score" : "86-65"
+}, {
+  "homeTeam" : "Kk Krka",
+  "awayTeam" : "Partizan",
+  "score" : "92-99"
+}, {
+  "homeTeam" : "Cluj Napoca",
+  "awayTeam" : "KK Split",
+  "score" : "105-87"
+}, {
+  "homeTeam" : "KK Zadar",
+  "awayTeam" : "Cibona Zagreb",
+  "score" : "88-68"
+}, {
+  "homeTeam" : "AL Shamal",
+  "awayTeam" : "AL Arabi (Kat)",
+  "score" : "82-86"
+}, {
+  "homeTeam" : "BK Dynamo Grozny",
+  "awayTeam" : "BC Chelbasket Chelyabinsk",
+  "score" : "66-70"
+}, {
+  "homeTeam" : "Polzela",
+  "awayTeam" : "Kk Rogaska",
+  "score" : "88-81"
 } ]

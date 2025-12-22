@@ -42,17 +42,17 @@
   "homeTeam" : "Polzela",
   "awayTeam" : "Kk Rogaska",
   "picks" : [ "MS2 (1.6 - 56.8%)" ],
-  "score" : "-",
+  "score" : "88-81",
   "statuses" : {
-    "MS2 (1.6 - 56.8%)" : "pending"
+    "MS2 (1.6 - 56.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Cluj Napoca",
   "awayTeam" : "KK Split",
   "picks" : [ "174.5 Üst (1.6 - 77.5%)" ],
-  "score" : "-",
+  "score" : "105-87",
   "statuses" : {
-    "174.5 Üst (1.6 - 77.5%)" : "pending"
+    "174.5 Üst (1.6 - 77.5%)" : "won"
   }
 }, {
   "homeTeam" : "Zielona Gora",
