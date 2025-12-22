@@ -1,0 +1,106 @@
+[ {
+  "name" : "Cleveland - Charlotte",
+  "time" : "03:00",
+  "predictions" : [ "239.5 Alt (1.62 - 69.4%)" ],
+  "score" : "118-115"
+}, {
+  "name" : "Melbourne Utd - Tasmania Jackjumpers",
+  "time" : "12:00",
+  "predictions" : [ "178.5 Üst (1.64 - 59.2%)" ],
+  "score" : "95-88"
+}, {
+  "name" : "Tianjin P. - Jiangsu D.",
+  "time" : "14:35",
+  "predictions" : [ "176.5 Üst (1.63 - 59.0%)" ],
+  "score" : "93-87"
+}, {
+  "name" : "Shanghai S. - Zhejiang G. B.",
+  "time" : "14:35",
+  "predictions" : [ "190.5 Alt (1.65 - 56.4%)" ],
+  "score" : "98-91"
+}, {
+  "name" : "F. Szombathely - Alba Fehervar",
+  "time" : "19:00",
+  "predictions" : [ "182.5 Alt (1.62 - 69.8%)" ],
+  "score" : "88-88"
+}, {
+  "name" : "Limoges CSP - Le Mans",
+  "time" : "19:10",
+  "predictions" : [ "MS2 (1.52 - 64.4%)" ],
+  "score" : "84-86"
+}, {
+  "name" : "Zalgiris Kaunas - Panathinaikos",
+  "time" : "21:00",
+  "predictions" : [ "167.5 Üst (1.64 - 79.6%)" ],
+  "score" : "93-88"
+}, {
+  "name" : "Niners Chemnitz - Beşiktaş",
+  "time" : "21:00",
+  "predictions" : [ "167.5 Alt (1.6 - 61.2%)" ],
+  "score" : "81-83"
+}, {
+  "name" : "VFL Kirchheim Knights - Bremerhaven",
+  "time" : "21:00",
+  "predictions" : [ "MS1 (1.63 - 90.1%)" ],
+  "score" : "88-77"
+}, {
+  "name" : "Legia Warsz. - Miasto Szkla",
+  "time" : "21:00",
+  "predictions" : [ "166.5 Alt (1.63 - 55.7%)" ],
+  "score" : "86-79"
+}, {
+  "name" : "Tigers Tubingen - Artland Dragons",
+  "time" : "21:30",
+  "predictions" : [ "172.5 Üst (1.61 - 61.5%)" ],
+  "score" : "86-91"
+}, {
+  "name" : "Bochum - Bayreuth",
+  "time" : "21:30",
+  "predictions" : [ "172.5 Alt (1.62 - 65.2%)" ],
+  "score" : "87-80"
+}, {
+  "name" : "C. Merlins - Phoenix Hagen",
+  "time" : "21:30",
+  "predictions" : [ "176.5 Alt (1.67 - 57.6%)" ],
+  "score" : "88-86"
+}, {
+  "name" : "PS Karlsruhe Lions - Rheinstars Cologne",
+  "time" : "21:30",
+  "predictions" : [ "167.5 Üst (1.6 - 58.2%)" ],
+  "score" : "87-84"
+}, {
+  "name" : "Landstede - Z. Leiden",
+  "time" : "21:30",
+  "predictions" : [ "MS2 (1.43 - 74.6%)" ],
+  "score" : "83-88"
+}, {
+  "name" : "Den Bosch - Donar Groningen",
+  "time" : "22:00",
+  "predictions" : [ "166.5 Üst (1.62 - 59.3%)" ],
+  "score" : "89-82"
+}, {
+  "name" : "Rouen Metropole B. - JA Vichy Clermont",
+  "time" : "22:00",
+  "predictions" : [ "163.5 Üst (1.66 - 56.5%)" ],
+  "score" : "85-82"
+}, {
+  "name" : "ASC Denain V. - Hermine Nantes B.",
+  "time" : "22:00",
+  "predictions" : [ "168.5 Üst (1.61 - 58.6%)" ],
+  "score" : "90-82"
+}, {
+  "name" : "ALM Evreux Basket - Chalons Reims",
+  "time" : "22:00",
+  "predictions" : [ "MS2 (1.45 - 66.9%)" ],
+  "score" : "82-86"
+}, {
+  "name" : "Asvel Vil. - Anadolu Efes",
+  "time" : "22:45",
+  "predictions" : [ "166.5 Üst (1.63 - 68.5%)" ],
+  "score" : "89-85"
+}, {
+  "name" : "Orlandina - P. Fiorenzuola",
+  "time" : "22:45",
+  "predictions" : [ "155.5 Üst (1.65 - 60.3%)" ],
+  "score" : "83-77"
+} ]

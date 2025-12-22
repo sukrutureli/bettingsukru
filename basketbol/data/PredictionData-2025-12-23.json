@@ -1,0 +1,169 @@
+[ {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Charlotte",
+  "picks" : [ "239.5 Alt (1.62 - 69.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "239.5 Alt (1.62 - 69.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Melbourne Utd",
+  "awayTeam" : "Tasmania Jackjumpers",
+  "picks" : [ "178.5 Üst (1.64 - 59.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "178.5 Üst (1.64 - 59.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tianjin P.",
+  "awayTeam" : "Jiangsu D.",
+  "picks" : [ "176.5 Üst (1.63 - 59.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "176.5 Üst (1.63 - 59.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shanghai S.",
+  "awayTeam" : "Zhejiang G. B.",
+  "picks" : [ "190.5 Alt (1.65 - 56.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "190.5 Alt (1.65 - 56.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "F. Szombathely",
+  "awayTeam" : "Alba Fehervar",
+  "picks" : [ "182.5 Alt (1.62 - 69.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "182.5 Alt (1.62 - 69.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Limoges CSP",
+  "awayTeam" : "Le Mans",
+  "picks" : [ "MS2 (1.52 - 64.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.52 - 64.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zalgiris Kaunas",
+  "awayTeam" : "Panathinaikos",
+  "picks" : [ "167.5 Üst (1.64 - 79.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Üst (1.64 - 79.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Beşiktaş",
+  "picks" : [ "167.5 Alt (1.6 - 61.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Alt (1.6 - 61.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "VFL Kirchheim Knights",
+  "awayTeam" : "Bremerhaven",
+  "picks" : [ "MS1 (1.63 - 90.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.63 - 90.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Legia Warsz.",
+  "awayTeam" : "Miasto Szkla",
+  "picks" : [ "166.5 Alt (1.63 - 55.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Alt (1.63 - 55.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tigers Tubingen",
+  "awayTeam" : "Artland Dragons",
+  "picks" : [ "172.5 Üst (1.61 - 61.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "172.5 Üst (1.61 - 61.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bochum",
+  "awayTeam" : "Bayreuth",
+  "picks" : [ "172.5 Alt (1.62 - 65.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "172.5 Alt (1.62 - 65.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "C. Merlins",
+  "awayTeam" : "Phoenix Hagen",
+  "picks" : [ "176.5 Alt (1.67 - 57.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "176.5 Alt (1.67 - 57.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "PS Karlsruhe Lions",
+  "awayTeam" : "Rheinstars Cologne",
+  "picks" : [ "167.5 Üst (1.6 - 58.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Üst (1.6 - 58.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Landstede",
+  "awayTeam" : "Z. Leiden",
+  "picks" : [ "MS2 (1.43 - 74.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.43 - 74.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Den Bosch",
+  "awayTeam" : "Donar Groningen",
+  "picks" : [ "166.5 Üst (1.62 - 59.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Üst (1.62 - 59.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rouen Metropole B.",
+  "awayTeam" : "JA Vichy Clermont",
+  "picks" : [ "163.5 Üst (1.66 - 56.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "163.5 Üst (1.66 - 56.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "ASC Denain V.",
+  "awayTeam" : "Hermine Nantes B.",
+  "picks" : [ "168.5 Üst (1.61 - 58.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Üst (1.61 - 58.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "ALM Evreux Basket",
+  "awayTeam" : "Chalons Reims",
+  "picks" : [ "MS2 (1.45 - 66.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.45 - 66.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Asvel Vil.",
+  "awayTeam" : "Anadolu Efes",
+  "picks" : [ "166.5 Üst (1.63 - 68.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Üst (1.63 - 68.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Orlandina",
+  "awayTeam" : "P. Fiorenzuola",
+  "picks" : [ "155.5 Üst (1.65 - 60.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "155.5 Üst (1.65 - 60.3%)" : "pending"
+  }
+} ]
