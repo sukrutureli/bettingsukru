@@ -2,9 +2,9 @@
   "homeTeam" : "Cleveland",
   "awayTeam" : "Charlotte",
   "picks" : [ "239.5 Alt (1.62 - 69.4%)" ],
-  "score" : "-",
+  "score" : "139-132",
   "statuses" : {
-    "239.5 Alt (1.62 - 69.4%)" : "pending"
+    "239.5 Alt (1.62 - 69.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Melbourne Utd",

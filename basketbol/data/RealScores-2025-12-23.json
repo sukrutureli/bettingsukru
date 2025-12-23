@@ -1,0 +1,45 @@
+[ {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Charlotte",
+  "score" : "139-132"
+}, {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Indiana",
+  "score" : "103-95"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Dallas",
+  "score" : "119-113"
+}, {
+  "homeTeam" : "Denver",
+  "awayTeam" : "Utah",
+  "score" : "135-112"
+}, {
+  "homeTeam" : "Ohio State Buckeyes (K)",
+  "awayTeam" : "Western Michigan (K)",
+  "score" : "95-47"
+}, {
+  "homeTeam" : "Tennessee Lady Volu. (K)",
+  "awayTeam" : "Southern Indiana (K)",
+  "score" : "89-44"
+}, {
+  "homeTeam" : "Missouri Tigers",
+  "awayTeam" : "Illinois Fighting Illini",
+  "score" : "48-91"
+}, {
+  "homeTeam" : "North Carolina Tar Heels",
+  "awayTeam" : "East Carolina Pirates",
+  "score" : "99-51"
+}, {
+  "homeTeam" : "Kansas Jayhawks",
+  "awayTeam" : "Davidson Wildcats",
+  "score" : "90-61"
+}, {
+  "homeTeam" : "Arizona Wildcats",
+  "awayTeam" : "Bethune-Cookman Wildcats",
+  "score" : "107-71"
+}, {
+  "homeTeam" : "Brigham Young Cougars",
+  "awayTeam" : "Eastern Washington Eagles",
+  "score" : "109-81"
+} ]
