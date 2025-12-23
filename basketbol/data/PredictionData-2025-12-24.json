@@ -1,0 +1,73 @@
+[ {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Brooklyn",
+  "picks" : [ "218.5 Üst (1.6 - 56.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "218.5 Üst (1.6 - 56.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "New Orleans",
+  "picks" : [ "248.5 Alt (1.62 - 64.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "248.5 Alt (1.62 - 64.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Toronto",
+  "picks" : [ "227.5 Alt (1.64 - 71.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "227.5 Alt (1.64 - 71.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "Oklahoma",
+  "picks" : [ "233.5 Alt (1.6 - 58.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "233.5 Alt (1.6 - 58.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Memphis",
+  "picks" : [ "MS2 (1.33 - 59.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.33 - 59.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Orlando",
+  "picks" : [ "232.5 Alt (1.6 - 56.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "232.5 Alt (1.6 - 56.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "Houston",
+  "picks" : [ "219.5 Üst (1.66 - 58.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "219.5 Üst (1.66 - 58.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Woori Bank H. (K)",
+  "awayTeam" : "Yongin Samsung L. (K)",
+  "picks" : [ "120.5 Üst (1.64 - 55.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "120.5 Üst (1.64 - 55.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ibaraki Robots",
+  "awayTeam" : "Altiri Chiba",
+  "picks" : [ "159.5 Üst (1.62 - 56.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "159.5 Üst (1.62 - 56.4%)" : "pending"
+  }
+} ]
