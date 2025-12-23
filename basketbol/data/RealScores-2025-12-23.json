@@ -42,4 +42,84 @@
   "homeTeam" : "Brigham Young Cougars",
   "awayTeam" : "Eastern Washington Eagles",
   "score" : "109-81"
+}, {
+  "homeTeam" : "Oklahoma",
+  "awayTeam" : "Memphis",
+  "score" : "119-103"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Detroit",
+  "score" : "102-110"
+}, {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Orlando",
+  "score" : "120-97"
+}, {
+  "homeTeam" : "Melbourne U.",
+  "awayTeam" : "Tasmania Jackjumpers",
+  "score" : "73-92"
+}, {
+  "homeTeam" : "Townsville Fire (K)",
+  "awayTeam" : "Sydney Uni Flames (K)",
+  "score" : "79-74"
+}, {
+  "homeTeam" : "Perth Lynx (K)",
+  "awayTeam" : "Canberra Capitals (K)",
+  "score" : "75-49"
+}, {
+  "homeTeam" : "Nanjing M.K.",
+  "awayTeam" : "Shanxi L.",
+  "score" : "77-103"
+}, {
+  "homeTeam" : "Tianjin P.",
+  "awayTeam" : "Jiangsu D.",
+  "score" : "84-88"
+}, {
+  "homeTeam" : "Zhejiang L.",
+  "awayTeam" : "Fujian S.",
+  "score" : "84-65"
+}, {
+  "homeTeam" : "Guangzhou L.L.",
+  "awayTeam" : "Guandong S.T.",
+  "score" : "85-93"
+}, {
+  "homeTeam" : "Shanghai S.",
+  "awayTeam" : "Zhejiang G.B.",
+  "score" : "97-77"
+}, {
+  "homeTeam" : "Guizhou Menglong",
+  "awayTeam" : "Hubei Culture A. T.",
+  "score" : "96-82"
+}, {
+  "homeTeam" : "Hangzhou Jingwei",
+  "awayTeam" : "H. Kuangfeng",
+  "score" : "66-71"
+}, {
+  "homeTeam" : "Wonju Db Reserve",
+  "awayTeam" : "Goyang Skygunners Reserve",
+  "score" : "82-58"
+}, {
+  "homeTeam" : "Sangmu Reserve",
+  "awayTeam" : "Mobis Phoebus II",
+  "score" : "99-77"
+}, {
+  "homeTeam" : "LG Sakers",
+  "awayTeam" : "Daegu Pegasus",
+  "score" : "74-71"
+}, {
+  "homeTeam" : "Dynamo UFA",
+  "awayTeam" : "Khimki Moscow Region",
+  "score" : "61-75"
+}, {
+  "homeTeam" : "Universitet Yugra Surgut",
+  "awayTeam" : "Bars-Rgeu Rostov Na Donu",
+  "score" : "80-76"
+}, {
+  "homeTeam" : "Sparta And K. Vidnoe 2 (K)",
+  "awayTeam" : "Mba-2 Moscow (K)",
+  "score" : "44-50"
+}, {
+  "homeTeam" : "Dynamo Farm Kursk (K)",
+  "awayTeam" : "BC Nevinnomyssk (K)",
+  "score" : "88-72"
 } ]
