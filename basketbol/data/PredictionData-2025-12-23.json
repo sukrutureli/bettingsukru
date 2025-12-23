@@ -34,17 +34,17 @@
   "homeTeam" : "F. Szombathely",
   "awayTeam" : "Alba Fehervar",
   "picks" : [ "182.5 Alt (1.62 - 69.8%)" ],
-  "score" : "-",
+  "score" : "93-73",
   "statuses" : {
-    "182.5 Alt (1.62 - 69.8%)" : "pending"
+    "182.5 Alt (1.62 - 69.8%)" : "won"
   }
 }, {
   "homeTeam" : "Limoges CSP",
   "awayTeam" : "Le Mans",
   "picks" : [ "MS2 (1.52 - 64.4%)" ],
-  "score" : "-",
+  "score" : "83-110",
   "statuses" : {
-    "MS2 (1.52 - 64.4%)" : "pending"
+    "MS2 (1.52 - 64.4%)" : "won"
   }
 }, {
   "homeTeam" : "Zalgiris Kaunas",
