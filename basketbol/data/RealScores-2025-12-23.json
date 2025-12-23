@@ -202,4 +202,164 @@
   "homeTeam" : "KD Ilirija",
   "awayTeam" : "Olimp Ljubljana",
   "score" : "78-84"
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Barcelona",
+  "score" : "72-71"
+}, {
+  "homeTeam" : "Zalgiris Kaunas",
+  "awayTeam" : "Panathinaikos",
+  "score" : "85-92"
+}, {
+  "homeTeam" : "Bayern Münih",
+  "awayTeam" : "Hap. Tel Aviv",
+  "score" : "72-82"
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "Baskonia",
+  "score" : "91-81"
+}, {
+  "homeTeam" : "Paris",
+  "awayTeam" : "Kızıl Yıldız",
+  "score" : "102-92"
+}, {
+  "homeTeam" : "Asvel Vil.",
+  "awayTeam" : "Anadolu Efes",
+  "score" : "103-99"
+}, {
+  "homeTeam" : "Niners Chemnitz",
+  "awayTeam" : "Beşiktaş",
+  "score" : "97-95"
+}, {
+  "homeTeam" : "Cholet",
+  "awayTeam" : "Monaco",
+  "score" : "72-95"
+}, {
+  "homeTeam" : "VFL Kirchheim Knights",
+  "awayTeam" : "Bremerhaven",
+  "score" : "92-67"
+}, {
+  "homeTeam" : "Tigers Tubingen",
+  "awayTeam" : "Artland Dragons",
+  "score" : "97-105"
+}, {
+  "homeTeam" : "Bochum",
+  "awayTeam" : "Bayreuth",
+  "score" : "88-80"
+}, {
+  "homeTeam" : "C. Merlins",
+  "awayTeam" : "Phoenix Hagen",
+  "score" : "73-82"
+}, {
+  "homeTeam" : "Giants Leverkusen",
+  "awayTeam" : "Nürnberg Falcons",
+  "score" : "76-82"
+}, {
+  "homeTeam" : "PS Karlsruhe Lions",
+  "awayTeam" : "Rheinstars Cologne",
+  "score" : "89-74"
+}, {
+  "homeTeam" : "LTI Giessen",
+  "awayTeam" : "Gottingen",
+  "score" : "61-83"
+}, {
+  "homeTeam" : "Landstede",
+  "awayTeam" : "Z. Leiden",
+  "score" : "81-90"
+}, {
+  "homeTeam" : "Academie Limburg",
+  "awayTeam" : "Den Helder Suns",
+  "score" : "73-83"
+}, {
+  "homeTeam" : "Den Bosch",
+  "awayTeam" : "Donar Groningen",
+  "score" : "87-88"
+}, {
+  "homeTeam" : "BC Oostende",
+  "awayTeam" : "Okapi Aalst",
+  "score" : "99-97"
+}, {
+  "homeTeam" : "Excels Brus",
+  "awayTeam" : "Antwerp",
+  "score" : "78-79"
+}, {
+  "homeTeam" : "Limburg Utd",
+  "awayTeam" : "Aris Leeuwarden",
+  "score" : "129-78"
+}, {
+  "homeTeam" : "Spirou Charleroi",
+  "awayTeam" : "Belfius Mons Hainaut",
+  "score" : "96-91"
+}, {
+  "homeTeam" : "Kortrijk Spurs",
+  "awayTeam" : "Kangoeroes  Mechelen",
+  "score" : "104-64"
+}, {
+  "homeTeam" : "Leuven Bears",
+  "awayTeam" : "Rotterdam City Basketball",
+  "score" : "93-64"
+}, {
+  "homeTeam" : "Roanne Chorale",
+  "awayTeam" : "Poitiers Basket 86",
+  "score" : "94-75"
+}, {
+  "homeTeam" : "Stade Rochelais B.",
+  "awayTeam" : "Hyeres Toulon",
+  "score" : "85-79"
+}, {
+  "homeTeam" : "Rouen Metropole B.",
+  "awayTeam" : "JA Vichy Clermont",
+  "score" : "83-90"
+}, {
+  "homeTeam" : "ASC Denain V.",
+  "awayTeam" : "Hermine Nantes B.",
+  "score" : "93-86"
+}, {
+  "homeTeam" : "ALM Evreux Basket",
+  "awayTeam" : "Chalons Reims",
+  "score" : "59-73"
+}, {
+  "homeTeam" : "AIX Maurienne",
+  "awayTeam" : "Orleans L. Basket",
+  "score" : "84-68"
+}, {
+  "homeTeam" : "Caen Basket",
+  "awayTeam" : "Saint Chamond",
+  "score" : "93-94"
+}, {
+  "homeTeam" : "Antibes Shar",
+  "awayTeam" : "Pau Orthez",
+  "score" : "87-90"
+}, {
+  "homeTeam" : "Ujap Quimper 29",
+  "awayTeam" : "ADA Blois Basket 41",
+  "score" : "63-86"
+}, {
+  "homeTeam" : "A. S. Alsace",
+  "awayTeam" : "Vendee Challans B.",
+  "score" : "94-81"
+}, {
+  "homeTeam" : "Siauliai",
+  "awayTeam" : "Rytas Vilnius",
+  "score" : "82-97"
+}, {
+  "homeTeam" : "Legia Warsz.",
+  "awayTeam" : "Miasto Szkla",
+  "score" : "82-68"
+}, {
+  "homeTeam" : "Torun",
+  "awayTeam" : "Dabrowa Gorn.",
+  "score" : "93-105"
+}, {
+  "homeTeam" : "Slask Wroclaw",
+  "awayTeam" : "Dziki Warshawa",
+  "score" : "109-100"
+}, {
+  "homeTeam" : "CS Dinamo Bucuresti",
+  "awayTeam" : "CS Rapid Bucuresti",
+  "score" : "101-85"
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "Prievidza",
+  "score" : "88-85"
 } ]
