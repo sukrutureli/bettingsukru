@@ -2,25 +2,25 @@
   "homeTeam" : "Arema",
   "awayTeam" : "Madura Utd",
   "picks" : [ "Var (1.55 - 57.2%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Var (1.55 - 57.2%)" : "pending"
+    "Var (1.55 - 57.2%)" : "won"
   }
 }, {
   "homeTeam" : "AL Kahraba",
   "awayTeam" : "AL Qasim SC",
   "picks" : [ "Alt (1.35 - 73.9%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.35 - 73.9%)" : "pending"
+    "Alt (1.35 - 73.9%)" : "won"
   }
 }, {
   "homeTeam" : "AL Hussein Irbid",
   "awayTeam" : "Ahal",
   "picks" : [ "Üst (1.33 - 85.9%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Üst (1.33 - 85.9%)" : "pending"
+    "Üst (1.33 - 85.9%)" : "won"
   }
 }, {
   "homeTeam" : "Ghazl El Mahallah",

@@ -2,4 +2,80 @@
   "homeTeam" : "Club Bolivar",
   "awayTeam" : "Nacional Potosi",
   "score" : "1-4"
+}, {
+  "homeTeam" : "Konyaspor",
+  "awayTeam" : "Antalyaspor",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Kocaelispor",
+  "awayTeam" : "Erzurumspor FK",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "AL Hussein Irbid",
+  "awayTeam" : "Ahal",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Demokratik Kongo C.",
+  "awayTeam" : "Benin",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Korabi Peshkopi",
+  "awayTeam" : "KS Burreli",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Melbourne City",
+  "awayTeam" : "Macarthur",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Melbourne City (K)",
+  "awayTeam" : "Melbourne V. (K)",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Arema",
+  "awayTeam" : "Madura Utd",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Persijap Jepara",
+  "awayTeam" : "Psim Yogyakarta",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Nekemte Ketema",
+  "awayTeam" : "Gamo Chencha",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Burayu",
+  "awayTeam" : "Batu Ketema",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Bench Maji Bunna",
+  "awayTeam" : "Shashemene Ketema",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Kahraba",
+  "awayTeam" : "AL Qasim SC",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Bidco Utd",
+  "awayTeam" : "AFC Leopards",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Brunei Dpmm",
+  "awayTeam" : "Penang FA",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Terengganu",
+  "awayTeam" : "Sabah",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Pdrm",
+  "awayTeam" : "Selangor FA",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Cer. Cleopatra",
+  "awayTeam" : "ABO Qair Semads",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Kigezi Homeoyz",
+  "awayTeam" : "Paidha Black Angels",
+  "score" : "3-2"
 } ]
