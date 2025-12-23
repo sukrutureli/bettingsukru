@@ -26,33 +26,33 @@
   "homeTeam" : "Ghazl El Mahallah",
   "awayTeam" : "El Ahly (Mıs)",
   "picks" : [ "Alt (1.53 - 78.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.53 - 78.3%)" : "pending"
+    "Alt (1.53 - 78.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Nasarawa Utd",
   "awayTeam" : "Barau",
   "picks" : [ "Alt (1.33 - 69.0%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.33 - 69.0%)" : "pending"
+    "Alt (1.33 - 69.0%)" : "won"
   }
 }, {
   "homeTeam" : "Duhok",
   "awayTeam" : "AL Najaf",
   "picks" : [ "Alt (1.36 - 60.5%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.36 - 60.5%)" : "pending"
+    "Alt (1.36 - 60.5%)" : "won"
   }
 }, {
   "homeTeam" : "AL Naft",
   "awayTeam" : "AL Jawiya",
   "picks" : [ "Alt (1.33 - 73.1%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.33 - 73.1%)" : "pending"
+    "Alt (1.33 - 73.1%)" : "won"
   }
 }, {
   "homeTeam" : "Fenerbahçe",
