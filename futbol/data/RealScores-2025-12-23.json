@@ -154,4 +154,60 @@
   "homeTeam" : "Nasarawa Utd",
   "awayTeam" : "Barau",
   "score" : "0-0"
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Beşiktaş",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "V. Guimaraes",
+  "awayTeam" : "Sporting CP",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Arsenal",
+  "awayTeam" : "Crystal Palace",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AL Ittihad",
+  "awayTeam" : "Nasaf",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Nijerya",
+  "awayTeam" : "Tanzanya",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Tunus",
+  "awayTeam" : "Uganda",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Teuta",
+  "awayTeam" : "KF Egnatia R.",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Academia del Balompie",
+  "awayTeam" : "San Juan",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "MC Alger",
+  "awayTeam" : "Ben Aknoun",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Hungerford",
+  "awayTeam" : "Taunton Town",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Farnham Town",
+  "awayTeam" : "Plymouth Parkway",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Aldershot",
+  "awayTeam" : "West Ham U21",
+  "score" : "1-5"
+}, {
+  "homeTeam" : "Caldas",
+  "awayTeam" : "Braga",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "SS Virtus",
+  "awayTeam" : "SP Tre Fiori",
+  "score" : "1-0"
 } ]
