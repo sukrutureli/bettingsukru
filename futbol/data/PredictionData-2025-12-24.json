@@ -1,0 +1,25 @@
+[ {
+  "homeTeam" : "AL Muharraq",
+  "awayTeam" : "Esteghlal",
+  "picks" : [ "Alt (1.31 - 70.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.31 - 70.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Arkadag FK",
+  "awayTeam" : "AL Khalidiyah",
+  "picks" : [ "Alt (1.47 - 78.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 78.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kamerun",
+  "awayTeam" : "Gabon",
+  "picks" : [ "Alt (1.33 - 68.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 68.8%)" : "pending"
+  }
+} ]
