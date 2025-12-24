@@ -186,4 +186,20 @@
   "homeTeam" : "Nadezhda Orenburg (K)",
   "awayTeam" : "Nika Syktyvkar (K)",
   "score" : "63-74"
+}, {
+  "homeTeam" : "Beşiktaş (K)",
+  "awayTeam" : "Botaş (K)",
+  "score" : "81-87"
+}, {
+  "homeTeam" : "AL Ahli (Bhr)",
+  "awayTeam" : "AL Najma",
+  "score" : "67-63"
+}, {
+  "homeTeam" : "Avtodor Sara",
+  "awayTeam" : "BK Uralmash Yekaterinburg",
+  "score" : "73-67"
+}, {
+  "homeTeam" : "MBA Moscow",
+  "awayTeam" : "Unics Kazan",
+  "score" : "84-90"
 } ]
