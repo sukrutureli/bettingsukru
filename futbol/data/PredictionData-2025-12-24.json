@@ -18,8 +18,8 @@
   "homeTeam" : "Kamerun",
   "awayTeam" : "Gabon",
   "picks" : [ "Alt (1.33 - 68.8%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.33 - 68.8%)" : "pending"
+    "Alt (1.33 - 68.8%)" : "won"
   }
 } ]
