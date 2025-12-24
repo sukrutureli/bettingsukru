@@ -1,0 +1,65 @@
+[ {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Washington",
+  "score" : "126-109"
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Brooklyn",
+  "score" : "106-114"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "Chicago",
+  "score" : "123-126"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "New Orleans",
+  "score" : "141-118"
+}, {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Milwaukee",
+  "score" : "94-111"
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Toronto",
+  "score" : "91-112"
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Denver",
+  "score" : "131-130"
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "New York",
+  "score" : "115-104"
+}, {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "Oklahoma",
+  "score" : "130-110"
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Memphis",
+  "score" : "128-137"
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "LA Lakers",
+  "score" : "132-108"
+}, {
+  "homeTeam" : "Minas",
+  "awayTeam" : "Flamengo",
+  "score" : "85-87"
+}, {
+  "homeTeam" : "CA Paulistano",
+  "awayTeam" : "SC Corinthians P.",
+  "score" : "86-81"
+}, {
+  "homeTeam" : "Ec Uniao Corinthians",
+  "awayTeam" : "Unifacisa",
+  "score" : "85-78"
+}, {
+  "homeTeam" : "Cruzeiro Basquete",
+  "awayTeam" : "Vasco Da Gama",
+  "score" : "79-75"
+}, {
+  "homeTeam" : "Universo Brasilia",
+  "awayTeam" : "Pato Basquete",
+  "score" : "84-69"
+} ]

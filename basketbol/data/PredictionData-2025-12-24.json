@@ -2,41 +2,41 @@
   "homeTeam" : "Philadelphia",
   "awayTeam" : "Brooklyn",
   "picks" : [ "218.5 Üst (1.6 - 56.3%)" ],
-  "score" : "-",
+  "score" : "106-114",
   "statuses" : {
-    "218.5 Üst (1.6 - 56.3%)" : "pending"
+    "218.5 Üst (1.6 - 56.3%)" : "won"
   }
 }, {
   "homeTeam" : "Cleveland",
   "awayTeam" : "New Orleans",
   "picks" : [ "248.5 Alt (1.62 - 64.6%)" ],
-  "score" : "-",
+  "score" : "141-118",
   "statuses" : {
-    "248.5 Alt (1.62 - 64.6%)" : "pending"
+    "248.5 Alt (1.62 - 64.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Miami",
   "awayTeam" : "Toronto",
   "picks" : [ "227.5 Alt (1.64 - 71.2%)" ],
-  "score" : "-",
+  "score" : "91-112",
   "statuses" : {
-    "227.5 Alt (1.64 - 71.2%)" : "pending"
+    "227.5 Alt (1.64 - 71.2%)" : "won"
   }
 }, {
   "homeTeam" : "San Antonio",
   "awayTeam" : "Oklahoma",
   "picks" : [ "233.5 Alt (1.6 - 58.8%)" ],
-  "score" : "-",
+  "score" : "130-110",
   "statuses" : {
-    "233.5 Alt (1.6 - 58.8%)" : "pending"
+    "233.5 Alt (1.6 - 58.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Utah",
   "awayTeam" : "Memphis",
   "picks" : [ "MS2 (1.33 - 59.0%)" ],
-  "score" : "-",
+  "score" : "128-137",
   "statuses" : {
-    "MS2 (1.33 - 59.0%)" : "pending"
+    "MS2 (1.33 - 59.0%)" : "won"
   }
 }, {
   "homeTeam" : "Portland",
