@@ -1,0 +1,26 @@
+[ {
+  "name" : "Daegu Pegasus - KT Sonicboom",
+  "time" : "08:00",
+  "predictions" : [ "150.5 Üst (1.66 - 66.8%)" ],
+  "score" : "80-77"
+}, {
+  "name" : "Mobis Phoebus - Goyang Orions",
+  "time" : "08:00",
+  "predictions" : [ "MS1 (1.59 - 58.5%)" ],
+  "score" : "79-77"
+}, {
+  "name" : "Anyang KGC - Dongbu Promy",
+  "time" : "10:30",
+  "predictions" : [ "149.5 Üst (1.6 - 62.7%)" ],
+  "score" : "78-77"
+}, {
+  "name" : "Barangay Ginebra - Converge Fiberxers",
+  "time" : "14:30",
+  "predictions" : [ "MS1 (1.39 - 83.4%)" ],
+  "score" : "103-94"
+}, {
+  "name" : "Oklahoma - San Antonio",
+  "time" : "22:30",
+  "predictions" : [ "235.5 Alt (1.63 - 65.4%)" ],
+  "score" : "116-114"
+} ]
