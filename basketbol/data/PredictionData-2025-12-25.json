@@ -34,8 +34,8 @@
   "homeTeam" : "Oklahoma",
   "awayTeam" : "San Antonio",
   "picks" : [ "235.5 Alt (1.63 - 65.4%)" ],
-  "score" : "-",
+  "score" : "102-117",
   "statuses" : {
-    "235.5 Alt (1.63 - 65.4%)" : "pending"
+    "235.5 Alt (1.63 - 65.4%)" : "won"
   }
 } ]
