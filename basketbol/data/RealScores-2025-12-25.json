@@ -1,1 +1,45 @@
-[ ]
+[ {
+  "homeTeam" : "Sydney Kings",
+  "awayTeam" : "Illawarra Hawks",
+  "score" : "108-84"
+}, {
+  "homeTeam" : "Zhejiang L.",
+  "awayTeam" : "Liaoning F. L.",
+  "score" : "96-64"
+}, {
+  "homeTeam" : "Shanghai S.",
+  "awayTeam" : "Jiangsu D.",
+  "score" : "84-68"
+}, {
+  "homeTeam" : "Hebei Shijiazhuang Xianglan",
+  "awayTeam" : "Zhangjiakou",
+  "score" : "-"
+}, {
+  "homeTeam" : "Anhui Wenyi",
+  "awayTeam" : "Shandong Honey Badger",
+  "score" : "95-81"
+}, {
+  "homeTeam" : "Daegu Pegasus",
+  "awayTeam" : "KT Sonicboom",
+  "score" : "83-75"
+}, {
+  "homeTeam" : "Mobis Phoebus",
+  "awayTeam" : "Goyang Orions",
+  "score" : "64-74"
+}, {
+  "homeTeam" : "Anyang KGC",
+  "awayTeam" : "Dongbu Promy",
+  "score" : "63-69"
+}, {
+  "homeTeam" : "Road Warriors",
+  "awayTeam" : "San Miguel",
+  "score" : "94-101"
+}, {
+  "homeTeam" : "Barangay Ginebra",
+  "awayTeam" : "Converge Fiberxers",
+  "score" : "105-85"
+}, {
+  "homeTeam" : "Parma Permsk",
+  "awayTeam" : "Enisey Krasnoyarsk",
+  "score" : "91-72"
+} ]
