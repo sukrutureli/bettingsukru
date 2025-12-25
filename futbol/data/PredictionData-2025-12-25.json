@@ -10,9 +10,9 @@
   "homeTeam" : "AL Wehda",
   "awayTeam" : "AL Jabil",
   "picks" : [ "MS1 (1.36 - 72.0%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "MS1 (1.36 - 72.0%)" : "pending"
+    "MS1 (1.36 - 72.0%)" : "won"
   }
 }, {
   "homeTeam" : "AL Riyadh",

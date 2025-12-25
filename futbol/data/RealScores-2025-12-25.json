@@ -50,4 +50,28 @@
   "homeTeam" : "AL Jabalain",
   "awayTeam" : "AL Ula",
   "score" : "2-2"
+}, {
+  "homeTeam" : "Saint George SC",
+  "awayTeam" : "Ethiopia Nigd Bank",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "El Gouna",
+  "awayTeam" : "N. Bank Egypt",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Haras Hodood",
+  "awayTeam" : "Al Masry",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Fayha",
+  "awayTeam" : "AL Hazem",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "AL Jandal",
+  "awayTeam" : "AL Adalh",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "AL Wehda",
+  "awayTeam" : "AL Jabil",
+  "score" : "2-1"
 } ]
