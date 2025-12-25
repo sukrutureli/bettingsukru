@@ -18,16 +18,16 @@
   "homeTeam" : "AL Riyadh",
   "awayTeam" : "AL Ettifaq",
   "picks" : [ "Var (1.52 - 58.3%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Var (1.52 - 58.3%)" : "pending"
+    "Var (1.52 - 58.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Zamalek",
   "awayTeam" : "Smouha SC",
   "picks" : [ "Alt (1.35 - 69.2%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.35 - 69.2%)" : "pending"
+    "Alt (1.35 - 69.2%)" : "won"
   }
 } ]
