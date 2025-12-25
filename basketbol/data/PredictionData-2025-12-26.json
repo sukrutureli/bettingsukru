@@ -1,0 +1,129 @@
+[ {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Dallas",
+  "picks" : [ "230.5 Üst (1.65 - 66.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "230.5 Üst (1.65 - 66.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Denver",
+  "awayTeam" : "Minnesota",
+  "picks" : [ "238.5 Alt (1.65 - 63.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "238.5 Alt (1.65 - 63.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tasmania Jackjumpers",
+  "awayTeam" : "N. Z. Breakers",
+  "picks" : [ "176.5 Üst (1.66 - 62.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "176.5 Üst (1.66 - 62.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "KCC Egis",
+  "awayTeam" : "LG Sakers",
+  "picks" : [ "154.5 Üst (1.65 - 82.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "154.5 Üst (1.65 - 82.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Qingdao E.",
+  "awayTeam" : "Shanxi L.",
+  "picks" : [ "186.5 Alt (1.6 - 70.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "186.5 Alt (1.6 - 70.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ningbo Rockets",
+  "awayTeam" : "Zhejiang G. B.",
+  "picks" : [ "184.5 Alt (1.62 - 64.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "184.5 Alt (1.62 - 64.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rostock Seawolves",
+  "awayTeam" : "Alba Berlin",
+  "picks" : [ "166.5 Üst (1.63 - 67.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Üst (1.63 - 67.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Le Portel",
+  "awayTeam" : "Cholet",
+  "picks" : [ "170.5 Üst (1.64 - 71.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "170.5 Üst (1.64 - 71.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Nürnberg Falcons",
+  "awayTeam" : "LTI Giessen",
+  "picks" : [ "MS1 (1.79 - 82.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.79 - 82.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "St. Polten",
+  "awayTeam" : "Klosterneubu",
+  "picks" : [ "169.5 Üst (1.67 - 65.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "169.5 Üst (1.67 - 65.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Real Madrid",
+  "picks" : [ "174.5 Alt (1.65 - 58.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "174.5 Alt (1.65 - 58.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cluj Napoca",
+  "awayTeam" : "Studentski Centar",
+  "picks" : [ "175.5 Alt (1.65 - 64.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "175.5 Alt (1.65 - 64.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Flyers Wels",
+  "awayTeam" : "Swan Gmunden",
+  "picks" : [ "164.5 Üst (1.64 - 79.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "164.5 Üst (1.64 - 79.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Olympiakos",
+  "picks" : [ "165.5 Üst (1.66 - 73.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "165.5 Üst (1.66 - 73.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "BC Oostende",
+  "awayTeam" : "Kortrijk Spurs",
+  "picks" : [ "168.5 Alt (1.6 - 60.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Alt (1.6 - 60.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kangoeroes Mechelen",
+  "awayTeam" : "Excels Brus",
+  "picks" : [ "MS2 (1.73 - 76.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.73 - 76.0%)" : "pending"
+  }
+} ]
