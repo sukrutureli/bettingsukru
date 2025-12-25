@@ -42,4 +42,40 @@
   "homeTeam" : "Parma Permsk",
   "awayTeam" : "Enisey Krasnoyarsk",
   "score" : "91-72"
+}, {
+  "homeTeam" : "Kk Borac Banja Luka",
+  "awayTeam" : "KK TFT Skopje",
+  "score" : "62-80"
+}, {
+  "homeTeam" : "AL Muharraq",
+  "awayTeam" : "AL Nweidrat",
+  "score" : "85-61"
+}, {
+  "homeTeam" : "AL Sadd",
+  "awayTeam" : "AL Gharafa",
+  "score" : "98-77"
+}, {
+  "homeTeam" : "Al Rayyan",
+  "awayTeam" : "AL Arabi (Kat)",
+  "score" : "106-87"
+}, {
+  "homeTeam" : "BK Dynamo Grozny",
+  "awayTeam" : "BC Metallurg Magnitogorsk",
+  "score" : "69-64"
+}, {
+  "homeTeam" : "BK Zenit Farm St Petersburg",
+  "awayTeam" : "BC Chelbasket Chelyabinsk",
+  "score" : "87-89"
+}, {
+  "homeTeam" : "ES Goulette",
+  "awayTeam" : "Etoile Sportive Sahel",
+  "score" : "51-63"
+}, {
+  "homeTeam" : "AS Hammamet",
+  "awayTeam" : "Stade Nabeulien",
+  "score" : "77-83"
+}, {
+  "homeTeam" : "US Ansar",
+  "awayTeam" : "US Monastir",
+  "score" : "66-81"
 } ]
