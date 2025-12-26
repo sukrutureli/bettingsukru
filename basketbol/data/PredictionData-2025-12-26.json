@@ -66,64 +66,64 @@
   "homeTeam" : "Nürnberg Falcons",
   "awayTeam" : "LTI Giessen",
   "picks" : [ "MS1 (1.79 - 82.7%)" ],
-  "score" : "-",
+  "score" : "64-74",
   "statuses" : {
-    "MS1 (1.79 - 82.7%)" : "pending"
+    "MS1 (1.79 - 82.7%)" : "lost"
   }
 }, {
   "homeTeam" : "St. Polten",
   "awayTeam" : "Klosterneubu",
   "picks" : [ "169.5 Üst (1.67 - 65.2%)" ],
-  "score" : "-",
+  "score" : "54-69",
   "statuses" : {
-    "169.5 Üst (1.67 - 65.2%)" : "pending"
+    "169.5 Üst (1.67 - 65.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Monaco",
   "awayTeam" : "Real Madrid",
   "picks" : [ "174.5 Alt (1.65 - 58.3%)" ],
-  "score" : "-",
+  "score" : "100-95",
   "statuses" : {
-    "174.5 Alt (1.65 - 58.3%)" : "pending"
+    "174.5 Alt (1.65 - 58.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Cluj Napoca",
   "awayTeam" : "Studentski Centar",
   "picks" : [ "175.5 Alt (1.65 - 64.9%)" ],
-  "score" : "-",
+  "score" : "96-85",
   "statuses" : {
-    "175.5 Alt (1.65 - 64.9%)" : "pending"
+    "175.5 Alt (1.65 - 64.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Flyers Wels",
   "awayTeam" : "Swan Gmunden",
   "picks" : [ "164.5 Üst (1.64 - 79.6%)" ],
-  "score" : "-",
+  "score" : "100-82",
   "statuses" : {
-    "164.5 Üst (1.64 - 79.6%)" : "pending"
+    "164.5 Üst (1.64 - 79.6%)" : "won"
   }
 }, {
   "homeTeam" : "Virtus Bologna",
   "awayTeam" : "Olympiakos",
   "picks" : [ "165.5 Üst (1.66 - 73.0%)" ],
-  "score" : "-",
+  "score" : "94-97",
   "statuses" : {
-    "165.5 Üst (1.66 - 73.0%)" : "pending"
+    "165.5 Üst (1.66 - 73.0%)" : "won"
   }
 }, {
   "homeTeam" : "BC Oostende",
   "awayTeam" : "Kortrijk Spurs",
   "picks" : [ "168.5 Alt (1.6 - 60.2%)" ],
-  "score" : "-",
+  "score" : "75-85",
   "statuses" : {
-    "168.5 Alt (1.6 - 60.2%)" : "pending"
+    "168.5 Alt (1.6 - 60.2%)" : "won"
   }
 }, {
   "homeTeam" : "Kangoeroes Mechelen",
   "awayTeam" : "Excels Brus",
   "picks" : [ "MS2 (1.73 - 76.0%)" ],
-  "score" : "-",
+  "score" : "85-80",
   "statuses" : {
-    "MS2 (1.73 - 76.0%)" : "pending"
+    "MS2 (1.73 - 76.0%)" : "lost"
   }
 } ]

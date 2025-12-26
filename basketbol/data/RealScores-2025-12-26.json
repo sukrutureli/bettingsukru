@@ -134,4 +134,72 @@
   "homeTeam" : "N. Novgorod",
   "awayTeam" : "BC Samara",
   "score" : "71-79"
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Real Madrid",
+  "score" : "100-95"
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Olympiakos",
+  "score" : "94-97"
+}, {
+  "homeTeam" : "Mitteldeutscher",
+  "awayTeam" : "Niners Chemnitz",
+  "score" : "90-94"
+}, {
+  "homeTeam" : "Wurzburg",
+  "awayTeam" : "Gladiators Trier",
+  "score" : "102-83"
+}, {
+  "homeTeam" : "Frankfurt",
+  "awayTeam" : "Bayern Münih",
+  "score" : "69-97"
+}, {
+  "homeTeam" : "Nanterre 92",
+  "awayTeam" : "Paris",
+  "score" : "99-83"
+}, {
+  "homeTeam" : "JL Bourg",
+  "awayTeam" : "Asvel Vil.",
+  "score" : "81-79"
+}, {
+  "homeTeam" : "Cluj Napoca",
+  "awayTeam" : "Studentski Centar",
+  "score" : "96-85"
+}, {
+  "homeTeam" : "Nürnberg Falcons",
+  "awayTeam" : "LTI Giessen",
+  "score" : "64-74"
+}, {
+  "homeTeam" : "Traiskirchen",
+  "awayTeam" : "BBC Nord Dragonz",
+  "score" : "78-65"
+}, {
+  "homeTeam" : "St. Polten",
+  "awayTeam" : "Klosterneubu",
+  "score" : "54-69"
+}, {
+  "homeTeam" : "Flyers Wels",
+  "awayTeam" : "Swan Gmunden",
+  "score" : "100-82"
+}, {
+  "homeTeam" : "Okapi Aalst",
+  "awayTeam" : "Limburg Utd",
+  "score" : "107-98"
+}, {
+  "homeTeam" : "BC Oostende",
+  "awayTeam" : "Kortrijk Spurs",
+  "score" : "75-85"
+}, {
+  "homeTeam" : "Belfius Mons Hainaut",
+  "awayTeam" : "Leuven Bears",
+  "score" : "63-93"
+}, {
+  "homeTeam" : "Kangoeroes  Mechelen",
+  "awayTeam" : "Excels Brus",
+  "score" : "85-80"
+}, {
+  "homeTeam" : "Hyeres Toulon",
+  "awayTeam" : "Antibes Shar",
+  "score" : "87-76"
 } ]
