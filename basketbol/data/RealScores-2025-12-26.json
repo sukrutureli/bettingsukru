@@ -1,0 +1,9 @@
+[ {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Dallas",
+  "score" : "126-116"
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "Houston",
+  "score" : "96-119"
+} ]
