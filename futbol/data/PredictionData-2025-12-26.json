@@ -2,57 +2,57 @@
   "homeTeam" : "Cardiff Draconians",
   "awayTeam" : "Llantwit Major",
   "picks" : [ "Var (1.43 - 76.3%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Var (1.43 - 76.3%)" : "pending"
+    "Var (1.43 - 76.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Eastbourne Bor.",
   "awayTeam" : "Worthing",
   "picks" : [ "Üst (1.4 - 78.7%)" ],
-  "score" : "-",
+  "score" : "0-3",
   "statuses" : {
-    "Üst (1.4 - 78.7%)" : "pending"
+    "Üst (1.4 - 78.7%)" : "won"
   }
 }, {
   "homeTeam" : "KRC Genk",
   "awayTeam" : "Club Brugge",
   "picks" : [ "Var (1.38 - 60.0%)" ],
-  "score" : "-",
+  "score" : "3-5",
   "statuses" : {
-    "Var (1.38 - 60.0%)" : "pending"
+    "Var (1.38 - 60.0%)" : "won"
   }
 }, {
   "homeTeam" : "Fujairah",
   "awayTeam" : "Al Hamriyah",
   "picks" : [ "Üst (1.49 - 75.0%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Üst (1.49 - 75.0%)" : "pending"
+    "Üst (1.49 - 75.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Ib Khemis El Khechna",
   "awayTeam" : "HB Chelghoum L.",
   "picks" : [ "Alt (1.42 - 63.3%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.42 - 63.3%)" : "pending"
+    "Alt (1.42 - 63.3%)" : "won"
   }
 }, {
   "homeTeam" : "CA Batna",
   "awayTeam" : "AS Khroub",
   "picks" : [ "Alt (1.4 - 67.2%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.4 - 67.2%)" : "pending"
+    "Alt (1.4 - 67.2%)" : "won"
   }
 }, {
   "homeTeam" : "MO Constantine",
   "awayTeam" : "MSP Batna",
   "picks" : [ "Alt (1.33 - 58.6%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.33 - 58.6%)" : "pending"
+    "Alt (1.33 - 58.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Haverfordwest C.",

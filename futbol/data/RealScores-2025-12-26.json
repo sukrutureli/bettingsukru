@@ -1,1 +1,317 @@
-[ ]
+[ {
+  "homeTeam" : "KRC Genk",
+  "awayTeam" : "Club Brugge",
+  "score" : "3-5"
+}, {
+  "homeTeam" : "Angola",
+  "awayTeam" : "Zimbabve",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Newcastle Utd Jets",
+  "awayTeam" : "Macarthur",
+  "score" : "4-5"
+}, {
+  "homeTeam" : "Fujairah",
+  "awayTeam" : "Al Hamriyah",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Jazira AL Hamra",
+  "awayTeam" : "AL Dhaid",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Hatta SC",
+  "awayTeam" : "AL Ittifaq",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Emirates Club",
+  "awayTeam" : "AL Arabi (Bae)",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Dibba AL Hisn SC",
+  "awayTeam" : "Al Urooba (Bae)",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "AL Dahra",
+  "awayTeam" : "City Football Club",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Dubai Utd",
+  "awayTeam" : "Masfoot Sports Club",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Malkiya Club",
+  "awayTeam" : "AL Bahrain",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Arambagh KS",
+  "awayTeam" : "Bangladesh Police C.",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "USM Khenchela",
+  "awayTeam" : "CS Constantine",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "JS Saoura",
+  "awayTeam" : "MC EL Bayadh",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "CRB Adrar",
+  "awayTeam" : "Js Tixeraine",
+  "score" : "-"
+}, {
+  "homeTeam" : "Js El Biar",
+  "awayTeam" : "NA Hussein Dey",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "JS Djidjel",
+  "awayTeam" : "US Chaouia",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Nrb Teleghma",
+  "awayTeam" : "JS Bordj Menaiel",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Ib Khemis El Khechna",
+  "awayTeam" : "HB Chelghoum L.",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "US Biskra",
+  "awayTeam" : "CR Beni Thour",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "MO Bejaia",
+  "awayTeam" : "USM Annaba",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "CA Batna",
+  "awayTeam" : "AS Khroub",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "MO Constantine",
+  "awayTeam" : "MSP Batna",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "MC Magra",
+  "awayTeam" : "Nrb Beni Oulbene",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Adama City",
+  "awayTeam" : "Defence Force",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Ethiopian Insurance",
+  "awayTeam" : "Sidama Bunna SC",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Cardiff Draconians",
+  "awayTeam" : "Llantwit Major",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Ynyshir Albions",
+  "awayTeam" : "Cambrian & Clydach",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Pontypridd Town",
+  "awayTeam" : "Aberystwyth",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Treowen Stars",
+  "awayTeam" : "Trethomas Bluebirds",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Baglan Dragons",
+  "awayTeam" : "Afan Lido",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Trefelin",
+  "awayTeam" : "Caerau Ely",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Carmarthen",
+  "awayTeam" : "Ammanford",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Llandudno",
+  "awayTeam" : "Buckley Town",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Ruthin Town",
+  "awayTeam" : "Denbigh Town",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Holyhead Hotspur",
+  "awayTeam" : "Rhyl",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Mold Alexandra",
+  "awayTeam" : "Caersws",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Flint Mountain",
+  "awayTeam" : "Holywell Town",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Newtown",
+  "awayTeam" : "Broughton",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Barry Town",
+  "awayTeam" : "Cardiff Metro.",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Flint Town Utd",
+  "awayTeam" : "Connah's",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "TNS",
+  "awayTeam" : "Bala Town",
+  "score" : "-"
+}, {
+  "homeTeam" : "Birmingham",
+  "awayTeam" : "Derby County",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Millwall",
+  "awayTeam" : "Ipswich Town",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Stockton Town",
+  "awayTeam" : "Hebburn Town",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Eastbourne Bor.",
+  "awayTeam" : "Worthing",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Chesham Utd",
+  "awayTeam" : "H. Hempstead",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Dagenham Red",
+  "awayTeam" : "Hornchurch",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Ebbsfleet Utd",
+  "awayTeam" : "Tonbridge Angels",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Maidst. Utd",
+  "awayTeam" : "Dover",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Scarborough",
+  "awayTeam" : "Darlington",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Oxford City",
+  "awayTeam" : "Merthyr Town",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Shahrdari Noshahr",
+  "awayTeam" : "Mes Sungun Varzaghan",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Fard",
+  "awayTeam" : "Damash Gilan",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Ario Eslamshahr",
+  "awayTeam" : "Nassaji Maz.",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Aluminium A.",
+  "awayTeam" : "Malavan Bandar Anzali",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Shams Azar Qazvin",
+  "awayTeam" : "TS Tabriz",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Mes Rafsanjan",
+  "awayTeam" : "Persepolis",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Fajr Sepasi",
+  "awayTeam" : "F. Khuzestan",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Kia Academy",
+  "awayTeam" : "Esteghlal Zahedan",
+  "score" : "-"
+}, {
+  "homeTeam" : "Foolad Khuzestan B",
+  "awayTeam" : "Sepidrood Rasht SC",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Shahid Ghandi Yazd",
+  "awayTeam" : "Shahrdari Mahshahr",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Rakhsh Khodro Tabriz",
+  "awayTeam" : "Foolad Hormozgan",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Annagh Utd",
+  "awayTeam" : "Ballinamallard Utd",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Shabab AL Sahel",
+  "awayTeam" : "Jwaaya",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Ansar SC",
+  "awayTeam" : "AL Tadamon Sour",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Aswan",
+  "awayTeam" : "Maleyat Kafr El Z.",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "ZED",
+  "awayTeam" : "Alo Egypt",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "SAK (K)",
+  "awayTeam" : "AL Tayran (K)",
+  "score" : "9-0"
+}, {
+  "homeTeam" : "Zamalek SC (K)",
+  "awayTeam" : "Zed (K)",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Bugesera",
+  "awayTeam" : "Police",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Gasogi Utd",
+  "awayTeam" : "AS Kigali",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Rutsiro",
+  "awayTeam" : "Gicumbi",
+  "score" : "2-4"
+}, {
+  "homeTeam" : "AL Fateh SC",
+  "awayTeam" : "Ahli Saudi",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AL Raed",
+  "awayTeam" : "AL Draih",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Al Zlfe",
+  "awayTeam" : "AL Orubah",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Abha Club",
+  "awayTeam" : "AL Tai",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Transit Camp",
+  "awayTeam" : "B19",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Muscat",
+  "awayTeam" : "Saham",
+  "score" : "0-1"
+} ]
