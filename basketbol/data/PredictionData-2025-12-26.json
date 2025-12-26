@@ -50,17 +50,17 @@
   "homeTeam" : "Rostock Seawolves",
   "awayTeam" : "Alba Berlin",
   "picks" : [ "166.5 Üst (1.63 - 67.9%)" ],
-  "score" : "-",
+  "score" : "66-80",
   "statuses" : {
-    "166.5 Üst (1.63 - 67.9%)" : "pending"
+    "166.5 Üst (1.63 - 67.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Le Portel",
   "awayTeam" : "Cholet",
   "picks" : [ "170.5 Üst (1.64 - 71.8%)" ],
-  "score" : "-",
+  "score" : "84-94",
   "statuses" : {
-    "170.5 Üst (1.64 - 71.8%)" : "pending"
+    "170.5 Üst (1.64 - 71.8%)" : "won"
   }
 }, {
   "homeTeam" : "Nürnberg Falcons",

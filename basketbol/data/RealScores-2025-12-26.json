@@ -78,4 +78,60 @@
   "homeTeam" : "Dynamo UFA",
   "awayTeam" : "Bars-Rgeu Rostov Na Donu",
   "score" : "85-66"
+}, {
+  "homeTeam" : "Tofaş",
+  "awayTeam" : "Bahçeşehir Koleji",
+  "score" : "92-82"
+}, {
+  "homeTeam" : "Partizan",
+  "awayTeam" : "M. Tel Aviv",
+  "score" : "87-112"
+}, {
+  "homeTeam" : "Rostock Seawolves",
+  "awayTeam" : "Alba Berlin",
+  "score" : "66-80"
+}, {
+  "homeTeam" : "Le Mans",
+  "awayTeam" : "Saint Quentin",
+  "score" : "90-74"
+}, {
+  "homeTeam" : "Boulazac Dord.",
+  "awayTeam" : "Dijon Basket",
+  "score" : "79-78"
+}, {
+  "homeTeam" : "Le Portel",
+  "awayTeam" : "Cholet",
+  "score" : "84-94"
+}, {
+  "homeTeam" : "Elan Chalon",
+  "awayTeam" : "Sluc Nancy Basket",
+  "score" : "93-84"
+}, {
+  "homeTeam" : "Strasbourg",
+  "awayTeam" : "Limoges CSP",
+  "score" : "100-82"
+}, {
+  "homeTeam" : "Buducnost",
+  "awayTeam" : "Mega Bemax",
+  "score" : "100-82"
+}, {
+  "homeTeam" : "Oberwart",
+  "awayTeam" : "BC Vienna",
+  "score" : "107-75"
+}, {
+  "homeTeam" : "Furstenfeld",
+  "awayTeam" : "UBSC Graz",
+  "score" : "67-98"
+}, {
+  "homeTeam" : "Slask Wroclaw",
+  "awayTeam" : "Anwil Wlocl.",
+  "score" : "86-79"
+}, {
+  "homeTeam" : "Fenerbahçe Gelişim (K)",
+  "awayTeam" : "Darıca Bas. Feneri (K)",
+  "score" : "77-57"
+}, {
+  "homeTeam" : "N. Novgorod",
+  "awayTeam" : "BC Samara",
+  "score" : "71-79"
 } ]
