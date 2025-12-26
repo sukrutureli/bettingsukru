@@ -10,41 +10,41 @@
   "homeTeam" : "Denver",
   "awayTeam" : "Minnesota",
   "picks" : [ "238.5 Alt (1.65 - 63.2%)" ],
-  "score" : "-",
+  "score" : "142-138",
   "statuses" : {
-    "238.5 Alt (1.65 - 63.2%)" : "pending"
+    "238.5 Alt (1.65 - 63.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Tasmania Jackjumpers",
   "awayTeam" : "N. Z. Breakers",
   "picks" : [ "176.5 Üst (1.66 - 62.9%)" ],
-  "score" : "-",
+  "score" : "80-81",
   "statuses" : {
-    "176.5 Üst (1.66 - 62.9%)" : "pending"
+    "176.5 Üst (1.66 - 62.9%)" : "lost"
   }
 }, {
   "homeTeam" : "KCC Egis",
   "awayTeam" : "LG Sakers",
   "picks" : [ "154.5 Üst (1.65 - 82.7%)" ],
-  "score" : "-",
+  "score" : "101-109",
   "statuses" : {
-    "154.5 Üst (1.65 - 82.7%)" : "pending"
+    "154.5 Üst (1.65 - 82.7%)" : "won"
   }
 }, {
   "homeTeam" : "Qingdao E.",
   "awayTeam" : "Shanxi L.",
   "picks" : [ "186.5 Alt (1.6 - 70.3%)" ],
-  "score" : "-",
+  "score" : "88-81",
   "statuses" : {
-    "186.5 Alt (1.6 - 70.3%)" : "pending"
+    "186.5 Alt (1.6 - 70.3%)" : "won"
   }
 }, {
   "homeTeam" : "Ningbo Rockets",
   "awayTeam" : "Zhejiang G. B.",
   "picks" : [ "184.5 Alt (1.62 - 64.8%)" ],
-  "score" : "-",
+  "score" : "88-79",
   "statuses" : {
-    "184.5 Alt (1.62 - 64.8%)" : "pending"
+    "184.5 Alt (1.62 - 64.8%)" : "won"
   }
 }, {
   "homeTeam" : "Rostock Seawolves",

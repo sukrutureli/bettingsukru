@@ -6,4 +6,76 @@
   "homeTeam" : "LA Lakers",
   "awayTeam" : "Houston",
   "score" : "96-119"
+}, {
+  "homeTeam" : "Ted Ankara Kolejliler",
+  "awayTeam" : "Darüşşafaka",
+  "score" : "81-67"
+}, {
+  "homeTeam" : "Denver",
+  "awayTeam" : "Minnesota",
+  "score" : "142-138"
+}, {
+  "homeTeam" : "BC Dubai",
+  "awayTeam" : "Kk Krka",
+  "score" : "82-61"
+}, {
+  "homeTeam" : "Tasmania Jackjumpers",
+  "awayTeam" : "N. Z. Breakers",
+  "score" : "80-81"
+}, {
+  "homeTeam" : "Nanjing M.K.",
+  "awayTeam" : "Tianjin P.",
+  "score" : "76-104"
+}, {
+  "homeTeam" : "Fujian S.",
+  "awayTeam" : "Guangzhou L.L.",
+  "score" : "97-84"
+}, {
+  "homeTeam" : "Qingdao E.",
+  "awayTeam" : "Shanxi L.",
+  "score" : "88-81"
+}, {
+  "homeTeam" : "Ningbo Rockets",
+  "awayTeam" : "Zhejiang G.B.",
+  "score" : "88-79"
+}, {
+  "homeTeam" : "Guandong S.T.",
+  "awayTeam" : "Shandong H.",
+  "score" : "94-88"
+}, {
+  "homeTeam" : "Xinjiang F.T.",
+  "awayTeam" : "Beijing D.",
+  "score" : "85-89"
+}, {
+  "homeTeam" : "Jiaozuo Culture And Tourism",
+  "awayTeam" : "Guizhou Menglong",
+  "score" : "96-86"
+}, {
+  "homeTeam" : "Shanghai Blackbird",
+  "awayTeam" : "Hubei Culture A. T.",
+  "score" : "98-90"
+}, {
+  "homeTeam" : "Jiangxi Ganchi",
+  "awayTeam" : "H. Kuangfeng",
+  "score" : "72-105"
+}, {
+  "homeTeam" : "Bucheon Hana (K)",
+  "awayTeam" : "Incheon Shinhan (K)",
+  "score" : "64-62"
+}, {
+  "homeTeam" : "KCC Egis",
+  "awayTeam" : "LG Sakers",
+  "score" : "101-109"
+}, {
+  "homeTeam" : "Brave Thunders",
+  "awayTeam" : "Saga Ballooners",
+  "score" : "73-82"
+}, {
+  "homeTeam" : "Universitet Yugra Surgut",
+  "awayTeam" : "Khimki Moscow Region",
+  "score" : "63-79"
+}, {
+  "homeTeam" : "Dynamo UFA",
+  "awayTeam" : "Bars-Rgeu Rostov Na Donu",
+  "score" : "85-66"
 } ]
