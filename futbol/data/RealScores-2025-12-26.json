@@ -714,4 +714,32 @@
   "homeTeam" : "AL Rustaq",
   "awayTeam" : "Sohar",
   "score" : "4-5"
+}, {
+  "homeTeam" : "Man. Utd",
+  "awayTeam" : "Newcastle Utd",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Standard Liege",
+  "awayTeam" : "St. Truidense",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Anderlecht",
+  "awayTeam" : "Charleroi",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Zambiya",
+  "awayTeam" : "Komorlar",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Fas",
+  "awayTeam" : "Mali",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Wrexham",
+  "awayTeam" : "Sheffield Utd",
+  "score" : "5-3"
+}, {
+  "homeTeam" : "Al Hilal",
+  "awayTeam" : "AL Khaleej Saihat",
+  "score" : "3-2"
 } ]

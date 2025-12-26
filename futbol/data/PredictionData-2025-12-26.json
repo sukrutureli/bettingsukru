@@ -202,24 +202,24 @@
   "homeTeam" : "Standard Liege",
   "awayTeam" : "St. Truidense",
   "picks" : [ "Var (1.52 - 59.6%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Var (1.52 - 59.6%)" : "pending"
+    "Var (1.52 - 59.6%)" : "won"
   }
 }, {
   "homeTeam" : "Anderlecht",
   "awayTeam" : "Charleroi",
   "picks" : [ "Alt (1.59 - 59.4%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.59 - 59.4%)" : "pending"
+    "Alt (1.59 - 59.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Man. Utd",
   "awayTeam" : "Newcastle Utd",
   "picks" : [ "Var (1.37 - 75.3%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.37 - 75.3%)" : "pending"
+    "Var (1.37 - 75.3%)" : "lost"
   }
 } ]
