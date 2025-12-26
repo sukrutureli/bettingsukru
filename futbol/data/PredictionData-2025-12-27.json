@@ -1,0 +1,145 @@
+[ {
+  "homeTeam" : "Paradou AC",
+  "awayTeam" : "MB Rouisset",
+  "picks" : [ "MS1 (1.73 - 71.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.73 - 71.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Temouchent",
+  "awayTeam" : "JSM Tiaret",
+  "picks" : [ "Alt (1.33 - 61.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 61.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Shabbab",
+  "awayTeam" : "AL Rifaa",
+  "picks" : [ "Yok (1.35 - 79.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Yok (1.35 - 79.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sampdoria",
+  "awayTeam" : "Reggiana",
+  "picks" : [ "Alt (1.46 - 72.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.46 - 72.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Juve Stabia",
+  "awayTeam" : "Sudtirol",
+  "picks" : [ "Alt (1.4 - 80.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 80.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dorchester",
+  "awayTeam" : "Weymouth",
+  "picks" : [ "Üst (1.4 - 64.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.4 - 64.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hungerford",
+  "awayTeam" : "Berkhamsted",
+  "picks" : [ "Var (1.4 - 66.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 66.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sholing",
+  "awayTeam" : "Basingstoke",
+  "picks" : [ "MS1 (1.5 - 67.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.5 - 67.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Plymouth Parkway",
+  "awayTeam" : "Tiverton",
+  "picks" : [ "Üst (1.37 - 77.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.37 - 77.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Peterhead",
+  "awayTeam" : "Cove Rangers",
+  "picks" : [ "Var (1.54 - 65.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.54 - 65.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "East Kilbri",
+  "awayTeam" : "Clyde Bank",
+  "picks" : [ "Var (1.37 - 67.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.37 - 67.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Forfar",
+  "awayTeam" : "Elgin City",
+  "picks" : [ "Var (1.51 - 64.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.51 - 64.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Edinburgh",
+  "awayTeam" : "Spartans Edinburgh",
+  "picks" : [ "Var (1.35 - 68.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.35 - 68.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Annan Athletic",
+  "awayTeam" : "Stranraer",
+  "picks" : [ "Var (1.4 - 69.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 69.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "El Ahly (Mıs)",
+  "awayTeam" : "Telecom Egypt",
+  "picks" : [ "Alt (1.57 - 63.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.57 - 63.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Khaboora",
+  "awayTeam" : "AL Nasr",
+  "picks" : [ "Alt (1.4 - 65.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 65.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Pendikspor",
+  "awayTeam" : "Esenler Erokspor",
+  "picks" : [ "Var (1.48 - 73.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.48 - 73.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Udinese",
+  "awayTeam" : "Lazio",
+  "picks" : [ "Alt (1.44 - 75.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.44 - 75.5%)" : "pending"
+  }
+} ]
