@@ -1,0 +1,41 @@
+[ {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "Miami",
+  "score" : "111-126"
+}, {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Boston",
+  "score" : "122-140"
+}, {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "Charlotte",
+  "score" : "105-120"
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Toronto",
+  "score" : "138-117"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Philadelphia",
+  "score" : "109-102"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Phoenix",
+  "score" : "108-115"
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Milwaukee",
+  "score" : "125-104"
+}, {
+  "homeTeam" : "Obras Sanita",
+  "awayTeam" : "CA Platense",
+  "score" : "80-72"
+}, {
+  "homeTeam" : "La Union Formosa",
+  "awayTeam" : "San Martin C.",
+  "score" : "75-91"
+}, {
+  "homeTeam" : "Instituto de Cordoba",
+  "awayTeam" : "Atenas Cord",
+  "score" : "68-57"
+} ]

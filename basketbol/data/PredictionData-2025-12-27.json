@@ -2,33 +2,33 @@
   "homeTeam" : "Atlanta",
   "awayTeam" : "Miami",
   "picks" : [ "249.5 Alt (1.66 - 76.5%)" ],
-  "score" : "-",
+  "score" : "111-126",
   "statuses" : {
-    "249.5 Alt (1.66 - 76.5%)" : "pending"
+    "249.5 Alt (1.66 - 76.5%)" : "won"
   }
 }, {
   "homeTeam" : "Orlando",
   "awayTeam" : "Charlotte",
   "picks" : [ "228.5 Üst (1.65 - 71.5%)" ],
-  "score" : "-",
+  "score" : "105-120",
   "statuses" : {
-    "228.5 Üst (1.65 - 71.5%)" : "pending"
+    "228.5 Üst (1.65 - 71.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Washington",
   "awayTeam" : "Toronto",
   "picks" : [ "224.5 Alt (1.63 - 64.9%)" ],
-  "score" : "-",
+  "score" : "138-117",
   "statuses" : {
-    "224.5 Alt (1.63 - 64.9%)" : "pending"
+    "224.5 Alt (1.63 - 64.9%)" : "lost"
   }
 }, {
   "homeTeam" : "New Orleans",
   "awayTeam" : "Phoenix",
   "picks" : [ "240.5 Alt (1.65 - 66.8%)" ],
-  "score" : "-",
+  "score" : "108-115",
   "statuses" : {
-    "240.5 Alt (1.65 - 66.8%)" : "pending"
+    "240.5 Alt (1.65 - 66.8%)" : "won"
   }
 }, {
   "homeTeam" : "Sh. Susanoo",
