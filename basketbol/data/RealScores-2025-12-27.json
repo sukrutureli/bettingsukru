@@ -350,4 +350,156 @@
   "homeTeam" : "Iraklis 2022",
   "awayTeam" : "Panionios",
   "score" : "80-66"
+}, {
+  "homeTeam" : "Galatasaray",
+  "awayTeam" : "Trabzonspor",
+  "score" : "89-101"
+}, {
+  "homeTeam" : "Braunschweig",
+  "awayTeam" : "Rasta Vechta",
+  "score" : "98-77"
+}, {
+  "homeTeam" : "Bamberg",
+  "awayTeam" : "Ratiopharm Ulm",
+  "score" : "83-106"
+}, {
+  "homeTeam" : "MLP A. Heidelberg",
+  "awayTeam" : "Telekom Bonn",
+  "score" : "67-100"
+}, {
+  "homeTeam" : "Ludwigsburg",
+  "awayTeam" : "SC Jena",
+  "score" : "91-82"
+}, {
+  "homeTeam" : "Zaragoza",
+  "awayTeam" : "Manresa",
+  "score" : "83-95"
+}, {
+  "homeTeam" : "CB Granada",
+  "awayTeam" : "UCAM Murcia",
+  "score" : "79-86"
+}, {
+  "homeTeam" : "Joventut Badalona",
+  "awayTeam" : "CB Breogan",
+  "score" : "83-75"
+}, {
+  "homeTeam" : "A. Basket Trento",
+  "awayTeam" : "Pall Udinese",
+  "score" : "75-82"
+}, {
+  "homeTeam" : "Kızıl Yıldız",
+  "awayTeam" : "Olimp Ljubljana",
+  "score" : "97-77"
+}, {
+  "homeTeam" : "Phoenix Hagen",
+  "awayTeam" : "PS Karlsruhe Lions",
+  "score" : "89-62"
+}, {
+  "homeTeam" : "Bayreuth",
+  "awayTeam" : "Uni Baskets Munster",
+  "score" : "83-82"
+}, {
+  "homeTeam" : "Artland Dragons",
+  "awayTeam" : "C. Merlins",
+  "score" : "85-93"
+}, {
+  "homeTeam" : "Z. Leiden",
+  "awayTeam" : "Den Bosch",
+  "score" : "89-95"
+}, {
+  "homeTeam" : "B. Cearense",
+  "awayTeam" : "Minas",
+  "score" : "81-99"
+}, {
+  "homeTeam" : "SC Corinthians P.",
+  "awayTeam" : "Caxias Do Sul",
+  "score" : "100-60"
+}, {
+  "homeTeam" : "CA Paulistano",
+  "awayTeam" : "Mogi Das Cruzes",
+  "score" : "81-66"
+}, {
+  "homeTeam" : "Franca SP",
+  "awayTeam" : "Universo Brasilia",
+  "score" : "92-84"
+}, {
+  "homeTeam" : "Sokol Pisek",
+  "awayTeam" : "Nymburk",
+  "score" : "92-105"
+}, {
+  "homeTeam" : "Randers Cimb.",
+  "awayTeam" : "Kopenhagen B.",
+  "score" : "97-92"
+}, {
+  "homeTeam" : "Horsens IC",
+  "awayTeam" : "BK Amager",
+  "score" : "94-70"
+}, {
+  "homeTeam" : "Chalons Reims",
+  "awayTeam" : "ASC Denain V.",
+  "score" : "98-93"
+}, {
+  "homeTeam" : "Poitiers Basket 86",
+  "awayTeam" : "Caen Basket",
+  "score" : "90-65"
+}, {
+  "homeTeam" : "ADA Blois Basket 41",
+  "awayTeam" : "Roanne Chorale",
+  "score" : "66-80"
+}, {
+  "homeTeam" : "Orleans L. Basket",
+  "awayTeam" : "A. S. Alsace",
+  "score" : "75-67"
+}, {
+  "homeTeam" : "Hermine Nantes B.",
+  "awayTeam" : "ALM Evreux Basket",
+  "score" : "75-82"
+}, {
+  "homeTeam" : "Vendee Challans B.",
+  "awayTeam" : "AIX Maurienne",
+  "score" : "72-80"
+}, {
+  "homeTeam" : "Saint Chamond",
+  "awayTeam" : "Rouen Metropole B.",
+  "score" : "86-89"
+}, {
+  "homeTeam" : "Pau Orthez",
+  "awayTeam" : "Stade Rochelais B.",
+  "score" : "81-82"
+}, {
+  "homeTeam" : "JA Vichy Clermont",
+  "awayTeam" : "Ujap Quimper 29",
+  "score" : "91-55"
+}, {
+  "homeTeam" : "Kk Cedevita Zagreb Junior",
+  "awayTeam" : "Dinamo Zagreb",
+  "score" : "85-82"
+}, {
+  "homeTeam" : "Leicester Riders",
+  "awayTeam" : "London Lions",
+  "score" : "75-83"
+}, {
+  "homeTeam" : "CB Estudiantes (K)",
+  "awayTeam" : "CB Islas Canarias (K)",
+  "score" : "92-69"
+}, {
+  "homeTeam" : "BC Lulea",
+  "awayTeam" : "Umea",
+  "score" : "90-77"
+}, {
+  "homeTeam" : "Sodertalje",
+  "awayTeam" : "Sloga Uppsala",
+  "score" : "64-56"
+}, {
+  "homeTeam" : "Basket Mestre 1958",
+  "awayTeam" : "Torino",
+  "score" : "74-69"
+}, {
+  "homeTeam" : "Zielona Gora",
+  "awayTeam" : "Miasto Szkla",
+  "score" : "98-84"
+}, {
+  "homeTeam" : "CA Queluz",
+  "awayTeam" : "Ovarense",
+  "score" : "82-84"
 } ]

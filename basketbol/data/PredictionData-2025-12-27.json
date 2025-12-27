@@ -170,9 +170,9 @@
   "homeTeam" : "Chalons Reims",
   "awayTeam" : "ASC Denain V.",
   "picks" : [ "165.5 Üst (1.64 - 69.1%)" ],
-  "score" : "-",
+  "score" : "98-93",
   "statuses" : {
-    "165.5 Üst (1.64 - 69.1%)" : "pending"
+    "165.5 Üst (1.64 - 69.1%)" : "won"
   }
 }, {
   "homeTeam" : "BKM Lucenec",
@@ -194,112 +194,112 @@
   "homeTeam" : "Bamberg",
   "awayTeam" : "Ratiopharm Ulm",
   "picks" : [ "166.5 Alt (1.6 - 62.8%)" ],
-  "score" : "-",
+  "score" : "83-106",
   "statuses" : {
-    "166.5 Alt (1.6 - 62.8%)" : "pending"
+    "166.5 Alt (1.6 - 62.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Randers Cimb.",
   "awayTeam" : "Kopenhagen B.",
   "picks" : [ "171.5 Alt (1.65 - 60.3%)" ],
-  "score" : "-",
+  "score" : "97-92",
   "statuses" : {
-    "171.5 Alt (1.65 - 60.3%)" : "pending"
+    "171.5 Alt (1.65 - 60.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Zaragoza",
   "awayTeam" : "Manresa",
   "picks" : [ "172.5 Üst (1.63 - 59.0%)" ],
-  "score" : "-",
+  "score" : "83-95",
   "statuses" : {
-    "172.5 Üst (1.63 - 59.0%)" : "pending"
+    "172.5 Üst (1.63 - 59.0%)" : "won"
   }
 }, {
   "homeTeam" : "Artland Dragons",
   "awayTeam" : "C. Merlins",
   "picks" : [ "MS1 (1.61 - 82.2%)" ],
-  "score" : "-",
+  "score" : "85-93",
   "statuses" : {
-    "MS1 (1.61 - 82.2%)" : "pending"
+    "MS1 (1.61 - 82.2%)" : "lost"
   }
 }, {
   "homeTeam" : "CA Queluz",
   "awayTeam" : "Ovarense",
   "picks" : [ "162.5 Üst (1.66 - 64.9%)" ],
-  "score" : "-",
+  "score" : "82-84",
   "statuses" : {
-    "162.5 Üst (1.66 - 64.9%)" : "pending"
+    "162.5 Üst (1.66 - 64.9%)" : "won"
   }
 }, {
   "homeTeam" : "MLP A. Heidelberg",
   "awayTeam" : "Telekom Bonn",
   "picks" : [ "161.5 Alt (1.63 - 56.0%)" ],
-  "score" : "-",
+  "score" : "67-100",
   "statuses" : {
-    "161.5 Alt (1.63 - 56.0%)" : "pending"
+    "161.5 Alt (1.63 - 56.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Ludwigsburg",
   "awayTeam" : "SC Jena",
   "picks" : [ "168.5 Alt (1.63 - 58.4%)" ],
-  "score" : "-",
+  "score" : "91-82",
   "statuses" : {
-    "168.5 Alt (1.63 - 58.4%)" : "pending"
+    "168.5 Alt (1.63 - 58.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Z. Leiden",
   "awayTeam" : "Den Bosch",
   "picks" : [ "169.5 Üst (1.64 - 66.4%)" ],
-  "score" : "-",
+  "score" : "89-95",
   "statuses" : {
-    "169.5 Üst (1.64 - 66.4%)" : "pending"
+    "169.5 Üst (1.64 - 66.4%)" : "won"
   }
 }, {
   "homeTeam" : "Poitiers Basket 86",
   "awayTeam" : "Caen Basket",
   "picks" : [ "164.5 Üst (1.64 - 63.4%)" ],
-  "score" : "-",
+  "score" : "90-65",
   "statuses" : {
-    "164.5 Üst (1.64 - 63.4%)" : "pending"
+    "164.5 Üst (1.64 - 63.4%)" : "lost"
   }
 }, {
   "homeTeam" : "ADA Blois Basket 41",
   "awayTeam" : "Roanne Chorale",
   "picks" : [ "170.5 Üst (1.66 - 57.5%)" ],
-  "score" : "-",
+  "score" : "66-80",
   "statuses" : {
-    "170.5 Üst (1.66 - 57.5%)" : "pending"
+    "170.5 Üst (1.66 - 57.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Basket Mestre 1958",
   "awayTeam" : "Torino",
   "picks" : [ "MS2 (1.65 - 67.5%)" ],
-  "score" : "-",
+  "score" : "74-69",
   "statuses" : {
-    "MS2 (1.65 - 67.5%)" : "pending"
+    "MS2 (1.65 - 67.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Vendee Challans B.",
   "awayTeam" : "AIX Maurienne",
   "picks" : [ "164.5 Alt (1.62 - 67.0%)" ],
-  "score" : "-",
+  "score" : "72-80",
   "statuses" : {
-    "164.5 Alt (1.62 - 67.0%)" : "pending"
+    "164.5 Alt (1.62 - 67.0%)" : "won"
   }
 }, {
   "homeTeam" : "Leicester Riders",
   "awayTeam" : "London Lions",
   "picks" : [ "159.5 Üst (1.64 - 69.2%)" ],
-  "score" : "-",
+  "score" : "75-83",
   "statuses" : {
-    "159.5 Üst (1.64 - 69.2%)" : "pending"
+    "159.5 Üst (1.64 - 69.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Joventut Badalona",
   "awayTeam" : "CB Breogan",
   "picks" : [ "171.5 Üst (1.64 - 65.2%)" ],
-  "score" : "-",
+  "score" : "83-75",
   "statuses" : {
-    "171.5 Üst (1.64 - 65.2%)" : "pending"
+    "171.5 Üst (1.64 - 65.2%)" : "lost"
   }
 } ]
