@@ -562,4 +562,48 @@
   "homeTeam" : "Al Ahli (Ürd)",
   "awayTeam" : "AL Sarhan",
   "score" : "2-1"
+}, {
+  "homeTeam" : "Chelsea",
+  "awayTeam" : "Aston Villa",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AC Pisa",
+  "awayTeam" : "Juventus",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Mechelen",
+  "awayTeam" : "FCV Dender EH",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "KAA Gent",
+  "awayTeam" : "Westerlo",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Famalicao",
+  "awayTeam" : "Estrela",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Estoril Praia",
+  "awayTeam" : "Alverca",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Uganda",
+  "awayTeam" : "Tanzanya",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Nijerya",
+  "awayTeam" : "Tunus",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Aberdeen",
+  "awayTeam" : "Dundee Utd",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "SSC Bari",
+  "awayTeam" : "AS Avellino 1912",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AL Ittihad",
+  "awayTeam" : "AL Shabab (Sar)",
+  "score" : "2-0"
 } ]
