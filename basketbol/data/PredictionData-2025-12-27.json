@@ -122,49 +122,49 @@
   "homeTeam" : "Aek",
   "awayTeam" : "Aris",
   "picks" : [ "162.5 Üst (1.63 - 71.2%)" ],
-  "score" : "-",
+  "score" : "82-76",
   "statuses" : {
-    "162.5 Üst (1.63 - 71.2%)" : "pending"
+    "162.5 Üst (1.63 - 71.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Galitos Barreiro",
   "awayTeam" : "Porto",
   "picks" : [ "181.5 Alt (1.6 - 57.8%)" ],
-  "score" : "-",
+  "score" : "78-103",
   "statuses" : {
-    "181.5 Alt (1.6 - 57.8%)" : "pending"
+    "181.5 Alt (1.6 - 57.8%)" : "won"
   }
 }, {
   "homeTeam" : "Hamburg Towers",
   "awayTeam" : "Oldenburg",
   "picks" : [ "174.5 Alt (1.64 - 71.8%)" ],
-  "score" : "-",
+  "score" : "69-94",
   "statuses" : {
-    "174.5 Alt (1.64 - 71.8%)" : "pending"
+    "174.5 Alt (1.64 - 71.8%)" : "won"
   }
 }, {
   "homeTeam" : "BK Inter Bratislava",
   "awayTeam" : "MBK Handlova",
   "picks" : [ "160.5 Üst (1.66 - 65.7%)" ],
-  "score" : "-",
+  "score" : "72-83",
   "statuses" : {
-    "160.5 Üst (1.66 - 65.7%)" : "pending"
+    "160.5 Üst (1.66 - 65.7%)" : "lost"
   }
 }, {
   "homeTeam" : "BK NH Ostrava",
   "awayTeam" : "Usti nad Labem",
   "picks" : [ "MS2 (1.83 - 71.1%)" ],
-  "score" : "-",
+  "score" : "100-97",
   "statuses" : {
-    "MS2 (1.83 - 71.1%)" : "pending"
+    "MS2 (1.83 - 71.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Sbb Baskets Wolmirstedt",
   "awayTeam" : "Bochum",
   "picks" : [ "168.5 Alt (1.6 - 66.7%)" ],
-  "score" : "-",
+  "score" : "99-88",
   "statuses" : {
-    "168.5 Alt (1.6 - 66.7%)" : "pending"
+    "168.5 Alt (1.6 - 66.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Chalons Reims",
@@ -178,17 +178,17 @@
   "homeTeam" : "BKM Lucenec",
   "awayTeam" : "Spisski Rytieri",
   "picks" : [ "MS2 (1.87 - 59.5%)" ],
-  "score" : "-",
+  "score" : "97-95",
   "statuses" : {
-    "MS2 (1.87 - 59.5%)" : "pending"
+    "MS2 (1.87 - 59.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Jamtland",
   "awayTeam" : "KFUM Nassjo",
   "picks" : [ "192.5 Alt (1.65 - 61.6%)" ],
-  "score" : "-",
+  "score" : "113-90",
   "statuses" : {
-    "192.5 Alt (1.65 - 61.6%)" : "pending"
+    "192.5 Alt (1.65 - 61.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Bamberg",
