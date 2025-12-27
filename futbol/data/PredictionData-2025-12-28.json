@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "Municipal",
+  "awayTeam" : "Antigua",
+  "picks" : [ "Alt (1.46 - 62.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.46 - 62.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cremonese",
+  "awayTeam" : "Napoli",
+  "picks" : [ "Alt (1.57 - 73.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.57 - 73.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Swedru All Blacks",
+  "awayTeam" : "Karela Utd",
+  "picks" : [ "Alt (1.36 - 67.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.36 - 67.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Arouca",
+  "awayTeam" : "Gil Vicente",
+  "picks" : [ "Alt (1.48 - 65.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.48 - 65.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Asante Kotoko",
+  "awayTeam" : "Bechem Utd",
+  "picks" : [ "Alt (1.38 - 75.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.38 - 75.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Amed Sportif",
+  "awayTeam" : "Iğdır FK",
+  "picks" : [ "Var (1.51 - 79.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.51 - 79.9%)" : "pending"
+  }
+} ]
