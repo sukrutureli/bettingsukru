@@ -2,41 +2,41 @@
   "homeTeam" : "Paradou AC",
   "awayTeam" : "MB Rouisset",
   "picks" : [ "MS1 (1.73 - 71.8%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "MS1 (1.73 - 71.8%)" : "pending"
+    "MS1 (1.73 - 71.8%)" : "won"
   }
 }, {
   "homeTeam" : "Temouchent",
   "awayTeam" : "JSM Tiaret",
   "picks" : [ "Alt (1.33 - 61.2%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.33 - 61.2%)" : "pending"
+    "Alt (1.33 - 61.2%)" : "lost"
   }
 }, {
   "homeTeam" : "AL Shabbab",
   "awayTeam" : "AL Rifaa",
   "picks" : [ "Yok (1.35 - 79.7%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Yok (1.35 - 79.7%)" : "pending"
+    "Yok (1.35 - 79.7%)" : "won"
   }
 }, {
   "homeTeam" : "Sampdoria",
   "awayTeam" : "Reggiana",
   "picks" : [ "Alt (1.46 - 72.0%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.46 - 72.0%)" : "pending"
+    "Alt (1.46 - 72.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Juve Stabia",
   "awayTeam" : "Sudtirol",
   "picks" : [ "Alt (1.4 - 80.1%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.4 - 80.1%)" : "pending"
+    "Alt (1.4 - 80.1%)" : "won"
   }
 }, {
   "homeTeam" : "Dorchester",
