@@ -2,41 +2,41 @@
   "homeTeam" : "Orlando",
   "awayTeam" : "Denver",
   "picks" : [ "MS2 (1.35 - 64.7%)" ],
-  "score" : "-",
+  "score" : "127-126",
   "statuses" : {
-    "MS2 (1.35 - 64.7%)" : "pending"
+    "MS2 (1.35 - 64.7%)" : "lost"
   }
 }, {
   "homeTeam" : "New Orleans",
   "awayTeam" : "Phoenix",
   "picks" : [ "239.5 Alt (1.65 - 71.1%)" ],
-  "score" : "-",
+  "score" : "114-123",
   "statuses" : {
-    "239.5 Alt (1.65 - 71.1%)" : "pending"
+    "239.5 Alt (1.65 - 71.1%)" : "won"
   }
 }, {
   "homeTeam" : "Minnesota",
   "awayTeam" : "Brooklyn",
   "picks" : [ "224.5 Alt (1.59 - 69.6%)" ],
-  "score" : "-",
+  "score" : "107-123",
   "statuses" : {
-    "224.5 Alt (1.59 - 69.6%)" : "pending"
+    "224.5 Alt (1.59 - 69.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Chicago",
   "awayTeam" : "Milwaukee",
   "picks" : [ "MS1 (1.53 - 89.6%)" ],
-  "score" : "-",
+  "score" : "103-112",
   "statuses" : {
-    "MS1 (1.53 - 89.6%)" : "pending"
+    "MS1 (1.53 - 89.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Houston",
   "awayTeam" : "Cleveland",
   "picks" : [ "233.5 Üst (1.6 - 68.5%)" ],
-  "score" : "-",
+  "score" : "117-100",
   "statuses" : {
-    "233.5 Üst (1.6 - 68.5%)" : "pending"
+    "233.5 Üst (1.6 - 68.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Yamagata Wyverns",
@@ -418,8 +418,8 @@
   "homeTeam" : "Vasco Da Gama",
   "awayTeam" : "Imortal BC",
   "picks" : [ "MS2 (1.58 - 71.3%)" ],
-  "score" : "-",
+  "score" : "80-102",
   "statuses" : {
-    "MS2 (1.58 - 71.3%)" : "pending"
+    "MS2 (1.58 - 71.3%)" : "won"
   }
 } ]
