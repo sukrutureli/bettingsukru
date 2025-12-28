@@ -1,0 +1,89 @@
+[ {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Memphis",
+  "picks" : [ "240.5 Alt (1.61 - 63.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "240.5 Alt (1.61 - 63.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Boston",
+  "picks" : [ "231.5 Alt (1.63 - 66.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "231.5 Alt (1.63 - 66.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "Sacramento",
+  "picks" : [ "232.5 Alt (1.64 - 56.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "232.5 Alt (1.64 - 56.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Tasmania Jackjumpers",
+  "awayTeam" : "Melbourne Phoenix",
+  "picks" : [ "177.5 Alt (1.64 - 61.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "177.5 Alt (1.64 - 61.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Meralco",
+  "awayTeam" : "Rain or Shine",
+  "picks" : [ "MS1 (1.48 - 89.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.48 - 89.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shenzhen Leopards",
+  "awayTeam" : "Liaoning F. L.",
+  "picks" : [ "171.5 Üst (1.6 - 65.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "171.5 Üst (1.6 - 65.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "NKA Universitas Pecs",
+  "awayTeam" : "Kormend",
+  "picks" : [ "MS2 (1.79 - 60.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.79 - 60.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "SC Jena",
+  "awayTeam" : "Telekom Bonn",
+  "picks" : [ "MS2 (1.48 - 62.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.48 - 62.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rasta Vechta",
+  "awayTeam" : "Oldenburg",
+  "picks" : [ "167.5 Alt (1.61 - 57.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Alt (1.61 - 57.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CB Breogan",
+  "awayTeam" : "Baskonia",
+  "picks" : [ "178.5 Üst (1.63 - 58.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "178.5 Üst (1.63 - 58.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Trieste",
+  "awayTeam" : "Virtus Bologna",
+  "picks" : [ "166.5 Alt (1.64 - 60.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "166.5 Alt (1.64 - 60.1%)" : "pending"
+  }
+} ]

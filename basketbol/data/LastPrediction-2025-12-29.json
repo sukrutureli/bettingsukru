@@ -1,0 +1,56 @@
+[ {
+  "name" : "Washington - Memphis",
+  "time" : "02:00",
+  "predictions" : [ "240.5 Alt (1.61 - 63.1%)" ],
+  "score" : "118-118"
+}, {
+  "name" : "Portland - Boston",
+  "time" : "02:00",
+  "predictions" : [ "231.5 Alt (1.63 - 66.4%)" ],
+  "score" : "112-113"
+}, {
+  "name" : "LA Lakers - Sacramento",
+  "time" : "05:30",
+  "predictions" : [ "232.5 Alt (1.64 - 56.7%)" ],
+  "score" : "116-115"
+}, {
+  "name" : "Tasmania Jackjumpers - Melbourne Phoenix",
+  "time" : "11:30",
+  "predictions" : [ "177.5 Alt (1.64 - 61.4%)" ],
+  "score" : "87-88"
+}, {
+  "name" : "Meralco - Rain or Shine",
+  "time" : "14:30",
+  "predictions" : [ "MS1 (1.48 - 89.6%)" ],
+  "score" : "101-90"
+}, {
+  "name" : "Shenzhen Leopards - Liaoning F. L.",
+  "time" : "14:35",
+  "predictions" : [ "171.5 Üst (1.6 - 65.7%)" ],
+  "score" : "91-88"
+}, {
+  "name" : "NKA Universitas Pecs - Kormend",
+  "time" : "20:00",
+  "predictions" : [ "MS2 (1.79 - 60.2%)" ],
+  "score" : "88-90"
+}, {
+  "name" : "SC Jena - Telekom Bonn",
+  "time" : "22:00",
+  "predictions" : [ "MS2 (1.48 - 62.6%)" ],
+  "score" : "82-85"
+}, {
+  "name" : "Rasta Vechta - Oldenburg",
+  "time" : "22:00",
+  "predictions" : [ "167.5 Alt (1.61 - 57.3%)" ],
+  "score" : "83-82"
+}, {
+  "name" : "CB Breogan - Baskonia",
+  "time" : "22:00",
+  "predictions" : [ "178.5 Üst (1.63 - 58.6%)" ],
+  "score" : "92-90"
+}, {
+  "name" : "Trieste - Virtus Bologna",
+  "time" : "22:30",
+  "predictions" : [ "166.5 Alt (1.64 - 60.1%)" ],
+  "score" : "82-82"
+} ]
