@@ -218,4 +218,168 @@
   "homeTeam" : "Al Baqaa",
   "awayTeam" : "Al Jazeera",
   "score" : "1-0"
+}, {
+  "homeTeam" : "Amed Sportif",
+  "awayTeam" : "Iğdır FK",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Crystal Palace",
+  "awayTeam" : "Tottenham",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Arouca",
+  "awayTeam" : "Gil Vicente",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Casa Pia",
+  "awayTeam" : "V. Guimaraes",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Ekvator Ginesi",
+  "awayTeam" : "Sudan",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Al Nasr Dubai",
+  "awayTeam" : "AL Ain",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Al Ahli SC Manama",
+  "awayTeam" : "Sitra Club",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Al-Muharraq",
+  "awayTeam" : "Al Najma",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Basake Holy Stars",
+  "awayTeam" : "Hohoe Utd",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Young Apostles",
+  "awayTeam" : "Aduana Stars",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Swedru All Blacks",
+  "awayTeam" : "Karela Utd",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Berekum Chelsea",
+  "awayTeam" : "Eleven Wonders",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Bibiani Gold Stars",
+  "awayTeam" : "Dreams",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Asante Kotoko",
+  "awayTeam" : "Bechem Utd",
+  "score" : "6-0"
+}, {
+  "homeTeam" : "Dormaa Unity Youth",
+  "awayTeam" : "Techiman Liberty Youth",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "Accra Great Olympics",
+  "awayTeam" : "Okwawu Utd",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Brikama Utd",
+  "awayTeam" : "Gambia Ports Authority",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Samger",
+  "awayTeam" : "Tmt",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Gambian Dutch Lions",
+  "awayTeam" : "Falcons",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Harts",
+  "awayTeam" : "Fortune",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "AL Zawraa",
+  "awayTeam" : "AL Minaa",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Duhail SC",
+  "awayTeam" : "Katar SC",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Al Sailiya",
+  "awayTeam" : "AL Wakrah",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Arabi Doha",
+  "awayTeam" : "AL Rayyan",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Al Kuveyt SC",
+  "awayTeam" : "Al Fehaheel",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Enyimba",
+  "awayTeam" : "Shooting Stars",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Kun Khalifat",
+  "awayTeam" : "Katsina Utd",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Rivers Utd",
+  "awayTeam" : "Eng. Rangers",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Niger Tornadoes",
+  "awayTeam" : "Barau",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Asn Nigelec",
+  "awayTeam" : "Urana",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Teranga SC",
+  "awayTeam" : "AS Saloum",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AS Camberene",
+  "awayTeam" : "Guediawaye",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Ajel de Rufisque",
+  "awayTeam" : "Walidaan Dkr",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Bhantal",
+  "awayTeam" : "Star Sport Academy",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Entente 2",
+  "awayTeam" : "Tambo",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Asko",
+  "awayTeam" : "Espoir Tsevie",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Gbohloesu",
+  "awayTeam" : "AC Semassi",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Unisport",
+  "awayTeam" : "AS Otr",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AL Shabab",
+  "awayTeam" : "Dhofar Scsc",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Faisaly (Ürd)",
+  "awayTeam" : "Al Wehdat",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Shabab AL Ordon",
+  "awayTeam" : "AL Salt",
+  "score" : "1-2"
 } ]
