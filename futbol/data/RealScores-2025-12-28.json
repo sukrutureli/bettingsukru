@@ -382,4 +382,36 @@
   "homeTeam" : "Shabab AL Ordon",
   "awayTeam" : "AL Salt",
   "score" : "1-2"
+}, {
+  "homeTeam" : "Bologna",
+  "awayTeam" : "Sassuolo",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Atalanta",
+  "awayTeam" : "Inter",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Braga",
+  "awayTeam" : "Benfica",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Sporting CP",
+  "awayTeam" : "Rio Ave",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Cezayir",
+  "awayTeam" : "Burkina Faso",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Fildişi Sahili",
+  "awayTeam" : "Kamerun",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "KF Egnatia R.",
+  "awayTeam" : "D. Tirana",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Ikorodu City",
+  "awayTeam" : "Remo Stars",
+  "score" : "1-0"
 } ]
