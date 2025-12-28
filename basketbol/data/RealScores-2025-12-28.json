@@ -578,4 +578,76 @@
   "homeTeam" : "Oliveirense",
   "awayTeam" : "Sporting CP",
   "score" : "76-86"
+}, {
+  "homeTeam" : "Real Madrid",
+  "awayTeam" : "Unicaja Malaga",
+  "score" : "91-82"
+}, {
+  "homeTeam" : "Napoli Basket",
+  "awayTeam" : "Cantu",
+  "score" : "98-86"
+}, {
+  "homeTeam" : "Trapani",
+  "awayTeam" : "Varese",
+  "score" : "88-95"
+}, {
+  "homeTeam" : "Partizan",
+  "awayTeam" : "KK Split",
+  "score" : "110-74"
+}, {
+  "homeTeam" : "Texas Tech Red Raiders",
+  "awayTeam" : "Winthrop Eagles",
+  "score" : "87-57"
+}, {
+  "homeTeam" : "Texas Longhorns (K)",
+  "awayTeam" : "Southeastern Louisiana Lions (K)",
+  "score" : "120-38"
+}, {
+  "homeTeam" : "Kentucky Wildcats (K)",
+  "awayTeam" : "Hofstra Pride (K)",
+  "score" : "80-42"
+}, {
+  "homeTeam" : "Ohio State Buckeyes (K)",
+  "awayTeam" : "UCLA Bruins (K)",
+  "score" : "75-82"
+}, {
+  "homeTeam" : "Ole Mississippi Rebels (K)",
+  "awayTeam" : "Alcorn State Bra (K)",
+  "score" : "64-44"
+}, {
+  "homeTeam" : "Vanderbilt Commod (K)",
+  "awayTeam" : "Stonehill Skyhawks (K)",
+  "score" : "109-50"
+}, {
+  "homeTeam" : "Cibona Zagreb",
+  "awayTeam" : "Furnir Dubrava",
+  "score" : "75-81"
+}, {
+  "homeTeam" : "Cheshire Phoenix",
+  "awayTeam" : "Manchester Basketball",
+  "score" : "116-90"
+}, {
+  "homeTeam" : "Newcastle Eagles",
+  "awayTeam" : "Caledonia Gladiators",
+  "score" : "79-87"
+}, {
+  "homeTeam" : "CD Maristas Palencia",
+  "awayTeam" : "CB Tizona",
+  "score" : "91-76"
+}, {
+  "homeTeam" : "Agrigento",
+  "awayTeam" : "Bakery Basket Piacenza",
+  "score" : "83-80"
+}, {
+  "homeTeam" : "San Severo",
+  "awayTeam" : "ASD Luiss Roma",
+  "score" : "88-75"
+}, {
+  "homeTeam" : "CP Esgueira",
+  "awayTeam" : "Vitoria",
+  "score" : "91-103"
+}, {
+  "homeTeam" : "Vasco Da Gama",
+  "awayTeam" : "Imortal BC",
+  "score" : "66-119"
 } ]

@@ -386,39 +386,39 @@
   "homeTeam" : "Real Madrid",
   "awayTeam" : "Unicaja Malaga",
   "picks" : [ "172.5 Üst (1.63 - 79.9%)" ],
-  "score" : "-",
+  "score" : "91-82",
   "statuses" : {
-    "172.5 Üst (1.63 - 79.9%)" : "pending"
+    "172.5 Üst (1.63 - 79.9%)" : "won"
   }
 }, {
   "homeTeam" : "Trapani",
   "awayTeam" : "Varese",
   "picks" : [ "174.5 Alt (1.66 - 66.1%)" ],
-  "score" : "-",
+  "score" : "88-95",
   "statuses" : {
-    "174.5 Alt (1.66 - 66.1%)" : "pending"
+    "174.5 Alt (1.66 - 66.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Partizan",
   "awayTeam" : "KK Split",
   "picks" : [ "171.5 Üst (1.63 - 71.5%)" ],
-  "score" : "-",
+  "score" : "110-74",
   "statuses" : {
-    "171.5 Üst (1.63 - 71.5%)" : "pending"
+    "171.5 Üst (1.63 - 71.5%)" : "won"
   }
 }, {
   "homeTeam" : "CP Esgueira",
   "awayTeam" : "Vitoria",
   "picks" : [ "176.5 Üst (1.66 - 65.2%)" ],
-  "score" : "-",
+  "score" : "91-103",
   "statuses" : {
-    "176.5 Üst (1.66 - 65.2%)" : "pending"
+    "176.5 Üst (1.66 - 65.2%)" : "won"
   }
 }, {
   "homeTeam" : "Vasco Da Gama",
   "awayTeam" : "Imortal BC",
   "picks" : [ "MS2 (1.58 - 71.3%)" ],
-  "score" : "80-102",
+  "score" : "66-119",
   "statuses" : {
     "MS2 (1.58 - 71.3%)" : "won"
   }
