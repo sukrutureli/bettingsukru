@@ -10,9 +10,9 @@
   "homeTeam" : "Cremonese",
   "awayTeam" : "Napoli",
   "picks" : [ "Alt (1.57 - 73.2%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.57 - 73.2%)" : "pending"
+    "Alt (1.57 - 73.2%)" : "won"
   }
 }, {
   "homeTeam" : "Swedru All Blacks",
