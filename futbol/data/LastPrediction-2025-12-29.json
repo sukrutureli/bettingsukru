@@ -1,0 +1,37 @@
+[ {
+  "name" : "Al Ahli Doha - Umm Salal SC",
+  "time" : "19:30",
+  "predictions" : [ "Üst (1.32 - 85.5%)" ],
+  "score" : "4-1",
+  "mbs" : 2
+}, {
+  "name" : "AL Riyadh - AL Hazem",
+  "time" : "20:30",
+  "predictions" : [ "Alt (1.54 - 59.6%)" ],
+  "score" : "1-1",
+  "mbs" : 2
+}, {
+  "name" : "Millwall - Bristol City",
+  "time" : "22:45",
+  "predictions" : [ "Alt (1.59 - 68.0%)" ],
+  "score" : "0-1",
+  "mbs" : 1
+}, {
+  "name" : "Portsmouth - Charlton",
+  "time" : "22:45",
+  "predictions" : [ "Alt (1.46 - 66.1%)" ],
+  "score" : "1-0",
+  "mbs" : 1
+}, {
+  "name" : "Norwich City - Watford",
+  "time" : "22:45",
+  "predictions" : [ "Var (1.47 - 72.2%)" ],
+  "score" : "1-1",
+  "mbs" : 1
+}, {
+  "name" : "Birmingham - Southampton",
+  "time" : "23:15",
+  "predictions" : [ "Var (1.52 - 63.7%)" ],
+  "score" : "1-1",
+  "mbs" : 1
+} ]
