@@ -42,193 +42,193 @@
   "homeTeam" : "Yamagata Wyverns",
   "awayTeam" : "Ehime O. V.",
   "picks" : [ "MS2 (1.39 - 70.4%)" ],
-  "score" : "-",
+  "score" : "69-76",
   "statuses" : {
-    "MS2 (1.39 - 70.4%)" : "pending"
+    "MS2 (1.39 - 70.4%)" : "won"
   }
 }, {
   "homeTeam" : "Dongbu Promy",
   "awayTeam" : "Samsung Thunders",
   "picks" : [ "161.5 Alt (1.6 - 66.6%)" ],
-  "score" : "-",
+  "score" : "81-67",
   "statuses" : {
-    "161.5 Alt (1.6 - 66.6%)" : "pending"
+    "161.5 Alt (1.6 - 66.6%)" : "won"
   }
 }, {
   "homeTeam" : "Hiroshima Dr.",
   "awayTeam" : "Ibaraki Robots",
   "picks" : [ "162.5 Alt (1.65 - 58.6%)" ],
-  "score" : "-",
+  "score" : "98-88",
   "statuses" : {
-    "162.5 Alt (1.65 - 58.6%)" : "pending"
+    "162.5 Alt (1.65 - 58.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Yokohama",
   "awayTeam" : "Altiri Chiba",
   "picks" : [ "MS1 (1.46 - 71.2%)" ],
-  "score" : "-",
+  "score" : "86-60",
   "statuses" : {
-    "MS1 (1.46 - 71.2%)" : "pending"
+    "MS1 (1.46 - 71.2%)" : "won"
   }
 }, {
   "homeTeam" : "Sh. Susanoo",
   "awayTeam" : "Diamond Dolphins",
   "picks" : [ "162.5 Alt (1.59 - 57.7%)" ],
-  "score" : "-",
+  "score" : "97-88",
   "statuses" : {
-    "162.5 Alt (1.59 - 57.7%)" : "pending"
+    "162.5 Alt (1.59 - 57.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Sun Rockers Shibuya",
   "awayTeam" : "Osaka Evessa",
   "picks" : [ "155.5 Alt (1.62 - 55.6%)" ],
-  "score" : "-",
+  "score" : "51-78",
   "statuses" : {
-    "155.5 Alt (1.62 - 55.6%)" : "pending"
+    "155.5 Alt (1.62 - 55.6%)" : "won"
   }
 }, {
   "homeTeam" : "Gunma Crane",
   "awayTeam" : "San En Neophoenix",
   "picks" : [ "MS1 (1.36 - 82.1%)" ],
-  "score" : "-",
+  "score" : "91-71",
   "statuses" : {
-    "MS1 (1.36 - 82.1%)" : "pending"
+    "MS1 (1.36 - 82.1%)" : "won"
   }
 }, {
   "homeTeam" : "Aomori Watts",
   "awayTeam" : "Kagoshima Rebnise",
   "picks" : [ "168.5 Alt (1.59 - 61.4%)" ],
-  "score" : "-",
+  "score" : "73-82",
   "statuses" : {
-    "168.5 Alt (1.59 - 61.4%)" : "pending"
+    "168.5 Alt (1.59 - 61.4%)" : "won"
   }
 }, {
   "homeTeam" : "Rizing Fukuoka",
   "awayTeam" : "Veltex Shizuoka",
   "picks" : [ "146.5 Üst (1.6 - 68.1%)" ],
-  "score" : "-",
+  "score" : "97-88",
   "statuses" : {
-    "146.5 Üst (1.6 - 68.1%)" : "pending"
+    "146.5 Üst (1.6 - 68.1%)" : "won"
   }
 }, {
   "homeTeam" : "B. Girona",
   "awayTeam" : "Força Lleida",
   "picks" : [ "MS1 (1.37 - 81.8%)" ],
-  "score" : "-",
+  "score" : "103-86",
   "statuses" : {
-    "MS1 (1.37 - 81.8%)" : "pending"
+    "MS1 (1.37 - 81.8%)" : "won"
   }
 }, {
   "homeTeam" : "Gernika Kesb (K)",
   "awayTeam" : "Gipuzkoa IDK (K)",
   "picks" : [ "133.5 Üst (1.61 - 59.1%)" ],
-  "score" : "-",
+  "score" : "80-75",
   "statuses" : {
-    "133.5 Üst (1.61 - 59.1%)" : "pending"
+    "133.5 Üst (1.61 - 59.1%)" : "won"
   }
 }, {
   "homeTeam" : "SC Braga",
   "awayTeam" : "SL Benfica",
   "picks" : [ "164.5 Alt (1.64 - 60.7%)" ],
-  "score" : "-",
+  "score" : "63-87",
   "statuses" : {
-    "164.5 Alt (1.64 - 60.7%)" : "pending"
+    "164.5 Alt (1.64 - 60.7%)" : "won"
   }
 }, {
   "homeTeam" : "Jouventut Badalona (K)",
   "awayTeam" : "Valencia (K)",
   "picks" : [ "146.5 Alt (1.64 - 71.4%)" ],
-  "score" : "-",
+  "score" : "71-84",
   "statuses" : {
-    "146.5 Alt (1.64 - 71.4%)" : "pending"
+    "146.5 Alt (1.64 - 71.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Cab Estepona (K)",
   "awayTeam" : "Cb Jairis (K)",
   "picks" : [ "141.5 Üst (1.59 - 62.3%)" ],
-  "score" : "-",
+  "score" : "72-77",
   "statuses" : {
-    "141.5 Üst (1.59 - 62.3%)" : "pending"
+    "141.5 Üst (1.59 - 62.3%)" : "won"
   }
 }, {
   "homeTeam" : "Menorca Basquet",
   "awayTeam" : "Fuenlabrada",
   "picks" : [ "161.5 Üst (1.64 - 55.7%)" ],
-  "score" : "-",
+  "score" : "80-70",
   "statuses" : {
-    "161.5 Üst (1.64 - 55.7%)" : "pending"
+    "161.5 Üst (1.64 - 55.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Oviedo",
   "awayTeam" : "Club Ourense",
   "picks" : [ "164.5 Üst (1.61 - 63.1%)" ],
-  "score" : "-",
+  "score" : "75-73",
   "statuses" : {
-    "164.5 Üst (1.61 - 63.1%)" : "pending"
+    "164.5 Üst (1.61 - 63.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Converge Fiberxers",
   "awayTeam" : "Barangay Ginebra",
   "picks" : [ "MS2 (1.42 - 71.1%)" ],
-  "score" : "-",
+  "score" : "98-99",
   "statuses" : {
-    "MS2 (1.42 - 71.1%)" : "pending"
+    "MS2 (1.42 - 71.1%)" : "won"
   }
 }, {
   "homeTeam" : "A. Arka Gdynia",
   "awayTeam" : "Legia Warsz.",
   "picks" : [ "165.5 Alt (1.63 - 66.9%)" ],
-  "score" : "-",
+  "score" : "106-73",
   "statuses" : {
-    "165.5 Alt (1.63 - 66.9%)" : "pending"
+    "165.5 Alt (1.63 - 66.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Ningbo Rockets",
   "awayTeam" : "Tianjin P.",
   "picks" : [ "MS1 (1.36 - 70.5%)" ],
-  "score" : "-",
+  "score" : "101-98",
   "statuses" : {
-    "MS1 (1.36 - 70.5%)" : "pending"
+    "MS1 (1.36 - 70.5%)" : "won"
   }
 }, {
   "homeTeam" : "Tenerife",
   "awayTeam" : "Gran Canaria",
   "picks" : [ "169.5 Alt (1.64 - 55.4%)" ],
-  "score" : "-",
+  "score" : "70-71",
   "statuses" : {
-    "169.5 Alt (1.64 - 55.4%)" : "pending"
+    "169.5 Alt (1.64 - 55.4%)" : "won"
   }
 }, {
   "homeTeam" : "Univ. de Ferrol (K)",
   "awayTeam" : "Porta XI Ensino (K)",
   "picks" : [ "145.5 Alt (1.6 - 64.9%)" ],
-  "score" : "-",
+  "score" : "71-67",
   "statuses" : {
-    "145.5 Alt (1.6 - 64.9%)" : "pending"
+    "145.5 Alt (1.6 - 64.9%)" : "won"
   }
 }, {
   "homeTeam" : "Hong Kong",
   "awayTeam" : "Taipei Fubon Braves",
   "picks" : [ "174.5 Üst (1.64 - 80.5%)" ],
-  "score" : "-",
+  "score" : "103-93",
   "statuses" : {
-    "174.5 Üst (1.64 - 80.5%)" : "pending"
+    "174.5 Üst (1.64 - 80.5%)" : "won"
   }
 }, {
   "homeTeam" : "Dziki Warshawa",
   "awayTeam" : "Slam Stal",
   "picks" : [ "176.5 Üst (1.63 - 63.4%)" ],
-  "score" : "-",
+  "score" : "80-61",
   "statuses" : {
-    "176.5 Üst (1.63 - 63.4%)" : "pending"
+    "176.5 Üst (1.63 - 63.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Peristeri",
   "awayTeam" : "Promitheas",
   "picks" : [ "162.5 Üst (1.61 - 71.7%)" ],
-  "score" : "-",
+  "score" : "80-92",
   "statuses" : {
-    "162.5 Üst (1.61 - 71.7%)" : "pending"
+    "162.5 Üst (1.61 - 71.7%)" : "won"
   }
 }, {
   "homeTeam" : "Traiskirchen",
