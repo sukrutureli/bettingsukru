@@ -2,9 +2,9 @@
   "homeTeam" : "Municipal",
   "awayTeam" : "Antigua",
   "picks" : [ "Alt (1.46 - 62.5%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.46 - 62.5%)" : "pending"
+    "Alt (1.46 - 62.5%)" : "won"
   }
 }, {
   "homeTeam" : "Cremonese",
