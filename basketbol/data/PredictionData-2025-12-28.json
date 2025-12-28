@@ -234,153 +234,153 @@
   "homeTeam" : "Traiskirchen",
   "awayTeam" : "UBSC Graz",
   "picks" : [ "167.5 Alt (1.61 - 59.6%)" ],
-  "score" : "-",
+  "score" : "84-78",
   "statuses" : {
-    "167.5 Alt (1.61 - 59.6%)" : "pending"
+    "167.5 Alt (1.61 - 59.6%)" : "won"
   }
 }, {
   "homeTeam" : "Alba Fehervar",
   "awayTeam" : "Soproni Sordogok",
   "picks" : [ "175.5 Alt (1.66 - 72.8%)" ],
-  "score" : "-",
+  "score" : "95-77",
   "statuses" : {
-    "175.5 Alt (1.66 - 72.8%)" : "pending"
+    "175.5 Alt (1.66 - 72.8%)" : "won"
   }
 }, {
   "homeTeam" : "Treviso",
   "awayTeam" : "Sassari",
   "picks" : [ "169.5 Alt (1.66 - 57.0%)" ],
-  "score" : "-",
+  "score" : "89-92",
   "statuses" : {
-    "169.5 Alt (1.66 - 57.0%)" : "pending"
+    "169.5 Alt (1.66 - 57.0%)" : "lost"
   }
 }, {
   "homeTeam" : "KK Igokea",
   "awayTeam" : "Borac Cacak",
   "picks" : [ "166.5 Alt (1.61 - 60.1%)" ],
-  "score" : "-",
+  "score" : "81-73",
   "statuses" : {
-    "166.5 Alt (1.61 - 60.1%)" : "pending"
+    "166.5 Alt (1.61 - 60.1%)" : "won"
   }
 }, {
   "homeTeam" : "EPG Baskets Koblenz",
   "awayTeam" : "VFL Kirchheim Knights",
   "picks" : [ "MS2 (1.48 - 59.3%)" ],
-  "score" : "-",
+  "score" : "98-105",
   "statuses" : {
-    "MS2 (1.48 - 59.3%)" : "pending"
+    "MS2 (1.48 - 59.3%)" : "won"
   }
 }, {
   "homeTeam" : "Baloncesto Leganes (K)",
   "awayTeam" : "Perf. Avenida (K)",
   "picks" : [ "132.5 Üst (1.66 - 66.7%)" ],
-  "score" : "-",
+  "score" : "69-64",
   "statuses" : {
-    "132.5 Üst (1.66 - 66.7%)" : "pending"
+    "132.5 Üst (1.66 - 66.7%)" : "won"
   }
 }, {
   "homeTeam" : "Budapesti Honved SE",
   "awayTeam" : "Debreceni Eac",
   "picks" : [ "157.5 Üst (1.65 - 67.1%)" ],
-  "score" : "-",
+  "score" : "87-79",
   "statuses" : {
-    "157.5 Üst (1.65 - 67.1%)" : "pending"
+    "157.5 Üst (1.65 - 67.1%)" : "won"
   }
 }, {
   "homeTeam" : "Oberwart",
   "awayTeam" : "Flyers Wels",
   "picks" : [ "160.5 Üst (1.61 - 83.2%)" ],
-  "score" : "-",
+  "score" : "82-73",
   "statuses" : {
-    "160.5 Üst (1.61 - 83.2%)" : "pending"
+    "160.5 Üst (1.61 - 83.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Valencia",
   "awayTeam" : "Andorra",
   "picks" : [ "179.5 Alt (1.62 - 57.1%)" ],
-  "score" : "-",
+  "score" : "84-79",
   "statuses" : {
-    "179.5 Alt (1.62 - 57.1%)" : "pending"
+    "179.5 Alt (1.62 - 57.1%)" : "won"
   }
 }, {
   "homeTeam" : "Derthona Basket",
   "awayTeam" : "Reggiana Emilia",
   "picks" : [ "165.5 Üst (1.6 - 58.9%)" ],
-  "score" : "-",
+  "score" : "81-67",
   "statuses" : {
-    "165.5 Üst (1.6 - 58.9%)" : "pending"
+    "165.5 Üst (1.6 - 58.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Basket 1971",
   "awayTeam" : "Forli",
   "picks" : [ "160.5 Üst (1.65 - 55.4%)" ],
-  "score" : "-",
+  "score" : "93-79",
   "statuses" : {
-    "160.5 Üst (1.65 - 55.4%)" : "pending"
+    "160.5 Üst (1.65 - 55.4%)" : "won"
   }
 }, {
   "homeTeam" : "Urania Milano",
   "awayTeam" : "Benedetto Cento",
   "picks" : [ "MS1 (1.46 - 72.1%)" ],
-  "score" : "-",
+  "score" : "97-85",
   "statuses" : {
-    "MS1 (1.46 - 72.1%)" : "pending"
+    "MS1 (1.46 - 72.1%)" : "won"
   }
 }, {
   "homeTeam" : "Agribertocchi Orzinuovi",
   "awayTeam" : "Vicenza",
   "picks" : [ "157.5 Üst (1.61 - 67.6%)" ],
-  "score" : "-",
+  "score" : "80-75",
   "statuses" : {
-    "157.5 Üst (1.61 - 67.6%)" : "pending"
+    "157.5 Üst (1.61 - 67.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Virtus Lumezzane",
   "awayTeam" : "Treviglio Brianza Basket",
   "picks" : [ "156.5 Üst (1.64 - 58.8%)" ],
-  "score" : "-",
+  "score" : "77-81",
   "statuses" : {
-    "156.5 Üst (1.64 - 58.8%)" : "pending"
+    "156.5 Üst (1.64 - 58.8%)" : "won"
   }
 }, {
   "homeTeam" : "Virtus Imola",
   "awayTeam" : "Chiusi",
   "picks" : [ "152.5 Alt (1.63 - 62.0%)" ],
-  "score" : "-",
+  "score" : "83-81",
   "statuses" : {
-    "152.5 Alt (1.63 - 62.0%)" : "pending"
+    "152.5 Alt (1.63 - 62.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Legnano Knights",
   "awayTeam" : "P. Fiorenzuola",
   "picks" : [ "149.5 Üst (1.6 - 63.0%)" ],
-  "score" : "-",
+  "score" : "93-90",
   "statuses" : {
-    "149.5 Üst (1.6 - 63.0%)" : "pending"
+    "149.5 Üst (1.6 - 63.0%)" : "won"
   }
 }, {
   "homeTeam" : "Power Basket Nocera",
   "awayTeam" : "Solbat Basket Golfo Piombino",
   "picks" : [ "MS1 (1.59 - 63.4%)" ],
-  "score" : "-",
+  "score" : "69-72",
   "statuses" : {
-    "MS1 (1.59 - 63.4%)" : "pending"
+    "MS1 (1.59 - 63.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Ravenna Pie",
   "awayTeam" : "Andrea Imola",
   "picks" : [ "147.5 Üst (1.6 - 59.2%)" ],
-  "score" : "-",
+  "score" : "96-54",
   "statuses" : {
-    "147.5 Üst (1.6 - 59.2%)" : "pending"
+    "147.5 Üst (1.6 - 59.2%)" : "won"
   }
 }, {
   "homeTeam" : "Kaposvari KK",
   "awayTeam" : "Szolnoki Olaj Kk",
   "picks" : [ "177.5 Alt (1.6 - 64.8%)" ],
-  "score" : "-",
+  "score" : "86-92",
   "statuses" : {
-    "177.5 Alt (1.6 - 64.8%)" : "pending"
+    "177.5 Alt (1.6 - 64.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Real Madrid",
