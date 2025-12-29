@@ -1,0 +1,185 @@
+[ {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Milwaukee",
+  "picks" : [ "227.5 Alt (1.66 - 56.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "227.5 Alt (1.66 - 56.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Denver",
+  "picks" : [ "243.5 Alt (1.66 - 61.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "243.5 Alt (1.66 - 61.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "Cleveland",
+  "picks" : [ "243.5 Alt (1.62 - 55.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "243.5 Alt (1.62 - 55.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Minnesota",
+  "picks" : [ "243.5 Alt (1.64 - 70.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "243.5 Alt (1.64 - 70.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "New York",
+  "picks" : [ "246.5 Alt (1.6 - 69.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "246.5 Alt (1.6 - 69.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Dallas",
+  "picks" : [ "232.5 Alt (1.62 - 66.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "232.5 Alt (1.62 - 66.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sydney Kings",
+  "awayTeam" : "Brisbane Bullets",
+  "picks" : [ "185.5 Alt (1.62 - 65.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "185.5 Alt (1.62 - 65.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zhejiang G. B.",
+  "awayTeam" : "Nanjing M. K.",
+  "picks" : [ "182.5 Alt (1.61 - 58.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "182.5 Alt (1.61 - 58.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Beijing D.",
+  "awayTeam" : "Zhejiang L.",
+  "picks" : [ "MS1 (1.31 - 83.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.31 - 83.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bahçeşehir Koleji",
+  "awayTeam" : "Hamburg Towers",
+  "picks" : [ "174.5 Alt (1.67 - 63.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "174.5 Alt (1.67 - 63.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "San Pablo Burgos",
+  "awayTeam" : "Gran Canaria",
+  "picks" : [ "MS2 (1.43 - 61.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.43 - 61.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Nymburk",
+  "awayTeam" : "BK Olomoucko",
+  "picks" : [ "172.5 Üst (1.65 - 65.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "172.5 Üst (1.65 - 65.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Duna Aszfalt",
+  "awayTeam" : "Zalakeramia ZTE",
+  "picks" : [ "MS2 (1.82 - 55.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.82 - 55.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "BK Inter Bratislava",
+  "picks" : [ "167.5 Alt (1.67 - 59.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Alt (1.67 - 59.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "BK Iskra Svit",
+  "awayTeam" : "Komarno",
+  "picks" : [ "MS2 (1.39 - 61.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.39 - 61.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "MBK Handlova",
+  "awayTeam" : "Prievidza",
+  "picks" : [ "MS1 (1.55 - 81.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.55 - 81.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Unicaja Malaga",
+  "awayTeam" : "Joventut Badalona",
+  "picks" : [ "168.5 Üst (1.65 - 65.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Üst (1.65 - 65.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Boras",
+  "awayTeam" : "BC Lulea",
+  "picks" : [ "175.5 Üst (1.63 - 76.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "175.5 Üst (1.63 - 76.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "MLP A. Heidelberg",
+  "awayTeam" : "Frankfurt",
+  "picks" : [ "164.5 Alt (1.66 - 57.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "164.5 Alt (1.66 - 57.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Hap. Tel Aviv",
+  "awayTeam" : "Zalgiris Kaunas",
+  "picks" : [ "168.5 Üst (1.66 - 66.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Üst (1.66 - 66.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Monaco",
+  "picks" : [ "171.5 Alt (1.61 - 64.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "171.5 Alt (1.61 - 64.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Leicester Riders",
+  "awayTeam" : "Bristol Flyers",
+  "picks" : [ "163.5 Üst (1.65 - 67.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "163.5 Üst (1.65 - 67.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sheffield Sharks",
+  "awayTeam" : "Cheshire Phoenix",
+  "picks" : [ "174.5 Üst (1.65 - 62.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "174.5 Üst (1.65 - 62.4%)" : "pending"
+  }
+} ]
