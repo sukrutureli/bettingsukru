@@ -1,0 +1,89 @@
+[ {
+  "homeTeam" : "TS Tabriz",
+  "awayTeam" : "Malavan Bandar A.",
+  "picks" : [ "Alt (1.33 - 72.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 72.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Akhdood",
+  "awayTeam" : "Damac",
+  "picks" : [ "Alt (1.53 - 67.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.53 - 67.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rochdale",
+  "awayTeam" : "Hartlepool",
+  "picks" : [ "MS1 (1.39 - 70.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.39 - 70.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Yeovil Town",
+  "awayTeam" : "Eastleigh",
+  "picks" : [ "Alt (1.5 - 67.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.5 - 67.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bath City",
+  "awayTeam" : "Torquay",
+  "picks" : [ "MS2 (1.73 - 61.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.73 - 61.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Slough Town",
+  "awayTeam" : "Chesham Utd",
+  "picks" : [ "Var (1.46 - 57.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.46 - 57.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dover",
+  "awayTeam" : "Ebbsfleet Utd",
+  "picks" : [ "Var (1.49 - 60.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.49 - 60.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Southport",
+  "awayTeam" : "Curzon Ashton",
+  "picks" : [ "Var (1.43 - 76.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.43 - 76.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Merthyr Town",
+  "awayTeam" : "Hereford",
+  "picks" : [ "Var (1.31 - 81.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.31 - 81.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dundee",
+  "awayTeam" : "Kilmarnock",
+  "picks" : [ "Alt (1.5 - 59.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.5 - 59.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Torreense",
+  "awayTeam" : "Lusitania",
+  "picks" : [ "Alt (1.55 - 59.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.55 - 59.0%)" : "pending"
+  }
+} ]
