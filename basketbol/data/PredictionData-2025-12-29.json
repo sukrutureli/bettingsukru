@@ -58,32 +58,32 @@
   "homeTeam" : "SC Jena",
   "awayTeam" : "Telekom Bonn",
   "picks" : [ "MS2 (1.48 - 62.6%)" ],
-  "score" : "-",
+  "score" : "80-92",
   "statuses" : {
-    "MS2 (1.48 - 62.6%)" : "pending"
+    "MS2 (1.48 - 62.6%)" : "won"
   }
 }, {
   "homeTeam" : "Rasta Vechta",
   "awayTeam" : "Oldenburg",
   "picks" : [ "167.5 Alt (1.61 - 57.3%)" ],
-  "score" : "-",
+  "score" : "79-96",
   "statuses" : {
-    "167.5 Alt (1.61 - 57.3%)" : "pending"
+    "167.5 Alt (1.61 - 57.3%)" : "lost"
   }
 }, {
   "homeTeam" : "CB Breogan",
   "awayTeam" : "Baskonia",
   "picks" : [ "178.5 Üst (1.63 - 58.6%)" ],
-  "score" : "-",
+  "score" : "100-103",
   "statuses" : {
-    "178.5 Üst (1.63 - 58.6%)" : "pending"
+    "178.5 Üst (1.63 - 58.6%)" : "won"
   }
 }, {
   "homeTeam" : "Trieste",
   "awayTeam" : "Virtus Bologna",
   "picks" : [ "166.5 Alt (1.64 - 60.1%)" ],
-  "score" : "-",
+  "score" : "66-74",
   "statuses" : {
-    "166.5 Alt (1.64 - 60.1%)" : "pending"
+    "166.5 Alt (1.64 - 60.1%)" : "won"
   }
 } ]

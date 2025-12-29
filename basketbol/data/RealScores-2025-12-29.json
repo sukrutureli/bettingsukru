@@ -142,4 +142,68 @@
   "homeTeam" : "AL Ittihad (Ksa)",
   "awayTeam" : "AL Ahli (Ksa)",
   "score" : "73-86"
+}, {
+  "homeTeam" : "Ratiopharm Ulm",
+  "awayTeam" : "Wurzburg",
+  "score" : "66-61"
+}, {
+  "homeTeam" : "Alba Berlin",
+  "awayTeam" : "Ludwigsburg",
+  "score" : "80-47"
+}, {
+  "homeTeam" : "SC Jena",
+  "awayTeam" : "Telekom Bonn",
+  "score" : "80-92"
+}, {
+  "homeTeam" : "Rasta Vechta",
+  "awayTeam" : "Oldenburg",
+  "score" : "79-96"
+}, {
+  "homeTeam" : "CB Breogan",
+  "awayTeam" : "Baskonia",
+  "score" : "100-103"
+}, {
+  "homeTeam" : "Olimpia Milano",
+  "awayTeam" : "Cremona",
+  "score" : "91-74"
+}, {
+  "homeTeam" : "Trieste",
+  "awayTeam" : "Virtus Bologna",
+  "score" : "66-74"
+}, {
+  "homeTeam" : "Harvard Crimson (K)",
+  "awayTeam" : "Delaware Blue Hens (K)",
+  "score" : "70-63"
+}, {
+  "homeTeam" : "Nebraska Cornhuskers (K)",
+  "awayTeam" : "USC Trojans (K)",
+  "score" : "66-74"
+}, {
+  "homeTeam" : "Delaware Blue Hens",
+  "awayTeam" : "Missouri State Bears",
+  "score" : "43-61"
+}, {
+  "homeTeam" : "BC Vienna",
+  "awayTeam" : "Kapfenberg",
+  "score" : "104-84"
+}, {
+  "homeTeam" : "Cherno More IG",
+  "awayTeam" : "Rilski",
+  "score" : "77-73"
+}, {
+  "homeTeam" : "Sloga Uppsala",
+  "awayTeam" : "Jamtland",
+  "score" : "69-87"
+}, {
+  "homeTeam" : "Schio (K)",
+  "awayTeam" : "San Martino (K)",
+  "score" : "79-51"
+}, {
+  "homeTeam" : "Dabrowa Gorn.",
+  "awayTeam" : "Wilki Morskie Szczecin",
+  "score" : "102-93"
+}, {
+  "homeTeam" : "CSM Oradea",
+  "awayTeam" : "CS Dinamo Bucuresti",
+  "score" : "95-69"
 } ]
