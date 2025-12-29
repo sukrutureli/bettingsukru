@@ -50,9 +50,9 @@
   "homeTeam" : "NKA Universitas Pecs",
   "awayTeam" : "Kormend",
   "picks" : [ "MS2 (1.79 - 60.2%)" ],
-  "score" : "-",
+  "score" : "106-76",
   "statuses" : {
-    "MS2 (1.79 - 60.2%)" : "pending"
+    "MS2 (1.79 - 60.2%)" : "lost"
   }
 }, {
   "homeTeam" : "SC Jena",
