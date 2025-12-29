@@ -166,4 +166,192 @@
   "homeTeam" : "Al Seeb",
   "awayTeam" : "Jaalan",
   "score" : "2-0"
+}, {
+  "homeTeam" : "AS Roma",
+  "awayTeam" : "Genoa",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Porto",
+  "awayTeam" : "Avs Futebol Sad",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Zambiya",
+  "awayTeam" : "Fas",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Komorlar",
+  "awayTeam" : "Mali",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "MC Alger",
+  "awayTeam" : "ES Setif",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Coventry",
+  "awayTeam" : "Ipswich Town",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Middlesbrough",
+  "awayTeam" : "Hull City",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Leicester City",
+  "awayTeam" : "Derby County",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "S. Wednesday",
+  "awayTeam" : "Blackburn R.",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Millwall",
+  "awayTeam" : "Bristol City",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Wrexham",
+  "awayTeam" : "Preston",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Norwich City",
+  "awayTeam" : "Watford",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Portsmouth",
+  "awayTeam" : "Charlton",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "W. Bromwich",
+  "awayTeam" : "QPR",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Stoke City",
+  "awayTeam" : "Sheffield Utd",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Oxford",
+  "awayTeam" : "Swansea City",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Birmingham",
+  "awayTeam" : "Southampton",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Bolton",
+  "awayTeam" : "Mansfield",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Blackpool",
+  "awayTeam" : "Rotherham",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Burton Albion",
+  "awayTeam" : "Wigan Ath",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Stockport",
+  "awayTeam" : "Doncaster",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "Barnsley",
+  "awayTeam" : "Lincoln City",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Plymouth",
+  "awayTeam" : "Wycombe",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Huddersfield",
+  "awayTeam" : "Northampton",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Luton Town",
+  "awayTeam" : "Leyton Orient",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Cardiff City",
+  "awayTeam" : "Stevenage",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Bradford",
+  "awayTeam" : "Port Vale",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Wimbledon",
+  "awayTeam" : "Exeter City",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Peterborough",
+  "awayTeam" : "Reading",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Newport",
+  "awayTeam" : "Crewe Alexandra",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Tranmere",
+  "awayTeam" : "Barrow",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Gillingham",
+  "awayTeam" : "Colchester",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Crawley Town",
+  "awayTeam" : "Bromley",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Cheltenham",
+  "awayTeam" : "Swindon Town",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Chesterfield",
+  "awayTeam" : "Cambridge",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Bristol Rovers",
+  "awayTeam" : "Barnet",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Salford City",
+  "awayTeam" : "Fleetwood",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Accrington",
+  "awayTeam" : "Harrogate",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Grimsby Town",
+  "awayTeam" : "Shrewsbury",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Walsall",
+  "awayTeam" : "Oldham",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "MK Dons",
+  "awayTeam" : "Notts County",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Chelmsford C.",
+  "awayTeam" : "Dagenham Red",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Tivoli Gardens",
+  "awayTeam" : "Chapelton Maroons",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Linfield Swifts Gençler",
+  "awayTeam" : "Coleraine Gençler",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Larne Olympic Gençler",
+  "awayTeam" : "Glenavon Gençler",
+  "score" : "8-0"
+}, {
+  "homeTeam" : "AL Riyadh",
+  "awayTeam" : "AL Hazem",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AL Taawoun",
+  "awayTeam" : "AL Najma",
+  "score" : "1-0"
 } ]
