@@ -2,49 +2,49 @@
   "homeTeam" : "Washington",
   "awayTeam" : "Memphis",
   "picks" : [ "240.5 Alt (1.61 - 63.1%)" ],
-  "score" : "-",
+  "score" : "116-112",
   "statuses" : {
-    "240.5 Alt (1.61 - 63.1%)" : "pending"
+    "240.5 Alt (1.61 - 63.1%)" : "won"
   }
 }, {
   "homeTeam" : "Portland",
   "awayTeam" : "Boston",
   "picks" : [ "231.5 Alt (1.63 - 66.4%)" ],
-  "score" : "-",
+  "score" : "114-108",
   "statuses" : {
-    "231.5 Alt (1.63 - 66.4%)" : "pending"
+    "231.5 Alt (1.63 - 66.4%)" : "won"
   }
 }, {
   "homeTeam" : "LA Lakers",
   "awayTeam" : "Sacramento",
   "picks" : [ "232.5 Alt (1.64 - 56.7%)" ],
-  "score" : "-",
+  "score" : "125-101",
   "statuses" : {
-    "232.5 Alt (1.64 - 56.7%)" : "pending"
+    "232.5 Alt (1.64 - 56.7%)" : "won"
   }
 }, {
   "homeTeam" : "Tasmania Jackjumpers",
   "awayTeam" : "Melbourne Phoenix",
   "picks" : [ "177.5 Alt (1.64 - 61.4%)" ],
-  "score" : "-",
+  "score" : "87-84",
   "statuses" : {
-    "177.5 Alt (1.64 - 61.4%)" : "pending"
+    "177.5 Alt (1.64 - 61.4%)" : "won"
   }
 }, {
   "homeTeam" : "Meralco",
   "awayTeam" : "Rain or Shine",
   "picks" : [ "MS1 (1.48 - 89.6%)" ],
-  "score" : "-",
+  "score" : "98-89",
   "statuses" : {
-    "MS1 (1.48 - 89.6%)" : "pending"
+    "MS1 (1.48 - 89.6%)" : "won"
   }
 }, {
   "homeTeam" : "Shenzhen Leopards",
   "awayTeam" : "Liaoning F. L.",
   "picks" : [ "171.5 Üst (1.6 - 65.7%)" ],
-  "score" : "-",
+  "score" : "93-90",
   "statuses" : {
-    "171.5 Üst (1.6 - 65.7%)" : "pending"
+    "171.5 Üst (1.6 - 65.7%)" : "won"
   }
 }, {
   "homeTeam" : "NKA Universitas Pecs",

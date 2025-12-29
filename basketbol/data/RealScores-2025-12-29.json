@@ -1,0 +1,89 @@
+[ {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Memphis",
+  "score" : "116-112"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Boston",
+  "score" : "114-108"
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "Detroit",
+  "score" : "112-99"
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "Sacramento",
+  "score" : "125-101"
+}, {
+  "homeTeam" : "LSU Tigers (K)",
+  "awayTeam" : "Alabama State U. (K)",
+  "score" : "109-41"
+}, {
+  "homeTeam" : "Iowa Hawk (K)",
+  "awayTeam" : "Penn State (K)",
+  "score" : "99-76"
+}, {
+  "homeTeam" : "Butler Bulldogs (K)",
+  "awayTeam" : "Connecticut Huskies (K)",
+  "score" : "47-94"
+}, {
+  "homeTeam" : "Pepperdine Waves",
+  "awayTeam" : "Gonzaga Bulldogs",
+  "score" : "56-96"
+}, {
+  "homeTeam" : "CA San Lorenzo De Almagro",
+  "awayTeam" : "Obras Sanita",
+  "score" : "81-89"
+}, {
+  "homeTeam" : "Tasmania Jackjumpers",
+  "awayTeam" : "Melbourne Phoenix",
+  "score" : "87-84"
+}, {
+  "homeTeam" : "Beijing R. F.",
+  "awayTeam" : "Shanghai S.",
+  "score" : "70-90"
+}, {
+  "homeTeam" : "Shenzhen Leopards",
+  "awayTeam" : "Liaoning F. L.",
+  "score" : "93-90"
+}, {
+  "homeTeam" : "Zhangjiakou",
+  "awayTeam" : "Guizhou Menglong",
+  "score" : "68-104"
+}, {
+  "homeTeam" : "Shandong Honey Badger",
+  "awayTeam" : "Hangzhou Jingwei",
+  "score" : "104-87"
+}, {
+  "homeTeam" : "Incheon Shinhan (K)",
+  "awayTeam" : "Yongin Samsung Life (K)",
+  "score" : "70-75"
+}, {
+  "homeTeam" : "Goyang Orions",
+  "awayTeam" : "Seoul SK Knights",
+  "score" : "70-77"
+}, {
+  "homeTeam" : "Esteghlal Tehran",
+  "awayTeam" : "Palayesh Naft Abadan",
+  "score" : "71-74"
+}, {
+  "homeTeam" : "Golnoor Isfahan",
+  "awayTeam" : "Shahrdari Gorgan",
+  "score" : "83-82"
+}, {
+  "homeTeam" : "Kouchin Amol (Kalleh Mazandaran)",
+  "awayTeam" : "Tabiaat",
+  "score" : "70-73"
+}, {
+  "homeTeam" : "Erth. Tokyo Z",
+  "awayTeam" : "Shinagawa City Club",
+  "score" : "77-64"
+}, {
+  "homeTeam" : "Meralco",
+  "awayTeam" : "Rain or Shine",
+  "score" : "98-89"
+}, {
+  "homeTeam" : "AL Fateh",
+  "awayTeam" : "AL Ula",
+  "score" : "56-99"
+} ]
