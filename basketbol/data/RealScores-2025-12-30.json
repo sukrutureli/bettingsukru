@@ -146,4 +146,80 @@
   "homeTeam" : "Flamengo",
   "awayTeam" : "Botafogo",
   "score" : "104-71"
+}, {
+  "homeTeam" : "OGM Ormanspor (K)",
+  "awayTeam" : "Beşiktaş (K)",
+  "score" : "73-95"
+}, {
+  "homeTeam" : "Nesibe Aydın (K)",
+  "awayTeam" : "Çanakkale Bld (K)",
+  "score" : "90-75"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Dallas",
+  "score" : "125-122"
+}, {
+  "homeTeam" : "Oregon Ducks (K)",
+  "awayTeam" : "Michigan Wolverines (K)",
+  "score" : "87-92"
+}, {
+  "homeTeam" : "Washington Huskies",
+  "awayTeam" : "Utah Utes",
+  "score" : "74-65"
+}, {
+  "homeTeam" : "Sydney Kings",
+  "awayTeam" : "Brisbane Bullets",
+  "score" : "95-70"
+}, {
+  "homeTeam" : "Sydney Uni Flames (K)",
+  "awayTeam" : "Southside Flyers (K)",
+  "score" : "94-113"
+}, {
+  "homeTeam" : "Fujian S.",
+  "awayTeam" : "Jilin N.T.",
+  "score" : "95-84"
+}, {
+  "homeTeam" : "Tianjin P.",
+  "awayTeam" : "Guandong S.T.",
+  "score" : "74-98"
+}, {
+  "homeTeam" : "Shandong H.",
+  "awayTeam" : "Shanxi L.",
+  "score" : "88-78"
+}, {
+  "homeTeam" : "Jiangsu D.",
+  "awayTeam" : "Qingdao E.",
+  "score" : "76-83"
+}, {
+  "homeTeam" : "Zhejiang G.B.",
+  "awayTeam" : "Nanjing M.K.",
+  "score" : "87-73"
+}, {
+  "homeTeam" : "Beijing D.",
+  "awayTeam" : "Zhejiang L.",
+  "score" : "85-91"
+}, {
+  "homeTeam" : "Ningbo Rockets",
+  "awayTeam" : "Sichuan B.W.",
+  "score" : "106-73"
+}, {
+  "homeTeam" : "Xinjiang F.T.",
+  "awayTeam" : "Guangzhou L.L.",
+  "score" : "94-76"
+}, {
+  "homeTeam" : "H. Kuangfeng",
+  "awayTeam" : "Hong Kong B.",
+  "score" : "72-74"
+}, {
+  "homeTeam" : "Shanghai Blackbird",
+  "awayTeam" : "Jiaozuo Culture And Tourism",
+  "score" : "95-68"
+}, {
+  "homeTeam" : "Jiangxi Ganchi",
+  "awayTeam" : "Anhui Wenyi",
+  "score" : "108-100"
+}, {
+  "homeTeam" : "KT Sonicboom",
+  "awayTeam" : "Samsung Thunders",
+  "score" : "111-86"
 } ]
