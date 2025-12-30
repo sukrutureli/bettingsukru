@@ -82,9 +82,9 @@
   "homeTeam" : "San Pablo Burgos",
   "awayTeam" : "Gran Canaria",
   "picks" : [ "MS2 (1.43 - 61.8%)" ],
-  "score" : "-",
+  "score" : "94-81",
   "statuses" : {
-    "MS2 (1.43 - 61.8%)" : "pending"
+    "MS2 (1.43 - 61.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Nymburk",
@@ -98,9 +98,9 @@
   "homeTeam" : "Duna Aszfalt",
   "awayTeam" : "Zalakeramia ZTE",
   "picks" : [ "MS2 (1.82 - 55.2%)" ],
-  "score" : "-",
+  "score" : "88-74",
   "statuses" : {
-    "MS2 (1.82 - 55.2%)" : "pending"
+    "MS2 (1.82 - 55.2%)" : "lost"
   }
 }, {
   "homeTeam" : "BK Levicki Patrioti",
@@ -114,72 +114,72 @@
   "homeTeam" : "BK Iskra Svit",
   "awayTeam" : "Komarno",
   "picks" : [ "MS2 (1.39 - 61.7%)" ],
-  "score" : "-",
+  "score" : "116-96",
   "statuses" : {
-    "MS2 (1.39 - 61.7%)" : "pending"
+    "MS2 (1.39 - 61.7%)" : "lost"
   }
 }, {
   "homeTeam" : "MBK Handlova",
   "awayTeam" : "Prievidza",
   "picks" : [ "MS1 (1.55 - 81.6%)" ],
-  "score" : "-",
+  "score" : "71-85",
   "statuses" : {
-    "MS1 (1.55 - 81.6%)" : "pending"
+    "MS1 (1.55 - 81.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Unicaja Malaga",
   "awayTeam" : "Joventut Badalona",
   "picks" : [ "168.5 Üst (1.65 - 65.6%)" ],
-  "score" : "-",
+  "score" : "105-83",
   "statuses" : {
-    "168.5 Üst (1.65 - 65.6%)" : "pending"
+    "168.5 Üst (1.65 - 65.6%)" : "won"
   }
 }, {
   "homeTeam" : "Boras",
   "awayTeam" : "BC Lulea",
   "picks" : [ "175.5 Üst (1.63 - 76.7%)" ],
-  "score" : "-",
+  "score" : "89-84",
   "statuses" : {
-    "175.5 Üst (1.63 - 76.7%)" : "pending"
+    "175.5 Üst (1.63 - 76.7%)" : "lost"
   }
 }, {
   "homeTeam" : "MLP A. Heidelberg",
   "awayTeam" : "Frankfurt",
   "picks" : [ "164.5 Alt (1.66 - 57.4%)" ],
-  "score" : "-",
+  "score" : "75-80",
   "statuses" : {
-    "164.5 Alt (1.66 - 57.4%)" : "pending"
+    "164.5 Alt (1.66 - 57.4%)" : "won"
   }
 }, {
   "homeTeam" : "Hap. Tel Aviv",
   "awayTeam" : "Zalgiris Kaunas",
   "picks" : [ "168.5 Üst (1.66 - 66.1%)" ],
-  "score" : "-",
+  "score" : "80-93",
   "statuses" : {
-    "168.5 Üst (1.66 - 66.1%)" : "pending"
+    "168.5 Üst (1.66 - 66.1%)" : "won"
   }
 }, {
   "homeTeam" : "Barcelona",
   "awayTeam" : "Monaco",
   "picks" : [ "171.5 Alt (1.61 - 64.8%)" ],
-  "score" : "-",
+  "score" : "74-90",
   "statuses" : {
-    "171.5 Alt (1.61 - 64.8%)" : "pending"
+    "171.5 Alt (1.61 - 64.8%)" : "won"
   }
 }, {
   "homeTeam" : "Leicester Riders",
   "awayTeam" : "Bristol Flyers",
   "picks" : [ "163.5 Üst (1.65 - 67.3%)" ],
-  "score" : "-",
+  "score" : "85-73",
   "statuses" : {
-    "163.5 Üst (1.65 - 67.3%)" : "pending"
+    "163.5 Üst (1.65 - 67.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Sheffield Sharks",
   "awayTeam" : "Cheshire Phoenix",
   "picks" : [ "174.5 Üst (1.65 - 62.4%)" ],
-  "score" : "-",
+  "score" : "101-97",
   "statuses" : {
-    "174.5 Üst (1.65 - 62.4%)" : "pending"
+    "174.5 Üst (1.65 - 62.4%)" : "won"
   }
 } ]
