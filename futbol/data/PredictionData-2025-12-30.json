@@ -2,9 +2,9 @@
   "homeTeam" : "TS Tabriz",
   "awayTeam" : "Malavan Bandar A.",
   "picks" : [ "Alt (1.33 - 72.3%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.33 - 72.3%)" : "pending"
+    "Alt (1.33 - 72.3%)" : "won"
   }
 }, {
   "homeTeam" : "AL Akhdood",

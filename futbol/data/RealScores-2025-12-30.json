@@ -1,1 +1,101 @@
-[ ]
+[ {
+  "homeTeam" : "Western S. W. (K)",
+  "awayTeam" : "Wellington P. (K)",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Al Hamriyah",
+  "awayTeam" : "AL Arabi (Bae)",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "AL Ittifaq",
+  "awayTeam" : "Al Urooba (Bae)",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Baniyas U23",
+  "awayTeam" : "AL Dhafra U23",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "AL Jazira U23",
+  "awayTeam" : "AL Ittihad Kalba U23",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Arema",
+  "awayTeam" : "Persita Tangerang",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Dire Dawa Kenema",
+  "awayTeam" : "Negelle Arsi",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Hawassa Kenema SC",
+  "awayTeam" : "Hadiya Hossana",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Shire Endaselassie",
+  "awayTeam" : "Adama City",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Addis Ababa City",
+  "awayTeam" : "Boditi Ketema",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Soloda Adwa",
+  "awayTeam" : "Debre Birhan Ketema",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Diyala",
+  "awayTeam" : "AL Qasim SC",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "TS Tabriz",
+  "awayTeam" : "Malavan Bandar Anzali",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Real Betis U19",
+  "awayTeam" : "UD Melilla U19",
+  "score" : "7-0"
+}, {
+  "homeTeam" : "Arnett Gardens",
+  "awayTeam" : "Racing Utd",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Tivoli Gardens",
+  "awayTeam" : "Chapelton Maroons",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Bidda SC",
+  "awayTeam" : "Lusail SC",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "AL Waab",
+  "awayTeam" : "Kharitiyat",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Partizani Tirana",
+  "awayTeam" : "KF Laci",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Yarmouk",
+  "awayTeam" : "AL Shamiya FC",
+  "score" : "7-1"
+}, {
+  "homeTeam" : "Safa SC",
+  "awayTeam" : "Shabab AL Sahel",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Ansar SC",
+  "awayTeam" : "Bourj",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "AL Mokawloon (K)",
+  "awayTeam" : "Masar (K)",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "AL Arabi (Sar)",
+  "awayTeam" : "AL Wehda",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Ula",
+  "awayTeam" : "AL Anwar",
+  "score" : "1-1"
+} ]
