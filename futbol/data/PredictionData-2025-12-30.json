@@ -10,80 +10,80 @@
   "homeTeam" : "AL Akhdood",
   "awayTeam" : "Damac",
   "picks" : [ "Alt (1.53 - 67.9%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.53 - 67.9%)" : "pending"
+    "Alt (1.53 - 67.9%)" : "won"
   }
 }, {
   "homeTeam" : "Rochdale",
   "awayTeam" : "Hartlepool",
   "picks" : [ "MS1 (1.39 - 70.7%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "MS1 (1.39 - 70.7%)" : "pending"
+    "MS1 (1.39 - 70.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Yeovil Town",
   "awayTeam" : "Eastleigh",
   "picks" : [ "Alt (1.5 - 67.4%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.5 - 67.4%)" : "pending"
+    "Alt (1.5 - 67.4%)" : "won"
   }
 }, {
   "homeTeam" : "Bath City",
   "awayTeam" : "Torquay",
   "picks" : [ "MS2 (1.73 - 61.3%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "MS2 (1.73 - 61.3%)" : "pending"
+    "MS2 (1.73 - 61.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Slough Town",
   "awayTeam" : "Chesham Utd",
   "picks" : [ "Var (1.46 - 57.0%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Var (1.46 - 57.0%)" : "pending"
+    "Var (1.46 - 57.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Dover",
   "awayTeam" : "Ebbsfleet Utd",
   "picks" : [ "Var (1.49 - 60.5%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Var (1.49 - 60.5%)" : "pending"
+    "Var (1.49 - 60.5%)" : "won"
   }
 }, {
   "homeTeam" : "Southport",
   "awayTeam" : "Curzon Ashton",
   "picks" : [ "Var (1.43 - 76.1%)" ],
-  "score" : "-",
+  "score" : "2-4",
   "statuses" : {
-    "Var (1.43 - 76.1%)" : "pending"
+    "Var (1.43 - 76.1%)" : "won"
   }
 }, {
   "homeTeam" : "Merthyr Town",
   "awayTeam" : "Hereford",
   "picks" : [ "Var (1.31 - 81.3%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Var (1.31 - 81.3%)" : "pending"
+    "Var (1.31 - 81.3%)" : "won"
   }
 }, {
   "homeTeam" : "Dundee",
   "awayTeam" : "Kilmarnock",
   "picks" : [ "Alt (1.5 - 59.0%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.5 - 59.0%)" : "pending"
+    "Alt (1.5 - 59.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Torreense",
   "awayTeam" : "Lusitania",
   "picks" : [ "Alt (1.55 - 59.0%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.55 - 59.0%)" : "pending"
+    "Alt (1.55 - 59.0%)" : "won"
   }
 } ]
