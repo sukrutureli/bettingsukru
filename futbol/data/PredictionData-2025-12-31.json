@@ -1,0 +1,49 @@
+[ {
+  "homeTeam" : "C. Coast Marin. (K)",
+  "awayTeam" : "Brisbane R. (K)",
+  "picks" : [ "Var (1.4 - 71.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 71.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Penrhyncoch",
+  "awayTeam" : "Ruthin Town",
+  "picks" : [ "Üst (1.41 - 67.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.41 - 67.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Limavady Utd",
+  "awayTeam" : "Annagh Utd",
+  "picks" : [ "Var (1.53 - 79.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.53 - 79.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cer. Cleopatra",
+  "awayTeam" : "Farco",
+  "picks" : [ "Alt (1.33 - 75.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 75.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Jeddah Club",
+  "awayTeam" : "AL Bukayriyah",
+  "picks" : [ "Alt (1.33 - 85.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 85.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Mozambik",
+  "awayTeam" : "Kamerun",
+  "picks" : [ "Alt (1.45 - 71.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.45 - 71.8%)" : "pending"
+  }
+} ]

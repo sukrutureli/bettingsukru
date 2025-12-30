@@ -1,0 +1,37 @@
+[ {
+  "name" : "C. Coast Marin. (K) - Brisbane R. (K)",
+  "time" : "08:15",
+  "predictions" : [ "Var (1.4 - 71.4%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Penrhyncoch - Ruthin Town",
+  "time" : "15:30",
+  "predictions" : [ "Üst (1.41 - 67.8%)" ],
+  "score" : "2-1",
+  "mbs" : 3
+}, {
+  "name" : "Limavady Utd - Annagh Utd",
+  "time" : "18:00",
+  "predictions" : [ "Var (1.53 - 79.5%)" ],
+  "score" : "2-1",
+  "mbs" : 3
+}, {
+  "name" : "Cer. Cleopatra - Farco",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.33 - 75.3%)" ],
+  "score" : "0-1",
+  "mbs" : 2
+}, {
+  "name" : "Jeddah Club - AL Bukayriyah",
+  "time" : "18:30",
+  "predictions" : [ "Alt (1.33 - 85.9%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Mozambik - Kamerun",
+  "time" : "22:00",
+  "predictions" : [ "Alt (1.45 - 71.8%)" ],
+  "score" : "0-1",
+  "mbs" : 1
+} ]
