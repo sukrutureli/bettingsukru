@@ -1,0 +1,149 @@
+[ {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Phoenix",
+  "score" : "101-115"
+}, {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Milwaukee",
+  "score" : "113-123"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Golden State",
+  "score" : "107-120"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Orlando",
+  "score" : "107-106"
+}, {
+  "homeTeam" : "Miami",
+  "awayTeam" : "Denver",
+  "score" : "147-123"
+}, {
+  "homeTeam" : "Houston",
+  "awayTeam" : "Indiana",
+  "score" : "126-119"
+}, {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "Cleveland",
+  "score" : "101-113"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Minnesota",
+  "score" : "101-136"
+}, {
+  "homeTeam" : "Oklahoma",
+  "awayTeam" : "Atlanta",
+  "score" : "140-129"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "New York",
+  "score" : "125-130"
+}, {
+  "homeTeam" : "Maryland Terrapins (K)",
+  "awayTeam" : "Wisconsin Bad (K)",
+  "score" : "97-59"
+}, {
+  "homeTeam" : "Notre Dame (K)",
+  "awayTeam" : "Pittsburgh Panthers (K)",
+  "score" : "94-59"
+}, {
+  "homeTeam" : "Virginia Cavaliers (K)",
+  "awayTeam" : "Southern Methodist Mustangs",
+  "score" : "76-52"
+}, {
+  "homeTeam" : "Marquette Golden Eagle (K)",
+  "awayTeam" : "St. John's Red Storm",
+  "score" : "66-73"
+}, {
+  "homeTeam" : "Washington Huskies (K)",
+  "awayTeam" : "Northwestern Wildcats",
+  "score" : "94-73"
+}, {
+  "homeTeam" : "Boston College Eagles (K)",
+  "awayTeam" : "N. Carolina Tar Heels (K)",
+  "score" : "39-90"
+}, {
+  "homeTeam" : "Florida Gators",
+  "awayTeam" : "Dartmouth Big Green",
+  "score" : "94-72"
+}, {
+  "homeTeam" : "Michigan State Spartans",
+  "awayTeam" : "Cornell Big Red",
+  "score" : "114-97"
+}, {
+  "homeTeam" : "Vanderbilt Commodores",
+  "awayTeam" : "New Haven Ch",
+  "score" : "96-53"
+}, {
+  "homeTeam" : "Michigan Wolverines",
+  "awayTeam" : "McNeese State",
+  "score" : "112-71"
+}, {
+  "homeTeam" : "Georgia Bulldogs",
+  "awayTeam" : "Liu Sharks",
+  "score" : "89-74"
+}, {
+  "homeTeam" : "Purdue Boilermakers",
+  "awayTeam" : "Kent State Golden Flashes",
+  "score" : "101-60"
+}, {
+  "homeTeam" : "Mississippi State Bulldogs",
+  "awayTeam" : "Alabama State Hornets",
+  "score" : "94-56"
+}, {
+  "homeTeam" : "Alabama Crimson Tide",
+  "awayTeam" : "Yale Bulldogs",
+  "score" : "102-78"
+}, {
+  "homeTeam" : "Houston Cougars",
+  "awayTeam" : "Middle Tennessee Blue Raiders",
+  "score" : "69-60"
+}, {
+  "homeTeam" : "Arizona Wildcats",
+  "awayTeam" : "South Dakota State Jackrabbits",
+  "score" : "99-71"
+}, {
+  "homeTeam" : "Ferro Carril",
+  "awayTeam" : "Boca Juniors",
+  "score" : "100-84"
+}, {
+  "homeTeam" : "Racing de Chivilcoy",
+  "awayTeam" : "Argentino J.",
+  "score" : "76-79"
+}, {
+  "homeTeam" : "Regatas Corrientes",
+  "awayTeam" : "San Martin C.",
+  "score" : "84-64"
+}, {
+  "homeTeam" : "B. Cearense",
+  "awayTeam" : "Cruzeiro Basquete",
+  "score" : "78-86"
+}, {
+  "homeTeam" : "Bauru Basket",
+  "awayTeam" : "Universo Brasilia",
+  "score" : "66-71"
+}, {
+  "homeTeam" : "Unifacisa",
+  "awayTeam" : "Minas",
+  "score" : "102-107"
+}, {
+  "homeTeam" : "Basquete Osasco",
+  "awayTeam" : "SAO Jose Dos Campos",
+  "score" : "73-92"
+}, {
+  "homeTeam" : "Pato Basquete",
+  "awayTeam" : "EC Pinheiros SP",
+  "score" : "67-94"
+}, {
+  "homeTeam" : "Mogi Das Cruzes",
+  "awayTeam" : "Caxias Do Sul",
+  "score" : "71-56"
+}, {
+  "homeTeam" : "SC Corinthians P.",
+  "awayTeam" : "Ec Uniao Corinthians",
+  "score" : "88-76"
+}, {
+  "homeTeam" : "Flamengo",
+  "awayTeam" : "Botafogo",
+  "score" : "104-71"
+} ]
