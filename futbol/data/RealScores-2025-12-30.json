@@ -98,4 +98,64 @@
   "homeTeam" : "AL Ula",
   "awayTeam" : "AL Anwar",
   "score" : "1-1"
+}, {
+  "homeTeam" : "Tanzanya",
+  "awayTeam" : "Tunus",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Uganda",
+  "awayTeam" : "Nijerya",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "East Riffa",
+  "awayTeam" : "AL Ittifaq",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AL Hala",
+  "awayTeam" : "Al Tadhmon",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Sidama Bunna SC",
+  "awayTeam" : "Sheger Ketema",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Amanat Baghdad SC",
+  "awayTeam" : "AL Shorta",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AL Jawiya",
+  "awayTeam" : "Duhok",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Muaither SC",
+  "awayTeam" : "Al Mesaimeer",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Markhiya",
+  "awayTeam" : "Al Khoor",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Ucam Murcia",
+  "awayTeam" : "Murcia",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Ballinamallard Utd",
+  "awayTeam" : "Queens Uni.",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Talaea Gaish",
+  "awayTeam" : "Ghazl El Mahallah",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "El Ahly (Mıs)",
+  "awayTeam" : "Al Mokawloon",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Ahli Saudi",
+  "awayTeam" : "AL Fayha",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Adalh",
+  "awayTeam" : "AL Jabalain",
+  "score" : "2-1"
 } ]
