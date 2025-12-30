@@ -1,0 +1,33 @@
+[ {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "Detroit",
+  "picks" : [ "232.5 Alt (1.65 - 56.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "232.5 Alt (1.65 - 56.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Illawarra Hawks",
+  "awayTeam" : "Tasmania Jackjumpers",
+  "picks" : [ "179.5 Alt (1.63 - 71.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "179.5 Alt (1.63 - 71.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Liaoning F. L.",
+  "awayTeam" : "Shanghai S.",
+  "picks" : [ "MS2 (1.31 - 75.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.31 - 75.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "KCC Egis",
+  "awayTeam" : "Dongbu Promy",
+  "picks" : [ "MS1 (1.47 - 78.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.47 - 78.1%)" : "pending"
+  }
+} ]

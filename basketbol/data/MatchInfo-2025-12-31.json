@@ -1,0 +1,209 @@
+[ {
+  "name" : "Memphis - Philadelphia",
+  "time" : "04:00",
+  "detailUrl" : "https://istatistik.nesine.com/2549707",
+  "odds" : {
+    "ms1" : 1.61,
+    "ms2" : 1.65,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.69,
+    "h2" : 1.58,
+    "hOverUnderValue" : 234.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 0
+}, {
+  "name" : "Utah - Boston",
+  "time" : "05:00",
+  "detailUrl" : "https://istatistik.nesine.com/2549834",
+  "odds" : {
+    "ms1" : 2.92,
+    "ms2" : 1.13,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 242.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 1
+}, {
+  "name" : "LA Lakers - Detroit",
+  "time" : "06:30",
+  "detailUrl" : "https://istatistik.nesine.com/2550266",
+  "odds" : {
+    "ms1" : 1.84,
+    "ms2" : 1.47,
+    "h1Value" : 2.5,
+    "h2Value" : 0.0,
+    "h1" : 1.65,
+    "h2" : 1.62,
+    "hOverUnderValue" : 232.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 2
+}, {
+  "name" : "LA Clippers - Sacramento",
+  "time" : "07:00",
+  "detailUrl" : "https://istatistik.nesine.com/2549634",
+  "odds" : {
+    "ms1" : 1.05,
+    "ms2" : 3.6,
+    "h1Value" : 0.0,
+    "h2Value" : 9.5,
+    "h1" : 1.61,
+    "h2" : 1.65,
+    "hOverUnderValue" : 220.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 3
+}, {
+  "name" : "Illawarra Hawks - Tasmania Jackjumpers",
+  "time" : "09:30",
+  "detailUrl" : "https://istatistik.nesine.com/2549643",
+  "odds" : {
+    "ms1" : 1.5,
+    "ms2" : 1.79,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 179.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 4
+}, {
+  "name" : "Cairns Taipans - Melbourne Phoenix",
+  "time" : "11:30",
+  "detailUrl" : "https://istatistik.nesine.com/2549946",
+  "odds" : {
+    "ms1" : 3.35,
+    "ms2" : 1.08,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 182.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 5
+}, {
+  "name" : "Woori Bank H. (K) - Busan BNK Sum (K)",
+  "time" : "13:00",
+  "detailUrl" : "https://istatistik.nesine.com/2549791",
+  "odds" : {
+    "ms1" : 1.86,
+    "ms2" : 1.46,
+    "h1Value" : 2.5,
+    "h2Value" : 0.0,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 119.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 6
+}, {
+  "name" : "Mobis Phoebus - LG Sakers",
+  "time" : "13:00",
+  "detailUrl" : "https://istatistik.nesine.com/2549683",
+  "odds" : {
+    "ms1" : 2.37,
+    "ms2" : 1.24,
+    "h1Value" : 5.5,
+    "h2Value" : 0.0,
+    "h1" : 1.58,
+    "h2" : 1.69,
+    "hOverUnderValue" : 150.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 7
+}, {
+  "name" : "Alba Berlin - Braunschweig",
+  "time" : "14:30",
+  "detailUrl" : "https://istatistik.nesine.com/2545502",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.15,
+    "h1Value" : 0.0,
+    "h2Value" : 13.5,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 166.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 8
+}, {
+  "name" : "Liaoning F. L. - Shanghai S.",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2549738",
+  "odds" : {
+    "ms1" : 2.16,
+    "ms2" : 1.31,
+    "h1Value" : 4.5,
+    "h2Value" : 0.0,
+    "h1" : 1.68,
+    "h2" : 1.59,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 9
+}, {
+  "name" : "Shenzhen Leopards - Beijing R. F.",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2550240",
+  "odds" : {
+    "ms1" : 1.17,
+    "ms2" : 2.74,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 179.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 10
+}, {
+  "name" : "KCC Egis - Dongbu Promy",
+  "time" : "15:30",
+  "detailUrl" : "https://istatistik.nesine.com/2549974",
+  "odds" : {
+    "ms1" : 1.47,
+    "ms2" : 1.84,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.63,
+    "h2" : 1.64,
+    "hOverUnderValue" : 167.5,
+    "over" : 1.61,
+    "under" : 1.65
+  },
+  "index" : 11
+}, {
+  "name" : "Rostock Seawolves - Bayern Münih",
+  "time" : "16:00",
+  "detailUrl" : "https://istatistik.nesine.com/2328793",
+  "odds" : {
+    "ms1" : 3.43,
+    "ms2" : 1.07,
+    "h1Value" : 8.5,
+    "h2Value" : 0.0,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 162.5,
+    "over" : 1.59,
+    "under" : 1.68
+  },
+  "index" : 12
+} ]
