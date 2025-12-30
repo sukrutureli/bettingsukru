@@ -74,9 +74,9 @@
   "homeTeam" : "Bahçeşehir Koleji",
   "awayTeam" : "Hamburg Towers",
   "picks" : [ "174.5 Alt (1.67 - 63.6%)" ],
-  "score" : "-",
+  "score" : "105-68",
   "statuses" : {
-    "174.5 Alt (1.67 - 63.6%)" : "pending"
+    "174.5 Alt (1.67 - 63.6%)" : "won"
   }
 }, {
   "homeTeam" : "San Pablo Burgos",
@@ -90,9 +90,9 @@
   "homeTeam" : "Nymburk",
   "awayTeam" : "BK Olomoucko",
   "picks" : [ "172.5 Üst (1.65 - 65.7%)" ],
-  "score" : "-",
+  "score" : "131-43",
   "statuses" : {
-    "172.5 Üst (1.65 - 65.7%)" : "pending"
+    "172.5 Üst (1.65 - 65.7%)" : "won"
   }
 }, {
   "homeTeam" : "Duna Aszfalt",
@@ -106,9 +106,9 @@
   "homeTeam" : "BK Levicki Patrioti",
   "awayTeam" : "BK Inter Bratislava",
   "picks" : [ "167.5 Alt (1.67 - 59.4%)" ],
-  "score" : "-",
+  "score" : "95-80",
   "statuses" : {
-    "167.5 Alt (1.67 - 59.4%)" : "pending"
+    "167.5 Alt (1.67 - 59.4%)" : "lost"
   }
 }, {
   "homeTeam" : "BK Iskra Svit",

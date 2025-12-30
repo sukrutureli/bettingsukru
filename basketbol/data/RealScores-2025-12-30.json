@@ -222,4 +222,92 @@
   "homeTeam" : "KT Sonicboom",
   "awayTeam" : "Samsung Thunders",
   "score" : "111-86"
+}, {
+  "homeTeam" : "Kayseri Basketbol (K)",
+  "awayTeam" : "Galatasaray (K)",
+  "score" : "70-95"
+}, {
+  "homeTeam" : "ÇBK Mersin (K)",
+  "awayTeam" : "Botaş (K)",
+  "score" : "101-89"
+}, {
+  "homeTeam" : "Bahçeşehir Koleji",
+  "awayTeam" : "Hamburg Towers",
+  "score" : "105-68"
+}, {
+  "homeTeam" : "SK Slavia Prague",
+  "awayTeam" : "BK Opava",
+  "score" : "93-98"
+}, {
+  "homeTeam" : "BK Jip Pardubice",
+  "awayTeam" : "BK NH Ostrava",
+  "score" : "83-80"
+}, {
+  "homeTeam" : "Nymburk",
+  "awayTeam" : "BK Olomoucko",
+  "score" : "131-43"
+}, {
+  "homeTeam" : "L. Korikobrat",
+  "awayTeam" : "Helsinki Seagulls",
+  "score" : "75-107"
+}, {
+  "homeTeam" : "KTP Kotka",
+  "awayTeam" : "Vilpas Vikings",
+  "score" : "71-93"
+}, {
+  "homeTeam" : "Kouvot Kouvola",
+  "awayTeam" : "Honka Espoo",
+  "score" : "91-97"
+}, {
+  "homeTeam" : "Kataja",
+  "awayTeam" : "Pyrinto Tampere",
+  "score" : "91-72"
+}, {
+  "homeTeam" : "U-K. Uusikaupunki",
+  "awayTeam" : "Bisons Loimaa",
+  "score" : "94-100"
+}, {
+  "homeTeam" : "Lahti Basketball",
+  "awayTeam" : "Kauhajoki Karhu",
+  "score" : "89-97"
+}, {
+  "homeTeam" : "Valencia (K)",
+  "awayTeam" : "Zaragoza (K)",
+  "score" : "53-73"
+}, {
+  "homeTeam" : "CB Islas Canarias (K)",
+  "awayTeam" : "UNI Girona CB (K)",
+  "score" : "67-93"
+}, {
+  "homeTeam" : "AZS Poznan (K)",
+  "awayTeam" : "Zaglebie Sosnowiec (K)",
+  "score" : "83-70"
+}, {
+  "homeTeam" : "KS Basket 25 II (K)",
+  "awayTeam" : "AZS Umcs Lublin II (K)",
+  "score" : "79-62"
+}, {
+  "homeTeam" : "Skk Polonia II (K)",
+  "awayTeam" : "Wisla Krakow II (K)",
+  "score" : "78-51"
+}, {
+  "homeTeam" : "Kosice Wolves",
+  "awayTeam" : "BKM Lucenec",
+  "score" : "78-95"
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "BK Inter Bratislava",
+  "score" : "95-80"
+}, {
+  "homeTeam" : "Kk Rogaska",
+  "awayTeam" : "Kk Krka",
+  "score" : "53-89"
+}, {
+  "homeTeam" : "BC Maroussi Athens",
+  "awayTeam" : "Panathinaikos",
+  "score" : "89-99"
+}, {
+  "homeTeam" : "AL Inglizia Sport Club",
+  "awayTeam" : "AL Ashrafieh",
+  "score" : "74-50"
 } ]
