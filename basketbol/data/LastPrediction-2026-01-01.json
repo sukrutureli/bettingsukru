@@ -1,0 +1,46 @@
+[ {
+  "name" : "Chicago - New Orleans",
+  "time" : "03:00",
+  "predictions" : [ "MS1 (1.54 - 67.3%)" ],
+  "score" : "124-121"
+}, {
+  "name" : "San Antonio - New York",
+  "time" : "03:00",
+  "predictions" : [ "234.5 Üst (1.63 - 59.8%)" ],
+  "score" : "123-116"
+}, {
+  "name" : "Toronto - Denver",
+  "time" : "03:30",
+  "predictions" : [ "228.5 Üst (1.62 - 61.1%)" ],
+  "score" : "117-116"
+}, {
+  "name" : "Milwaukee - Washington",
+  "time" : "04:00",
+  "predictions" : [ "234.5 Alt (1.62 - 65.2%)" ],
+  "score" : "117-113"
+}, {
+  "name" : "Oklahoma - Portland",
+  "time" : "04:00",
+  "predictions" : [ "232.5 Alt (1.64 - 63.3%)" ],
+  "score" : "117-111"
+}, {
+  "name" : "Goyang Orions - Daegu Pegasus",
+  "time" : "08:00",
+  "predictions" : [ "153.5 Üst (1.63 - 62.6%)" ],
+  "score" : "80-79"
+}, {
+  "name" : "Seoul SK Knights - Anyang KGC",
+  "time" : "10:30",
+  "predictions" : [ "146.5 Üst (1.63 - 59.5%)" ],
+  "score" : "78-72"
+}, {
+  "name" : "Zhejiang G. B. - Qingdao E.",
+  "time" : "14:35",
+  "predictions" : [ "177.5 Alt (1.64 - 57.9%)" ],
+  "score" : "88-87"
+}, {
+  "name" : "Slam Stal - Trefl Sopot",
+  "time" : "19:30",
+  "predictions" : [ "175.5 Alt (1.6 - 56.4%)" ],
+  "score" : "88-85"
+} ]

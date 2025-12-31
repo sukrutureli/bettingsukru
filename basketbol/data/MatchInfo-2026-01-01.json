@@ -1,0 +1,225 @@
+[ {
+  "name" : "Chicago - New Orleans",
+  "time" : "03:00",
+  "detailUrl" : "https://istatistik.nesine.com/2550193",
+  "odds" : {
+    "ms1" : 1.54,
+    "ms2" : 1.73,
+    "h1Value" : 0.0,
+    "h2Value" : 1.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 247.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 0
+}, {
+  "name" : "San Antonio - New York",
+  "time" : "03:00",
+  "detailUrl" : "https://istatistik.nesine.com/2550260",
+  "odds" : {
+    "ms1" : 1.42,
+    "ms2" : 1.92,
+    "h1Value" : 0.0,
+    "h2Value" : 3.5,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 234.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 1
+}, {
+  "name" : "Toronto - Denver",
+  "time" : "03:30",
+  "detailUrl" : "https://istatistik.nesine.com/2549829",
+  "odds" : {
+    "ms1" : 1.18,
+    "ms2" : 2.63,
+    "h1Value" : 0.0,
+    "h2Value" : 6.5,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 228.5,
+    "over" : 1.62,
+    "under" : 1.65
+  },
+  "index" : 2
+}, {
+  "name" : "Milwaukee - Washington",
+  "time" : "04:00",
+  "detailUrl" : "https://istatistik.nesine.com/2549655",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 4.12,
+    "h1Value" : 0.0,
+    "h2Value" : 10.5,
+    "h1" : 1.62,
+    "h2" : 1.65,
+    "hOverUnderValue" : 234.5,
+    "over" : 1.65,
+    "under" : 1.62
+  },
+  "index" : 3
+}, {
+  "name" : "Oklahoma - Portland",
+  "time" : "04:00",
+  "detailUrl" : "https://istatistik.nesine.com/2549737",
+  "odds" : {
+    "ms1" : 0.0,
+    "ms2" : 6.63,
+    "h1Value" : 0.0,
+    "h2Value" : 15.5,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 232.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 4
+}, {
+  "name" : "Goyang Orions - Daegu Pegasus",
+  "time" : "08:00",
+  "detailUrl" : "https://istatistik.nesine.com/2550052",
+  "odds" : {
+    "ms1" : 1.41,
+    "ms2" : 1.96,
+    "h1Value" : 0.0,
+    "h2Value" : 3.5,
+    "h1" : 1.66,
+    "h2" : 1.6,
+    "hOverUnderValue" : 153.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
+  "index" : 5
+}, {
+  "name" : "Seoul SK Knights - Anyang KGC",
+  "time" : "10:30",
+  "detailUrl" : "https://istatistik.nesine.com/2550045",
+  "odds" : {
+    "ms1" : 1.49,
+    "ms2" : 1.81,
+    "h1Value" : 0.0,
+    "h2Value" : 2.5,
+    "h1" : 1.65,
+    "h2" : 1.61,
+    "hOverUnderValue" : 146.5,
+    "over" : 1.63,
+    "under" : 1.63
+  },
+  "index" : 6
+}, {
+  "name" : "Brisbane Bullets - Perth Wildcats",
+  "time" : "11:30",
+  "detailUrl" : "https://istatistik.nesine.com/2549801",
+  "odds" : {
+    "ms1" : 2.68,
+    "ms2" : 1.17,
+    "h1Value" : 6.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 175.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 7
+}, {
+  "name" : "Zhejiang G. B. - Qingdao E.",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2549732",
+  "odds" : {
+    "ms1" : 1.67,
+    "ms2" : 1.59,
+    "h1Value" : 1.5,
+    "h2Value" : 0.0,
+    "h1" : 1.6,
+    "h2" : 1.66,
+    "hOverUnderValue" : 177.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 8
+}, {
+  "name" : "Beijing D. - Guandong S. T.",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2550048",
+  "odds" : {
+    "ms1" : 1.36,
+    "ms2" : 2.04,
+    "h1Value" : 0.0,
+    "h2Value" : 3.5,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 178.5,
+    "over" : 1.64,
+    "under" : 1.63
+  },
+  "index" : 9
+}, {
+  "name" : "Sichuan B. W. - Fujian S.",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2550060",
+  "odds" : {
+    "ms1" : 13.4,
+    "ms2" : 0.0,
+    "h1Value" : 19.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 168.5,
+    "over" : 1.6,
+    "under" : 1.66
+  },
+  "index" : 10
+}, {
+  "name" : "Tianjin P. - Zhejiang L.",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2550063",
+  "odds" : {
+    "ms1" : 6.43,
+    "ms2" : 0.0,
+    "h1Value" : 13.5,
+    "h2Value" : 0.0,
+    "h1" : 1.64,
+    "h2" : 1.63,
+    "hOverUnderValue" : 177.5,
+    "over" : 1.65,
+    "under" : 1.61
+  },
+  "index" : 11
+}, {
+  "name" : "Jiangsu D. - Ningbo Rockets",
+  "time" : "14:35",
+  "detailUrl" : "https://istatistik.nesine.com/2550322",
+  "odds" : {
+    "ms1" : 3.04,
+    "ms2" : 1.11,
+    "h1Value" : 7.5,
+    "h2Value" : 0.0,
+    "h1" : 1.59,
+    "h2" : 1.68,
+    "hOverUnderValue" : 174.5,
+    "over" : 1.63,
+    "under" : 1.64
+  },
+  "index" : 12
+}, {
+  "name" : "Slam Stal - Trefl Sopot",
+  "time" : "19:30",
+  "detailUrl" : "https://istatistik.nesine.com/2550221",
+  "odds" : {
+    "ms1" : 2.82,
+    "ms2" : 1.15,
+    "h1Value" : 6.5,
+    "h2Value" : 0.0,
+    "h1" : 1.65,
+    "h2" : 1.61,
+    "hOverUnderValue" : 175.5,
+    "over" : 1.66,
+    "under" : 1.6
+  },
+  "index" : 13
+} ]
