@@ -42,8 +42,8 @@
   "homeTeam" : "Mozambik",
   "awayTeam" : "Kamerun",
   "picks" : [ "Alt (1.45 - 71.8%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.45 - 71.8%)" : "pending"
+    "Alt (1.45 - 71.8%)" : "lost"
   }
 } ]
