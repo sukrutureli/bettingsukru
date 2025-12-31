@@ -1,1 +1,65 @@
-[ ]
+[ {
+  "homeTeam" : "C. C. Mariners",
+  "awayTeam" : "Brisbane Roar",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "C. Coast Marin. (K)",
+  "awayTeam" : "Brisbane R. (K)",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Defence Force",
+  "awayTeam" : "Ethiopian Coffee SC",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Ethiopia Nigd Bank",
+  "awayTeam" : "Ethiopian Insurance",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Menge Belashangul",
+  "awayTeam" : "Addis Ketema",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Halaba Ketema",
+  "awayTeam" : "Dessie Ketema",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Penrhyncoch",
+  "awayTeam" : "Ruthin Town",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Bala Town",
+  "awayTeam" : "Caernarfon",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Briton Ferry",
+  "awayTeam" : "Barry Town",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Erbil SC",
+  "awayTeam" : "AL Nafit Maysan",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Zakho",
+  "awayTeam" : "AL Karkh",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Kazma SC",
+  "awayTeam" : "AL Salmiya SC",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Burgan SC",
+  "awayTeam" : "Al Sahel",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AL Batin",
+  "awayTeam" : "Abha Club",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Draih",
+  "awayTeam" : "AL Jabil",
+  "score" : "5-2"
+}, {
+  "homeTeam" : "Kataka",
+  "awayTeam" : "Kiyinda Boys",
+  "score" : "2-1"
+} ]

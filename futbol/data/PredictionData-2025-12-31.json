@@ -2,17 +2,17 @@
   "homeTeam" : "C. Coast Marin. (K)",
   "awayTeam" : "Brisbane R. (K)",
   "picks" : [ "Var (1.4 - 71.4%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Var (1.4 - 71.4%)" : "pending"
+    "Var (1.4 - 71.4%)" : "won"
   }
 }, {
   "homeTeam" : "Penrhyncoch",
   "awayTeam" : "Ruthin Town",
   "picks" : [ "Üst (1.41 - 67.8%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Üst (1.41 - 67.8%)" : "pending"
+    "Üst (1.41 - 67.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Limavady Utd",
