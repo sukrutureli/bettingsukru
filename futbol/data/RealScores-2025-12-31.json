@@ -62,4 +62,64 @@
   "homeTeam" : "Kataka",
   "awayTeam" : "Kiyinda Boys",
   "score" : "2-1"
+}, {
+  "homeTeam" : "Ekvator Ginesi",
+  "awayTeam" : "Cezayir",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Sudan",
+  "awayTeam" : "Burkina Faso",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Bouri",
+  "awayTeam" : "Qalali Club",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "AL Ittihad Bhr",
+  "awayTeam" : "Manama Club",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "ISA Town",
+  "awayTeam" : "Etehad Alreef",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Connah's",
+  "awayTeam" : "TNS",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Bibiani Gold Stars",
+  "awayTeam" : "Medeama SC",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "AL Talaba",
+  "awayTeam" : "AL Mosul SC",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Al Garaf",
+  "awayTeam" : "AL Karma",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Al Nasr SC",
+  "awayTeam" : "Al Qadsia",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Limavady Utd",
+  "awayTeam" : "Annagh Utd",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Cer. Cleopatra",
+  "awayTeam" : "Farco",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Petrojet",
+  "awayTeam" : "N. Bank Egypt",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Neom SC",
+  "awayTeam" : "AL Ittihad",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Jeddah Club",
+  "awayTeam" : "AL Bukayriyah",
+  "score" : "1-1"
 } ]

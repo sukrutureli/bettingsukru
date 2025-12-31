@@ -18,25 +18,25 @@
   "homeTeam" : "Limavady Utd",
   "awayTeam" : "Annagh Utd",
   "picks" : [ "Var (1.53 - 79.5%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Var (1.53 - 79.5%)" : "pending"
+    "Var (1.53 - 79.5%)" : "won"
   }
 }, {
   "homeTeam" : "Cer. Cleopatra",
   "awayTeam" : "Farco",
   "picks" : [ "Alt (1.33 - 75.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.33 - 75.3%)" : "pending"
+    "Alt (1.33 - 75.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Jeddah Club",
   "awayTeam" : "AL Bukayriyah",
   "picks" : [ "Alt (1.33 - 85.9%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.33 - 85.9%)" : "pending"
+    "Alt (1.33 - 85.9%)" : "won"
   }
 }, {
   "homeTeam" : "Mozambik",
