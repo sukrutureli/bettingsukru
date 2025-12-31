@@ -1,0 +1,17 @@
+[ {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Philadelphia",
+  "score" : "136-139"
+}, {
+  "homeTeam" : "S. Carolina Gamecocks",
+  "awayTeam" : "A. Great Danes",
+  "score" : "96-67"
+}, {
+  "homeTeam" : "North Carolina Tar Heels",
+  "awayTeam" : "Florida State Seminoles",
+  "score" : "79-66"
+}, {
+  "homeTeam" : "Nebraska Cornhuskers",
+  "awayTeam" : "New Hampshire Wildcats",
+  "score" : "86-55"
+} ]
