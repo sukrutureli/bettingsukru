@@ -14,4 +14,84 @@
   "homeTeam" : "Nebraska Cornhuskers",
   "awayTeam" : "New Hampshire Wildcats",
   "score" : "86-55"
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Boston",
+  "score" : "119-129"
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "Detroit",
+  "score" : "106-128"
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "Sacramento",
+  "score" : "131-90"
+}, {
+  "homeTeam" : "Alba Berlin",
+  "awayTeam" : "Braunschweig",
+  "score" : "104-73"
+}, {
+  "homeTeam" : "Rostock Seawolves",
+  "awayTeam" : "Bayern Münih",
+  "score" : "67-85"
+}, {
+  "homeTeam" : "California Golden Bears",
+  "awayTeam" : "Louisville Cardinals",
+  "score" : "70-90"
+}, {
+  "homeTeam" : "San Diego Toreros",
+  "awayTeam" : "Gonzaga Bulldogs",
+  "score" : "93-99"
+}, {
+  "homeTeam" : "Illawarra Hawks",
+  "awayTeam" : "Tasmania Jackjumpers",
+  "score" : "92-90"
+}, {
+  "homeTeam" : "Cairns Taipans",
+  "awayTeam" : "Melbourne Phoenix",
+  "score" : "96-111"
+}, {
+  "homeTeam" : "Townsville Fire (K)",
+  "awayTeam" : "Bendigo Spirit (K)",
+  "score" : "61-73"
+}, {
+  "homeTeam" : "Liaoning F. L.",
+  "awayTeam" : "Shanghai S.",
+  "score" : "65-91"
+}, {
+  "homeTeam" : "Shenzhen Leopards",
+  "awayTeam" : "Beijing R. F.",
+  "score" : "101-105"
+}, {
+  "homeTeam" : "Hunan Changsha Y.",
+  "awayTeam" : "Hebei Shijiazhuang Xianglan",
+  "score" : "95-101"
+}, {
+  "homeTeam" : "Hubei Culture A. T.",
+  "awayTeam" : "J. Yannan Suke",
+  "score" : "105-98"
+}, {
+  "homeTeam" : "Woori Bank H. (K)",
+  "awayTeam" : "Busan BNK Sum (K)",
+  "score" : "75-61"
+}, {
+  "homeTeam" : "Mobis Phoebus",
+  "awayTeam" : "LG Sakers",
+  "score" : "68-71"
+}, {
+  "homeTeam" : "KCC Egis",
+  "awayTeam" : "Dongbu Promy",
+  "score" : "82-99"
+}, {
+  "homeTeam" : "AL Ahli (Kat)",
+  "awayTeam" : "Qatar SC",
+  "score" : "98-83"
+}, {
+  "homeTeam" : "AL Jalil",
+  "awayTeam" : "Shabab Bushra",
+  "score" : "80-67"
+}, {
+  "homeTeam" : "AL Wehdat Amman",
+  "awayTeam" : "Amman United",
+  "score" : "58-64"
 } ]
