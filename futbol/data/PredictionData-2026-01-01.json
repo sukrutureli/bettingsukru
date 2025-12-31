@@ -1,0 +1,57 @@
+[ {
+  "homeTeam" : "Morpeth Town",
+  "awayTeam" : "Stockton Town",
+  "picks" : [ "Alt (1.56 - 62.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.56 - 62.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "QPR",
+  "awayTeam" : "Norwich City",
+  "picks" : [ "Var (1.55 - 70.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.55 - 70.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Mansfield",
+  "awayTeam" : "Bradford",
+  "picks" : [ "Alt (1.56 - 72.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.56 - 72.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shrewsbury",
+  "awayTeam" : "Bristol Rovers",
+  "picks" : [ "Alt (1.49 - 58.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.49 - 58.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cambridge",
+  "awayTeam" : "Walsall",
+  "picks" : [ "Alt (1.31 - 80.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.31 - 80.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Warrington T.",
+  "awayTeam" : "Leek Town",
+  "picks" : [ "Var (1.58 - 56.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.58 - 56.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Faisaly (Sar)",
+  "awayTeam" : "AL Raed",
+  "picks" : [ "Alt (1.54 - 61.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.54 - 61.8%)" : "pending"
+  }
+} ]
