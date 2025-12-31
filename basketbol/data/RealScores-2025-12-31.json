@@ -94,4 +94,36 @@
   "homeTeam" : "AL Wehdat Amman",
   "awayTeam" : "Amman United",
   "score" : "58-64"
+}, {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Golden State",
+  "score" : "125-132"
+}, {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Orlando",
+  "score" : "110-112"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "Minnesota",
+  "score" : "126-102"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Phoenix",
+  "score" : "129-113"
+}, {
+  "homeTeam" : "Virginia Tech Hokies",
+  "awayTeam" : "Virginia Cavaliers",
+  "score" : "95-85"
+}, {
+  "homeTeam" : "Purdue Boilermakers (K)",
+  "awayTeam" : "Ohio State Buckeyes (K)",
+  "score" : "56-83"
+}, {
+  "homeTeam" : "Houston Cougars (K)",
+  "awayTeam" : "Iowa State Cyclones (K)",
+  "score" : "62-80"
+}, {
+  "homeTeam" : "Oklahoma St. Cowgirls (K)",
+  "awayTeam" : "Baylor Bears (K)",
+  "score" : "68-77"
 } ]
