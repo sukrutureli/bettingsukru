@@ -1,0 +1,41 @@
+[ {
+  "homeTeam" : "CR Beni Thour",
+  "awayTeam" : "Ib Khemis El Khechna",
+  "picks" : [ "Alt (1.52 - 56.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.52 - 56.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "HB Chelghoum L.",
+  "awayTeam" : "MO Constantine",
+  "picks" : [ "Yok (1.45 - 69.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Yok (1.45 - 69.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Budaiya",
+  "awayTeam" : "Aali",
+  "picks" : [ "Alt (1.51 - 69.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.51 - 69.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Trethomas Bluebirds",
+  "awayTeam" : "Newport City",
+  "picks" : [ "Var (1.51 - 68.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.51 - 68.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Larne",
+  "awayTeam" : "Coleraine",
+  "picks" : [ "Alt (1.43 - 68.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.43 - 68.4%)" : "pending"
+  }
+} ]

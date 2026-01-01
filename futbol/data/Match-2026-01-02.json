@@ -1,0 +1,1483 @@
+[ {
+  "homeTeam" : "Melbourne V.",
+  "awayTeam" : "Perth Glory",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.0,
+    "rating100" : 56.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 6,
+    "h2hCount" : 6,
+    "h2hWinRate" : 1.0,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 67.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.6,
+    "msX" : 3.47,
+    "ms2" : 3.77,
+    "over25" : 1.53,
+    "under25" : 1.9,
+    "bttsYes" : 1.51,
+    "bttsNo" : 1.93,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "El Terasanah",
+  "awayTeam" : "El Entag",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 0.5,
+    "rating100" : 55.0,
+    "last5Points" : 9.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 40.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.22,
+    "msX" : 2.4,
+    "ms2" : 2.87,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.1,
+    "bttsNo" : 1.35,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "El Mansurah",
+  "awayTeam" : "Tanta",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 23.0,
+    "last5Points" : 3.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 2,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 0.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 43.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 2,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.26,
+    "msX" : 2.36,
+    "ms2" : 2.86,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.2,
+    "bttsNo" : 1.32,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "La Viena",
+  "awayTeam" : "El Sekka El",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 53.0,
+    "last5Points" : 9.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 4,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.3333333333333333,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 16.0,
+    "last5Points" : 2.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 4,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.77,
+    "msX" : 2.53,
+    "ms2" : 3.93,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.25,
+    "bttsNo" : 1.3,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Al Wasl",
+  "awayTeam" : "Al Wahda",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 53.0,
+    "last5Points" : 9.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 51.0,
+    "last5Points" : 9.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.12,
+    "msX" : 3.0,
+    "ms2" : 2.43,
+    "over25" : 1.64,
+    "under25" : 1.65,
+    "bttsYes" : 1.5,
+    "bttsNo" : 1.82,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Khor Fakkan",
+  "awayTeam" : "AL Dhafra",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 37.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 5,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.8333333333333334,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.0,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 27.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.58,
+    "msX" : 3.37,
+    "ms2" : 3.49,
+    "over25" : 1.43,
+    "under25" : 1.95,
+    "bttsYes" : 1.41,
+    "bttsNo" : 1.97,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Kelantan U.",
+  "awayTeam" : "Kuching FA",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 2.3333333333333335,
+    "rating100" : 21.0,
+    "last5Points" : 3.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 0.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.0,
+    "rating100" : 50.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 4.73,
+    "msX" : 3.65,
+    "ms2" : 1.37,
+    "over25" : 1.4,
+    "under25" : 2.0,
+    "bttsYes" : 1.47,
+    "bttsNo" : 1.86,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Al Kuwait SC",
+  "awayTeam" : "Al Tadhamon",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 2.5,
+    "avgGA" : 0.3333333333333333,
+    "rating100" : 89.0,
+    "last5Points" : 16.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 2.6666666666666665,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.5,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 24.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 0.0,
+    "msX" : 7.67,
+    "ms2" : 15.05,
+    "over25" : 1.22,
+    "under25" : 2.51,
+    "bttsYes" : 2.02,
+    "bttsNo" : 1.4,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "AL Nasr SC",
+  "awayTeam" : "Sohar",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 61.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 49.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.97,
+    "msX" : 2.56,
+    "ms2" : 3.16,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Sitra Club",
+  "awayTeam" : "Al Shabbab",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 43.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.0,
+    "avgGA" : 1.6666666666666667,
+    "rating100" : 3.0,
+    "last5Points" : 1.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.16666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.41,
+    "msX" : 3.37,
+    "ms2" : 4.76,
+    "over25" : 1.8,
+    "under25" : 1.52,
+    "bttsYes" : 1.82,
+    "bttsNo" : 1.5,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "AL Najma",
+  "awayTeam" : "Al Khaleej",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 1.5,
+    "rating100" : 19.0,
+    "last5Points" : 2.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.3333333333333335,
+    "avgGA" : 2.8333333333333335,
+    "rating100" : 31.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.29,
+    "msX" : 3.29,
+    "ms2" : 1.65,
+    "over25" : 1.47,
+    "under25" : 1.86,
+    "bttsYes" : 1.44,
+    "bttsNo" : 1.93,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Beni Thour",
+  "awayTeam" : "Ib Khemis El",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 61.0,
+    "last5Points" : 11.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.0,
+    "avgGA" : 1.0,
+    "rating100" : 40.0,
+    "last5Points" : 6.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.27,
+    "msX" : 3.63,
+    "ms2" : 6.6,
+    "over25" : 1.8,
+    "under25" : 1.52,
+    "bttsYes" : 2.02,
+    "bttsNo" : 1.39,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "USM Annaba",
+  "awayTeam" : "CA Batna",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 43.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.6666666666666667,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 69.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.57,
+    "msX" : 2.81,
+    "ms2" : 4.49,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.16,
+    "bttsNo" : 1.33,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "AS Khroub",
+  "awayTeam" : "Nrb Teleghma",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 0.5,
+    "rating100" : 50.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.5,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 38.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.93,
+    "msX" : 2.58,
+    "ms2" : 3.23,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 1.99,
+    "bttsNo" : 1.4,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "MSP Batna",
+  "awayTeam" : "Js Djidjel",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 1.5,
+    "rating100" : 26.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 2,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 42.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 2,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.46,
+    "msX" : 2.48,
+    "ms2" : 2.47,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 1.9,
+    "bttsNo" : 1.45,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Nrb Beni O.",
+  "awayTeam" : "MO Bejaia",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 34.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 52.0,
+    "last5Points" : 9.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.34,
+    "msX" : 2.55,
+    "ms2" : 2.53,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 1.86,
+    "bttsNo" : 1.48,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Chelghoum L.",
+  "awayTeam" : "Constantine",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.3333333333333333,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 9.0,
+    "last5Points" : 1.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 0.16666666666666666,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.6666666666666667,
+    "rating100" : 48.0,
+    "last5Points" : 9.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 1.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 4.11,
+    "msX" : 3.05,
+    "ms2" : 1.55,
+    "over25" : 2.02,
+    "under25" : 1.39,
+    "bttsYes" : 1.9,
+    "bttsNo" : 1.45,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Bordj Menaie",
+  "awayTeam" : "MC Magra",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.5,
+    "avgGA" : 1.0,
+    "rating100" : 23.0,
+    "last5Points" : 3.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.3333333333333333,
+    "avgGA" : 0.5,
+    "rating100" : 33.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 1,
+    "h2hWinRate" : 1.0,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.78,
+    "msX" : 2.59,
+    "ms2" : 3.75,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.22,
+    "bttsNo" : 1.31,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "US Chaouia",
+  "awayTeam" : "Us Biskra",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.6666666666666667,
+    "avgGA" : 1.0,
+    "rating100" : 58.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 0.3333333333333333,
+    "rating100" : 81.0,
+    "last5Points" : 15.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 0,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 2.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.27,
+    "msX" : 2.43,
+    "ms2" : 2.76,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 2.18,
+    "bttsNo" : 1.33,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Al Ettifaq",
+  "awayTeam" : "AL Akhdood",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.8333333333333333,
+    "avgGA" : 1.5,
+    "rating100" : 52.0,
+    "last5Points" : 9.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 4,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.5,
+    "avgGA" : 1.5,
+    "rating100" : 23.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 4,
+    "h2hWinRate" : 0.25,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.39,
+    "msX" : 3.55,
+    "ms2" : 4.68,
+    "over25" : 1.6,
+    "under25" : 1.7,
+    "bttsYes" : 1.65,
+    "bttsNo" : 1.64,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Al Shabab",
+  "awayTeam" : "Al Arabi",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 47.0,
+    "last5Points" : 9.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.5,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.0,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 65.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 6.98,
+    "msX" : 4.14,
+    "ms2" : 1.2,
+    "over25" : 1.63,
+    "under25" : 1.66,
+    "bttsYes" : 1.95,
+    "bttsNo" : 1.43,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Al Ain",
+  "awayTeam" : "Sharjah",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 2.0,
+    "avgGA" : 1.0,
+    "rating100" : 63.0,
+    "last5Points" : 11.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 2.3333333333333335,
+    "rating100" : 33.0,
+    "last5Points" : 6.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.46,
+    "msX" : 3.6,
+    "ms2" : 3.99,
+    "over25" : 1.49,
+    "under25" : 1.83,
+    "bttsYes" : 1.53,
+    "bttsNo" : 1.79,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Baniyas",
+  "awayTeam" : "Al Nasr Dub.",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.6666666666666667,
+    "avgGA" : 1.6666666666666667,
+    "rating100" : 53.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.0,
+    "avgGA" : 1.5,
+    "rating100" : 66.0,
+    "last5Points" : 13.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 2.1666666666666665,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.76,
+    "msX" : 3.14,
+    "ms2" : 1.88,
+    "over25" : 1.56,
+    "under25" : 1.75,
+    "bttsYes" : 1.47,
+    "bttsNo" : 1.88,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Al Seeb",
+  "awayTeam" : "Saham SC",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 2.6666666666666665,
+    "avgGA" : 0.16666666666666666,
+    "rating100" : 98.0,
+    "last5Points" : 18.0,
+    "last5Count" : 6,
+    "h2hWins" : 5,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.8333333333333334,
+    "avgPointsPerMatch" : 3.0,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.8333333333333333,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 60.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.46,
+    "msX" : 3.59,
+    "ms2" : 3.98,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 0.0,
+    "bttsNo" : 0.0,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Al Muharraq",
+  "awayTeam" : "Khalidiyah",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 56.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 71.0,
+    "last5Points" : 13.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 2.1666666666666665,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.88,
+    "msX" : 2.94,
+    "ms2" : 2.92,
+    "over25" : 1.71,
+    "under25" : 1.59,
+    "bttsYes" : 1.56,
+    "bttsNo" : 1.75,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Al Budaiya",
+  "awayTeam" : "Aali",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 1.6666666666666667,
+    "rating100" : 30.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.5,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 29.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.02,
+    "msX" : 2.85,
+    "ms2" : 2.7,
+    "over25" : 1.81,
+    "under25" : 1.51,
+    "bttsYes" : 1.61,
+    "bttsNo" : 1.68,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Kabylie",
+  "awayTeam" : "MC Alger",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.6666666666666667,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 50.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 0.5,
+    "rating100" : 79.0,
+    "last5Points" : 15.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 2.5,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.21,
+    "msX" : 2.46,
+    "ms2" : 2.8,
+    "over25" : 2.77,
+    "under25" : 1.17,
+    "bttsYes" : 2.18,
+    "bttsNo" : 1.32,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Ahli Saudi",
+  "awayTeam" : "AL Nassr",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 2.1666666666666665,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 59.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 3.6666666666666665,
+    "avgGA" : 1.0,
+    "rating100" : 85.0,
+    "last5Points" : 16.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 2.6666666666666665,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 4.03,
+    "msX" : 3.81,
+    "ms2" : 1.42,
+    "over25" : 1.29,
+    "under25" : 2.27,
+    "bttsYes" : 1.35,
+    "bttsNo" : 2.1,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Gil Vicente",
+  "awayTeam" : "Sporting CP",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.0,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 35.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 3.0,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 65.0,
+    "last5Points" : 11.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 6.08,
+    "msX" : 3.78,
+    "ms2" : 1.33,
+    "over25" : 1.76,
+    "under25" : 1.63,
+    "bttsYes" : 1.93,
+    "bttsNo" : 1.51,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Caerau Ely",
+  "awayTeam" : "Cardiff Dra.",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 53.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 1,
+    "h2hWinRate" : 1.0,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.5,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 63.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.68,
+    "msX" : 3.39,
+    "ms2" : 3.06,
+    "over25" : 1.37,
+    "under25" : 2.07,
+    "bttsYes" : 1.34,
+    "bttsNo" : 2.12,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Cwmbran C.",
+  "awayTeam" : "Treowen Star",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.5,
+    "avgGA" : 2.5,
+    "rating100" : 10.0,
+    "last5Points" : 1.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.16666666666666666,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.0,
+    "avgGA" : 1.0,
+    "rating100" : 63.0,
+    "last5Points" : 11.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 1,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.8333333333333333,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 3.18,
+    "msX" : 3.55,
+    "ms2" : 1.61,
+    "over25" : 0.0,
+    "under25" : 0.0,
+    "bttsYes" : 1.33,
+    "bttsNo" : 2.14,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Eibar",
+  "awayTeam" : "Mirandes",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.1666666666666667,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 43.0,
+    "last5Points" : 7.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 1.1666666666666667,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 1.6666666666666667,
+    "rating100" : 27.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.47,
+    "msX" : 3.2,
+    "ms2" : 5.23,
+    "over25" : 2.04,
+    "under25" : 1.45,
+    "bttsYes" : 2.02,
+    "bttsNo" : 1.47,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Cagliari",
+  "awayTeam" : "AC Milan",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.3333333333333333,
+    "rating100" : 47.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 56.0,
+    "last5Points" : 10.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 1.6666666666666667,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 5.47,
+    "msX" : 3.76,
+    "ms2" : 1.37,
+    "over25" : 1.7,
+    "under25" : 1.69,
+    "bttsYes" : 1.81,
+    "bttsNo" : 1.6,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Toulouse",
+  "awayTeam" : "Lens",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 0.8333333333333334,
+    "rating100" : 62.0,
+    "last5Points" : 11.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 2.3333333333333335,
+    "avgGA" : 0.6666666666666666,
+    "rating100" : 91.0,
+    "last5Points" : 18.0,
+    "last5Count" : 6,
+    "h2hWins" : 4,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 3.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.33,
+    "msX" : 3.0,
+    "ms2" : 2.39,
+    "over25" : 1.74,
+    "under25" : 1.66,
+    "bttsYes" : 1.56,
+    "bttsNo" : 1.85,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "Trethomas",
+  "awayTeam" : "Newport City",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.3333333333333333,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 34.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.6666666666666666,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 2.0,
+    "rating100" : 37.0,
+    "last5Points" : 6.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 3,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 1.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.8,
+    "msX" : 3.12,
+    "ms2" : 1.86,
+    "over25" : 1.61,
+    "under25" : 1.68,
+    "bttsYes" : 1.51,
+    "bttsNo" : 1.81,
+    "mbs" : 3
+  }
+}, {
+  "homeTeam" : "Larne",
+  "awayTeam" : "Coleraine",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 0.5,
+    "rating100" : 60.0,
+    "last5Points" : 11.0,
+    "last5Count" : 6,
+    "h2hWins" : 3,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.5,
+    "avgPointsPerMatch" : 1.8333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.8333333333333333,
+    "avgGA" : 1.0,
+    "rating100" : 66.0,
+    "last5Points" : 12.0,
+    "last5Count" : 6,
+    "h2hWins" : 1,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.16666666666666666,
+    "avgPointsPerMatch" : 2.0,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 2.12,
+    "msX" : 2.83,
+    "ms2" : 2.57,
+    "over25" : 1.94,
+    "under25" : 1.43,
+    "bttsYes" : 1.69,
+    "bttsNo" : 1.61,
+    "mbs" : 2
+  }
+}, {
+  "homeTeam" : "Vallecano",
+  "awayTeam" : "Getafe",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 1.0,
+    "avgGA" : 1.1666666666666667,
+    "rating100" : 45.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 0.6666666666666666,
+    "avgGA" : 2.0,
+    "rating100" : 23.0,
+    "last5Points" : 4.0,
+    "last5Count" : 6,
+    "h2hWins" : 0,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.0,
+    "avgPointsPerMatch" : 0.6666666666666666,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.89,
+    "msX" : 2.59,
+    "ms2" : 3.75,
+    "over25" : 2.81,
+    "under25" : 1.21,
+    "bttsYes" : 2.29,
+    "bttsNo" : 1.34,
+    "mbs" : 1
+  }
+}, {
+  "homeTeam" : "V. Guimaraes",
+  "awayTeam" : "N. Madeira",
+  "homeStats" : {
+    "teamName" : "",
+    "avgGF" : 0.8333333333333334,
+    "avgGA" : 1.0,
+    "rating100" : 45.0,
+    "last5Points" : 8.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 1.3333333333333333,
+    "empty" : false
+  },
+  "awayStats" : {
+    "teamName" : "",
+    "avgGF" : 1.5,
+    "avgGA" : 1.8333333333333333,
+    "rating100" : 35.0,
+    "last5Points" : 5.0,
+    "last5Count" : 6,
+    "h2hWins" : 2,
+    "h2hCount" : 6,
+    "h2hWinRate" : 0.3333333333333333,
+    "avgPointsPerMatch" : 0.8333333333333334,
+    "empty" : false
+  },
+  "odds" : {
+    "ms1" : 1.61,
+    "msX" : 3.16,
+    "ms2" : 4.09,
+    "over25" : 1.89,
+    "under25" : 1.53,
+    "bttsYes" : 1.79,
+    "bttsNo" : 1.61,
+    "mbs" : 1
+  }
+} ]
