@@ -98,4 +98,64 @@
   "homeTeam" : "Slam Stal",
   "awayTeam" : "Trefl Sopot",
   "score" : "89-80"
+}, {
+  "homeTeam" : "North Alabama Lions",
+  "awayTeam" : "Stetson Hatters",
+  "score" : "67-70"
+}, {
+  "homeTeam" : "C. Carolina Chanticleers",
+  "awayTeam" : "Georgia Southern Eagles",
+  "score" : "81-82"
+}, {
+  "homeTeam" : "L.Bisons",
+  "awayTeam" : "Jacksonville Dolphins",
+  "score" : "76-57"
+}, {
+  "homeTeam" : "Central Arkansas Bears",
+  "awayTeam" : "Florida Gulf Coast Eagles",
+  "score" : "85-83"
+}, {
+  "homeTeam" : "North Dakota Fighting Hawks",
+  "awayTeam" : "Oral Roberts Golden Eagles",
+  "score" : "72-61"
+}, {
+  "homeTeam" : "Texas Arlington Mavericks",
+  "awayTeam" : "California Baptist Lancers",
+  "score" : "63-51"
+}, {
+  "homeTeam" : "Xavier Musketeers (K)",
+  "awayTeam" : "Marquette Golden Eagle (K)",
+  "score" : "54-67"
+}, {
+  "homeTeam" : "Kansas Jayhawks (K)",
+  "awayTeam" : "West Virginia Mount (K)",
+  "score" : "72-79"
+}, {
+  "homeTeam" : "Rutgers Scarlet (K)",
+  "awayTeam" : "Wisconsin Bad (K)",
+  "score" : "63-70"
+}, {
+  "homeTeam" : "South Carolina (K)",
+  "awayTeam" : "Alabama Crimson (K)",
+  "score" : "83-57"
+}, {
+  "homeTeam" : "St. John's Red Storm (K)",
+  "awayTeam" : "DePaul Blue Demons (K)",
+  "score" : "75-58"
+}, {
+  "homeTeam" : "Tennessee Lady Volu. (K)",
+  "awayTeam" : "Florida Gators (K)",
+  "score" : "76-65"
+}, {
+  "homeTeam" : "Iowa Hawk (K)",
+  "awayTeam" : "Nebraska Cornhuskers (K)",
+  "score" : "86-76"
+}, {
+  "homeTeam" : "Louisville Cardinals (K)",
+  "awayTeam" : "Southern Methodist Mustangs (K)",
+  "score" : "91-58"
+}, {
+  "homeTeam" : "Ole Mississippi Rebels (K)",
+  "awayTeam" : "Georgia Bulldogs (K)",
+  "score" : "79-62"
 } ]
