@@ -66,8 +66,8 @@
   "homeTeam" : "Slam Stal",
   "awayTeam" : "Trefl Sopot",
   "picks" : [ "175.5 Alt (1.6 - 56.4%)" ],
-  "score" : "-",
+  "score" : "89-80",
   "statuses" : {
-    "175.5 Alt (1.6 - 56.4%)" : "pending"
+    "175.5 Alt (1.6 - 56.4%)" : "won"
   }
 } ]

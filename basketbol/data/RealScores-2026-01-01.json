@@ -78,4 +78,24 @@
   "homeTeam" : "Seoul SK Knights",
   "awayTeam" : "Anyang KGC",
   "score" : "65-71"
+}, {
+  "homeTeam" : "Villanova Wildcats (K)",
+  "awayTeam" : "Creighton Bluejays",
+  "score" : "74-64"
+}, {
+  "homeTeam" : "Indiana Hoosiers (K)",
+  "awayTeam" : "Michigan St Spartans (K)",
+  "score" : "60-80"
+}, {
+  "homeTeam" : "AL Arabi (Kat)",
+  "awayTeam" : "AL Shamal",
+  "score" : "91-83"
+}, {
+  "homeTeam" : "AL Gharafa",
+  "awayTeam" : "AL Wakrah",
+  "score" : "85-98"
+}, {
+  "homeTeam" : "Slam Stal",
+  "awayTeam" : "Trefl Sopot",
+  "score" : "89-80"
 } ]
