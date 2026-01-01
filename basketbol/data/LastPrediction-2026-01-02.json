@@ -1,0 +1,76 @@
+[ {
+  "name" : "Brooklyn - Houston",
+  "time" : "02:00",
+  "predictions" : [ "216.5 Üst (1.62 - 61.2%)" ],
+  "score" : "113-108"
+}, {
+  "name" : "Detroit - Miami",
+  "time" : "03:00",
+  "predictions" : [ "MS1 (1.31 - 73.8%)" ],
+  "score" : "123-118"
+}, {
+  "name" : "Dallas - Philadelphia",
+  "time" : "04:30",
+  "predictions" : [ "231.5 Üst (1.66 - 61.4%)" ],
+  "score" : "120-117"
+}, {
+  "name" : "Adelaide 36ers - Sydney Kings",
+  "time" : "11:30",
+  "predictions" : [ "177.5 Üst (1.62 - 58.7%)" ],
+  "score" : "89-92"
+}, {
+  "name" : "Bank of Taiwan - YL Dinos",
+  "time" : "14:30",
+  "predictions" : [ "153.5 Alt (1.63 - 55.6%)" ],
+  "score" : "78-74"
+}, {
+  "name" : "Shandong H. - Xinjiang F. T.",
+  "time" : "14:35",
+  "predictions" : [ "MS1 (1.33 - 77.7%)" ],
+  "score" : "94-88"
+}, {
+  "name" : "Shanxi L. - Guangzhou L. L.",
+  "time" : "14:35",
+  "predictions" : [ "177.5 Üst (1.6 - 57.5%)" ],
+  "score" : "94-87"
+}, {
+  "name" : "Neptunas K. - Reyer Venezia",
+  "time" : "19:00",
+  "predictions" : [ "179.5 Üst (1.66 - 78.3%)" ],
+  "score" : "97-94"
+}, {
+  "name" : "Czarni Slupsk - Gornik Walbrzych",
+  "time" : "19:30",
+  "predictions" : [ "MS2 (1.53 - 73.4%)" ],
+  "score" : "77-82"
+}, {
+  "name" : "Bilbao Basket - Valencia",
+  "time" : "20:00",
+  "predictions" : [ "172.5 Alt (1.63 - 63.1%)" ],
+  "score" : "88-81"
+}, {
+  "name" : "Ratiopharm Ulm - Lietkabelis",
+  "time" : "21:00",
+  "predictions" : [ "165.5 Alt (1.61 - 74.9%)" ],
+  "score" : "81-75"
+}, {
+  "name" : "Andorra - Força Lleida",
+  "time" : "21:00",
+  "predictions" : [ "MS1 (1.33 - 79.3%)" ],
+  "score" : "91-85"
+}, {
+  "name" : "Barcelona - Zaragoza",
+  "time" : "22:00",
+  "predictions" : [ "174.5 Alt (1.63 - 63.5%)" ],
+  "score" : "88-82"
+}, {
+  "name" : "Panathinaikos - Olympiakos",
+  "time" : "22:15",
+  "predictions" : [ "168.5 Üst (1.63 - 82.1%)" ],
+  "score" : "94-89"
+}, {
+  "name" : "Bayern Münih - M. Tel Aviv",
+  "time" : "23:00",
+  "predictions" : [ "MS2 (1.65 - 57.3%)" ],
+  "score" : "86-87"
+} ]

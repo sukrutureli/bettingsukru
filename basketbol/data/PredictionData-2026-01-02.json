@@ -1,0 +1,121 @@
+[ {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Houston",
+  "picks" : [ "216.5 Üst (1.62 - 61.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "216.5 Üst (1.62 - 61.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "Miami",
+  "picks" : [ "MS1 (1.31 - 73.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.31 - 73.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Philadelphia",
+  "picks" : [ "231.5 Üst (1.66 - 61.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "231.5 Üst (1.66 - 61.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Adelaide 36ers",
+  "awayTeam" : "Sydney Kings",
+  "picks" : [ "177.5 Üst (1.62 - 58.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "177.5 Üst (1.62 - 58.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bank of Taiwan",
+  "awayTeam" : "YL Dinos",
+  "picks" : [ "153.5 Alt (1.63 - 55.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "153.5 Alt (1.63 - 55.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shandong H.",
+  "awayTeam" : "Xinjiang F. T.",
+  "picks" : [ "MS1 (1.33 - 77.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.33 - 77.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shanxi L.",
+  "awayTeam" : "Guangzhou L. L.",
+  "picks" : [ "177.5 Üst (1.6 - 57.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "177.5 Üst (1.6 - 57.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Neptunas K.",
+  "awayTeam" : "Reyer Venezia",
+  "picks" : [ "179.5 Üst (1.66 - 78.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "179.5 Üst (1.66 - 78.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Czarni Slupsk",
+  "awayTeam" : "Gornik Walbrzych",
+  "picks" : [ "MS2 (1.53 - 73.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.53 - 73.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bilbao Basket",
+  "awayTeam" : "Valencia",
+  "picks" : [ "172.5 Alt (1.63 - 63.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "172.5 Alt (1.63 - 63.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ratiopharm Ulm",
+  "awayTeam" : "Lietkabelis",
+  "picks" : [ "165.5 Alt (1.61 - 74.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "165.5 Alt (1.61 - 74.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Andorra",
+  "awayTeam" : "Força Lleida",
+  "picks" : [ "MS1 (1.33 - 79.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.33 - 79.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Zaragoza",
+  "picks" : [ "174.5 Alt (1.63 - 63.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "174.5 Alt (1.63 - 63.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Panathinaikos",
+  "awayTeam" : "Olympiakos",
+  "picks" : [ "168.5 Üst (1.63 - 82.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Üst (1.63 - 82.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Bayern Münih",
+  "awayTeam" : "M. Tel Aviv",
+  "picks" : [ "MS2 (1.65 - 57.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.65 - 57.3%)" : "pending"
+  }
+} ]
