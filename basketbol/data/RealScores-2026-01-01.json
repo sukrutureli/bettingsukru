@@ -34,4 +34,48 @@
   "homeTeam" : "Brigham Young Cougars (K)",
   "awayTeam" : "TCU Horned Frogs (K)",
   "score" : "48-72"
+}, {
+  "homeTeam" : "Brisbane Bullets",
+  "awayTeam" : "Perth Wildcats",
+  "score" : "75-95"
+}, {
+  "homeTeam" : "Zhejiang G.B.",
+  "awayTeam" : "Qingdao E.",
+  "score" : "78-73"
+}, {
+  "homeTeam" : "Beijing D.",
+  "awayTeam" : "Guandong S.T.",
+  "score" : "105-74"
+}, {
+  "homeTeam" : "Sichuan B.W.",
+  "awayTeam" : "Fujian S.",
+  "score" : "88-104"
+}, {
+  "homeTeam" : "Tianjin P.",
+  "awayTeam" : "Zhejiang L.",
+  "score" : "68-102"
+}, {
+  "homeTeam" : "Jiangsu D.",
+  "awayTeam" : "Ningbo Rockets",
+  "score" : "79-84"
+}, {
+  "homeTeam" : "Zhangjiakou",
+  "awayTeam" : "Shanghai Blackbird",
+  "score" : "57-105"
+}, {
+  "homeTeam" : "Jiangxi Ganchi",
+  "awayTeam" : "Hangzhou Jingwei",
+  "score" : "99-75"
+}, {
+  "homeTeam" : "Anhui Wenyi",
+  "awayTeam" : "Hong Kong B.",
+  "score" : "77-101"
+}, {
+  "homeTeam" : "Goyang Orions",
+  "awayTeam" : "Daegu Pegasus",
+  "score" : "70-69"
+}, {
+  "homeTeam" : "Seoul SK Knights",
+  "awayTeam" : "Anyang KGC",
+  "score" : "65-71"
 } ]

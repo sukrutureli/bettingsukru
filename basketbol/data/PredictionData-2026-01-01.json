@@ -42,25 +42,25 @@
   "homeTeam" : "Goyang Orions",
   "awayTeam" : "Daegu Pegasus",
   "picks" : [ "153.5 Üst (1.63 - 62.6%)" ],
-  "score" : "-",
+  "score" : "70-69",
   "statuses" : {
-    "153.5 Üst (1.63 - 62.6%)" : "pending"
+    "153.5 Üst (1.63 - 62.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Seoul SK Knights",
   "awayTeam" : "Anyang KGC",
   "picks" : [ "146.5 Üst (1.63 - 59.5%)" ],
-  "score" : "-",
+  "score" : "65-71",
   "statuses" : {
-    "146.5 Üst (1.63 - 59.5%)" : "pending"
+    "146.5 Üst (1.63 - 59.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Zhejiang G. B.",
   "awayTeam" : "Qingdao E.",
   "picks" : [ "177.5 Alt (1.64 - 57.9%)" ],
-  "score" : "-",
+  "score" : "78-73",
   "statuses" : {
-    "177.5 Alt (1.64 - 57.9%)" : "pending"
+    "177.5 Alt (1.64 - 57.9%)" : "won"
   }
 }, {
   "homeTeam" : "Slam Stal",
