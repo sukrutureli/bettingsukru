@@ -2,41 +2,41 @@
   "homeTeam" : "Chicago",
   "awayTeam" : "New Orleans",
   "picks" : [ "MS1 (1.54 - 67.3%)" ],
-  "score" : "-",
+  "score" : "134-118",
   "statuses" : {
-    "MS1 (1.54 - 67.3%)" : "pending"
+    "MS1 (1.54 - 67.3%)" : "won"
   }
 }, {
   "homeTeam" : "San Antonio",
   "awayTeam" : "New York",
   "picks" : [ "234.5 Üst (1.63 - 59.8%)" ],
-  "score" : "-",
+  "score" : "134-132",
   "statuses" : {
-    "234.5 Üst (1.63 - 59.8%)" : "pending"
+    "234.5 Üst (1.63 - 59.8%)" : "won"
   }
 }, {
   "homeTeam" : "Toronto",
   "awayTeam" : "Denver",
   "picks" : [ "228.5 Üst (1.62 - 61.1%)" ],
-  "score" : "-",
+  "score" : "103-106",
   "statuses" : {
-    "228.5 Üst (1.62 - 61.1%)" : "pending"
+    "228.5 Üst (1.62 - 61.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Milwaukee",
   "awayTeam" : "Washington",
   "picks" : [ "234.5 Alt (1.62 - 65.2%)" ],
-  "score" : "-",
+  "score" : "113-114",
   "statuses" : {
-    "234.5 Alt (1.62 - 65.2%)" : "pending"
+    "234.5 Alt (1.62 - 65.2%)" : "won"
   }
 }, {
   "homeTeam" : "Oklahoma",
   "awayTeam" : "Portland",
   "picks" : [ "232.5 Alt (1.64 - 63.3%)" ],
-  "score" : "-",
+  "score" : "124-95",
   "statuses" : {
-    "232.5 Alt (1.64 - 63.3%)" : "pending"
+    "232.5 Alt (1.64 - 63.3%)" : "won"
   }
 }, {
   "homeTeam" : "Goyang Orions",

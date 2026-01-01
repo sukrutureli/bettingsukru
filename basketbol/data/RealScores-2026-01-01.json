@@ -1,0 +1,37 @@
+[ {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "New Orleans",
+  "score" : "134-118"
+}, {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "New York",
+  "score" : "134-132"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Denver",
+  "score" : "103-106"
+}, {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "Washington",
+  "score" : "113-114"
+}, {
+  "homeTeam" : "Oklahoma",
+  "awayTeam" : "Portland",
+  "score" : "124-95"
+}, {
+  "homeTeam" : "Duke Blue Devils",
+  "awayTeam" : "Georgia Tech Yellow Jackets",
+  "score" : "85-79"
+}, {
+  "homeTeam" : "Xavier Musketeers",
+  "awayTeam" : "Connecticut Huskies",
+  "score" : "67-90"
+}, {
+  "homeTeam" : "Texas Tec Red Raiders (K)",
+  "awayTeam" : "Ucf Knights (K)",
+  "score" : "73-55"
+}, {
+  "homeTeam" : "Brigham Young Cougars (K)",
+  "awayTeam" : "TCU Horned Frogs (K)",
+  "score" : "48-72"
+} ]
