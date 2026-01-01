@@ -274,4 +274,32 @@
   "homeTeam" : "AL Faisaly (Sar)",
   "awayTeam" : "AL Raed",
   "score" : "5-3"
+}, {
+  "homeTeam" : "Crystal Palace",
+  "awayTeam" : "Fulham",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Liverpool",
+  "awayTeam" : "Leeds Utd",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Brentford",
+  "awayTeam" : "Tottenham",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Sunderland",
+  "awayTeam" : "Man. City",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Sheffield Utd",
+  "awayTeam" : "Leicester City",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Treasure Beach",
+  "awayTeam" : "Chapelton Maroons",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Ismaily Sc",
+  "awayTeam" : "Modern Sport Club",
+  "score" : "0-0"
 } ]
