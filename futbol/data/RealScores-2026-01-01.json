@@ -1,1 +1,93 @@
-[ ]
+[ {
+  "homeTeam" : "Auckland",
+  "awayTeam" : "Newcastle Utd Jets",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "W. S. Wanderers",
+  "awayTeam" : "Macarthur",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Cambrian & Clydach",
+  "awayTeam" : "Pontypridd Town",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Aberystwyth",
+  "awayTeam" : "Carmarthen",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Broughton",
+  "awayTeam" : "Flint Mountain",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Rhyl",
+  "awayTeam" : "Llandudno",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Holywell Town",
+  "awayTeam" : "Holyhead Hotspur",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Caersws",
+  "awayTeam" : "Newtown",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Denbigh Town",
+  "awayTeam" : "Gresford Ath",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Buckley Town",
+  "awayTeam" : "Mold Alexandra",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Colwyn Bay",
+  "awayTeam" : "Flint Town Utd",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Llanelli",
+  "awayTeam" : "Penybont",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Najaf",
+  "awayTeam" : "AL Naft",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "AL Minaa",
+  "awayTeam" : "Newroz SC",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Blackburn R.",
+  "awayTeam" : "Wrexham",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Morpeth Town",
+  "awayTeam" : "Stockton Town",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "M. Sepahan",
+  "awayTeam" : "Esteghlal",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "INAC Kobe L. (K)",
+  "awayTeam" : "S. Hiroshima (K)",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AL Orubah",
+  "awayTeam" : "AL Jandal",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Tai",
+  "awayTeam" : "Al Zlfe",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Wakiso Giants",
+  "awayTeam" : "Kaaro Karungi",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Ntungasaze",
+  "awayTeam" : "Bright Stars",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Mbale Heroes",
+  "awayTeam" : "Young Elephants",
+  "score" : "2-1"
+} ]

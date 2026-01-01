@@ -2,9 +2,9 @@
   "homeTeam" : "Morpeth Town",
   "awayTeam" : "Stockton Town",
   "picks" : [ "Alt (1.56 - 62.4%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.56 - 62.4%)" : "pending"
+    "Alt (1.56 - 62.4%)" : "won"
   }
 }, {
   "homeTeam" : "QPR",
