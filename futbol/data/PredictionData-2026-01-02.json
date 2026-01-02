@@ -34,8 +34,8 @@
   "homeTeam" : "Larne",
   "awayTeam" : "Coleraine",
   "picks" : [ "Alt (1.43 - 68.4%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.43 - 68.4%)" : "pending"
+    "Alt (1.43 - 68.4%)" : "lost"
   }
 } ]

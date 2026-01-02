@@ -158,4 +158,56 @@
   "homeTeam" : "Al Seeb",
   "awayTeam" : "Saham",
   "score" : "3-2"
+}, {
+  "homeTeam" : "Vallecano",
+  "awayTeam" : "Getafe",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Cagliari",
+  "awayTeam" : "AC Milan",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Toulouse",
+  "awayTeam" : "RC Lens",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Gil Vicente",
+  "awayTeam" : "Sporting CP",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "V. Guimaraes",
+  "awayTeam" : "N. Madeira",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Caerau Ely",
+  "awayTeam" : "Cardiff Draconians",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Cwmbran Celtic",
+  "awayTeam" : "Treowen Stars",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Trethomas Bluebirds",
+  "awayTeam" : "Newport City",
+  "score" : "-"
+}, {
+  "homeTeam" : "Aveley",
+  "awayTeam" : "Canvey Island",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Eibar",
+  "awayTeam" : "Mirandes",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Larne",
+  "awayTeam" : "Coleraine",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Moyola Park",
+  "awayTeam" : "Banbridge Town",
+  "score" : "10-1"
+}, {
+  "homeTeam" : "Ahli Saudi",
+  "awayTeam" : "AL Nassr",
+  "score" : "3-2"
 } ]
