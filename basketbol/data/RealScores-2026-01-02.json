@@ -94,4 +94,68 @@
   "homeTeam" : "Montana State Bobcats",
   "awayTeam" : "Northern Colorado Bears",
   "score" : "89-75"
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Boston",
+  "score" : "106-120"
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "Utah",
+  "score" : "118-101"
+}, {
+  "homeTeam" : "Cal State Fullerton Titans",
+  "awayTeam" : "UC Santa Barbara Gauchos",
+  "score" : "95-84"
+}, {
+  "homeTeam" : "Cal Poly Mustangs",
+  "awayTeam" : "California San Diego Tritons",
+  "score" : "67-65"
+}, {
+  "homeTeam" : "Adelaide 36ers",
+  "awayTeam" : "Sydney Kings",
+  "score" : "85-79"
+}, {
+  "homeTeam" : "Perth Lynx (K)",
+  "awayTeam" : "Adelaide Lightning (K)",
+  "score" : "93-75"
+}, {
+  "homeTeam" : "Shandong H.",
+  "awayTeam" : "Xinjiang F.T.",
+  "score" : "100-85"
+}, {
+  "homeTeam" : "Nanjing M.K.",
+  "awayTeam" : "Jilin N.T.",
+  "score" : "104-82"
+}, {
+  "homeTeam" : "Shanxi L.",
+  "awayTeam" : "Guangzhou L.L.",
+  "score" : "70-74"
+}, {
+  "homeTeam" : "Hunan Changsha Y.",
+  "awayTeam" : "Shandong Honey Badger",
+  "score" : "90-71"
+}, {
+  "homeTeam" : "J. Yannan Suke",
+  "awayTeam" : "Jiaozuo Culture And Tourism",
+  "score" : "97-83"
+}, {
+  "homeTeam" : "Hubei Culture A. T.",
+  "awayTeam" : "H. Kuangfeng",
+  "score" : "85-78"
+}, {
+  "homeTeam" : "Guizhou Menglong",
+  "awayTeam" : "Hebei S. Xianglan",
+  "score" : "85-99"
+}, {
+  "homeTeam" : "Samsung Thunders",
+  "awayTeam" : "LG Sakers",
+  "score" : "62-80"
+}, {
+  "homeTeam" : "AL Khaleej",
+  "awayTeam" : "AL Ahli (Sar)",
+  "score" : "66-110"
+}, {
+  "homeTeam" : "Bank of Taiwan",
+  "awayTeam" : "YL Dinos",
+  "score" : "81-69"
 } ]

@@ -26,33 +26,33 @@
   "homeTeam" : "Adelaide 36ers",
   "awayTeam" : "Sydney Kings",
   "picks" : [ "177.5 Üst (1.62 - 58.7%)" ],
-  "score" : "-",
+  "score" : "85-79",
   "statuses" : {
-    "177.5 Üst (1.62 - 58.7%)" : "pending"
+    "177.5 Üst (1.62 - 58.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Bank of Taiwan",
   "awayTeam" : "YL Dinos",
   "picks" : [ "153.5 Alt (1.63 - 55.6%)" ],
-  "score" : "-",
+  "score" : "81-69",
   "statuses" : {
-    "153.5 Alt (1.63 - 55.6%)" : "pending"
+    "153.5 Alt (1.63 - 55.6%)" : "won"
   }
 }, {
   "homeTeam" : "Shandong H.",
   "awayTeam" : "Xinjiang F. T.",
   "picks" : [ "MS1 (1.33 - 77.7%)" ],
-  "score" : "-",
+  "score" : "100-85",
   "statuses" : {
-    "MS1 (1.33 - 77.7%)" : "pending"
+    "MS1 (1.33 - 77.7%)" : "won"
   }
 }, {
   "homeTeam" : "Shanxi L.",
   "awayTeam" : "Guangzhou L. L.",
   "picks" : [ "177.5 Üst (1.6 - 57.5%)" ],
-  "score" : "-",
+  "score" : "70-74",
   "statuses" : {
-    "177.5 Üst (1.6 - 57.5%)" : "pending"
+    "177.5 Üst (1.6 - 57.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Neptunas K.",
