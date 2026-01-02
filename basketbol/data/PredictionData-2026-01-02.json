@@ -2,25 +2,25 @@
   "homeTeam" : "Brooklyn",
   "awayTeam" : "Houston",
   "picks" : [ "216.5 Üst (1.62 - 61.2%)" ],
-  "score" : "-",
+  "score" : "96-120",
   "statuses" : {
-    "216.5 Üst (1.62 - 61.2%)" : "pending"
+    "216.5 Üst (1.62 - 61.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Detroit",
   "awayTeam" : "Miami",
   "picks" : [ "MS1 (1.31 - 73.8%)" ],
-  "score" : "-",
+  "score" : "112-118",
   "statuses" : {
-    "MS1 (1.31 - 73.8%)" : "pending"
+    "MS1 (1.31 - 73.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Dallas",
   "awayTeam" : "Philadelphia",
   "picks" : [ "231.5 Üst (1.66 - 61.4%)" ],
-  "score" : "-",
+  "score" : "108-123",
   "statuses" : {
-    "231.5 Üst (1.66 - 61.4%)" : "pending"
+    "231.5 Üst (1.66 - 61.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Adelaide 36ers",

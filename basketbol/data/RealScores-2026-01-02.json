@@ -1,0 +1,97 @@
+[ {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Houston",
+  "score" : "96-120"
+}, {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "Miami",
+  "score" : "112-118"
+}, {
+  "homeTeam" : "Dallas",
+  "awayTeam" : "Philadelphia",
+  "score" : "108-123"
+}, {
+  "homeTeam" : "Georgia Tech Y. (K)",
+  "awayTeam" : "Notre Dame (K)",
+  "score" : "95-90"
+}, {
+  "homeTeam" : "Oregon Ducks (K)",
+  "awayTeam" : "Northwestern Wildcats",
+  "score" : "87-54"
+}, {
+  "homeTeam" : "Pittsburgh Panthers (K)",
+  "awayTeam" : "Wake Forest (K)",
+  "score" : "55-74"
+}, {
+  "homeTeam" : "Washington Huskies (K)",
+  "awayTeam" : "Michigan Wolverines (K)",
+  "score" : "64-52"
+}, {
+  "homeTeam" : "Virginia Tech Hokies (K)",
+  "awayTeam" : "Miami Hurricanes (K)",
+  "score" : "67-75"
+}, {
+  "homeTeam" : "LSU Tigers (K)",
+  "awayTeam" : "Kentucky Wildcats (K)",
+  "score" : "78-80"
+}, {
+  "homeTeam" : "A&M Aggies (K)",
+  "awayTeam" : "Oklahoma Sooners (K)",
+  "score" : "50-72"
+}, {
+  "homeTeam" : "North Carolina Greensboro Spartans",
+  "awayTeam" : "Chattanooga Mocs",
+  "score" : "77-72"
+}, {
+  "homeTeam" : "Weber State Wildcats",
+  "awayTeam" : "Portland State Vikings",
+  "score" : "90-95"
+}, {
+  "homeTeam" : "UC Davis Aggies",
+  "awayTeam" : "Cal St Northridge",
+  "score" : "89-80"
+}, {
+  "homeTeam" : "Louisiana Monroe Warhawks",
+  "awayTeam" : "Southern Miss Golden Eagles",
+  "score" : "73-87"
+}, {
+  "homeTeam" : "Cal State Bakersfield",
+  "awayTeam" : "California Irvine Anteaters",
+  "score" : "77-81"
+}, {
+  "homeTeam" : "Montana Grizzlies",
+  "awayTeam" : "Northern Arizona Lumberjacks",
+  "score" : "78-64"
+}, {
+  "homeTeam" : "Arkansas Little Rock Trojans",
+  "awayTeam" : "Tennessee Tech Golden Eagles",
+  "score" : "77-58"
+}, {
+  "homeTeam" : "Queens Uni",
+  "awayTeam" : "Eastern Kentucky Colonels",
+  "score" : "91-89"
+}, {
+  "homeTeam" : "West Georgia Wolves",
+  "awayTeam" : "Bellarmine",
+  "score" : "87-85"
+}, {
+  "homeTeam" : "Austin Peay State Governors",
+  "awayTeam" : "North Florida Ospreys",
+  "score" : "102-83"
+}, {
+  "homeTeam" : "Tarleton State Texans",
+  "awayTeam" : "Utah Valley State Wolverines",
+  "score" : "85-91"
+}, {
+  "homeTeam" : "Abilene Christian Wildcats",
+  "awayTeam" : "Dixie State Trailblazers",
+  "score" : "64-79"
+}, {
+  "homeTeam" : "Southeast Missouri State Redhawks",
+  "awayTeam" : "Eastern Illinois Panthers",
+  "score" : "68-59"
+}, {
+  "homeTeam" : "Montana State Bobcats",
+  "awayTeam" : "Northern Colorado Bears",
+  "score" : "89-75"
+} ]
