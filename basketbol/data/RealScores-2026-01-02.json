@@ -158,4 +158,80 @@
   "homeTeam" : "Bank of Taiwan",
   "awayTeam" : "YL Dinos",
   "score" : "81-69"
+}, {
+  "homeTeam" : "Karşıyaka",
+  "awayTeam" : "Tofaş",
+  "score" : "107-101"
+}, {
+  "homeTeam" : "Darüşşafaka",
+  "awayTeam" : "Çayırova Bld",
+  "score" : "69-82"
+}, {
+  "homeTeam" : "Anadolu Efes",
+  "awayTeam" : "Kızıl Yıldız",
+  "score" : "65-87"
+}, {
+  "homeTeam" : "Neptunas K.",
+  "awayTeam" : "Reyer Venezia",
+  "score" : "103-118"
+}, {
+  "homeTeam" : "Bilbao Basket",
+  "awayTeam" : "Valencia",
+  "score" : "72-116"
+}, {
+  "homeTeam" : "Wa Boufarik",
+  "awayTeam" : "Nb Staoueli",
+  "score" : "81-72"
+}, {
+  "homeTeam" : "Tra Draria",
+  "awayTeam" : "Rouiba Cb",
+  "score" : "85-84"
+}, {
+  "homeTeam" : "Kaposvari KK",
+  "awayTeam" : "Szedeak",
+  "score" : "82-70"
+}, {
+  "homeTeam" : "Czarni Slupsk",
+  "awayTeam" : "Gornik Walbrzych",
+  "score" : "88-92"
+}, {
+  "homeTeam" : "Torun",
+  "awayTeam" : "GTK Gliwice",
+  "score" : "90-88"
+}, {
+  "homeTeam" : "Artego Bydgoszcz (K)",
+  "awayTeam" : "AZS Poznan (K)",
+  "score" : "59-96"
+}, {
+  "homeTeam" : "Sleza Wroclaw (K)",
+  "awayTeam" : "Arka Gdynia (K)",
+  "score" : "77-64"
+}, {
+  "homeTeam" : "Zaglebie Sosnowiec (K)",
+  "awayTeam" : "Skk Polonia Warszawa (K)",
+  "score" : "77-90"
+}, {
+  "homeTeam" : "Muhdar",
+  "awayTeam" : "AL Nasr (Sar)",
+  "score" : "87-112"
+}, {
+  "homeTeam" : "Etoile Sportive Rades",
+  "awayTeam" : "BC Mahdia",
+  "score" : "65-63"
+}, {
+  "homeTeam" : "AS Hammamet",
+  "awayTeam" : "Dalia Sportive de Grombalia",
+  "score" : "55-69"
+}, {
+  "homeTeam" : "Amman Utd",
+  "awayTeam" : "AL Faisaly (Jor)",
+  "score" : "74-89"
+}, {
+  "homeTeam" : "Shabab Bushra",
+  "awayTeam" : "AL Inglizia Sport Club",
+  "score" : "40-80"
+}, {
+  "homeTeam" : "AL Jubaiha",
+  "awayTeam" : "AL Jalil",
+  "score" : "70-80"
 } ]
