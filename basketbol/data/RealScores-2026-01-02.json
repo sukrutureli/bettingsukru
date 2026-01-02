@@ -234,4 +234,72 @@
   "homeTeam" : "AL Jubaiha",
   "awayTeam" : "AL Jalil",
   "score" : "70-80"
+}, {
+  "homeTeam" : "Baskonia",
+  "awayTeam" : "Fenerbahçe",
+  "score" : "93-108"
+}, {
+  "homeTeam" : "Panathinaikos",
+  "awayTeam" : "Olympiakos",
+  "score" : "82-87"
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Olimpia Milano",
+  "score" : "97-85"
+}, {
+  "homeTeam" : "Real Madrid",
+  "awayTeam" : "BC Dubai",
+  "score" : "107-93"
+}, {
+  "homeTeam" : "Bayern Münih",
+  "awayTeam" : "M. Tel Aviv",
+  "score" : "95-71"
+}, {
+  "homeTeam" : "Ratiopharm Ulm",
+  "awayTeam" : "Lietkabelis",
+  "score" : "79-89"
+}, {
+  "homeTeam" : "Wurzburg",
+  "awayTeam" : "Hamburg Towers",
+  "score" : "91-88"
+}, {
+  "homeTeam" : "Andorra",
+  "awayTeam" : "Força Lleida",
+  "score" : "79-87"
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Zaragoza",
+  "score" : "100-80"
+}, {
+  "homeTeam" : "Manresa",
+  "awayTeam" : "B. Girona",
+  "score" : "95-97"
+}, {
+  "homeTeam" : "KK Bosna Royal Sarajevo",
+  "awayTeam" : "KK Zadar",
+  "score" : "93-85"
+}, {
+  "homeTeam" : "Bochum",
+  "awayTeam" : "EPG Baskets Koblenz",
+  "score" : "89-107"
+}, {
+  "homeTeam" : "Sodertalje",
+  "awayTeam" : "Boras",
+  "score" : "81-100"
+}, {
+  "homeTeam" : "Slask Wroclaw",
+  "awayTeam" : "Zielona Gora",
+  "score" : "90-85"
+}, {
+  "homeTeam" : "Katarzynki Torun",
+  "awayTeam" : "AZS Lublin (K)",
+  "score" : "80-91"
+}, {
+  "homeTeam" : "Resovia Rzeszow",
+  "awayTeam" : "Miners Katowice",
+  "score" : "101-102"
+}, {
+  "homeTeam" : "AL Ashrafieh",
+  "awayTeam" : "AL Wehdat Amman",
+  "score" : "71-95"
 } ]

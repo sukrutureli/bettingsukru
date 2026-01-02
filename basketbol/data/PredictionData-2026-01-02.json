@@ -82,40 +82,40 @@
   "homeTeam" : "Ratiopharm Ulm",
   "awayTeam" : "Lietkabelis",
   "picks" : [ "165.5 Alt (1.61 - 74.9%)" ],
-  "score" : "-",
+  "score" : "79-89",
   "statuses" : {
-    "165.5 Alt (1.61 - 74.9%)" : "pending"
+    "165.5 Alt (1.61 - 74.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Andorra",
   "awayTeam" : "Força Lleida",
   "picks" : [ "MS1 (1.33 - 79.3%)" ],
-  "score" : "-",
+  "score" : "79-87",
   "statuses" : {
-    "MS1 (1.33 - 79.3%)" : "pending"
+    "MS1 (1.33 - 79.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Barcelona",
   "awayTeam" : "Zaragoza",
   "picks" : [ "174.5 Alt (1.63 - 63.5%)" ],
-  "score" : "-",
+  "score" : "100-80",
   "statuses" : {
-    "174.5 Alt (1.63 - 63.5%)" : "pending"
+    "174.5 Alt (1.63 - 63.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Panathinaikos",
   "awayTeam" : "Olympiakos",
   "picks" : [ "168.5 Üst (1.63 - 82.1%)" ],
-  "score" : "-",
+  "score" : "82-87",
   "statuses" : {
-    "168.5 Üst (1.63 - 82.1%)" : "pending"
+    "168.5 Üst (1.63 - 82.1%)" : "won"
   }
 }, {
   "homeTeam" : "Bayern Münih",
   "awayTeam" : "M. Tel Aviv",
   "picks" : [ "MS2 (1.65 - 57.3%)" ],
-  "score" : "-",
+  "score" : "95-71",
   "statuses" : {
-    "MS2 (1.65 - 57.3%)" : "pending"
+    "MS2 (1.65 - 57.3%)" : "lost"
   }
 } ]
