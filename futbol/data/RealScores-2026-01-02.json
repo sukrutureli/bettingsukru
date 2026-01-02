@@ -110,4 +110,52 @@
   "homeTeam" : "AL Nasr",
   "awayTeam" : "Sohar",
   "score" : "0-0"
+}, {
+  "homeTeam" : "AL Ain",
+  "awayTeam" : "Sharjah",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Baniyas",
+  "awayTeam" : "Al Nasr Dubai",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Al-Muharraq",
+  "awayTeam" : "AL Khalidiyah",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Budaiya",
+  "awayTeam" : "Aali",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "JS Kabylie",
+  "awayTeam" : "MC Alger",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Hohoe Utd",
+  "awayTeam" : "Heart of Lions",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Attram de Visser",
+  "awayTeam" : "Wafa SC",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "S. Eleven Wise",
+  "awayTeam" : "Sefwi All Stars",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Al Shabab Kuwait",
+  "awayTeam" : "AL Arabi",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Gicumbi",
+  "awayTeam" : "AL Hilal (Sdn)",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "AL Ettifaq",
+  "awayTeam" : "AL Akhdood",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Al Seeb",
+  "awayTeam" : "Saham",
+  "score" : "3-2"
 } ]

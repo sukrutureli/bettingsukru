@@ -18,9 +18,9 @@
   "homeTeam" : "AL Budaiya",
   "awayTeam" : "Aali",
   "picks" : [ "Alt (1.51 - 69.8%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.51 - 69.8%)" : "pending"
+    "Alt (1.51 - 69.8%)" : "won"
   }
 }, {
   "homeTeam" : "Trethomas Bluebirds",
