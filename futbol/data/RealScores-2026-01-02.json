@@ -1,1 +1,113 @@
-[ ]
+[ {
+  "homeTeam" : "Melbourne V.",
+  "awayTeam" : "Perth Glory",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Al Wasl",
+  "awayTeam" : "AL Wahda",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Khor Fakkan",
+  "awayTeam" : "AL Dhafra Scc",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "AL Urooba U21",
+  "awayTeam" : "AL Sharjah U21",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "AL Ain U21",
+  "awayTeam" : "AL Jazeera U21",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Sitra Club",
+  "awayTeam" : "AL Shabbab",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "CR Beni Thour",
+  "awayTeam" : "Ib Khemis El Khechna",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "USM Annaba",
+  "awayTeam" : "CA Batna",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AS Khroub",
+  "awayTeam" : "Nrb Teleghma",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "MSP Batna",
+  "awayTeam" : "JS Djidjel",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Nrb Beni Oulbene",
+  "awayTeam" : "MO Bejaia",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "HB Chelghoum L.",
+  "awayTeam" : "MO Constantine",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "JS Bordj Menaiel",
+  "awayTeam" : "MC Magra",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "US Chaouia",
+  "awayTeam" : "US Biskra",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Omid Tehran",
+  "awayTeam" : "Sepidrood Rasht SC",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Al Kuveyt SC",
+  "awayTeam" : "AL Tadhamon",
+  "score" : "7-1"
+}, {
+  "homeTeam" : "Kelantan Utd",
+  "awayTeam" : "Kuching FA",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "EL Terasanah",
+  "awayTeam" : "Entag Harby",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "El Mansurah",
+  "awayTeam" : "Tanta",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "La Viena",
+  "awayTeam" : "El Sekka El Hadid",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Ra Sporting Club",
+  "awayTeam" : "Ethad Besion (K)",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "AL Mokawloon (K)",
+  "awayTeam" : "Enppi (K)",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Gasogi Utd",
+  "awayTeam" : "Musanze",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Marines",
+  "awayTeam" : "Amagaju",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Najma",
+  "awayTeam" : "AL Khaleej Saihat",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Polisi Tanzania",
+  "awayTeam" : "Mbuni",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Gunners",
+  "awayTeam" : "Bigman",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AL Nasr",
+  "awayTeam" : "Sohar",
+  "score" : "0-0"
+} ]
