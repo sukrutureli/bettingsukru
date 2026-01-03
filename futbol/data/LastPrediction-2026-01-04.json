@@ -1,0 +1,301 @@
+[ {
+  "name" : "Atlas - CD Guadalajara",
+  "time" : "05:45",
+  "predictions" : [ "MS2 (1.45 - 60.4%)" ],
+  "score" : "0-2",
+  "mbs" : 2
+}, {
+  "name" : "Adelaide Utd (K) - C. Coast Marin. (K)",
+  "time" : "08:50",
+  "predictions" : [ "Var (1.44 - 66.9%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Adelaide Utd - C. C. Mariners",
+  "time" : "11:35",
+  "predictions" : [ "Üst (1.39 - 67.3%)" ],
+  "score" : "3-1",
+  "mbs" : 2
+}, {
+  "name" : "I. Eivissa - C. Dep. Eldense",
+  "time" : "14:00",
+  "predictions" : [ "Alt (1.31 - 69.3%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "RSD Alcala - Fuenlabrada",
+  "time" : "14:00",
+  "predictions" : [ "Alt (1.34 - 64.1%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "C. Dep. Minera - Salerm Puente Genil",
+  "time" : "14:00",
+  "predictions" : [ "Alt (1.45 - 74.7%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Girona B - Espanyol II",
+  "time" : "14:00",
+  "predictions" : [ "Alt (1.39 - 63.5%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Penafiel - P. Ferreira",
+  "time" : "14:00",
+  "predictions" : [ "Alt (1.49 - 69.7%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Sporting Lisbon B - A. de Viseu",
+  "time" : "14:00",
+  "predictions" : [ "Alt (1.47 - 81.8%)" ],
+  "score" : "0-0",
+  "mbs" : 3
+}, {
+  "name" : "CD Trofense - Vitoria Guimaraes B",
+  "time" : "14:00",
+  "predictions" : [ "Alt (1.44 - 80.8%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "UD Santarem - 1 Dezembro",
+  "time" : "14:00",
+  "predictions" : [ "Alt (1.33 - 67.8%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Prachuap - Buriram Utd",
+  "time" : "14:00",
+  "predictions" : [ "MS2 (1.37 - 65.2%)" ],
+  "score" : "0-2",
+  "mbs" : 3
+}, {
+  "name" : "Lazio - Napoli",
+  "time" : "14:30",
+  "predictions" : [ "Alt (1.33 - 81.4%)" ],
+  "score" : "0-1",
+  "mbs" : 1
+}, {
+  "name" : "Foggia - Calcio Catania",
+  "time" : "14:30",
+  "predictions" : [ "Alt (1.4 - 70.7%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Lincoln City - Peterborough",
+  "time" : "15:00",
+  "predictions" : [ "Var (1.54 - 66.6%)" ],
+  "score" : "1-1",
+  "mbs" : 2
+}, {
+  "name" : "Leeds Utd - Man. Utd",
+  "time" : "15:30",
+  "predictions" : [ "Var (1.47 - 77.5%)" ],
+  "score" : "2-1",
+  "mbs" : 1
+}, {
+  "name" : "Osasuna B - Tenerife",
+  "time" : "16:15",
+  "predictions" : [ "Alt (1.35 - 70.7%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Citta Di C. - Ravenna 1913",
+  "time" : "16:30",
+  "predictions" : [ "Alt (1.39 - 70.3%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Siracusa - Salernitana",
+  "time" : "16:30",
+  "predictions" : [ "Var (1.59 - 69.8%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Inter Milano U23 - Novara Calcio",
+  "time" : "16:30",
+  "predictions" : [ "Alt (1.41 - 69.8%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "AC Lumezzane - LR Vicenza V.",
+  "time" : "16:30",
+  "predictions" : [ "Alt (1.47 - 77.1%)" ],
+  "score" : "0-0",
+  "mbs" : 3
+}, {
+  "name" : "Everton - Brentford",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.51 - 69.1%)" ],
+  "score" : "1-0",
+  "mbs" : 1
+}, {
+  "name" : "Millwall - Swansea City",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.47 - 81.8%)" ],
+  "score" : "0-1",
+  "mbs" : 1
+}, {
+  "name" : "Blackburn R. - Charlton",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.48 - 75.6%)" ],
+  "score" : "1-0",
+  "mbs" : 1
+}, {
+  "name" : "Wycombe - Wimbledon",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.5 - 74.5%)" ],
+  "score" : "0-0",
+  "mbs" : 2
+}, {
+  "name" : "Reading - Stockport",
+  "time" : "18:00",
+  "predictions" : [ "Var (1.53 - 73.7%)" ],
+  "score" : "1-1",
+  "mbs" : 2
+}, {
+  "name" : "Notts County - Gillingham",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.57 - 61.1%)" ],
+  "score" : "1-0",
+  "mbs" : 2
+}, {
+  "name" : "Cambridge - Grimsby Town",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.51 - 70.0%)" ],
+  "score" : "1-0",
+  "mbs" : 2
+}, {
+  "name" : "Salford City - Shrewsbury",
+  "time" : "18:00",
+  "predictions" : [ "MS1 (1.36 - 73.6%)" ],
+  "score" : "4-0",
+  "mbs" : 2
+}, {
+  "name" : "Walsall - Fleetwood",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.54 - 82.0%)" ],
+  "score" : "0-0",
+  "mbs" : 2
+}, {
+  "name" : "Colchester - Accrington",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.58 - 66.7%)" ],
+  "score" : "0-1",
+  "mbs" : 2
+}, {
+  "name" : "SD Eibar B - Utebo",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.34 - 60.4%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Atletico CP - Academica",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.4 - 61.9%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Lusitano GC - SC Covilha",
+  "time" : "18:00",
+  "predictions" : [ "Alt (1.47 - 69.3%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "AL Hazem - Neom SC",
+  "time" : "18:05",
+  "predictions" : [ "Var (1.5 - 69.4%)" ],
+  "score" : "1-1",
+  "mbs" : 2
+}, {
+  "name" : "AL Shorta - Zakho",
+  "time" : "18:30",
+  "predictions" : [ "Yok (1.33 - 77.8%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Terrassa - Valencia M.",
+  "time" : "18:45",
+  "predictions" : [ "Alt (1.41 - 72.3%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "SD Sarriana - Bergantinos",
+  "time" : "19:00",
+  "predictions" : [ "Alt (1.4 - 83.8%)" ],
+  "score" : "0-0",
+  "mbs" : 3
+}, {
+  "name" : "UD Mutilvera - SD Logrones",
+  "time" : "19:30",
+  "predictions" : [ "Alt (1.46 - 58.4%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Sestao River Club - Amorebieta",
+  "time" : "19:30",
+  "predictions" : [ "Alt (1.4 - 75.2%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Dolomiti Bellunesi - US Albinoleffe",
+  "time" : "19:30",
+  "predictions" : [ "Alt (1.45 - 65.2%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Bra - Sambenedettese",
+  "time" : "19:30",
+  "predictions" : [ "Alt (1.33 - 60.3%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Monterosi T. - Perugia",
+  "time" : "19:30",
+  "predictions" : [ "Alt (1.36 - 69.7%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Lorca Deportiva - UD Almeria B",
+  "time" : "20:00",
+  "predictions" : [ "Alt (1.4 - 71.8%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Real Jaen - Malagueno",
+  "time" : "20:00",
+  "predictions" : [ "Alt (1.39 - 64.3%)" ],
+  "score" : "1-1",
+  "mbs" : 3
+}, {
+  "name" : "Alaves - Real Oviedo",
+  "time" : "20:30",
+  "predictions" : [ "Yok (1.36 - 65.4%)" ],
+  "score" : "1-0",
+  "mbs" : 1
+}, {
+  "name" : "Betis D. Balompie - Europa",
+  "time" : "20:45",
+  "predictions" : [ "Alt (1.35 - 73.9%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Villarreal B - Marbella",
+  "time" : "20:45",
+  "predictions" : [ "Alt (1.41 - 82.8%)" ],
+  "score" : "1-0",
+  "mbs" : 3
+}, {
+  "name" : "Atletic Lleida CE - Reus Reddis",
+  "time" : "21:00",
+  "predictions" : [ "Alt (1.41 - 72.9%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+}, {
+  "name" : "Real Madrid C - San Sebastian R.",
+  "time" : "21:30",
+  "predictions" : [ "Alt (1.39 - 75.5%)" ],
+  "score" : "0-1",
+  "mbs" : 3
+} ]
