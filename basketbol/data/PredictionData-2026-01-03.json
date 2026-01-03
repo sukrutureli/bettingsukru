@@ -2,17 +2,17 @@
   "homeTeam" : "Cleveland",
   "awayTeam" : "Denver",
   "picks" : [ "239.5 Üst (1.59 - 66.3%)" ],
-  "score" : "-",
+  "score" : "113-108",
   "statuses" : {
-    "239.5 Üst (1.59 - 66.3%)" : "pending"
+    "239.5 Üst (1.59 - 66.3%)" : "lost"
   }
 }, {
   "homeTeam" : "New Orleans",
   "awayTeam" : "Portland",
   "picks" : [ "240.5 Alt (1.65 - 68.4%)" ],
-  "score" : "-",
+  "score" : "109-122",
   "statuses" : {
-    "240.5 Alt (1.65 - 68.4%)" : "pending"
+    "240.5 Alt (1.65 - 68.4%)" : "won"
   }
 }, {
   "homeTeam" : "Golden State",

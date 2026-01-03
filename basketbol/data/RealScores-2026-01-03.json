@@ -1,0 +1,53 @@
+[ {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "San Antonio",
+  "score" : "113-123"
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Brooklyn",
+  "score" : "119-99"
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "Atlanta",
+  "score" : "99-111"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Denver",
+  "score" : "113-108"
+}, {
+  "homeTeam" : "Milwaukee",
+  "awayTeam" : "Charlotte",
+  "score" : "122-121"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Orlando",
+  "score" : "121-114"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "Portland",
+  "score" : "109-122"
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "Sacramento",
+  "score" : "129-102"
+}, {
+  "homeTeam" : "Michigan Wolverines",
+  "awayTeam" : "USC Trojans",
+  "score" : "96-66"
+}, {
+  "homeTeam" : "Stanford Cardinal",
+  "awayTeam" : "Louisville Cardinals",
+  "score" : "80-76"
+}, {
+  "homeTeam" : "Nebraska Cornhuskers",
+  "awayTeam" : "Michigan State Spartans",
+  "score" : "58-56"
+}, {
+  "homeTeam" : "Iowa State Cyclones",
+  "awayTeam" : "West Virginia Mountaineers",
+  "score" : "80-59"
+}, {
+  "homeTeam" : "Gonzaga Bulldogs",
+  "awayTeam" : "Seattle University Redhawks",
+  "score" : "80-72"
+} ]
