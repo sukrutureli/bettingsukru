@@ -490,4 +490,392 @@
   "homeTeam" : "Dhofar Scsc",
   "awayTeam" : "Oman",
   "score" : "0-1"
+}, {
+  "homeTeam" : "Brighton",
+  "awayTeam" : "Burnley",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Wolverhampton",
+  "awayTeam" : "West Ham",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Osasuna",
+  "awayTeam" : "Ath Bilbao",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Juventus",
+  "awayTeam" : "Lecce",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Lyon",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Tondela",
+  "awayTeam" : "Arouca",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Senegal",
+  "awayTeam" : "Sudan",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "AL Jazira (Bae)",
+  "awayTeam" : "Al Ahli Dubai",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "AL Rifaa",
+  "awayTeam" : "Malkiya Club",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Arba Minch Kenema",
+  "awayTeam" : "Hawassa Kenema SC",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Brickfield Rangers",
+  "awayTeam" : "Guilsfield",
+  "score" : "-"
+}, {
+  "homeTeam" : "Connah's",
+  "awayTeam" : "Barry Town",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Great Ambition",
+  "awayTeam" : "Golden Warriors",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "New Edubiase",
+  "awayTeam" : "Ebony",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Na God",
+  "awayTeam" : "Accra Lions",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Tmt",
+  "awayTeam" : "Brikama Utd",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Banjul Hawks",
+  "awayTeam" : "Falcons",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Steve Biko",
+  "awayTeam" : "Harts",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Gambia Ports Authority",
+  "awayTeam" : "Bst Galaxy",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Weymouth",
+  "awayTeam" : "Wimborne",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Hav Waterloo",
+  "awayTeam" : "Sholing",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "Poole Town",
+  "awayTeam" : "Plymouth Parkway",
+  "score" : "7-0"
+}, {
+  "homeTeam" : "Tiverton",
+  "awayTeam" : "Taunton Town",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Gloucester",
+  "awayTeam" : "Evesham Utd",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Walton & Hersham",
+  "awayTeam" : "Gosport",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Basingstoke",
+  "awayTeam" : "Bracknell Town",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Uxbridge",
+  "awayTeam" : "Chertsey Town",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "St Ives Town",
+  "awayTeam" : "Royston Town",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Redditch Utd",
+  "awayTeam" : "Worcester City",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Halesowen",
+  "awayTeam" : "Bromsgrove Sporting",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Spalding Utd",
+  "awayTeam" : "Barwell",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Hyde Utd",
+  "awayTeam" : "Ilkeston Town",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Tamworth",
+  "awayTeam" : "Gateshead",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Boston Utd",
+  "awayTeam" : "Eastleigh",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Forest Green",
+  "awayTeam" : "Halifax Town",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Carlisle",
+  "awayTeam" : "Wealdstone",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Slough Town",
+  "awayTeam" : "Eastbourne Bor.",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Weston Super Mare",
+  "awayTeam" : "Farnborough",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "H. Hempstead",
+  "awayTeam" : "Dagenham Red",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Worthing",
+  "awayTeam" : "Chippenham",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Tonbridge Angels",
+  "awayTeam" : "Dorking Wanderers",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "AFC Totton",
+  "awayTeam" : "Enfield Town",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Horsham",
+  "awayTeam" : "Maidenhead",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Southport",
+  "awayTeam" : "Scarborough",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Chester",
+  "awayTeam" : "Worksop Town",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Bedford Town",
+  "awayTeam" : "AFC Fylde",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Kidderminster Harriers",
+  "awayTeam" : "Curzon Ashton",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Buxton",
+  "awayTeam" : "South Shields",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Merthyr Town",
+  "awayTeam" : "Kings Lynn",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Airdrieonian",
+  "awayTeam" : "Raith Rovers",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "St. Johnstone",
+  "awayTeam" : "Arbroath",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "P. Thistle",
+  "awayTeam" : "G. Morton",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Hearts",
+  "awayTeam" : "Livingston",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Motherwell",
+  "awayTeam" : "St. Mirren",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Kilmarnock",
+  "awayTeam" : "Hibernian",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Dundee Utd",
+  "awayTeam" : "Dundee",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Falkirk",
+  "awayTeam" : "Aberdeen",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Kelty Hearts",
+  "awayTeam" : "Alloa",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Stenhousemuir",
+  "awayTeam" : "Queen of The South",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Spartans Edinburgh",
+  "awayTeam" : "Dumbarton",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Clyde Bank",
+  "awayTeam" : "Forfar",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Stranraer",
+  "awayTeam" : "Edinburgh",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Castellon",
+  "awayTeam" : "Huesca",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Almeria",
+  "awayTeam" : "Granada",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Atletico Artajones",
+  "awayTeam" : "CD Egues",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Mirandes B",
+  "awayTeam" : "Arandina",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Unionistas de Salamanca CF B",
+  "awayTeam" : "CD Cristo Atl",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "SD Almazan",
+  "awayTeam" : "Virgen Del Camino",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Varea",
+  "awayTeam" : "CD Pradejon",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "CD Leganes B",
+  "awayTeam" : "Tres Cantos",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "CD Aurrera de Vitoria",
+  "awayTeam" : "Club Portugalete",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "SCD Durango",
+  "awayTeam" : "Real Sociedad C",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "CD Bezana",
+  "awayTeam" : "CD Colindres",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Aguilas B",
+  "awayTeam" : "Mazarron",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "CE Europa B",
+  "awayTeam" : "San Cristobal Cp",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Torre Del Mar",
+  "awayTeam" : "Atletico Porcuna",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Pontevedra",
+  "awayTeam" : "Racing  Ferrol",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Atl Madrid B",
+  "awayTeam" : "SD Tarazona",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Juventud Torremolinos",
+  "awayTeam" : "Gimnastic",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "CD Teruel",
+  "awayTeam" : "Antequera",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Elche B",
+  "awayTeam" : "UB Conquense",
+  "score" : "5-2"
+}, {
+  "homeTeam" : "Torrent",
+  "awayTeam" : "CD Alcoyano",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Acd Ospitaletto",
+  "awayTeam" : "C. Lecco",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Pro Vercelli",
+  "awayTeam" : "PRO Patria",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AC Renate",
+  "awayTeam" : "U.S. Pergolettese",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Forli",
+  "awayTeam" : "SS Arezzo",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AZ Picerno",
+  "awayTeam" : "Audace Cerignola",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Harland Wolff W.",
+  "awayTeam" : "Armagh City",
+  "score" : "12-0"
+}, {
+  "homeTeam" : "Carrick Rangers",
+  "awayTeam" : "Glentoran",
+  "score" : "0-7"
+}, {
+  "homeTeam" : "Crusaders",
+  "awayTeam" : "Dungannon",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Linfield",
+  "awayTeam" : "Bangor",
+  "score" : "6-1"
+}, {
+  "homeTeam" : "Liberte",
+  "awayTeam" : "AS Gnn",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Os Belenenses",
+  "awayTeam" : "Amora",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Apr",
+  "awayTeam" : "Bugesera",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "AL Fayha",
+  "awayTeam" : "AL Khlood",
+  "score" : "0-5"
+}, {
+  "homeTeam" : "Sur SC",
+  "awayTeam" : "AL Nahda",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Olympiakos",
+  "awayTeam" : "Ofi Crete",
+  "score" : "3-0"
 } ]

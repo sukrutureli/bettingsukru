@@ -162,9 +162,9 @@
   "homeTeam" : "Carlisle",
   "awayTeam" : "Wealdstone",
   "picks" : [ "Üst (1.32 - 68.3%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Üst (1.32 - 68.3%)" : "pending"
+    "Üst (1.32 - 68.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Bath City",
@@ -178,25 +178,25 @@
   "homeTeam" : "Southport",
   "awayTeam" : "Scarborough",
   "picks" : [ "Var (1.41 - 73.3%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.41 - 73.3%)" : "pending"
+    "Var (1.41 - 73.3%)" : "won"
   }
 }, {
   "homeTeam" : "Kidderminster Harriers",
   "awayTeam" : "Curzon Ashton",
   "picks" : [ "MS1 (1.31 - 71.1%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "MS1 (1.31 - 71.1%)" : "pending"
+    "MS1 (1.31 - 71.1%)" : "won"
   }
 }, {
   "homeTeam" : "Merthyr Town",
   "awayTeam" : "Kings Lynn",
   "picks" : [ "Var (1.33 - 73.2%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.33 - 73.2%)" : "pending"
+    "Var (1.33 - 73.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Inverness",
@@ -210,9 +210,9 @@
   "homeTeam" : "Stranraer",
   "awayTeam" : "Edinburgh",
   "picks" : [ "Var (1.43 - 81.7%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.43 - 81.7%)" : "pending"
+    "Var (1.43 - 81.7%)" : "won"
   }
 }, {
   "homeTeam" : "Stirling Alb.",
@@ -234,9 +234,9 @@
   "homeTeam" : "Elche B",
   "awayTeam" : "UB Conquense",
   "picks" : [ "Alt (1.31 - 65.5%)" ],
-  "score" : "-",
+  "score" : "5-2",
   "statuses" : {
-    "Alt (1.31 - 65.5%)" : "pending"
+    "Alt (1.31 - 65.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Annagh Utd",
@@ -250,25 +250,25 @@
   "homeTeam" : "AL Jazira (Bae)",
   "awayTeam" : "Al Ahli Dubai",
   "picks" : [ "Var (1.41 - 77.1%)" ],
-  "score" : "-",
+  "score" : "0-3",
   "statuses" : {
-    "Var (1.41 - 77.1%)" : "pending"
+    "Var (1.41 - 77.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Acd Ospitaletto",
   "awayTeam" : "C. Lecco",
   "picks" : [ "Alt (1.35 - 82.9%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.35 - 82.9%)" : "pending"
+    "Alt (1.35 - 82.9%)" : "won"
   }
 }, {
   "homeTeam" : "AZ Picerno",
   "awayTeam" : "Audace Cerignola",
   "picks" : [ "Alt (1.43 - 65.1%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.43 - 65.1%)" : "pending"
+    "Alt (1.43 - 65.1%)" : "won"
   }
 }, {
   "homeTeam" : "Yeovil Town",
