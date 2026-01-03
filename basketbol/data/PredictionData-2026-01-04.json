@@ -1,0 +1,377 @@
+[ {
+  "homeTeam" : "San Antonio",
+  "awayTeam" : "Portland",
+  "picks" : [ "235.5 Alt (1.64 - 57.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "235.5 Alt (1.64 - 57.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Charlotte",
+  "picks" : [ "MS1 (1.56 - 57.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.56 - 57.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "Boston",
+  "picks" : [ "220.5 Üst (1.65 - 62.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "220.5 Üst (1.65 - 62.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Fukushima",
+  "awayTeam" : "Shinsh Brave",
+  "picks" : [ "MS2 (1.78 - 60.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.78 - 60.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Chiba Jets",
+  "awayTeam" : "Toyama Grouses",
+  "picks" : [ "170.5 Alt (1.62 - 67.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "170.5 Alt (1.62 - 67.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Shiga Lake Stars",
+  "awayTeam" : "Ibaraki Robots",
+  "picks" : [ "MS2 (1.35 - 64.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.35 - 64.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Osaka Evessa",
+  "awayTeam" : "Koshigaya Alphas",
+  "picks" : [ "153.5 Alt (1.6 - 59.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "153.5 Alt (1.6 - 59.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sun Rockers Shibuya",
+  "awayTeam" : "F. Eagles Nagoya",
+  "picks" : [ "158.5 Üst (1.63 - 56.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "158.5 Üst (1.63 - 56.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kumamoto V.",
+  "awayTeam" : "Iwate Big Bulls",
+  "picks" : [ "146.5 Üst (1.63 - 84.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "146.5 Üst (1.63 - 84.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Alvark Tokyo",
+  "awayTeam" : "Hiroshima Dr.",
+  "picks" : [ "MS1 (1.35 - 63.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.35 - 63.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Anyang KGC",
+  "awayTeam" : "KCC Egis",
+  "picks" : [ "157.5 Üst (1.61 - 60.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "157.5 Üst (1.61 - 60.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Meralco",
+  "awayTeam" : "Tropang Giga",
+  "picks" : [ "187.5 Üst (1.6 - 78.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "187.5 Üst (1.6 - 78.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Enisey Krasnoyarsk",
+  "awayTeam" : "N. Novgorod",
+  "picks" : [ "162.5 Üst (1.66 - 71.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "162.5 Üst (1.66 - 71.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cb Jairis (K)",
+  "awayTeam" : "Baloncesto Leganes (K)",
+  "picks" : [ "132.5 Üst (1.65 - 62.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "132.5 Üst (1.65 - 62.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Gipuzkoa IDK (K)",
+  "awayTeam" : "Araski (K)",
+  "picks" : [ "132.5 Üst (1.6 - 73.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "132.5 Üst (1.6 - 73.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "MBA Moscow",
+  "awayTeam" : "BK Uralmash Yekaterinburg",
+  "picks" : [ "MS1 (1.53 - 81.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.53 - 81.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Kolossos Rhodes",
+  "awayTeam" : "BC Maroussi Athens",
+  "picks" : [ "168.5 Üst (1.66 - 64.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "168.5 Üst (1.66 - 64.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Oviedo",
+  "awayTeam" : "Iberojet Pa",
+  "picks" : [ "162.5 Üst (1.62 - 62.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "162.5 Üst (1.62 - 62.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Innova Chef Cb Zamora",
+  "awayTeam" : "Club Melilla",
+  "picks" : [ "169.5 Alt (1.63 - 61.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "169.5 Alt (1.63 - 61.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Menorca Basquet",
+  "awayTeam" : "Lucentum Alicante",
+  "picks" : [ "161.5 Üst (1.62 - 65.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "161.5 Üst (1.62 - 65.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Barangay Ginebra",
+  "awayTeam" : "San Miguel",
+  "picks" : [ "194.5 Üst (1.61 - 87.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "194.5 Üst (1.61 - 87.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Nanjing M. K.",
+  "awayTeam" : "Shandong H.",
+  "picks" : [ "181.5 Alt (1.65 - 60.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "181.5 Alt (1.65 - 60.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CB Estudiantes (K)",
+  "awayTeam" : "Porta XI Ensino (K)",
+  "picks" : [ "147.5 Alt (1.63 - 72.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "147.5 Alt (1.63 - 72.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Parma Permsk",
+  "awayTeam" : "Zenit",
+  "picks" : [ "173.5 Alt (1.63 - 64.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "173.5 Alt (1.63 - 64.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lokomotiv Kuban",
+  "awayTeam" : "Unics Kazan",
+  "picks" : [ "MS2 (1.5 - 72.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.5 - 72.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UF Angers Basket (K)",
+  "awayTeam" : "Roche Vendee (K)",
+  "picks" : [ "140.5 Üst (1.61 - 65.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "140.5 Üst (1.61 - 65.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Landerneau B. (K)",
+  "awayTeam" : "Basket Landes (K)",
+  "picks" : [ "134.5 Üst (1.66 - 60.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "134.5 Üst (1.66 - 60.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lugano Tigers",
+  "awayTeam" : "Monthey",
+  "picks" : [ "170.5 Alt (1.64 - 71.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "170.5 Alt (1.64 - 71.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Gladiators Trier",
+  "awayTeam" : "Ratiopharm Ulm",
+  "picks" : [ "MS2 (1.35 - 60.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.35 - 60.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Força Lleida",
+  "awayTeam" : "Zaragoza",
+  "picks" : [ "179.5 Alt (1.66 - 56.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "179.5 Alt (1.66 - 56.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "A. Basket Trento",
+  "awayTeam" : "Trieste",
+  "picks" : [ "171.5 Alt (1.61 - 76.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "171.5 Alt (1.61 - 76.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sheffield Sharks",
+  "awayTeam" : "Surrey 89ers",
+  "picks" : [ "165.5 Üst (1.65 - 75.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "165.5 Üst (1.65 - 75.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AIK Basket (K)",
+  "awayTeam" : "Lulea Bbk (K)",
+  "picks" : [ "154.5 Alt (1.62 - 55.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "154.5 Alt (1.62 - 55.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Siaz Basket",
+  "awayTeam" : "P. Fiorenzuola",
+  "picks" : [ "153.5 Üst (1.64 - 63.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "153.5 Üst (1.64 - 63.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Orlandina",
+  "awayTeam" : "Agribertocchi Orzinuovi",
+  "picks" : [ "MS2 (1.67 - 62.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.67 - 62.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cremona",
+  "awayTeam" : "Reggiana Emilia",
+  "picks" : [ "MS2 (1.67 - 59.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.67 - 59.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "B. Girona",
+  "awayTeam" : "Bilbao Basket",
+  "picks" : [ "174.5 Üst (1.6 - 55.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "174.5 Üst (1.6 - 55.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Olimpia Milano",
+  "awayTeam" : "Pall Udinese",
+  "picks" : [ "162.5 Üst (1.62 - 64.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "162.5 Üst (1.62 - 64.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "SK Slavia Prague",
+  "awayTeam" : "Usti nad Labem",
+  "picks" : [ "MS2 (1.41 - 73.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.41 - 73.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Univ. de Ferrol (K)",
+  "awayTeam" : "Jouventut Badalona (K)",
+  "picks" : [ "147.5 Alt (1.61 - 73.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "147.5 Alt (1.61 - 73.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Fortitudo Bologna",
+  "awayTeam" : "Roseto Shark",
+  "picks" : [ "151.5 Alt (1.63 - 61.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "151.5 Alt (1.63 - 61.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Forli",
+  "awayTeam" : "Juvi Cremona",
+  "picks" : [ "157.5 Üst (1.6 - 63.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "157.5 Üst (1.6 - 63.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Brindisi",
+  "awayTeam" : "Verona",
+  "picks" : [ "149.5 Üst (1.59 - 69.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "149.5 Üst (1.59 - 69.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Vicenza",
+  "awayTeam" : "Legnano Knights",
+  "picks" : [ "MS1 (1.54 - 82.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.54 - 82.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "Manresa",
+  "picks" : [ "179.5 Alt (1.67 - 61.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "179.5 Alt (1.67 - 61.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CD Maristas Palencia",
+  "awayTeam" : "Obradoiro",
+  "picks" : [ "MS2 (1.52 - 78.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.52 - 78.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Trapani",
+  "picks" : [ "167.5 Üst (1.65 - 61.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "167.5 Üst (1.65 - 61.7%)" : "pending"
+  }
+} ]
