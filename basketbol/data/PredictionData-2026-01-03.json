@@ -186,65 +186,65 @@
   "homeTeam" : "Imortal BC",
   "awayTeam" : "Oliveirense",
   "picks" : [ "164.5 Üst (1.65 - 71.7%)" ],
-  "score" : "-",
+  "score" : "90-97",
   "statuses" : {
-    "164.5 Üst (1.65 - 71.7%)" : "pending"
+    "164.5 Üst (1.65 - 71.7%)" : "won"
   }
 }, {
   "homeTeam" : "Iraklis 2022",
   "awayTeam" : "Peristeri",
   "picks" : [ "163.5 Üst (1.64 - 59.3%)" ],
-  "score" : "-",
+  "score" : "73-59",
   "statuses" : {
-    "163.5 Üst (1.64 - 59.3%)" : "pending"
+    "163.5 Üst (1.64 - 59.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Starwings Basket",
   "awayTeam" : "Union Neuchatel",
   "picks" : [ "MS2 (1.78 - 67.8%)" ],
-  "score" : "-",
+  "score" : "89-95",
   "statuses" : {
-    "MS2 (1.78 - 67.8%)" : "pending"
+    "MS2 (1.78 - 67.8%)" : "won"
   }
 }, {
   "homeTeam" : "BK Olomoucko",
   "awayTeam" : "Decin",
   "picks" : [ "161.5 Üst (1.64 - 74.7%)" ],
-  "score" : "-",
+  "score" : "91-84",
   "statuses" : {
-    "161.5 Üst (1.64 - 74.7%)" : "pending"
+    "161.5 Üst (1.64 - 74.7%)" : "won"
   }
 }, {
   "homeTeam" : "Zalakeramia ZTE",
   "awayTeam" : "NKA Universitas Pecs",
   "picks" : [ "170.5 Üst (1.6 - 64.2%)" ],
-  "score" : "-",
+  "score" : "98-95",
   "statuses" : {
-    "170.5 Üst (1.6 - 64.2%)" : "pending"
+    "170.5 Üst (1.6 - 64.2%)" : "won"
   }
 }, {
   "homeTeam" : "Komarno",
   "awayTeam" : "MBK Handlova",
   "picks" : [ "MS1 (1.39 - 69.8%)" ],
-  "score" : "-",
+  "score" : "85-84",
   "statuses" : {
-    "MS1 (1.39 - 69.8%)" : "pending"
+    "MS1 (1.39 - 69.8%)" : "won"
   }
 }, {
   "homeTeam" : "BKM Lucenec",
   "awayTeam" : "BK Iskra Svit",
   "picks" : [ "179.5 Alt (1.62 - 56.3%)" ],
-  "score" : "-",
+  "score" : "79-97",
   "statuses" : {
-    "179.5 Alt (1.62 - 56.3%)" : "pending"
+    "179.5 Alt (1.62 - 56.3%)" : "won"
   }
 }, {
   "homeTeam" : "Prievidza",
   "awayTeam" : "BK Inter Bratislava",
   "picks" : [ "162.5 Alt (1.59 - 66.7%)" ],
-  "score" : "-",
+  "score" : "67-77",
   "statuses" : {
-    "162.5 Alt (1.59 - 66.7%)" : "pending"
+    "162.5 Alt (1.59 - 66.7%)" : "won"
   }
 }, {
   "homeTeam" : "Varese",
