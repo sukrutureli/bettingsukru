@@ -250,80 +250,80 @@
   "homeTeam" : "Varese",
   "awayTeam" : "Napoli Basket",
   "picks" : [ "MS1 (1.45 - 68.1%)" ],
-  "score" : "-",
+  "score" : "84-80",
   "statuses" : {
-    "MS1 (1.45 - 68.1%)" : "pending"
+    "MS1 (1.45 - 68.1%)" : "won"
   }
 }, {
   "homeTeam" : "Gottingen",
   "awayTeam" : "Uni Baskets Munster",
   "picks" : [ "167.5 Alt (1.6 - 62.4%)" ],
-  "score" : "-",
+  "score" : "81-63",
   "statuses" : {
-    "167.5 Alt (1.6 - 62.4%)" : "pending"
+    "167.5 Alt (1.6 - 62.4%)" : "won"
   }
 }, {
   "homeTeam" : "Nürnberg Falcons",
   "awayTeam" : "Rheinstars Cologne",
   "picks" : [ "167.5 Üst (1.62 - 62.8%)" ],
-  "score" : "-",
+  "score" : "92-95",
   "statuses" : {
-    "167.5 Üst (1.62 - 62.8%)" : "pending"
+    "167.5 Üst (1.62 - 62.8%)" : "won"
   }
 }, {
   "homeTeam" : "Flyers Wels",
   "awayTeam" : "BC Vienna",
   "picks" : [ "165.5 Üst (1.64 - 77.0%)" ],
-  "score" : "-",
+  "score" : "95-89",
   "statuses" : {
-    "165.5 Üst (1.64 - 77.0%)" : "pending"
+    "165.5 Üst (1.64 - 77.0%)" : "won"
   }
 }, {
   "homeTeam" : "BK Opava",
   "awayTeam" : "Nymburk",
   "picks" : [ "180.5 Üst (1.63 - 71.5%)" ],
-  "score" : "-",
+  "score" : "77-99",
   "statuses" : {
-    "180.5 Üst (1.63 - 71.5%)" : "pending"
+    "180.5 Üst (1.63 - 71.5%)" : "lost"
   }
 }, {
   "homeTeam" : "ASD Luiss Roma",
   "awayTeam" : "Latina",
   "picks" : [ "154.5 Üst (1.61 - 69.2%)" ],
-  "score" : "-",
+  "score" : "91-86",
   "statuses" : {
-    "154.5 Üst (1.61 - 69.2%)" : "pending"
+    "154.5 Üst (1.61 - 69.2%)" : "won"
   }
 }, {
   "homeTeam" : "Kk Krka",
   "awayTeam" : "Studentski Centar",
   "picks" : [ "162.5 Alt (1.63 - 58.9%)" ],
-  "score" : "-",
+  "score" : "77-65",
   "statuses" : {
-    "162.5 Alt (1.63 - 58.9%)" : "pending"
+    "162.5 Alt (1.63 - 58.9%)" : "won"
   }
 }, {
   "homeTeam" : "LTI Giessen",
   "awayTeam" : "Sbb Baskets Wolmirstedt",
   "picks" : [ "166.5 Alt (1.63 - 60.7%)" ],
-  "score" : "-",
+  "score" : "95-66",
   "statuses" : {
-    "166.5 Alt (1.63 - 60.7%)" : "pending"
+    "166.5 Alt (1.63 - 60.7%)" : "won"
   }
 }, {
   "homeTeam" : "Gran Canaria",
   "awayTeam" : "UCAM Murcia",
   "picks" : [ "MS2 (1.79 - 59.4%)" ],
-  "score" : "-",
+  "score" : "77-72",
   "statuses" : {
-    "MS2 (1.79 - 59.4%)" : "pending"
+    "MS2 (1.79 - 59.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Ueb Cividale",
   "awayTeam" : "Basket Mestre 1958",
   "picks" : [ "157.5 Alt (1.61 - 59.2%)" ],
-  "score" : "-",
+  "score" : "77-63",
   "statuses" : {
-    "157.5 Alt (1.61 - 59.2%)" : "pending"
+    "157.5 Alt (1.61 - 59.2%)" : "won"
   }
 } ]
