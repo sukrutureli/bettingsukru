@@ -2,9 +2,9 @@
   "homeTeam" : "Atlas",
   "awayTeam" : "CD Guadalajara",
   "picks" : [ "MS2 (1.45 - 60.4%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "MS2 (1.45 - 60.4%)" : "pending"
+    "MS2 (1.45 - 60.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Adelaide Utd (K)",
