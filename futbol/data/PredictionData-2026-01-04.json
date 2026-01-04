@@ -362,40 +362,40 @@
   "homeTeam" : "Alaves",
   "awayTeam" : "Real Oviedo",
   "picks" : [ "Yok (1.36 - 65.4%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Yok (1.36 - 65.4%)" : "pending"
+    "Yok (1.36 - 65.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Betis D. Balompie",
   "awayTeam" : "Europa",
   "picks" : [ "Alt (1.35 - 73.9%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Alt (1.35 - 73.9%)" : "pending"
+    "Alt (1.35 - 73.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Villarreal B",
   "awayTeam" : "Marbella",
   "picks" : [ "Alt (1.41 - 82.8%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Alt (1.41 - 82.8%)" : "pending"
+    "Alt (1.41 - 82.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Atletic Lleida CE",
   "awayTeam" : "Reus Reddis",
   "picks" : [ "Alt (1.41 - 72.9%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.41 - 72.9%)" : "pending"
+    "Alt (1.41 - 72.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Real Madrid C",
   "awayTeam" : "San Sebastian R.",
   "picks" : [ "Alt (1.39 - 75.5%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.39 - 75.5%)" : "pending"
+    "Alt (1.39 - 75.5%)" : "lost"
   }
 } ]
