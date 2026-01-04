@@ -582,4 +582,76 @@
   "homeTeam" : "Vitoria",
   "awayTeam" : "Vasco Da Gama",
   "score" : "84-88"
+}, {
+  "homeTeam" : "Beşiktaş",
+  "awayTeam" : "Fenerbahçe",
+  "score" : "87-101"
+}, {
+  "homeTeam" : "Cleveland",
+  "awayTeam" : "Detroit",
+  "score" : "110-114"
+}, {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "Indiana",
+  "score" : "135-127"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Denver",
+  "score" : "127-115"
+}, {
+  "homeTeam" : "Valencia",
+  "awayTeam" : "Manresa",
+  "score" : "103-76"
+}, {
+  "homeTeam" : "Cantu",
+  "awayTeam" : "Derthona Basket",
+  "score" : "79-85"
+}, {
+  "homeTeam" : "Connecticut Huskies",
+  "awayTeam" : "Marquette Golden Eagles",
+  "score" : "73-57"
+}, {
+  "homeTeam" : "Florida Gators (K)",
+  "awayTeam" : "South Carolina (K)",
+  "score" : "63-74"
+}, {
+  "homeTeam" : "Ohio State Buckeyes (K)",
+  "awayTeam" : "Rutgers Scarlet (K)",
+  "score" : "71-49"
+}, {
+  "homeTeam" : "Oklahoma Sooners (K)",
+  "awayTeam" : "Mississippi State (K)",
+  "score" : "95-47"
+}, {
+  "homeTeam" : "Nebraska Cornhuskers (K)",
+  "awayTeam" : "Purdue Boilermakers (K)",
+  "score" : "78-62"
+}, {
+  "homeTeam" : "Valmiera Glass Via",
+  "awayTeam" : "Rigas Zelli",
+  "score" : "121-103"
+}, {
+  "homeTeam" : "Estudiantes",
+  "awayTeam" : "Club Ourense",
+  "score" : "92-75"
+}, {
+  "homeTeam" : "CD Maristas Palencia",
+  "awayTeam" : "Obradoiro",
+  "score" : "85-87"
+}, {
+  "homeTeam" : "Juvecaserta 2021",
+  "awayTeam" : "Solbat Basket Golfo Piombino",
+  "score" : "99-95"
+}, {
+  "homeTeam" : "Fabriano Basket",
+  "awayTeam" : "Pielle Livorno",
+  "score" : "62-86"
+}, {
+  "homeTeam" : "IR Reykjavik",
+  "awayTeam" : "Keflavik",
+  "score" : "89-86"
+}, {
+  "homeTeam" : "UMFN Njardvik",
+  "awayTeam" : "UMF Grindavik",
+  "score" : "123-124"
 } ]

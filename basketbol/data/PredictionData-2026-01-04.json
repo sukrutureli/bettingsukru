@@ -354,17 +354,17 @@
   "homeTeam" : "Valencia",
   "awayTeam" : "Manresa",
   "picks" : [ "179.5 Alt (1.67 - 61.3%)" ],
-  "score" : "-",
+  "score" : "103-76",
   "statuses" : {
-    "179.5 Alt (1.67 - 61.3%)" : "pending"
+    "179.5 Alt (1.67 - 61.3%)" : "won"
   }
 }, {
   "homeTeam" : "CD Maristas Palencia",
   "awayTeam" : "Obradoiro",
   "picks" : [ "MS2 (1.52 - 78.0%)" ],
-  "score" : "-",
+  "score" : "85-87",
   "statuses" : {
-    "MS2 (1.52 - 78.0%)" : "pending"
+    "MS2 (1.52 - 78.0%)" : "won"
   }
 }, {
   "homeTeam" : "Virtus Bologna",
