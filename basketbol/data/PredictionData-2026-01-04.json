@@ -218,137 +218,137 @@
   "homeTeam" : "Lugano Tigers",
   "awayTeam" : "Monthey",
   "picks" : [ "170.5 Alt (1.64 - 71.9%)" ],
-  "score" : "-",
+  "score" : "93-74",
   "statuses" : {
-    "170.5 Alt (1.64 - 71.9%)" : "pending"
+    "170.5 Alt (1.64 - 71.9%)" : "won"
   }
 }, {
   "homeTeam" : "Gladiators Trier",
   "awayTeam" : "Ratiopharm Ulm",
   "picks" : [ "MS2 (1.35 - 60.0%)" ],
-  "score" : "-",
+  "score" : "100-89",
   "statuses" : {
-    "MS2 (1.35 - 60.0%)" : "pending"
+    "MS2 (1.35 - 60.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Força Lleida",
   "awayTeam" : "Zaragoza",
   "picks" : [ "179.5 Alt (1.66 - 56.4%)" ],
-  "score" : "-",
+  "score" : "77-87",
   "statuses" : {
-    "179.5 Alt (1.66 - 56.4%)" : "pending"
+    "179.5 Alt (1.66 - 56.4%)" : "won"
   }
 }, {
   "homeTeam" : "A. Basket Trento",
   "awayTeam" : "Trieste",
   "picks" : [ "171.5 Alt (1.61 - 76.2%)" ],
-  "score" : "-",
+  "score" : "89-87",
   "statuses" : {
-    "171.5 Alt (1.61 - 76.2%)" : "pending"
+    "171.5 Alt (1.61 - 76.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Sheffield Sharks",
   "awayTeam" : "Surrey 89ers",
   "picks" : [ "165.5 Üst (1.65 - 75.3%)" ],
-  "score" : "-",
+  "score" : "88-94",
   "statuses" : {
-    "165.5 Üst (1.65 - 75.3%)" : "pending"
+    "165.5 Üst (1.65 - 75.3%)" : "won"
   }
 }, {
   "homeTeam" : "AIK Basket (K)",
   "awayTeam" : "Lulea Bbk (K)",
   "picks" : [ "154.5 Alt (1.62 - 55.4%)" ],
-  "score" : "-",
+  "score" : "64-80",
   "statuses" : {
-    "154.5 Alt (1.62 - 55.4%)" : "pending"
+    "154.5 Alt (1.62 - 55.4%)" : "won"
   }
 }, {
   "homeTeam" : "Siaz Basket",
   "awayTeam" : "P. Fiorenzuola",
   "picks" : [ "153.5 Üst (1.64 - 63.0%)" ],
-  "score" : "-",
+  "score" : "51-44",
   "statuses" : {
-    "153.5 Üst (1.64 - 63.0%)" : "pending"
+    "153.5 Üst (1.64 - 63.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Orlandina",
   "awayTeam" : "Agribertocchi Orzinuovi",
   "picks" : [ "MS2 (1.67 - 62.2%)" ],
-  "score" : "-",
+  "score" : "86-73",
   "statuses" : {
-    "MS2 (1.67 - 62.2%)" : "pending"
+    "MS2 (1.67 - 62.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Cremona",
   "awayTeam" : "Reggiana Emilia",
   "picks" : [ "MS2 (1.67 - 59.6%)" ],
-  "score" : "-",
+  "score" : "71-67",
   "statuses" : {
-    "MS2 (1.67 - 59.6%)" : "pending"
+    "MS2 (1.67 - 59.6%)" : "lost"
   }
 }, {
   "homeTeam" : "B. Girona",
   "awayTeam" : "Bilbao Basket",
   "picks" : [ "174.5 Üst (1.6 - 55.5%)" ],
-  "score" : "-",
+  "score" : "89-93",
   "statuses" : {
-    "174.5 Üst (1.6 - 55.5%)" : "pending"
+    "174.5 Üst (1.6 - 55.5%)" : "won"
   }
 }, {
   "homeTeam" : "Olimpia Milano",
   "awayTeam" : "Pall Udinese",
   "picks" : [ "162.5 Üst (1.62 - 64.4%)" ],
-  "score" : "-",
+  "score" : "85-84",
   "statuses" : {
-    "162.5 Üst (1.62 - 64.4%)" : "pending"
+    "162.5 Üst (1.62 - 64.4%)" : "won"
   }
 }, {
   "homeTeam" : "SK Slavia Prague",
   "awayTeam" : "Usti nad Labem",
   "picks" : [ "MS2 (1.41 - 73.5%)" ],
-  "score" : "-",
+  "score" : "86-107",
   "statuses" : {
-    "MS2 (1.41 - 73.5%)" : "pending"
+    "MS2 (1.41 - 73.5%)" : "won"
   }
 }, {
   "homeTeam" : "Univ. de Ferrol (K)",
   "awayTeam" : "Jouventut Badalona (K)",
   "picks" : [ "147.5 Alt (1.61 - 73.9%)" ],
-  "score" : "-",
+  "score" : "66-62",
   "statuses" : {
-    "147.5 Alt (1.61 - 73.9%)" : "pending"
+    "147.5 Alt (1.61 - 73.9%)" : "won"
   }
 }, {
   "homeTeam" : "Fortitudo Bologna",
   "awayTeam" : "Roseto Shark",
   "picks" : [ "151.5 Alt (1.63 - 61.0%)" ],
-  "score" : "-",
+  "score" : "89-85",
   "statuses" : {
-    "151.5 Alt (1.63 - 61.0%)" : "pending"
+    "151.5 Alt (1.63 - 61.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Forli",
   "awayTeam" : "Juvi Cremona",
   "picks" : [ "157.5 Üst (1.6 - 63.0%)" ],
-  "score" : "-",
+  "score" : "69-79",
   "statuses" : {
-    "157.5 Üst (1.6 - 63.0%)" : "pending"
+    "157.5 Üst (1.6 - 63.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Brindisi",
   "awayTeam" : "Verona",
   "picks" : [ "149.5 Üst (1.59 - 69.2%)" ],
-  "score" : "-",
+  "score" : "74-55",
   "statuses" : {
-    "149.5 Üst (1.59 - 69.2%)" : "pending"
+    "149.5 Üst (1.59 - 69.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Vicenza",
   "awayTeam" : "Legnano Knights",
   "picks" : [ "MS1 (1.54 - 82.7%)" ],
-  "score" : "-",
+  "score" : "84-88",
   "statuses" : {
-    "MS1 (1.54 - 82.7%)" : "pending"
+    "MS1 (1.54 - 82.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Valencia",
