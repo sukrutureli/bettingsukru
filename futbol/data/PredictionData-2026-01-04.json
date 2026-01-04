@@ -170,41 +170,41 @@
   "homeTeam" : "Everton",
   "awayTeam" : "Brentford",
   "picks" : [ "Alt (1.51 - 69.1%)" ],
-  "score" : "-",
+  "score" : "2-4",
   "statuses" : {
-    "Alt (1.51 - 69.1%)" : "pending"
+    "Alt (1.51 - 69.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Millwall",
   "awayTeam" : "Swansea City",
   "picks" : [ "Alt (1.47 - 81.8%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.47 - 81.8%)" : "pending"
+    "Alt (1.47 - 81.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Blackburn R.",
   "awayTeam" : "Charlton",
   "picks" : [ "Alt (1.48 - 75.6%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Alt (1.48 - 75.6%)" : "pending"
+    "Alt (1.48 - 75.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Wycombe",
   "awayTeam" : "Wimbledon",
   "picks" : [ "Alt (1.5 - 74.5%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.5 - 74.5%)" : "pending"
+    "Alt (1.5 - 74.5%)" : "won"
   }
 }, {
   "homeTeam" : "Reading",
   "awayTeam" : "Stockport",
   "picks" : [ "Var (1.53 - 73.7%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.53 - 73.7%)" : "pending"
+    "Var (1.53 - 73.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Notts County",
@@ -250,113 +250,113 @@
   "homeTeam" : "SD Eibar B",
   "awayTeam" : "Utebo",
   "picks" : [ "Alt (1.34 - 60.4%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Alt (1.34 - 60.4%)" : "pending"
+    "Alt (1.34 - 60.4%)" : "lost"
   }
 }, {
   "homeTeam" : "Atletico CP",
   "awayTeam" : "Academica",
   "picks" : [ "Alt (1.4 - 61.9%)" ],
-  "score" : "-",
+  "score" : "1-4",
   "statuses" : {
-    "Alt (1.4 - 61.9%)" : "pending"
+    "Alt (1.4 - 61.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Lusitano GC",
   "awayTeam" : "SC Covilha",
   "picks" : [ "Alt (1.47 - 69.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.47 - 69.3%)" : "pending"
+    "Alt (1.47 - 69.3%)" : "lost"
   }
 }, {
   "homeTeam" : "AL Hazem",
   "awayTeam" : "Neom SC",
   "picks" : [ "Var (1.5 - 69.4%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Var (1.5 - 69.4%)" : "pending"
+    "Var (1.5 - 69.4%)" : "won"
   }
 }, {
   "homeTeam" : "AL Shorta",
   "awayTeam" : "Zakho",
   "picks" : [ "Yok (1.33 - 77.8%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Yok (1.33 - 77.8%)" : "pending"
+    "Yok (1.33 - 77.8%)" : "won"
   }
 }, {
   "homeTeam" : "Terrassa",
   "awayTeam" : "Valencia M.",
   "picks" : [ "Alt (1.41 - 72.3%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.41 - 72.3%)" : "pending"
+    "Alt (1.41 - 72.3%)" : "won"
   }
 }, {
   "homeTeam" : "SD Sarriana",
   "awayTeam" : "Bergantinos",
   "picks" : [ "Alt (1.4 - 83.8%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.4 - 83.8%)" : "pending"
+    "Alt (1.4 - 83.8%)" : "won"
   }
 }, {
   "homeTeam" : "UD Mutilvera",
   "awayTeam" : "SD Logrones",
   "picks" : [ "Alt (1.46 - 58.4%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.46 - 58.4%)" : "pending"
+    "Alt (1.46 - 58.4%)" : "won"
   }
 }, {
   "homeTeam" : "Sestao River Club",
   "awayTeam" : "Amorebieta",
   "picks" : [ "Alt (1.4 - 75.2%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.4 - 75.2%)" : "pending"
+    "Alt (1.4 - 75.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Dolomiti Bellunesi",
   "awayTeam" : "US Albinoleffe",
   "picks" : [ "Alt (1.45 - 65.2%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.45 - 65.2%)" : "pending"
+    "Alt (1.45 - 65.2%)" : "won"
   }
 }, {
   "homeTeam" : "Bra",
   "awayTeam" : "Sambenedettese",
   "picks" : [ "Alt (1.33 - 60.3%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Alt (1.33 - 60.3%)" : "pending"
+    "Alt (1.33 - 60.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Monterosi T.",
   "awayTeam" : "Perugia",
   "picks" : [ "Alt (1.36 - 69.7%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.36 - 69.7%)" : "pending"
+    "Alt (1.36 - 69.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Lorca Deportiva",
   "awayTeam" : "UD Almeria B",
   "picks" : [ "Alt (1.4 - 71.8%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.4 - 71.8%)" : "pending"
+    "Alt (1.4 - 71.8%)" : "won"
   }
 }, {
   "homeTeam" : "Real Jaen",
   "awayTeam" : "Malagueno",
   "picks" : [ "Alt (1.39 - 64.3%)" ],
-  "score" : "-",
+  "score" : "3-0",
   "statuses" : {
-    "Alt (1.39 - 64.3%)" : "pending"
+    "Alt (1.39 - 64.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Alaves",
