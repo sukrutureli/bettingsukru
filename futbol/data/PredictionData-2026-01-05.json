@@ -1,0 +1,65 @@
+[ {
+  "homeTeam" : "Macarthur",
+  "awayTeam" : "Auckland",
+  "picks" : [ "Var (1.47 - 76.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.47 - 76.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Persik Kediri",
+  "awayTeam" : "Persib Bandung",
+  "picks" : [ "MS2 (1.64 - 62.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.64 - 62.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Zawraa",
+  "awayTeam" : "Al Garaf",
+  "picks" : [ "MS1 (1.36 - 69.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.36 - 69.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "N. Bank Egypt",
+  "awayTeam" : "Wadi Degla",
+  "picks" : [ "Alt (1.32 - 62.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.32 - 62.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Benfica B",
+  "awayTeam" : "Porto B",
+  "picks" : [ "Var (1.51 - 59.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.51 - 59.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Triestına",
+  "awayTeam" : "Alcione Milano",
+  "picks" : [ "Alt (1.54 - 59.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.54 - 59.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Montpellier",
+  "awayTeam" : "Dunkerque",
+  "picks" : [ "Alt (1.53 - 60.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.53 - 60.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Vizela",
+  "awayTeam" : "Torreense",
+  "picks" : [ "Alt (1.52 - 57.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.52 - 57.8%)" : "pending"
+  }
+} ]
