@@ -10,161 +10,161 @@
   "homeTeam" : "Adelaide Utd (K)",
   "awayTeam" : "C. Coast Marin. (K)",
   "picks" : [ "Var (1.44 - 66.9%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.44 - 66.9%)" : "pending"
+    "Var (1.44 - 66.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Adelaide Utd",
   "awayTeam" : "C. C. Mariners",
   "picks" : [ "Üst (1.39 - 67.3%)" ],
-  "score" : "-",
+  "score" : "0-4",
   "statuses" : {
-    "Üst (1.39 - 67.3%)" : "pending"
+    "Üst (1.39 - 67.3%)" : "won"
   }
 }, {
   "homeTeam" : "I. Eivissa",
   "awayTeam" : "C. Dep. Eldense",
   "picks" : [ "Alt (1.31 - 69.3%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.31 - 69.3%)" : "pending"
+    "Alt (1.31 - 69.3%)" : "won"
   }
 }, {
   "homeTeam" : "RSD Alcala",
   "awayTeam" : "Fuenlabrada",
   "picks" : [ "Alt (1.34 - 64.1%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.34 - 64.1%)" : "pending"
+    "Alt (1.34 - 64.1%)" : "won"
   }
 }, {
   "homeTeam" : "C. Dep. Minera",
   "awayTeam" : "Salerm Puente Genil",
   "picks" : [ "Alt (1.45 - 74.7%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.45 - 74.7%)" : "pending"
+    "Alt (1.45 - 74.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Girona B",
   "awayTeam" : "Espanyol II",
   "picks" : [ "Alt (1.39 - 63.5%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.39 - 63.5%)" : "pending"
+    "Alt (1.39 - 63.5%)" : "won"
   }
 }, {
   "homeTeam" : "Penafiel",
   "awayTeam" : "P. Ferreira",
   "picks" : [ "Alt (1.49 - 69.7%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.49 - 69.7%)" : "pending"
+    "Alt (1.49 - 69.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Sporting Lisbon B",
   "awayTeam" : "A. de Viseu",
   "picks" : [ "Alt (1.47 - 81.8%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.47 - 81.8%)" : "pending"
+    "Alt (1.47 - 81.8%)" : "lost"
   }
 }, {
   "homeTeam" : "CD Trofense",
   "awayTeam" : "Vitoria Guimaraes B",
   "picks" : [ "Alt (1.44 - 80.8%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.44 - 80.8%)" : "pending"
+    "Alt (1.44 - 80.8%)" : "won"
   }
 }, {
   "homeTeam" : "UD Santarem",
   "awayTeam" : "1 Dezembro",
   "picks" : [ "Alt (1.33 - 67.8%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.33 - 67.8%)" : "pending"
+    "Alt (1.33 - 67.8%)" : "won"
   }
 }, {
   "homeTeam" : "Prachuap",
   "awayTeam" : "Buriram Utd",
   "picks" : [ "MS2 (1.37 - 65.2%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "MS2 (1.37 - 65.2%)" : "pending"
+    "MS2 (1.37 - 65.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Lazio",
   "awayTeam" : "Napoli",
   "picks" : [ "Alt (1.33 - 81.4%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.33 - 81.4%)" : "pending"
+    "Alt (1.33 - 81.4%)" : "won"
   }
 }, {
   "homeTeam" : "Foggia",
   "awayTeam" : "Calcio Catania",
   "picks" : [ "Alt (1.4 - 70.7%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.4 - 70.7%)" : "pending"
+    "Alt (1.4 - 70.7%)" : "won"
   }
 }, {
   "homeTeam" : "Lincoln City",
   "awayTeam" : "Peterborough",
   "picks" : [ "Var (1.54 - 66.6%)" ],
-  "score" : "-",
+  "score" : "5-2",
   "statuses" : {
-    "Var (1.54 - 66.6%)" : "pending"
+    "Var (1.54 - 66.6%)" : "won"
   }
 }, {
   "homeTeam" : "Leeds Utd",
   "awayTeam" : "Man. Utd",
   "picks" : [ "Var (1.47 - 77.5%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.47 - 77.5%)" : "pending"
+    "Var (1.47 - 77.5%)" : "won"
   }
 }, {
   "homeTeam" : "Osasuna B",
   "awayTeam" : "Tenerife",
   "picks" : [ "Alt (1.35 - 70.7%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.35 - 70.7%)" : "pending"
+    "Alt (1.35 - 70.7%)" : "won"
   }
 }, {
   "homeTeam" : "Citta Di C.",
   "awayTeam" : "Ravenna 1913",
   "picks" : [ "Alt (1.39 - 70.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.39 - 70.3%)" : "pending"
+    "Alt (1.39 - 70.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Siracusa",
   "awayTeam" : "Salernitana",
   "picks" : [ "Var (1.59 - 69.8%)" ],
-  "score" : "-",
+  "score" : "3-1",
   "statuses" : {
-    "Var (1.59 - 69.8%)" : "pending"
+    "Var (1.59 - 69.8%)" : "won"
   }
 }, {
   "homeTeam" : "Inter Milano U23",
   "awayTeam" : "Novara Calcio",
   "picks" : [ "Alt (1.41 - 69.8%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.41 - 69.8%)" : "pending"
+    "Alt (1.41 - 69.8%)" : "won"
   }
 }, {
   "homeTeam" : "AC Lumezzane",
   "awayTeam" : "LR Vicenza V.",
   "picks" : [ "Alt (1.47 - 77.1%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.47 - 77.1%)" : "pending"
+    "Alt (1.47 - 77.1%)" : "won"
   }
 }, {
   "homeTeam" : "Everton",
