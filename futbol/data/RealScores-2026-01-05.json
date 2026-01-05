@@ -178,4 +178,60 @@
   "homeTeam" : "Gasogi Utd",
   "awayTeam" : "Al Merrikh (Sdn)",
   "score" : "0-1"
+}, {
+  "homeTeam" : "Galatasaray",
+  "awayTeam" : "Trabzonspor",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Nijerya",
+  "awayTeam" : "Mozambik",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "MC Alger",
+  "awayTeam" : "CS Constantine",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Montpellier",
+  "awayTeam" : "Dunkerque",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Leicester City",
+  "awayTeam" : "W. Bromwich",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Maccabi Hayfa",
+  "awayTeam" : "H. Hayfa",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Triestına",
+  "awayTeam" : "Alcione Milano",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Altamura",
+  "awayTeam" : "Casertana",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Cosenza",
+  "awayTeam" : "SS Monopoli",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Benevento",
+  "awayTeam" : "Crotone",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Tivoli Gardens",
+  "awayTeam" : "Portmore Utd",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "N. Bank Egypt",
+  "awayTeam" : "Wadi Degla",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Benfica B",
+  "awayTeam" : "Porto B",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Vizela",
+  "awayTeam" : "Torreense",
+  "score" : "0-1"
 } ]

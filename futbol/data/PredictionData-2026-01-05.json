@@ -26,40 +26,40 @@
   "homeTeam" : "N. Bank Egypt",
   "awayTeam" : "Wadi Degla",
   "picks" : [ "Alt (1.32 - 62.2%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Alt (1.32 - 62.2%)" : "pending"
+    "Alt (1.32 - 62.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Benfica B",
   "awayTeam" : "Porto B",
   "picks" : [ "Var (1.51 - 59.9%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.51 - 59.9%)" : "pending"
+    "Var (1.51 - 59.9%)" : "won"
   }
 }, {
   "homeTeam" : "Triestına",
   "awayTeam" : "Alcione Milano",
   "picks" : [ "Alt (1.54 - 59.3%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Alt (1.54 - 59.3%)" : "pending"
+    "Alt (1.54 - 59.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Montpellier",
   "awayTeam" : "Dunkerque",
   "picks" : [ "Alt (1.53 - 60.2%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Alt (1.53 - 60.2%)" : "pending"
+    "Alt (1.53 - 60.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Vizela",
   "awayTeam" : "Torreense",
   "picks" : [ "Alt (1.52 - 57.8%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Alt (1.52 - 57.8%)" : "pending"
+    "Alt (1.52 - 57.8%)" : "won"
   }
 } ]
