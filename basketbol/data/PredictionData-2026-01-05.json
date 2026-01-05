@@ -10,25 +10,25 @@
   "homeTeam" : "LA Lakers",
   "awayTeam" : "Memphis",
   "picks" : [ "240.5 Alt (1.65 - 65.7%)" ],
-  "score" : "-",
+  "score" : "120-114",
   "statuses" : {
-    "240.5 Alt (1.65 - 65.7%)" : "pending"
+    "240.5 Alt (1.65 - 65.7%)" : "won"
   }
 }, {
   "homeTeam" : "Sydney Kings",
   "awayTeam" : "Melbourne Phoenix",
   "picks" : [ "183.5 Alt (1.62 - 62.1%)" ],
-  "score" : "-",
+  "score" : "117-124",
   "statuses" : {
-    "183.5 Alt (1.62 - 62.1%)" : "pending"
+    "183.5 Alt (1.62 - 62.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Veltex Shizuoka",
   "awayTeam" : "Kagoshima Rebnise",
   "picks" : [ "165.5 Alt (1.62 - 55.5%)" ],
-  "score" : "-",
+  "score" : "83-93",
   "statuses" : {
-    "165.5 Alt (1.62 - 55.5%)" : "pending"
+    "165.5 Alt (1.62 - 55.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Guandong S. T.",
@@ -42,9 +42,9 @@
   "homeTeam" : "Shanghai S.",
   "awayTeam" : "Zhejiang L.",
   "picks" : [ "174.5 Alt (1.65 - 67.7%)" ],
-  "score" : "-",
+  "score" : "99-77",
   "statuses" : {
-    "174.5 Alt (1.65 - 67.7%)" : "pending"
+    "174.5 Alt (1.65 - 67.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Mega Bemax",

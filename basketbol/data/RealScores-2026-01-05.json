@@ -34,4 +34,72 @@
   "homeTeam" : "Gonzaga Bulldogs",
   "awayTeam" : "Loyola Marymount Lions",
   "score" : "82-47"
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "Memphis",
+  "score" : "120-114"
+}, {
+  "homeTeam" : "Sydney Kings",
+  "awayTeam" : "Melbourne Phoenix",
+  "score" : "117-124"
+}, {
+  "homeTeam" : "Sydney Uni Flames (K)",
+  "awayTeam" : "Bendigo Spirit (K)",
+  "score" : "89-78"
+}, {
+  "homeTeam" : "Qingdao E.",
+  "awayTeam" : "Shenzhen Leopards",
+  "score" : "83-92"
+}, {
+  "homeTeam" : "Guandong S.T.",
+  "awayTeam" : "Zhejiang G.B.",
+  "score" : "87-88"
+}, {
+  "homeTeam" : "Shanghai S.",
+  "awayTeam" : "Zhejiang L.",
+  "score" : "99-77"
+}, {
+  "homeTeam" : "Hubei Culture A. T.",
+  "awayTeam" : "Anhui Wenyi",
+  "score" : "100-98"
+}, {
+  "homeTeam" : "Daegu Pegasus",
+  "awayTeam" : "Goyang Orions",
+  "score" : "67-77"
+}, {
+  "homeTeam" : "Tabiaat",
+  "awayTeam" : "Pas Kordestan",
+  "score" : "83-61"
+}, {
+  "homeTeam" : "Mahgol",
+  "awayTeam" : "Esteghlal Tehran",
+  "score" : "64-86"
+}, {
+  "homeTeam" : "Raad Padafand Havaei",
+  "awayTeam" : "Naft Zagros Jonoubi",
+  "score" : "72-78"
+}, {
+  "homeTeam" : "Veltex Shizuoka",
+  "awayTeam" : "Kagoshima Rebnise",
+  "score" : "83-93"
+}, {
+  "homeTeam" : "Yamanashi Gakuin University",
+  "awayTeam" : "Hitachi Kasado",
+  "score" : "90-71"
+}, {
+  "homeTeam" : "Edogawa University",
+  "awayTeam" : "Mitsuuroko",
+  "score" : "79-88"
+}, {
+  "homeTeam" : "AZS Umcs Lublin II (K)",
+  "awayTeam" : "Gtk II Gdynia",
+  "score" : "62-73"
+}, {
+  "homeTeam" : "CSKA Moskova",
+  "awayTeam" : "Avtodor Sara",
+  "score" : "94-49"
+}, {
+  "homeTeam" : "Mitsubishi Koala",
+  "awayTeam" : "Akita Bank",
+  "score" : "109-87"
 } ]
