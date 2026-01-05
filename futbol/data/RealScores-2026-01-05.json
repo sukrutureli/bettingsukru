@@ -14,4 +14,112 @@
   "homeTeam" : "Monterrey (K)",
   "awayTeam" : "Puebla (K)",
   "score" : "4-0"
+}, {
+  "homeTeam" : "Macarthur",
+  "awayTeam" : "Auckland",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Bhayangkara",
+  "awayTeam" : "Dewa Utd",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Persik Kediri",
+  "awayTeam" : "Persib Bandung",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Barito Pute",
+  "awayTeam" : "Persiku Kudus",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Tornado",
+  "awayTeam" : "PSS Sleman",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Bahir Dar Kenema",
+  "awayTeam" : "Dire Dawa Kenema",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Ethiopian Insurance",
+  "awayTeam" : "Mekelle 70 Enderta",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Nafit Maysan",
+  "awayTeam" : "Diyala",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Newroz SC",
+  "awayTeam" : "AL Naft",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Minaa",
+  "awayTeam" : "AL Kahraba",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "AL Atesalat",
+  "awayTeam" : "AL Jaish",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AL Hedood",
+  "awayTeam" : "Masafee Al Junoob",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Kadhimiya SC",
+  "awayTeam" : "AL Hashd AL Shade",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Al Fahad SC",
+  "awayTeam" : "Naft Al Wasat",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Barnsley U21",
+  "awayTeam" : "Crewe Alexandra U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "Chelmsford C.",
+  "awayTeam" : "Slough Town",
+  "score" : "-"
+}, {
+  "homeTeam" : "M'gladbach",
+  "awayTeam" : "Hannover 96",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Stuttgart",
+  "awayTeam" : "Luzern",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Köln",
+  "awayTeam" : "Lugano",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Al Fehaheel",
+  "awayTeam" : "AL Jazira FC (Kuwait)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Al Mokawloon",
+  "awayTeam" : "Ghazl El Mahallah",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Al Masry",
+  "awayTeam" : "Smouha SC",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Musanze",
+  "awayTeam" : "AL Hilal (Sdn)",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Gicumbi",
+  "awayTeam" : "Kiyovu Sport",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "AL Jabil",
+  "awayTeam" : "AL Arabi (Sar)",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Anwar",
+  "awayTeam" : "AL Adalh",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Abha Club",
+  "awayTeam" : "AL Draih",
+  "score" : "2-1"
 } ]

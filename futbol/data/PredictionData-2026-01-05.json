@@ -2,17 +2,17 @@
   "homeTeam" : "Macarthur",
   "awayTeam" : "Auckland",
   "picks" : [ "Var (1.47 - 76.8%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Var (1.47 - 76.8%)" : "pending"
+    "Var (1.47 - 76.8%)" : "won"
   }
 }, {
   "homeTeam" : "Persik Kediri",
   "awayTeam" : "Persib Bandung",
   "picks" : [ "MS2 (1.64 - 62.5%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "MS2 (1.64 - 62.5%)" : "pending"
+    "MS2 (1.64 - 62.5%)" : "lost"
   }
 }, {
   "homeTeam" : "AL Zawraa",
