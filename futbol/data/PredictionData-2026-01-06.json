@@ -1,0 +1,89 @@
+[ {
+  "homeTeam" : "Melbourne City",
+  "awayTeam" : "Brisbane Roar",
+  "picks" : [ "Alt (1.55 - 81.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.55 - 81.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "AL Khaboora",
+  "awayTeam" : "Samail SC",
+  "picks" : [ "Alt (1.33 - 75.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 75.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Al Nasr Dubai",
+  "awayTeam" : "Sharjah",
+  "picks" : [ "Üst (1.5 - 72.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.5 - 72.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Aris",
+  "awayTeam" : "Paneitolikos",
+  "picks" : [ "Alt (1.46 - 71.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.46 - 71.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sitra Club",
+  "awayTeam" : "AL Muharraq",
+  "picks" : [ "Alt (1.57 - 73.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.57 - 73.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Samsunspor",
+  "picks" : [ "MS1 (1.37 - 70.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.37 - 70.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Granada",
+  "awayTeam" : "Vallecano",
+  "picks" : [ "Alt (1.44 - 67.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.44 - 67.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Basingstoke",
+  "awayTeam" : "Hanwell Town",
+  "picks" : [ "Üst (1.5 - 65.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.5 - 65.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Arbroath",
+  "awayTeam" : "East Fife",
+  "picks" : [ "MS1 (1.38 - 62.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.38 - 62.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rangers",
+  "awayTeam" : "Aberdeen",
+  "picks" : [ "MS1 (1.38 - 66.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.38 - 66.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sporting CP",
+  "awayTeam" : "V. Guimaraes",
+  "picks" : [ "Üst (1.47 - 62.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Üst (1.47 - 62.6%)" : "pending"
+  }
+} ]
