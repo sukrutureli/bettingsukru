@@ -18,9 +18,9 @@
   "homeTeam" : "AL Zawraa",
   "awayTeam" : "Al Garaf",
   "picks" : [ "MS1 (1.36 - 69.5%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "MS1 (1.36 - 69.5%)" : "pending"
+    "MS1 (1.36 - 69.5%)" : "lost"
   }
 }, {
   "homeTeam" : "N. Bank Egypt",

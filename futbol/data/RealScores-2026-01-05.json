@@ -122,4 +122,60 @@
   "homeTeam" : "Abha Club",
   "awayTeam" : "AL Draih",
   "score" : "2-1"
+}, {
+  "homeTeam" : "Mısır",
+  "awayTeam" : "Benin",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Qalali Club",
+  "awayTeam" : "AL Ittihad Bhr",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "AL Ittifaq",
+  "awayTeam" : "AL Hala",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Al Tadhmon",
+  "awayTeam" : "Busaiteen Club",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "JS Kabylie",
+  "awayTeam" : "MB Rouisset",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Inter Allies",
+  "awayTeam" : "Golden Kicks",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Medina Utd",
+  "awayTeam" : "Samger",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Fortune",
+  "awayTeam" : "Bombada",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Real de Banjul",
+  "awayTeam" : "Gambian Dutch Lions",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "AL Karma",
+  "awayTeam" : "AL Najaf",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "AL Zawraa",
+  "awayTeam" : "Al Garaf",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Burgan SC",
+  "awayTeam" : "Al Jahra",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Rio Ave U19",
+  "awayTeam" : "Gil Vicente U19",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Gasogi Utd",
+  "awayTeam" : "Al Merrikh (Sdn)",
+  "score" : "0-1"
 } ]
