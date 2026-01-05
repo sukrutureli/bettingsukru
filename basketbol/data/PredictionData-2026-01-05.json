@@ -50,16 +50,16 @@
   "homeTeam" : "Mega Bemax",
   "awayTeam" : "BC Vienna",
   "picks" : [ "171.5 Üst (1.62 - 59.5%)" ],
-  "score" : "-",
+  "score" : "100-98",
   "statuses" : {
-    "171.5 Üst (1.62 - 59.5%)" : "pending"
+    "171.5 Üst (1.62 - 59.5%)" : "won"
   }
 }, {
   "homeTeam" : "Hogsbo Basket",
   "awayTeam" : "Koping Stars",
   "picks" : [ "179.5 Alt (1.64 - 70.1%)" ],
-  "score" : "-",
+  "score" : "95-83",
   "statuses" : {
-    "179.5 Alt (1.64 - 70.1%)" : "pending"
+    "179.5 Alt (1.64 - 70.1%)" : "won"
   }
 } ]

@@ -142,4 +142,28 @@
   "homeTeam" : "AL Inglizia Sport Club",
   "awayTeam" : "AL Wehdat Amman",
   "score" : "66-70"
+}, {
+  "homeTeam" : "Telekom Bonn",
+  "awayTeam" : "Bamberg",
+  "score" : "76-74"
+}, {
+  "homeTeam" : "Reyer Venezia",
+  "awayTeam" : "Treviso",
+  "score" : "87-66"
+}, {
+  "homeTeam" : "Mega Bemax",
+  "awayTeam" : "BC Vienna",
+  "score" : "100-98"
+}, {
+  "homeTeam" : "Jamtland",
+  "awayTeam" : "Umea",
+  "score" : "104-96"
+}, {
+  "homeTeam" : "Hogsbo Basket",
+  "awayTeam" : "Koping Stars",
+  "score" : "95-83"
+}, {
+  "homeTeam" : "CS Dinamo Bucuresti",
+  "awayTeam" : "CS Valcea 1924 Rm Valcea",
+  "score" : "91-98"
 } ]
