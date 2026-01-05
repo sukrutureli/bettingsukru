@@ -102,4 +102,44 @@
   "homeTeam" : "Mitsubishi Koala",
   "awayTeam" : "Akita Bank",
   "score" : "109-87"
+}, {
+  "homeTeam" : "AL Ittihad (Sar)",
+  "awayTeam" : "Kazma",
+  "score" : "86-84"
+}, {
+  "homeTeam" : "Rilski",
+  "awayTeam" : "Balkan Botevgrad",
+  "score" : "81-79"
+}, {
+  "homeTeam" : "BK Liepaja",
+  "awayTeam" : "Latvijas Universitate",
+  "score" : "84-103"
+}, {
+  "homeTeam" : "Mitsubishi Koala (K)",
+  "awayTeam" : "Akita Bank (K)",
+  "score" : "109-87"
+}, {
+  "homeTeam" : "AL Arabi (Kat)",
+  "awayTeam" : "Qatar SC",
+  "score" : "102-83"
+}, {
+  "homeTeam" : "AL Shamal",
+  "awayTeam" : "AL Gharafa",
+  "score" : "73-100"
+}, {
+  "homeTeam" : "Tar. Mures",
+  "awayTeam" : "BCMU Arges Pitesti",
+  "score" : "92-96"
+}, {
+  "homeTeam" : "BKM Lucenec",
+  "awayTeam" : "Nitra Blue Wings",
+  "score" : "74-76"
+}, {
+  "homeTeam" : "AL Salam",
+  "awayTeam" : "AL Khowaildiyah",
+  "score" : "86-83"
+}, {
+  "homeTeam" : "AL Inglizia Sport Club",
+  "awayTeam" : "AL Wehdat Amman",
+  "score" : "66-70"
 } ]
