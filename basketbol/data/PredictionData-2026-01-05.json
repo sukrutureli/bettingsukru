@@ -2,9 +2,9 @@
   "homeTeam" : "Washington",
   "awayTeam" : "Minnesota",
   "picks" : [ "239.5 Alt (1.61 - 69.3%)" ],
-  "score" : "-",
+  "score" : "115-141",
   "statuses" : {
-    "239.5 Alt (1.61 - 69.3%)" : "pending"
+    "239.5 Alt (1.61 - 69.3%)" : "lost"
   }
 }, {
   "homeTeam" : "LA Lakers",
