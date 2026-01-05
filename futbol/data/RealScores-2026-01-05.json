@@ -1,0 +1,17 @@
+[ {
+  "homeTeam" : "Marathon",
+  "awayTeam" : "CD Olimpia",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Molynes",
+  "awayTeam" : "Mount Pleasant",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Club Necaxa (K)",
+  "awayTeam" : "Tigres UANL (K)",
+  "score" : "1-4"
+}, {
+  "homeTeam" : "Monterrey (K)",
+  "awayTeam" : "Puebla (K)",
+  "score" : "4-0"
+} ]
