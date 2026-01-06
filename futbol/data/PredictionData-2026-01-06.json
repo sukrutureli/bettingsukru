@@ -34,9 +34,9 @@
   "homeTeam" : "Sitra Club",
   "awayTeam" : "AL Muharraq",
   "picks" : [ "Alt (1.57 - 73.1%)" ],
-  "score" : "-",
+  "score" : "0-4",
   "statuses" : {
-    "Alt (1.57 - 73.1%)" : "pending"
+    "Alt (1.57 - 73.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Fenerbahçe",

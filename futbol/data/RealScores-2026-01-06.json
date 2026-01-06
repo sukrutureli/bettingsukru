@@ -154,4 +154,92 @@
   "homeTeam" : "Aris",
   "awayTeam" : "Paneitolikos",
   "score" : "2-0"
+}, {
+  "homeTeam" : "Lecce",
+  "awayTeam" : "AS Roma",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Cezayir",
+  "awayTeam" : "Demokratik Kongo C.",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Wahda",
+  "awayTeam" : "Baniyas",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Sitra Club",
+  "awayTeam" : "Al-Muharraq",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Banjul Utd",
+  "awayTeam" : "Unique Global",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Gaf",
+  "awayTeam" : "North Star",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Gamtel",
+  "awayTeam" : "Colley Stars",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "CD Marino",
+  "awayTeam" : "CD San Miguel",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Umm Salal SC",
+  "awayTeam" : "AL Gharrafa",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Al Sailiya",
+  "awayTeam" : "AL Rayyan",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Groningen",
+  "awayTeam" : "Bodo Glimt",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "AL Salmiya SC",
+  "awayTeam" : "AL Tadhamon",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Enppi Club",
+  "awayTeam" : "Cer. Cleopatra",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "El Gouna",
+  "awayTeam" : "Petrojet",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Benfica U19",
+  "awayTeam" : "S. Lizbon U19",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Vizela U23",
+  "awayTeam" : "Rio Ave U23",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Estoril Praia U23",
+  "awayTeam" : "Estrela A. U23",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "AL Wehda",
+  "awayTeam" : "AL Orubah",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Vipers SC",
+  "awayTeam" : "Mbarara",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Sohar",
+  "awayTeam" : "AL Nasr",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "S. Arabistan U23",
+  "awayTeam" : "Kırgızistan U23",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Volos",
+  "awayTeam" : "AE Kifisia",
+  "score" : "0-1"
 } ]
