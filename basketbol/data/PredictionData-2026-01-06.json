@@ -26,41 +26,41 @@
   "homeTeam" : "LA Clippers",
   "awayTeam" : "Golden State",
   "picks" : [ "223.5 Üst (1.64 - 80.1%)" ],
-  "score" : "-",
+  "score" : "103-102",
   "statuses" : {
-    "223.5 Üst (1.64 - 80.1%)" : "pending"
+    "223.5 Üst (1.64 - 80.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Portland",
   "awayTeam" : "Utah",
   "picks" : [ "241.5 Alt (1.67 - 61.1%)" ],
-  "score" : "-",
+  "score" : "137-117",
   "statuses" : {
-    "241.5 Alt (1.67 - 61.1%)" : "pending"
+    "241.5 Alt (1.67 - 61.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Mobis Phoebus",
   "awayTeam" : "KCC Egis",
   "picks" : [ "160.5 Üst (1.64 - 56.3%)" ],
-  "score" : "-",
+  "score" : "81-66",
   "statuses" : {
-    "160.5 Üst (1.64 - 56.3%)" : "pending"
+    "160.5 Üst (1.64 - 56.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Jilin N.T.",
   "awayTeam" : "Jiangsu D.",
   "picks" : [ "170.5 Alt (1.63 - 59.4%)" ],
-  "score" : "-",
+  "score" : "83-72",
   "statuses" : {
-    "170.5 Alt (1.63 - 59.4%)" : "pending"
+    "170.5 Alt (1.63 - 59.4%)" : "won"
   }
 }, {
   "homeTeam" : "Start Lublin",
   "awayTeam" : "Wilki Morskie Szczecin",
   "picks" : [ "172.5 Alt (1.64 - 57.4%)" ],
-  "score" : "-",
+  "score" : "83-74",
   "statuses" : {
-    "172.5 Alt (1.64 - 57.4%)" : "pending"
+    "172.5 Alt (1.64 - 57.4%)" : "won"
   }
 }, {
   "homeTeam" : "Wurzburg",

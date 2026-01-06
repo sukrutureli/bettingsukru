@@ -58,4 +58,100 @@
   "homeTeam" : "Michigan State Spartans",
   "awayTeam" : "USC Trojans",
   "score" : "80-51"
+}, {
+  "homeTeam" : "LA Clippers",
+  "awayTeam" : "Golden State",
+  "score" : "103-102"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Utah",
+  "score" : "137-117"
+}, {
+  "homeTeam" : "Townsville Fire (K)",
+  "awayTeam" : "Geelong Supe (K)",
+  "score" : "71-88"
+}, {
+  "homeTeam" : "US Setif",
+  "awayTeam" : "Wa Boufarik",
+  "score" : "80-69"
+}, {
+  "homeTeam" : "Csc Djasr Kasentina",
+  "awayTeam" : "Crb Dar Beida",
+  "score" : "52-45"
+}, {
+  "homeTeam" : "Usm Blida",
+  "awayTeam" : "CRB SAF",
+  "score" : "89-80"
+}, {
+  "homeTeam" : "Nanjing M.K.",
+  "awayTeam" : "Liaoning F. L.",
+  "score" : "66-79"
+}, {
+  "homeTeam" : "Fujian S.",
+  "awayTeam" : "Shandong H.",
+  "score" : "99-105"
+}, {
+  "homeTeam" : "Guangzhou L.L.",
+  "awayTeam" : "Xinjiang F.T.",
+  "score" : "79-76"
+}, {
+  "homeTeam" : "Ningbo Rockets",
+  "awayTeam" : "Beijing D.",
+  "score" : "83-88"
+}, {
+  "homeTeam" : "Shanxi L.",
+  "awayTeam" : "Sichuan B.W.",
+  "score" : "97-79"
+}, {
+  "homeTeam" : "Jilin N.T.",
+  "awayTeam" : "Jiangsu D.",
+  "score" : "83-72"
+}, {
+  "homeTeam" : "Tianjin P.",
+  "awayTeam" : "Beijing R. F.",
+  "score" : "110-103"
+}, {
+  "homeTeam" : "Hebei S. Xianglan",
+  "awayTeam" : "J. Yannan Suke",
+  "score" : "94-97"
+}, {
+  "homeTeam" : "H. Kuangfeng",
+  "awayTeam" : "Zhangjiakou",
+  "score" : "97-65"
+}, {
+  "homeTeam" : "Sangmu",
+  "awayTeam" : "Kt Sonicboom II",
+  "score" : "94-99"
+}, {
+  "homeTeam" : "Wonju Db Reserve",
+  "awayTeam" : "Jung Kwan Jang Red Boosters Reserve",
+  "score" : "81-87"
+}, {
+  "homeTeam" : "Mobis Phoebus",
+  "awayTeam" : "KCC Egis",
+  "score" : "81-66"
+}, {
+  "homeTeam" : "Jr East Japan Akita Beckers",
+  "awayTeam" : "Hakuoh U.",
+  "score" : "74-61"
+}, {
+  "homeTeam" : "Yamagata Kubera",
+  "awayTeam" : "Shinsh Brave",
+  "score" : "58-80"
+}, {
+  "homeTeam" : "Japan University of Economics",
+  "awayTeam" : "Tokyo Excellence",
+  "score" : "70-110"
+}, {
+  "homeTeam" : "Rizing Fukuoka",
+  "awayTeam" : "Onelys Wakayama BC",
+  "score" : "76-72"
+}, {
+  "homeTeam" : "Syntainics Mbc",
+  "awayTeam" : "Donar Groningen",
+  "score" : "106-104"
+}, {
+  "homeTeam" : "Start Lublin",
+  "awayTeam" : "Wilki Morskie Szczecin",
+  "score" : "83-74"
 } ]
