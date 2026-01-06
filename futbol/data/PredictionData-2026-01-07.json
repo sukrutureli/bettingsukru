@@ -1,0 +1,41 @@
+[ {
+  "homeTeam" : "AL Raed",
+  "awayTeam" : "AL Ula",
+  "picks" : [ "Var (1.41 - 65.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.41 - 65.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Calvary",
+  "awayTeam" : "Bul",
+  "picks" : [ "Alt (1.46 - 69.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.46 - 69.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Dhofar Scsc",
+  "awayTeam" : "AL Nahda",
+  "picks" : [ "MS2 (1.51 - 67.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.51 - 67.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Fulham",
+  "awayTeam" : "Chelsea",
+  "picks" : [ "Var (1.5 - 74.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.5 - 74.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lazio",
+  "awayTeam" : "Fiorentina",
+  "picks" : [ "Alt (1.42 - 71.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.42 - 71.0%)" : "pending"
+  }
+} ]
