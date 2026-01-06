@@ -2,33 +2,33 @@
   "homeTeam" : "Melbourne City",
   "awayTeam" : "Brisbane Roar",
   "picks" : [ "Alt (1.55 - 81.2%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Alt (1.55 - 81.2%)" : "pending"
+    "Alt (1.55 - 81.2%)" : "won"
   }
 }, {
   "homeTeam" : "AL Khaboora",
   "awayTeam" : "Samail SC",
   "picks" : [ "Alt (1.33 - 75.8%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Alt (1.33 - 75.8%)" : "pending"
+    "Alt (1.33 - 75.8%)" : "won"
   }
 }, {
   "homeTeam" : "Al Nasr Dubai",
   "awayTeam" : "Sharjah",
   "picks" : [ "Üst (1.5 - 72.6%)" ],
-  "score" : "-",
+  "score" : "2-4",
   "statuses" : {
-    "Üst (1.5 - 72.6%)" : "pending"
+    "Üst (1.5 - 72.6%)" : "won"
   }
 }, {
   "homeTeam" : "Aris",
   "awayTeam" : "Paneitolikos",
   "picks" : [ "Alt (1.46 - 71.6%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.46 - 71.6%)" : "pending"
+    "Alt (1.46 - 71.6%)" : "won"
   }
 }, {
   "homeTeam" : "Sitra Club",
