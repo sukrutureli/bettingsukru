@@ -2,25 +2,25 @@
   "homeTeam" : "Detroit",
   "awayTeam" : "New York",
   "picks" : [ "231.5 Üst (1.63 - 79.7%)" ],
-  "score" : "-",
+  "score" : "121-90",
   "statuses" : {
-    "231.5 Üst (1.63 - 79.7%)" : "pending"
+    "231.5 Üst (1.63 - 79.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Toronto",
   "awayTeam" : "Atlanta",
   "picks" : [ "MS1 (1.47 - 73.5%)" ],
-  "score" : "-",
+  "score" : "118-100",
   "statuses" : {
-    "MS1 (1.47 - 73.5%)" : "pending"
+    "MS1 (1.47 - 73.5%)" : "won"
   }
 }, {
   "homeTeam" : "Philadelphia",
   "awayTeam" : "Denver",
   "picks" : [ "228.5 Üst (1.63 - 71.2%)" ],
-  "score" : "-",
+  "score" : "124-125",
   "statuses" : {
-    "228.5 Üst (1.63 - 71.2%)" : "pending"
+    "228.5 Üst (1.63 - 71.2%)" : "won"
   }
 }, {
   "homeTeam" : "LA Clippers",

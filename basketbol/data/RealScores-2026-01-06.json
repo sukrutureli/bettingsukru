@@ -1,0 +1,61 @@
+[ {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "New York",
+  "score" : "121-90"
+}, {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Chicago",
+  "score" : "115-101"
+}, {
+  "homeTeam" : "Toronto",
+  "awayTeam" : "Atlanta",
+  "score" : "118-100"
+}, {
+  "homeTeam" : "Houston",
+  "awayTeam" : "Phoenix",
+  "score" : "100-97"
+}, {
+  "homeTeam" : "Oklahoma",
+  "awayTeam" : "Charlotte",
+  "score" : "97-124"
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Denver",
+  "score" : "124-125"
+}, {
+  "homeTeam" : "Yale Bulldogs (K)",
+  "awayTeam" : "Brown Bears (K)",
+  "score" : "72-88"
+}, {
+  "homeTeam" : "Michigan Wolverines (K)",
+  "awayTeam" : "Minnesota Gophers (K)",
+  "score" : "70-60"
+}, {
+  "homeTeam" : "Northwestern Wildcats (K)",
+  "awayTeam" : "Iowa Hawk (K)",
+  "score" : "58-67"
+}, {
+  "homeTeam" : "Ohio State Buckeyes",
+  "awayTeam" : "Nebraska Cornhuskers",
+  "score" : "69-72"
+}, {
+  "homeTeam" : "Harvard Crimson",
+  "awayTeam" : "Dartmouth Big Green",
+  "score" : "68-76"
+}, {
+  "homeTeam" : "Princeton Tigers",
+  "awayTeam" : "Penn Quakers",
+  "score" : "78-76"
+}, {
+  "homeTeam" : "Rutgers Scarlet Knights",
+  "awayTeam" : "Oregon Ducks",
+  "score" : "88-85"
+}, {
+  "homeTeam" : "Brown Bears",
+  "awayTeam" : "Yale Bulldogs",
+  "score" : "53-70"
+}, {
+  "homeTeam" : "Michigan State Spartans",
+  "awayTeam" : "USC Trojans",
+  "score" : "80-51"
+} ]
