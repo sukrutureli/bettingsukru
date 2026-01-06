@@ -242,4 +242,116 @@
   "homeTeam" : "Volos",
   "awayTeam" : "AE Kifisia",
   "score" : "0-1"
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Samsunspor",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "West Ham",
+  "awayTeam" : "Nottingham F.",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Sassuolo",
+  "awayTeam" : "Juventus",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Granada",
+  "awayTeam" : "Vallecano",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Fildişi Sahili",
+  "awayTeam" : "Burkina Faso",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "TNS",
+  "awayTeam" : "Bala Town",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Basingstoke",
+  "awayTeam" : "Hanwell Town",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Bournemouth U21",
+  "awayTeam" : "Reading U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "Stockport County U21",
+  "awayTeam" : "Burnley U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "Derby County U21",
+  "awayTeam" : "Sheffield Utd U21",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Folkestone I.",
+  "awayTeam" : "Aveley",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Lewes",
+  "awayTeam" : "Billericay",
+  "score" : "-"
+}, {
+  "homeTeam" : "Eastbourne Bor.",
+  "awayTeam" : "Horsham",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Macclesfield",
+  "awayTeam" : "Radcliffe",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Ayr Utd",
+  "awayTeam" : "Stranraer",
+  "score" : "-"
+}, {
+  "homeTeam" : "Stirling Alb.",
+  "awayTeam" : "Stenhousemuir",
+  "score" : "-"
+}, {
+  "homeTeam" : "Arbroath",
+  "awayTeam" : "East Fife",
+  "score" : "-"
+}, {
+  "homeTeam" : "Raith Rovers",
+  "awayTeam" : "Queen of The South",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Queen's Park",
+  "awayTeam" : "Forfar",
+  "score" : "-"
+}, {
+  "homeTeam" : "P. Thistle",
+  "awayTeam" : "Inverness",
+  "score" : "-"
+}, {
+  "homeTeam" : "Airdrieonian",
+  "awayTeam" : "Montrose",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Livingston",
+  "awayTeam" : "St. Mirren",
+  "score" : "-"
+}, {
+  "homeTeam" : "Rangers",
+  "awayTeam" : "Aberdeen",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Hibernians",
+  "awayTeam" : "Gzira Utd",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "Sliema Wanderers",
+  "awayTeam" : "Marsaxlokk",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "AL Ittihad",
+  "awayTeam" : "ZED",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Sporting CP",
+  "awayTeam" : "V. Guimaraes",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "PAOK",
+  "awayTeam" : "Atromitos",
+  "score" : "1-1"
 } ]

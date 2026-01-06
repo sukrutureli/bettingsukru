@@ -42,25 +42,25 @@
   "homeTeam" : "Fenerbahçe",
   "awayTeam" : "Samsunspor",
   "picks" : [ "MS1 (1.37 - 70.4%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "MS1 (1.37 - 70.4%)" : "pending"
+    "MS1 (1.37 - 70.4%)" : "won"
   }
 }, {
   "homeTeam" : "Granada",
   "awayTeam" : "Vallecano",
   "picks" : [ "Alt (1.44 - 67.3%)" ],
-  "score" : "-",
+  "score" : "1-3",
   "statuses" : {
-    "Alt (1.44 - 67.3%)" : "pending"
+    "Alt (1.44 - 67.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Basingstoke",
   "awayTeam" : "Hanwell Town",
   "picks" : [ "Üst (1.5 - 65.7%)" ],
-  "score" : "-",
+  "score" : "3-2",
   "statuses" : {
-    "Üst (1.5 - 65.7%)" : "pending"
+    "Üst (1.5 - 65.7%)" : "won"
   }
 }, {
   "homeTeam" : "Arbroath",
@@ -74,16 +74,16 @@
   "homeTeam" : "Rangers",
   "awayTeam" : "Aberdeen",
   "picks" : [ "MS1 (1.38 - 66.8%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "MS1 (1.38 - 66.8%)" : "pending"
+    "MS1 (1.38 - 66.8%)" : "won"
   }
 }, {
   "homeTeam" : "Sporting CP",
   "awayTeam" : "V. Guimaraes",
   "picks" : [ "Üst (1.47 - 62.6%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Üst (1.47 - 62.6%)" : "pending"
+    "Üst (1.47 - 62.6%)" : "won"
   }
 } ]
