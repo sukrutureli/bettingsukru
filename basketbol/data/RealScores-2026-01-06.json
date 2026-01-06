@@ -234,4 +234,76 @@
   "homeTeam" : "AL Faisaly (Ürd)",
   "awayTeam" : "Shabab Bushra",
   "score" : "89-71"
+}, {
+  "homeTeam" : "Fenerbahçe",
+  "awayTeam" : "Olympiakos",
+  "score" : "88-80"
+}, {
+  "homeTeam" : "Monaco",
+  "awayTeam" : "Partizan",
+  "score" : "101-84"
+}, {
+  "homeTeam" : "Kızıl Yıldız",
+  "awayTeam" : "Valencia",
+  "score" : "89-106"
+}, {
+  "homeTeam" : "Asvel Vil.",
+  "awayTeam" : "Real Madrid",
+  "score" : "69-80"
+}, {
+  "homeTeam" : "Hap. Tel Aviv",
+  "awayTeam" : "BC Dubai",
+  "score" : "85-60"
+}, {
+  "homeTeam" : "Panathinaikos",
+  "awayTeam" : "Olimpia Milano",
+  "score" : "74-87"
+}, {
+  "homeTeam" : "Virtus Bologna",
+  "awayTeam" : "Zalgiris Kaunas",
+  "score" : "83-79"
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "M. Tel Aviv",
+  "score" : "93-83"
+}, {
+  "homeTeam" : "Olimp Ljubljana",
+  "awayTeam" : "Bahçeşehir Koleji",
+  "score" : "59-67"
+}, {
+  "homeTeam" : "Manresa",
+  "awayTeam" : "Aris",
+  "score" : "113-99"
+}, {
+  "homeTeam" : "MLP A. Heidelberg",
+  "awayTeam" : "Nymburk",
+  "score" : "63-72"
+}, {
+  "homeTeam" : "Elan Chalon",
+  "awayTeam" : "Promitheas",
+  "score" : "93-78"
+}, {
+  "homeTeam" : "Spartak Subotica",
+  "awayTeam" : "AS Karditsas",
+  "score" : "82-89"
+}, {
+  "homeTeam" : "Den Bosch",
+  "awayTeam" : "Kangoeroes  Mechelen",
+  "score" : "86-75"
+}, {
+  "homeTeam" : "KB Priştine",
+  "awayTeam" : "UMF Tindastoll",
+  "score" : "98-104"
+}, {
+  "homeTeam" : "Anwil Wlocl.",
+  "awayTeam" : "Gornik Walbrzych",
+  "score" : "97-90"
+}, {
+  "homeTeam" : "AZS Lublin (K)",
+  "awayTeam" : "Arka Gdynia (K)",
+  "score" : "71-77"
+}, {
+  "homeTeam" : "Porto",
+  "awayTeam" : "Ovarense",
+  "score" : "74-62"
 } ]
