@@ -214,4 +214,124 @@
   "homeTeam" : "Kosice Wolves",
   "awayTeam" : "Spisski Rytieri",
   "score" : "72-108"
+}, {
+  "homeTeam" : "Anadolu Efes",
+  "awayTeam" : "Paris",
+  "score" : "79-84"
+}, {
+  "homeTeam" : "Bayern Münih",
+  "awayTeam" : "Baskonia",
+  "score" : "96-89"
+}, {
+  "homeTeam" : "Panionios",
+  "awayTeam" : "Buducnost",
+  "score" : "97-85"
+}, {
+  "homeTeam" : "London Lions",
+  "awayTeam" : "Niners Chemnitz",
+  "score" : "70-78"
+}, {
+  "homeTeam" : "Slask Wroclaw",
+  "awayTeam" : "Hapoel Jerusalem",
+  "score" : "72-115"
+}, {
+  "homeTeam" : "Hamburg Towers",
+  "awayTeam" : "Neptunas K.",
+  "score" : "94-98"
+}, {
+  "homeTeam" : "Reyer Venezia",
+  "awayTeam" : "Cluj Napoca",
+  "score" : "90-83"
+}, {
+  "homeTeam" : "BK Gapa Hradec Kralove",
+  "awayTeam" : "Basket Brno",
+  "score" : "88-94"
+}, {
+  "homeTeam" : "Flammes Carolo (K)",
+  "awayTeam" : "Landerneau B. (K)",
+  "score" : "72-56"
+}, {
+  "homeTeam" : "Chartres (K)",
+  "awayTeam" : "Charnay Basket (K)",
+  "score" : "92-101"
+}, {
+  "homeTeam" : "ESB Villeneuve (K)",
+  "awayTeam" : "Lattes Montp (K)",
+  "score" : "91-81"
+}, {
+  "homeTeam" : "Basket Landes (K)",
+  "awayTeam" : "Tango Bourges (K)",
+  "score" : "60-69"
+}, {
+  "homeTeam" : "Lyon Asvel (K)",
+  "awayTeam" : "UF Angers Basket (K)",
+  "score" : "72-67"
+}, {
+  "homeTeam" : "Roche Vendee (K)",
+  "awayTeam" : "SAS Toulouse (K)",
+  "score" : "83-74"
+}, {
+  "homeTeam" : "Zaragoza (K)",
+  "awayTeam" : "Gipuzkoa IDK (K)",
+  "score" : "52-46"
+}, {
+  "homeTeam" : "Jouventut Badalona (K)",
+  "awayTeam" : "AE Sedis Basquet (K)",
+  "score" : "92-83"
+}, {
+  "homeTeam" : "Baloncesto Leganes (K)",
+  "awayTeam" : "Univ. de Ferrol (K)",
+  "score" : "78-73"
+}, {
+  "homeTeam" : "Porta XI Ensino (K)",
+  "awayTeam" : "Valencia (K)",
+  "score" : "75-78"
+}, {
+  "homeTeam" : "Gernika Kesb (K)",
+  "awayTeam" : "UNI Girona CB (K)",
+  "score" : "72-62"
+}, {
+  "homeTeam" : "Cab Estepona (K)",
+  "awayTeam" : "CB Islas Canarias (K)",
+  "score" : "80-64"
+}, {
+  "homeTeam" : "Perf. Avenida (K)",
+  "awayTeam" : "CB Estudiantes (K)",
+  "score" : "71-68"
+}, {
+  "homeTeam" : "Araski (K)",
+  "awayTeam" : "Cb Jairis (K)",
+  "score" : "74-84"
+}, {
+  "homeTeam" : "Estudiantes",
+  "awayTeam" : "CB Tizona",
+  "score" : "96-70"
+}, {
+  "homeTeam" : "Psa Basket Casoria",
+  "awayTeam" : "Virtus Imola",
+  "score" : "63-61"
+}, {
+  "homeTeam" : "Orlandina",
+  "awayTeam" : "P. Fiorenzuola",
+  "score" : "71-67"
+}, {
+  "homeTeam" : "Bristol Flyers",
+  "awayTeam" : "Fyllingen BK",
+  "score" : "82-91"
+}, {
+  "homeTeam" : "Keila Basket",
+  "awayTeam" : "BK Opava",
+  "score" : "84-94"
+}, {
+  "homeTeam" : "Iraklis",
+  "awayTeam" : "Dziki Warshawa",
+  "score" : "87-75"
+}, {
+  "homeTeam" : "Skk Polonia Warszawa (K)",
+  "awayTeam" : "Artego Bydgoszcz (K)",
+  "score" : "89-81"
+}, {
+  "homeTeam" : "KD Ilirija",
+  "awayTeam" : "Helios Suns",
+  "score" : "94-83"
 } ]

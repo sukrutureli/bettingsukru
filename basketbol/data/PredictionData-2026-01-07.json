@@ -66,48 +66,48 @@
   "homeTeam" : "Anadolu Efes",
   "awayTeam" : "Paris",
   "picks" : [ "175.5 Alt (1.65 - 58.8%)" ],
-  "score" : "-",
+  "score" : "79-84",
   "statuses" : {
-    "175.5 Alt (1.65 - 58.8%)" : "pending"
+    "175.5 Alt (1.65 - 58.8%)" : "won"
   }
 }, {
   "homeTeam" : "Basket Landes (K)",
   "awayTeam" : "Tango Bourges (K)",
   "picks" : [ "131.5 Üst (1.6 - 73.0%)" ],
-  "score" : "-",
+  "score" : "60-69",
   "statuses" : {
-    "131.5 Üst (1.6 - 73.0%)" : "pending"
+    "131.5 Üst (1.6 - 73.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Jouventut Badalona (K)",
   "awayTeam" : "AE Sedis Basquet (K)",
   "picks" : [ "143.5 Alt (1.65 - 60.2%)" ],
-  "score" : "-",
+  "score" : "92-83",
   "statuses" : {
-    "143.5 Alt (1.65 - 60.2%)" : "pending"
+    "143.5 Alt (1.65 - 60.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Baloncesto Leganes (K)",
   "awayTeam" : "Univ. de Ferrol (K)",
   "picks" : [ "138.5 Alt (1.59 - 55.8%)" ],
-  "score" : "-",
+  "score" : "78-73",
   "statuses" : {
-    "138.5 Alt (1.59 - 55.8%)" : "pending"
+    "138.5 Alt (1.59 - 55.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Porta XI Ensino (K)",
   "awayTeam" : "Valencia (K)",
   "picks" : [ "142.5 Alt (1.62 - 59.1%)" ],
-  "score" : "-",
+  "score" : "75-78",
   "statuses" : {
-    "142.5 Alt (1.62 - 59.1%)" : "pending"
+    "142.5 Alt (1.62 - 59.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Bayern Münih",
   "awayTeam" : "Baskonia",
   "picks" : [ "MS1 (1.35 - 88.3%)" ],
-  "score" : "-",
+  "score" : "96-89",
   "statuses" : {
-    "MS1 (1.35 - 88.3%)" : "pending"
+    "MS1 (1.35 - 88.3%)" : "won"
   }
 } ]
