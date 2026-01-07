@@ -1,0 +1,97 @@
+[ {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Cleveland",
+  "score" : "116-120"
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "Orlando",
+  "score" : "120-112"
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "San Antonio",
+  "score" : "106-105"
+}, {
+  "homeTeam" : "New Orleans",
+  "awayTeam" : "LA Lakers",
+  "score" : "103-111"
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "Miami",
+  "score" : "122-94"
+}, {
+  "homeTeam" : "Georgia Tech Yellow Jackets",
+  "awayTeam" : "Syracuse Orange",
+  "score" : "72-82"
+}, {
+  "homeTeam" : "Florida Gators",
+  "awayTeam" : "Georgia Bulldogs",
+  "score" : "92-77"
+}, {
+  "homeTeam" : "Butler Bulldogs",
+  "awayTeam" : "St. John's Red Storm",
+  "score" : "70-84"
+}, {
+  "homeTeam" : "Louisville Cardinals",
+  "awayTeam" : "Duke Blue Devils",
+  "score" : "73-84"
+}, {
+  "homeTeam" : "West Virginia Mountaineers",
+  "awayTeam" : "Cincinnati Bearcats",
+  "score" : "62-60"
+}, {
+  "homeTeam" : "Penn State Nittany L.",
+  "awayTeam" : "Michigan Wolverines",
+  "score" : "72-74"
+}, {
+  "homeTeam" : "Minnesota Golden Gophers",
+  "awayTeam" : "Iowa Hawkeyes",
+  "score" : "70-67"
+}, {
+  "homeTeam" : "Oklahoma State C.",
+  "awayTeam" : "Central Florida Knights",
+  "score" : "87-76"
+}, {
+  "homeTeam" : "DePaul Blue Demons",
+  "awayTeam" : "Georgetown Hoyas",
+  "score" : "56-50"
+}, {
+  "homeTeam" : "Wisconsin Badgers",
+  "awayTeam" : "UCLA Bruins",
+  "score" : "80-72"
+}, {
+  "homeTeam" : "Tennessee Volunteers",
+  "awayTeam" : "Texas Longh.",
+  "score" : "85-71"
+}, {
+  "homeTeam" : "Houston Cougars",
+  "awayTeam" : "Texas Tech Red Raiders",
+  "score" : "69-65"
+}, {
+  "homeTeam" : "Boston College Eagles",
+  "awayTeam" : "NCS Wolfpack",
+  "score" : "71-79"
+}, {
+  "homeTeam" : "Auburn Tigers",
+  "awayTeam" : "Texas A&M Aggies",
+  "score" : "88-90"
+}, {
+  "homeTeam" : "Arizona Wildcats(K)",
+  "awayTeam" : "Brigham Young Cougars (K)",
+  "score" : "75-72"
+}, {
+  "homeTeam" : "Racing de Chivilcoy",
+  "awayTeam" : "Instituto de Cordoba",
+  "score" : "65-76"
+}, {
+  "homeTeam" : "Obras Sanita",
+  "awayTeam" : "Union de Santa Fe",
+  "score" : "69-83"
+}, {
+  "homeTeam" : "Regatas Corrientes",
+  "awayTeam" : "Obera Tenis C.",
+  "score" : "78-66"
+}, {
+  "homeTeam" : "Ciclista Olimpico",
+  "awayTeam" : "CA San Lorenzo De Almagro",
+  "score" : "84-74"
+} ]

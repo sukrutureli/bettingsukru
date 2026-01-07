@@ -2,9 +2,9 @@
   "homeTeam" : "Ciclista Olimpico",
   "awayTeam" : "CA San Lorenzo De Almagro",
   "picks" : [ "160.5 Alt (1.63 - 59.0%)" ],
-  "score" : "-",
+  "score" : "84-74",
   "statuses" : {
-    "160.5 Alt (1.63 - 59.0%)" : "pending"
+    "160.5 Alt (1.63 - 59.0%)" : "won"
   }
 }, {
   "homeTeam" : "Sacramento",
