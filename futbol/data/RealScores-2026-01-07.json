@@ -190,4 +190,88 @@
   "homeTeam" : "Ofi Crete",
   "awayTeam" : "Asteras T.",
   "score" : "2-0"
+}, {
+  "homeTeam" : "Crystal Palace",
+  "awayTeam" : "Aston Villa",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Brentford",
+  "awayTeam" : "Sunderland",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Man. City",
+  "awayTeam" : "Brighton",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Fulham",
+  "awayTeam" : "Chelsea",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Everton",
+  "awayTeam" : "Wolverhampton",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Bournemouth",
+  "awayTeam" : "Tottenham",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Newcastle Utd",
+  "awayTeam" : "Leeds Utd",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "Burnley",
+  "awayTeam" : "Man. Utd",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Bologna",
+  "awayTeam" : "Atalanta",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Napoli",
+  "awayTeam" : "Hellas Verona",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Lazio",
+  "awayTeam" : "Fiorentina",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Torino",
+  "awayTeam" : "Udinese",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Ath Bilbao",
+  "score" : "5-0"
+}, {
+  "homeTeam" : "Hav Waterloo",
+  "awayTeam" : "Farnham Town",
+  "score" : "4-3"
+}, {
+  "homeTeam" : "Blackburn R. U21",
+  "awayTeam" : "Coventry City U21",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "CD Huetor Vega",
+  "awayTeam" : "Mijas Las Lagunas",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Treasure Beach",
+  "awayTeam" : "Dunbeholden",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Valletta",
+  "awayTeam" : "Birkirkara",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Floriana",
+  "awayTeam" : "Hamrun Spartans",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Benfica",
+  "awayTeam" : "Braga",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Chelsea U21",
+  "awayTeam" : "Benfica SL U19",
+  "score" : "2-6"
 } ]
