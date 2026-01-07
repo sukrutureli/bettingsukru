@@ -18,9 +18,9 @@
   "homeTeam" : "Dhofar Scsc",
   "awayTeam" : "AL Nahda",
   "picks" : [ "MS2 (1.51 - 67.2%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "MS2 (1.51 - 67.2%)" : "pending"
+    "MS2 (1.51 - 67.2%)" : "won"
   }
 }, {
   "homeTeam" : "Fulham",

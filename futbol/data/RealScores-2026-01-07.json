@@ -126,4 +126,68 @@
   "homeTeam" : "Özbekistan U23",
   "awayTeam" : "Lübnan U23",
   "score" : "3-2"
+}, {
+  "homeTeam" : "AL Bataeh",
+  "awayTeam" : "Al Ahli Dubai",
+  "score" : "0-4"
+}, {
+  "homeTeam" : "Villarreal C",
+  "awayTeam" : "Hercules B",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Torrent",
+  "awayTeam" : "UD Poblense",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Barcelona B",
+  "awayTeam" : "Valencia CF M.",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "AL Ahli Doha",
+  "awayTeam" : "AL Shamal",
+  "score" : "4-2"
+}, {
+  "homeTeam" : "AL Wakrah",
+  "awayTeam" : "Arabi Doha",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Al Shabab Kuwait",
+  "awayTeam" : "Al Qadsia",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Teungueth",
+  "awayTeam" : "US Ouakam",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "AS Pikine",
+  "awayTeam" : "Sonacos",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "US Goree",
+  "awayTeam" : "AS Camberene",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Walidaan Dkr",
+  "awayTeam" : "AS Dakar Sacre Coeur",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "NEC",
+  "awayTeam" : "Lugazi Municipal",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Dhofar Scsc",
+  "awayTeam" : "AL Nahda",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Al Seeb",
+  "awayTeam" : "AL Rustaq",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Katar U23",
+  "awayTeam" : "B.A.E. U23",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Ofi Crete",
+  "awayTeam" : "Asteras T.",
+  "score" : "2-0"
 } ]
