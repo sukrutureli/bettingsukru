@@ -1,0 +1,41 @@
+[ {
+  "homeTeam" : "Al Ahli SC Manama",
+  "awayTeam" : "AL Budaiya",
+  "picks" : [ "Var (1.57 - 57.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.57 - 57.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Cremonese",
+  "awayTeam" : "Cagliari",
+  "picks" : [ "Alt (1.44 - 71.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.44 - 71.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Atl Madrid",
+  "awayTeam" : "Real Madrid",
+  "picks" : [ "Var (1.4 - 79.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.4 - 79.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "USM Alger",
+  "awayTeam" : "MC Oran",
+  "picks" : [ "Alt (1.35 - 56.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.35 - 56.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Zabbar Saint Patrick",
+  "awayTeam" : "Naxxar Lions",
+  "picks" : [ "Var (1.54 - 70.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.54 - 70.4%)" : "pending"
+  }
+} ]
