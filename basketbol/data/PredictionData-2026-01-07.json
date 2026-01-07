@@ -58,9 +58,9 @@
   "homeTeam" : "Lietkabelis",
   "awayTeam" : "JL Bourg",
   "picks" : [ "164.5 Alt (1.65 - 57.9%)" ],
-  "score" : "-",
+  "score" : "73-86",
   "statuses" : {
-    "164.5 Alt (1.65 - 57.9%)" : "pending"
+    "164.5 Alt (1.65 - 57.9%)" : "won"
   }
 }, {
   "homeTeam" : "Anadolu Efes",

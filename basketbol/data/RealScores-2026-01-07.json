@@ -170,4 +170,48 @@
   "homeTeam" : "Lokomotiv Kuban",
   "awayTeam" : "BK Uralmash Yekaterinburg",
   "score" : "77-64"
+}, {
+  "homeTeam" : "Beşiktaş (K)",
+  "awayTeam" : "Galatasaray (K)",
+  "score" : "68-77"
+}, {
+  "homeTeam" : "Türk Telekom",
+  "awayTeam" : "A. Basket Trento",
+  "score" : "92-86"
+}, {
+  "homeTeam" : "Lietkabelis",
+  "awayTeam" : "JL Bourg",
+  "score" : "73-86"
+}, {
+  "homeTeam" : "Usti nad Labem",
+  "awayTeam" : "Sokol Pisek",
+  "score" : "117-69"
+}, {
+  "homeTeam" : "BK Olomoucko",
+  "awayTeam" : "BK Jip Pardubice",
+  "score" : "64-83"
+}, {
+  "homeTeam" : "Pyrinto Tampere",
+  "awayTeam" : "Helsinki Seagulls",
+  "score" : "75-87"
+}, {
+  "homeTeam" : "Lahti Basketball",
+  "awayTeam" : "L. Korikobrat",
+  "score" : "99-85"
+}, {
+  "homeTeam" : "Bisons Loimaa",
+  "awayTeam" : "Kataja",
+  "score" : "85-91"
+}, {
+  "homeTeam" : "MBK Handlova",
+  "awayTeam" : "BKM Lucenec",
+  "score" : "90-94"
+}, {
+  "homeTeam" : "BK Iskra Svit",
+  "awayTeam" : "Nitra Blue Wings",
+  "score" : "101-98"
+}, {
+  "homeTeam" : "Kosice Wolves",
+  "awayTeam" : "Spisski Rytieri",
+  "score" : "72-108"
 } ]
