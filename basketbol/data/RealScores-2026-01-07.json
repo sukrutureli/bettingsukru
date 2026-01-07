@@ -94,4 +94,80 @@
   "homeTeam" : "Ciclista Olimpico",
   "awayTeam" : "CA San Lorenzo De Almagro",
   "score" : "84-74"
+}, {
+  "homeTeam" : "Kayseri Basketbol (K)",
+  "awayTeam" : "Emlak Konut (K)",
+  "score" : "86-92"
+}, {
+  "homeTeam" : "Sacramento",
+  "awayTeam" : "Dallas",
+  "score" : "98-100"
+}, {
+  "homeTeam" : "Kansas Jayhawks",
+  "awayTeam" : "Horned Frogs",
+  "score" : "104-100"
+}, {
+  "homeTeam" : "USC Trojans (K)",
+  "awayTeam" : "Oregon Ducks (K)",
+  "score" : "66-71"
+}, {
+  "homeTeam" : "Melbourne U.",
+  "awayTeam" : "Cairns Taipans",
+  "score" : "92-93"
+}, {
+  "homeTeam" : "Guandong S.T.",
+  "awayTeam" : "Shenzhen Leopards",
+  "score" : "110-105"
+}, {
+  "homeTeam" : "Qingdao E.",
+  "awayTeam" : "Shanghai S.",
+  "score" : "73-90"
+}, {
+  "homeTeam" : "Shandong Honey Badger",
+  "awayTeam" : "Guizhou Menglong",
+  "score" : "98-92"
+}, {
+  "homeTeam" : "Anhui Wenyi",
+  "awayTeam" : "Jiaozuo Culture",
+  "score" : "93-87"
+}, {
+  "homeTeam" : "Shanghai Blackbird",
+  "awayTeam" : "Hunan Changsha Y.",
+  "score" : "55-88"
+}, {
+  "homeTeam" : "Hong Kong B.",
+  "awayTeam" : "Jiangxi Ganchi",
+  "score" : "101-68"
+}, {
+  "homeTeam" : "LG Sakers",
+  "awayTeam" : "Samsung Thunders",
+  "score" : "83-70"
+}, {
+  "homeTeam" : "R. G. K. Okinaw",
+  "awayTeam" : "Tokyo Excellence",
+  "score" : "73-66"
+}, {
+  "homeTeam" : "Rizing Fukuoka",
+  "awayTeam" : "Seahorses Mikawa",
+  "score" : "42-95"
+}, {
+  "homeTeam" : "San Miguel",
+  "awayTeam" : "Barangay Ginebra",
+  "score" : "93-84"
+}, {
+  "homeTeam" : "Tropang Giga",
+  "awayTeam" : "Meralco",
+  "score" : "109-92"
+}, {
+  "homeTeam" : "MBA Moskova (K)",
+  "awayTeam" : "Nadezhda Orenburg (K)",
+  "score" : "62-81"
+}, {
+  "homeTeam" : "Enisey Krasnoyarsk",
+  "awayTeam" : "BC Samara",
+  "score" : "88-83"
+}, {
+  "homeTeam" : "Lokomotiv Kuban",
+  "awayTeam" : "BK Uralmash Yekaterinburg",
+  "score" : "77-64"
 } ]
