@@ -114,4 +114,48 @@
   "homeTeam" : "Irak U23",
   "awayTeam" : "Çin U23",
   "score" : "0-0"
+}, {
+  "homeTeam" : "AL Dhafra Scc",
+  "awayTeam" : "AL Ain",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Al Ahli SC Manama",
+  "awayTeam" : "AL Budaiya",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "AL Shabbab",
+  "awayTeam" : "AL Hidd",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "ES Setif",
+  "awayTeam" : "Paradou AC",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Katar SC",
+  "awayTeam" : "AL Sadd",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Al Merrikh (Sdn)",
+  "awayTeam" : "Police",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Thies",
+  "awayTeam" : "ASC Diambars",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "ASC Niarry Tally",
+  "awayTeam" : "AS Bambey",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "ASC Jaraaf",
+  "awayTeam" : "Generation Foot",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Al Hilal",
+  "awayTeam" : "AL Hazem",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "Express",
+  "awayTeam" : "SC Villa",
+  "score" : "0-1"
 } ]
