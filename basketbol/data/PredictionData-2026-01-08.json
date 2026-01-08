@@ -114,48 +114,48 @@
   "homeTeam" : "Boras",
   "awayTeam" : "Sloga Uppsala",
   "picks" : [ "169.5 Üst (1.61 - 59.8%)" ],
-  "score" : "-",
+  "score" : "101-86",
   "statuses" : {
-    "169.5 Üst (1.61 - 59.8%)" : "pending"
+    "169.5 Üst (1.61 - 59.8%)" : "won"
   }
 }, {
   "homeTeam" : "Promitheas",
   "awayTeam" : "Elan Chalon",
   "picks" : [ "MS1 (1.68 - 66.1%)" ],
-  "score" : "-",
+  "score" : "82-92",
   "statuses" : {
-    "MS1 (1.68 - 66.1%)" : "pending"
+    "MS1 (1.68 - 66.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Panathinaikos",
   "awayTeam" : "Virtus Bologna",
   "picks" : [ "167.5 Üst (1.63 - 68.0%)" ],
-  "score" : "-",
+  "score" : "84-71",
   "statuses" : {
-    "167.5 Üst (1.63 - 68.0%)" : "pending"
+    "167.5 Üst (1.63 - 68.0%)" : "lost"
   }
 }, {
   "homeTeam" : "IR Reykjavik",
   "awayTeam" : "UMFN Njardvik",
   "picks" : [ "187.5 Alt (1.62 - 57.1%)" ],
-  "score" : "-",
+  "score" : "84-59",
   "statuses" : {
-    "187.5 Alt (1.62 - 57.1%)" : "pending"
+    "187.5 Alt (1.62 - 57.1%)" : "won"
   }
 }, {
   "homeTeam" : "Valur Reykjavik",
   "awayTeam" : "Stjarnan",
   "picks" : [ "184.5 Üst (1.61 - 71.4%)" ],
-  "score" : "-",
+  "score" : "102-105",
   "statuses" : {
-    "184.5 Üst (1.61 - 71.4%)" : "pending"
+    "184.5 Üst (1.61 - 71.4%)" : "won"
   }
 }, {
   "homeTeam" : "GTK Gliwice",
   "awayTeam" : "Czarni Slupsk",
   "picks" : [ "MS1 (1.79 - 87.5%)" ],
-  "score" : "-",
+  "score" : "73-85",
   "statuses" : {
-    "MS1 (1.79 - 87.5%)" : "pending"
+    "MS1 (1.79 - 87.5%)" : "lost"
   }
 } ]
