@@ -58,33 +58,33 @@
   "homeTeam" : "San Antonio",
   "awayTeam" : "LA Lakers",
   "picks" : [ "235.5 Alt (1.63 - 60.2%)" ],
-  "score" : "-",
+  "score" : "107-91",
   "statuses" : {
-    "235.5 Alt (1.63 - 60.2%)" : "pending"
+    "235.5 Alt (1.63 - 60.2%)" : "won"
   }
 }, {
   "homeTeam" : "Melbourne Phoenix",
   "awayTeam" : "Illawarra Hawks",
   "picks" : [ "188.5 Alt (1.65 - 59.2%)" ],
-  "score" : "-",
+  "score" : "124-113",
   "statuses" : {
-    "188.5 Alt (1.65 - 59.2%)" : "pending"
+    "188.5 Alt (1.65 - 59.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Dongbu Promy",
   "awayTeam" : "KT Sonicboom",
   "picks" : [ "MS1 (1.36 - 73.6%)" ],
-  "score" : "-",
+  "score" : "82-80",
   "statuses" : {
-    "MS1 (1.36 - 73.6%)" : "pending"
+    "MS1 (1.36 - 73.6%)" : "won"
   }
 }, {
   "homeTeam" : "Jilin N.T.",
   "awayTeam" : "Fujian S.",
   "picks" : [ "174.5 Üst (1.64 - 55.6%)" ],
-  "score" : "-",
+  "score" : "77-74",
   "statuses" : {
-    "174.5 Üst (1.64 - 55.6%)" : "pending"
+    "174.5 Üst (1.64 - 55.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Guangzhou L. L.",
