@@ -2,57 +2,57 @@
   "homeTeam" : "Club Nacional",
   "awayTeam" : "CA Goes",
   "picks" : [ "173.5 Alt (1.63 - 59.8%)" ],
-  "score" : "-",
+  "score" : "99-79",
   "statuses" : {
-    "173.5 Alt (1.63 - 59.8%)" : "pending"
+    "173.5 Alt (1.63 - 59.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Urunday Universitario",
   "awayTeam" : "Defensor Sporting",
   "picks" : [ "MS1 (1.45 - 83.1%)" ],
-  "score" : "-",
+  "score" : "78-80",
   "statuses" : {
-    "MS1 (1.45 - 83.1%)" : "pending"
+    "MS1 (1.45 - 83.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Hebraica Macabi",
   "awayTeam" : "Club Bigua De Villa Biarritz",
   "picks" : [ "MS1 (1.38 - 86.1%)" ],
-  "score" : "-",
+  "score" : "99-108",
   "statuses" : {
-    "MS1 (1.38 - 86.1%)" : "pending"
+    "MS1 (1.38 - 86.1%)" : "lost"
   }
 }, {
   "homeTeam" : "CA Platense",
   "awayTeam" : "Gimnasia",
   "picks" : [ "MS2 (1.73 - 63.1%)" ],
-  "score" : "-",
+  "score" : "72-84",
   "statuses" : {
-    "MS2 (1.73 - 63.1%)" : "pending"
+    "MS2 (1.73 - 63.1%)" : "won"
   }
 }, {
   "homeTeam" : "Brooklyn",
   "awayTeam" : "Orlando",
   "picks" : [ "220.5 Üst (1.6 - 78.7%)" ],
-  "score" : "-",
+  "score" : "103-104",
   "statuses" : {
-    "220.5 Üst (1.6 - 78.7%)" : "pending"
+    "220.5 Üst (1.6 - 78.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Club Malvin",
   "awayTeam" : "Aguada",
   "picks" : [ "170.5 Alt (1.61 - 64.7%)" ],
-  "score" : "-",
+  "score" : "89-72",
   "statuses" : {
-    "170.5 Alt (1.61 - 64.7%)" : "pending"
+    "170.5 Alt (1.61 - 64.7%)" : "won"
   }
 }, {
   "homeTeam" : "Memphis",
   "awayTeam" : "Phoenix",
   "picks" : [ "232.5 Alt (1.63 - 55.7%)" ],
-  "score" : "-",
+  "score" : "98-117",
   "statuses" : {
-    "232.5 Alt (1.63 - 55.7%)" : "pending"
+    "232.5 Alt (1.63 - 55.7%)" : "won"
   }
 }, {
   "homeTeam" : "San Antonio",

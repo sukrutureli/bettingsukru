@@ -1,0 +1,73 @@
+[ {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "Chicago",
+  "score" : "108-93"
+}, {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Toronto",
+  "score" : "96-97"
+}, {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Denver",
+  "score" : "110-114"
+}, {
+  "homeTeam" : "Philadelphia",
+  "awayTeam" : "Washington",
+  "score" : "131-110"
+}, {
+  "homeTeam" : "Atlanta",
+  "awayTeam" : "New Orleans",
+  "score" : "117-100"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "Orlando",
+  "score" : "103-104"
+}, {
+  "homeTeam" : "New York",
+  "awayTeam" : "LA Clippers",
+  "score" : "123-111"
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Phoenix",
+  "score" : "98-117"
+}, {
+  "homeTeam" : "Oklahoma",
+  "awayTeam" : "Utah",
+  "score" : "129-125"
+}, {
+  "homeTeam" : "Youngstown State Penguins",
+  "awayTeam" : "Purdue Fort Wayne Mastodons",
+  "score" : "69-71"
+}, {
+  "homeTeam" : "Arkansas State Red Wolves",
+  "awayTeam" : "Troy Trojans",
+  "score" : "86-74"
+}, {
+  "homeTeam" : "Arizona Wildcats",
+  "awayTeam" : "Kansas State Wildcats",
+  "score" : "101-76"
+}, {
+  "homeTeam" : "TCU Horned Frogs (K)",
+  "awayTeam" : "Oklahoma St. Cowgirls (K)",
+  "score" : "69-61"
+}, {
+  "homeTeam" : "CA Platense",
+  "awayTeam" : "Gimnasia",
+  "score" : "72-84"
+}, {
+  "homeTeam" : "Club Nacional",
+  "awayTeam" : "CA Goes",
+  "score" : "99-79"
+}, {
+  "homeTeam" : "Urunday Universitario",
+  "awayTeam" : "Defensor Sporting",
+  "score" : "78-80"
+}, {
+  "homeTeam" : "Hebraica Macabi",
+  "awayTeam" : "Club Bigua De Villa Biarritz",
+  "score" : "99-108"
+}, {
+  "homeTeam" : "Club Malvin",
+  "awayTeam" : "Aguada",
+  "score" : "89-72"
+} ]
