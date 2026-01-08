@@ -158,4 +158,56 @@
   "homeTeam" : "Express",
   "awayTeam" : "SC Villa",
   "score" : "0-1"
+}, {
+  "homeTeam" : "Arsenal",
+  "awayTeam" : "Liverpool",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Cremonese",
+  "awayTeam" : "Cagliari",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "AC Milan",
+  "awayTeam" : "Genoa",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "PSG",
+  "awayTeam" : "Marsilya",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Atl Madrid",
+  "awayTeam" : "Real Madrid",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "USM Alger",
+  "awayTeam" : "MC Oran",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Mosta",
+  "awayTeam" : "Tarxien Rainbows",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Zabbar Saint Patrick",
+  "awayTeam" : "Naxxar Lions",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Lusitania",
+  "awayTeam" : "Leixoes",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Guelewars FC",
+  "awayTeam" : "Teranga SC",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "AL Najma",
+  "awayTeam" : "AL Ettifaq",
+  "score" : "3-4"
+}, {
+  "homeTeam" : "AL Nassr",
+  "awayTeam" : "AL Qadisiyah",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Wolverhampton U21",
+  "awayTeam" : "AS Monaco U21",
+  "score" : "0-1"
 } ]

@@ -10,32 +10,32 @@
   "homeTeam" : "Cremonese",
   "awayTeam" : "Cagliari",
   "picks" : [ "Alt (1.44 - 71.1%)" ],
-  "score" : "-",
+  "score" : "2-2",
   "statuses" : {
-    "Alt (1.44 - 71.1%)" : "pending"
+    "Alt (1.44 - 71.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Atl Madrid",
   "awayTeam" : "Real Madrid",
   "picks" : [ "Var (1.4 - 79.0%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Var (1.4 - 79.0%)" : "pending"
+    "Var (1.4 - 79.0%)" : "won"
   }
 }, {
   "homeTeam" : "USM Alger",
   "awayTeam" : "MC Oran",
   "picks" : [ "Alt (1.35 - 56.2%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.35 - 56.2%)" : "pending"
+    "Alt (1.35 - 56.2%)" : "won"
   }
 }, {
   "homeTeam" : "Zabbar Saint Patrick",
   "awayTeam" : "Naxxar Lions",
   "picks" : [ "Var (1.54 - 70.4%)" ],
-  "score" : "-",
+  "score" : "1-2",
   "statuses" : {
-    "Var (1.54 - 70.4%)" : "pending"
+    "Var (1.54 - 70.4%)" : "won"
   }
 } ]
