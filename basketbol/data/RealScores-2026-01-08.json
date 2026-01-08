@@ -114,4 +114,24 @@
   "homeTeam" : "Parma Permsk",
   "awayTeam" : "Avtodor Sara",
   "score" : "78-44"
+}, {
+  "homeTeam" : "BC Dubai",
+  "awayTeam" : "Fenerbahçe",
+  "score" : "92-81"
+}, {
+  "homeTeam" : "AS Karditsas",
+  "awayTeam" : "Spartak Subotica",
+  "score" : "84-75"
+}, {
+  "homeTeam" : "BK Levicki Patrioti",
+  "awayTeam" : "Wurzburg",
+  "score" : "56-74"
+}, {
+  "homeTeam" : "AL Gharafa",
+  "awayTeam" : "Qatar SC",
+  "score" : "103-99"
+}, {
+  "homeTeam" : "AL Arabi (Kat)",
+  "awayTeam" : "AL Ahli (Kat)",
+  "score" : "81-66"
 } ]

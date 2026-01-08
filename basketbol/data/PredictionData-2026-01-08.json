@@ -98,17 +98,17 @@
   "homeTeam" : "AS Karditsas",
   "awayTeam" : "Spartak Subotica",
   "picks" : [ "MS1 (1.55 - 80.0%)" ],
-  "score" : "-",
+  "score" : "84-75",
   "statuses" : {
-    "MS1 (1.55 - 80.0%)" : "pending"
+    "MS1 (1.55 - 80.0%)" : "won"
   }
 }, {
   "homeTeam" : "BK Levicki Patrioti",
   "awayTeam" : "Wurzburg",
   "picks" : [ "166.5 Üst (1.62 - 66.2%)" ],
-  "score" : "-",
+  "score" : "56-74",
   "statuses" : {
-    "166.5 Üst (1.62 - 66.2%)" : "pending"
+    "166.5 Üst (1.62 - 66.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Boras",
