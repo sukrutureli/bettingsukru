@@ -82,4 +82,64 @@
   "homeTeam" : "Club Un. At",
   "awayTeam" : "CA Welcome",
   "score" : "91-75"
+}, {
+  "homeTeam" : "Fenerbahçe (K)",
+  "awayTeam" : "ÇBK Mersin (K)",
+  "score" : "84-66"
+}, {
+  "homeTeam" : "Gonzaga Bulldogs",
+  "awayTeam" : "Santa Clara Broncos",
+  "score" : "89-77"
+}, {
+  "homeTeam" : "N. Z. Breakers",
+  "awayTeam" : "Sydney Kings",
+  "score" : "62-103"
+}, {
+  "homeTeam" : "Adelaide 36ers",
+  "awayTeam" : "Tasmania Jackjumpers",
+  "score" : "72-80"
+}, {
+  "homeTeam" : "Geelong Supe (K)",
+  "awayTeam" : "Townsville Fire (K)",
+  "score" : "67-91"
+}, {
+  "homeTeam" : "Beijing D.",
+  "awayTeam" : "Shandong H.",
+  "score" : "85-87"
+}, {
+  "homeTeam" : "Jiangsu D.",
+  "awayTeam" : "Liaoning F. L.",
+  "score" : "71-88"
+}, {
+  "homeTeam" : "Ningbo Rockets",
+  "awayTeam" : "Nanjing M.K.",
+  "score" : "94-71"
+}, {
+  "homeTeam" : "Zhejiang L.",
+  "awayTeam" : "Xinjiang F.T.",
+  "score" : "87-72"
+}, {
+  "homeTeam" : "H. Kuangfeng",
+  "awayTeam" : "Hebei S. Xianglan",
+  "score" : "72-82"
+}, {
+  "homeTeam" : "J. Yannan Suke",
+  "awayTeam" : "Hunan Changsha Y.",
+  "score" : "90-99"
+}, {
+  "homeTeam" : "Anhui Wenyi",
+  "awayTeam" : "Zhangjiakou",
+  "score" : "102-80"
+}, {
+  "homeTeam" : "Anyang KGC",
+  "awayTeam" : "Mobis Phoebus",
+  "score" : "78-76"
+}, {
+  "homeTeam" : "Meralco",
+  "awayTeam" : "Tropang Giga",
+  "score" : "97-89"
+}, {
+  "homeTeam" : "Barangay Ginebra",
+  "awayTeam" : "San Miguel",
+  "score" : "85-91"
 } ]

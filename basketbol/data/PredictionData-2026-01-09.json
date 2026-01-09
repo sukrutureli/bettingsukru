@@ -42,33 +42,33 @@
   "homeTeam" : "N. Z. Breakers",
   "awayTeam" : "Sydney Kings",
   "picks" : [ "MS2 (1.46 - 71.8%)" ],
-  "score" : "-",
+  "score" : "62-103",
   "statuses" : {
-    "MS2 (1.46 - 71.8%)" : "pending"
+    "MS2 (1.46 - 71.8%)" : "won"
   }
 }, {
   "homeTeam" : "Adelaide 36ers",
   "awayTeam" : "Tasmania Jackjumpers",
   "picks" : [ "173.5 Alt (1.62 - 57.3%)" ],
-  "score" : "-",
+  "score" : "72-80",
   "statuses" : {
-    "173.5 Alt (1.62 - 57.3%)" : "pending"
+    "173.5 Alt (1.62 - 57.3%)" : "won"
   }
 }, {
   "homeTeam" : "Meralco",
   "awayTeam" : "Tropang Giga",
   "picks" : [ "MS2 (1.45 - 60.3%)" ],
-  "score" : "-",
+  "score" : "97-89",
   "statuses" : {
-    "MS2 (1.45 - 60.3%)" : "pending"
+    "MS2 (1.45 - 60.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Jiangsu D.",
   "awayTeam" : "Liaoning F. L.",
   "picks" : [ "165.5 Alt (1.6 - 60.0%)" ],
-  "score" : "-",
+  "score" : "71-88",
   "statuses" : {
-    "165.5 Alt (1.6 - 60.0%)" : "pending"
+    "165.5 Alt (1.6 - 60.0%)" : "won"
   }
 }, {
   "homeTeam" : "BK Amager",
