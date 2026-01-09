@@ -282,4 +282,128 @@
   "homeTeam" : "Mazatlan U21",
   "awayTeam" : "Juarez U21",
   "score" : "0-0"
+}, {
+  "homeTeam" : "E. Frankfurt",
+  "awayTeam" : "B. Dortmund",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "Getafe",
+  "awayTeam" : "R. Sociedad",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Preston",
+  "awayTeam" : "Wigan Ath",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Wrexham",
+  "awayTeam" : "Nottingham F.",
+  "score" : "3-3"
+}, {
+  "homeTeam" : "MK Dons",
+  "awayTeam" : "Oxford",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Port Vale",
+  "awayTeam" : "Fleetwood",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Kamerun",
+  "awayTeam" : "Fas",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Trefelin",
+  "awayTeam" : "Trethomas Bluebirds",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Newport City",
+  "awayTeam" : "Caerau Ely",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Pontypridd Town",
+  "awayTeam" : "Ammanford",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Flint Town Utd",
+  "awayTeam" : "Bala Town",
+  "score" : "-"
+}, {
+  "homeTeam" : "Barry Town",
+  "awayTeam" : "Llanelli",
+  "score" : "-"
+}, {
+  "homeTeam" : "Caernarfon",
+  "awayTeam" : "Connah's",
+  "score" : "-"
+}, {
+  "homeTeam" : "Haverfordwest C.",
+  "awayTeam" : "Briton Ferry",
+  "score" : "-"
+}, {
+  "homeTeam" : "Stoke City U21",
+  "awayTeam" : "Southampton U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "Everton U21",
+  "awayTeam" : "Leicester City U21",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "Ipswich Town U21",
+  "awayTeam" : "Fulham U21",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Newcastle U21",
+  "awayTeam" : "Middlesbrough U21",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Man. City U21",
+  "awayTeam" : "Burnley U21",
+  "score" : "8-1"
+}, {
+  "homeTeam" : "Cray Wanderers",
+  "awayTeam" : "Aveley",
+  "score" : "0-3"
+}, {
+  "homeTeam" : "Hashtag Utd",
+  "awayTeam" : "Dartford",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Ross County",
+  "awayTeam" : "P. Thistle",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Cadiz",
+  "awayTeam" : "S. Gijon",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Sevilla Atl",
+  "awayTeam" : "Villarreal B",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Tenerife",
+  "awayTeam" : "Talavera R.",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Audace Cerignola",
+  "awayTeam" : "Potenza C.",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Ascoli",
+  "awayTeam" : "Ternana Calcio",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Coleraine",
+  "awayTeam" : "Crusaders",
+  "score" : "4-0"
+}, {
+  "homeTeam" : "Atlas U19",
+  "awayTeam" : "Puebla U19",
+  "score" : "1-2"
+}, {
+  "homeTeam" : "Club Tijuana U19",
+  "awayTeam" : "Club America U19",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Khlood",
+  "awayTeam" : "AL Ittihad",
+  "score" : "0-4"
 } ]
