@@ -1,0 +1,25 @@
+[ {
+  "homeTeam" : "NEC Nijmegen",
+  "awayTeam" : "Utrecht",
+  "score" : "-"
+}, {
+  "homeTeam" : "Maastricht",
+  "awayTeam" : "Almere City",
+  "score" : "-"
+}, {
+  "homeTeam" : "Vitesse",
+  "awayTeam" : "Eindhoven",
+  "score" : "-"
+}, {
+  "homeTeam" : "Dordrecht",
+  "awayTeam" : "Helmond",
+  "score" : "-"
+}, {
+  "homeTeam" : "Willem II",
+  "awayTeam" : "ADO Den Haag",
+  "score" : "-"
+}, {
+  "homeTeam" : "Emmen",
+  "awayTeam" : "SC Cambuur",
+  "score" : "-"
+} ]
