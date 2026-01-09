@@ -170,4 +170,128 @@
   "homeTeam" : "Duna Aszfalt",
   "awayTeam" : "Ose Lions",
   "score" : "105-88"
+}, {
+  "homeTeam" : "Galatasaray (K)",
+  "awayTeam" : "Emlak Konut (K)",
+  "score" : "66-64"
+}, {
+  "homeTeam" : "Zalgiris Kaunas",
+  "awayTeam" : "Kızıl Yıldız",
+  "score" : "99-67"
+}, {
+  "homeTeam" : "Olympiakos",
+  "awayTeam" : "Bayern Münih",
+  "score" : "95-80"
+}, {
+  "homeTeam" : "Olimpia Milano",
+  "awayTeam" : "Anadolu Efes",
+  "score" : "87-74"
+}, {
+  "homeTeam" : "Baskonia",
+  "awayTeam" : "Asvel Vil.",
+  "score" : "78-73"
+}, {
+  "homeTeam" : "Barcelona",
+  "awayTeam" : "Partizan",
+  "score" : "88-70"
+}, {
+  "homeTeam" : "Bamberg",
+  "awayTeam" : "Ludwigsburg",
+  "score" : "79-100"
+}, {
+  "homeTeam" : "Cholet",
+  "awayTeam" : "Tofaş",
+  "score" : "105-86"
+}, {
+  "homeTeam" : "Horsens IC",
+  "awayTeam" : "BK Vejen81",
+  "score" : "95-81"
+}, {
+  "homeTeam" : "BK Amager",
+  "awayTeam" : "Copenhagen Wolfpack",
+  "score" : "74-80"
+}, {
+  "homeTeam" : "Holbaek-St.",
+  "awayTeam" : "Naestved",
+  "score" : "87-120"
+}, {
+  "homeTeam" : "Vaerlose Bbk",
+  "awayTeam" : "Kopenhagen B.",
+  "score" : "76-75"
+}, {
+  "homeTeam" : "Roanne Chorale",
+  "awayTeam" : "Saint Chamond",
+  "score" : "85-80"
+}, {
+  "homeTeam" : "AIX Maurienne",
+  "awayTeam" : "Chalons Reims",
+  "score" : "86-75"
+}, {
+  "homeTeam" : "Rouen Metropole B.",
+  "awayTeam" : "Hyeres Toulon",
+  "score" : "82-99"
+}, {
+  "homeTeam" : "Caen Basket",
+  "awayTeam" : "Vendee Challans B.",
+  "score" : "78-76"
+}, {
+  "homeTeam" : "ASC Denain V.",
+  "awayTeam" : "Pau Orthez",
+  "score" : "98-94"
+}, {
+  "homeTeam" : "ALM Evreux Basket",
+  "awayTeam" : "Poitiers Basket 86",
+  "score" : "85-80"
+}, {
+  "homeTeam" : "A. S. Alsace",
+  "awayTeam" : "Antibes Shar",
+  "score" : "97-94"
+}, {
+  "homeTeam" : "Newcastle Eagles",
+  "awayTeam" : "London Lions",
+  "score" : "50-76"
+}, {
+  "homeTeam" : "Surrey 89ers",
+  "awayTeam" : "Bristol Flyers",
+  "score" : "93-80"
+}, {
+  "homeTeam" : "Manchester Basketball",
+  "awayTeam" : "Sheffield Sharks",
+  "score" : "84-106"
+}, {
+  "homeTeam" : "Sodertalje",
+  "awayTeam" : "Uppsala",
+  "score" : "73-64"
+}, {
+  "homeTeam" : "KFUM Nassjo",
+  "awayTeam" : "Hogsbo Basket",
+  "score" : "111-98"
+}, {
+  "homeTeam" : "Koping Stars",
+  "awayTeam" : "Jamtland",
+  "score" : "101-97"
+}, {
+  "homeTeam" : "Norrkoping",
+  "awayTeam" : "BC Lulea",
+  "score" : "89-78"
+}, {
+  "homeTeam" : "Lulea Bbk (K)",
+  "awayTeam" : "Sodertalje (K)",
+  "score" : "92-58"
+}, {
+  "homeTeam" : "R. Sebastiani Rieti",
+  "awayTeam" : "Ueb Cividale",
+  "score" : "82-54"
+}, {
+  "homeTeam" : "Alftanes",
+  "awayTeam" : "Thor Thorl",
+  "score" : "97-75"
+}, {
+  "homeTeam" : "A. Arka Gdynia",
+  "awayTeam" : "Torun",
+  "score" : "94-86"
+}, {
+  "homeTeam" : "Sporting CP",
+  "awayTeam" : "Imortal BC",
+  "score" : "83-64"
 } ]
