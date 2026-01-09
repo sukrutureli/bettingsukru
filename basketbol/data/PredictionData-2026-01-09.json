@@ -2,9 +2,9 @@
   "homeTeam" : "Charlotte",
   "awayTeam" : "Indiana",
   "picks" : [ "MS1 (1.32 - 85.6%)" ],
-  "score" : "-",
+  "score" : "112-114",
   "statuses" : {
-    "MS1 (1.32 - 85.6%)" : "pending"
+    "MS1 (1.32 - 85.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Chicago",
@@ -18,25 +18,25 @@
   "homeTeam" : "Minnesota",
   "awayTeam" : "Cleveland",
   "picks" : [ "237.5 Alt (1.61 - 63.5%)" ],
-  "score" : "-",
+  "score" : "131-122",
   "statuses" : {
-    "237.5 Alt (1.61 - 63.5%)" : "pending"
+    "237.5 Alt (1.61 - 63.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Quimsa S.",
   "awayTeam" : "CA San Lorenzo De Almagro",
   "picks" : [ "162.5 Alt (1.66 - 64.7%)" ],
-  "score" : "-",
+  "score" : "92-61",
   "statuses" : {
-    "162.5 Alt (1.66 - 64.7%)" : "pending"
+    "162.5 Alt (1.66 - 64.7%)" : "won"
   }
 }, {
   "homeTeam" : "Utah",
   "awayTeam" : "Dallas",
   "picks" : [ "241.5 Alt (1.63 - 73.2%)" ],
-  "score" : "-",
+  "score" : "116-114",
   "statuses" : {
-    "241.5 Alt (1.63 - 73.2%)" : "pending"
+    "241.5 Alt (1.63 - 73.2%)" : "won"
   }
 }, {
   "homeTeam" : "N. Z. Breakers",

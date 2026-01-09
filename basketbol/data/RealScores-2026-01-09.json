@@ -1,0 +1,85 @@
+[ {
+  "homeTeam" : "Charlotte",
+  "awayTeam" : "Indiana",
+  "score" : "112-114"
+}, {
+  "homeTeam" : "Minnesota",
+  "awayTeam" : "Cleveland",
+  "score" : "131-122"
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Dallas",
+  "score" : "116-114"
+}, {
+  "homeTeam" : "Penn State (K)",
+  "awayTeam" : "Michigan Wolverines (K)",
+  "score" : "65-105"
+}, {
+  "homeTeam" : "Georgia Bulldogs (K)",
+  "awayTeam" : "LSU Tigers (K)",
+  "score" : "59-80"
+}, {
+  "homeTeam" : "Rutgers Scarlet (K)",
+  "awayTeam" : "Maryland Terrapins (K)",
+  "score" : "41-88"
+}, {
+  "homeTeam" : "Alabama Crimson (K)",
+  "awayTeam" : "Kentucky Wildcats (K)",
+  "score" : "64-51"
+}, {
+  "homeTeam" : "Oklahoma Sooners (K)",
+  "awayTeam" : "Ole Mississippi Rebels (K)",
+  "score" : "69-74"
+}, {
+  "homeTeam" : "Arkansas Razorbacks(K)",
+  "awayTeam" : "South Carolina (K)",
+  "score" : "58-93"
+}, {
+  "homeTeam" : "Vanderbilt Commod (K)",
+  "awayTeam" : "Missouri Tigers (K)",
+  "score" : "99-68"
+}, {
+  "homeTeam" : "Texas Longhorns (K)",
+  "awayTeam" : "Auburn Tigers (K)",
+  "score" : "97-36"
+}, {
+  "homeTeam" : "Nebraska Cornhuskers (K)",
+  "awayTeam" : "Indiana Hoosiers (K)",
+  "score" : "78-73"
+}, {
+  "homeTeam" : "Illinois Fighting Illini",
+  "awayTeam" : "Rutgers Scarlet Knights",
+  "score" : "81-55"
+}, {
+  "homeTeam" : "Argentino J.",
+  "awayTeam" : "Instituto de Cordoba",
+  "score" : "61-76"
+}, {
+  "homeTeam" : "Independiente de Oliva",
+  "awayTeam" : "Ciclista Olimpico",
+  "score" : "83-75"
+}, {
+  "homeTeam" : "San Martin C.",
+  "awayTeam" : "Obera Tenis C.",
+  "score" : "59-67"
+}, {
+  "homeTeam" : "Quimsa S.",
+  "awayTeam" : "CA San Lorenzo De Almagro",
+  "score" : "92-61"
+}, {
+  "homeTeam" : "Unifacisa",
+  "awayTeam" : "Flamengo",
+  "score" : "89-88"
+}, {
+  "homeTeam" : "Franca SP",
+  "awayTeam" : "Basquete Osasco",
+  "score" : "104-74"
+}, {
+  "homeTeam" : "SC Corinthians P.",
+  "awayTeam" : "Minas",
+  "score" : "74-92"
+}, {
+  "homeTeam" : "Club Un. At",
+  "awayTeam" : "CA Welcome",
+  "score" : "91-75"
+} ]
