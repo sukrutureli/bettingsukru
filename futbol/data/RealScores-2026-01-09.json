@@ -182,4 +182,104 @@
   "homeTeam" : "Kırgızistan U23",
   "awayTeam" : "Vietnam U23",
   "score" : "1-2"
+}, {
+  "homeTeam" : "Amed Sportif",
+  "awayTeam" : "Çorum",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Mali",
+  "awayTeam" : "Senegal",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "AL Bahrain",
+  "awayTeam" : "AL Rifaa",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "MB Rouisset",
+  "awayTeam" : "USM Khenchela",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "CS Constantine",
+  "awayTeam" : "JS Saoura",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "ASO Chlef",
+  "awayTeam" : "MC Alger",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "CR Belouizdad",
+  "awayTeam" : "JS Kabylie",
+  "score" : "0-1"
+}, {
+  "homeTeam" : "Mekelle 70 Enderta",
+  "awayTeam" : "Sheger Ketema",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "US Orleans 2",
+  "awayTeam" : "Jura Sud Lavans",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Eleven Wonders",
+  "awayTeam" : "Basake Holy Stars",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Gambian Dutch Lions",
+  "awayTeam" : "Fortune",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Banjul Hawks",
+  "awayTeam" : "Real de Banjul",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Brikama Utd",
+  "awayTeam" : "Medina Utd",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AEL Limassol",
+  "awayTeam" : "Omonia",
+  "score" : "0-2"
+}, {
+  "homeTeam" : "AL Jawiya",
+  "awayTeam" : "AL Karma",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "AL Naft",
+  "awayTeam" : "Diyala",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Norwich City U21",
+  "awayTeam" : "Liverpool U21",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Arsenal U21",
+  "awayTeam" : "W. Bromwich Albion U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "Brighton U21",
+  "awayTeam" : "Aston Villa U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "Derby County U21",
+  "awayTeam" : "Sunderland U21",
+  "score" : "-"
+}, {
+  "homeTeam" : "Hertha Berlin",
+  "awayTeam" : "Standard Liege",
+  "score" : "2-3"
+}, {
+  "homeTeam" : "Asn Nigelec",
+  "awayTeam" : "Liberte",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "AL Taawoun",
+  "awayTeam" : "AL Shabab (Sar)",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Ürdün U23",
+  "awayTeam" : "S. Arabistan U23",
+  "score" : "3-2"
+}, {
+  "homeTeam" : "Mazatlan U21",
+  "awayTeam" : "Juarez U21",
+  "score" : "0-0"
 } ]
