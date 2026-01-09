@@ -142,4 +142,32 @@
   "homeTeam" : "Barangay Ginebra",
   "awayTeam" : "San Miguel",
   "score" : "85-91"
+}, {
+  "homeTeam" : "İstiklal Spor",
+  "awayTeam" : "Ted Ankara Kolejliler",
+  "score" : "89-84"
+}, {
+  "homeTeam" : "Harem Spor",
+  "awayTeam" : "Gaziantep",
+  "score" : "83-87"
+}, {
+  "homeTeam" : "Göztepe Basketbol",
+  "awayTeam" : "Fenerbahçe Koleji",
+  "score" : "95-79"
+}, {
+  "homeTeam" : "Bears Academy",
+  "awayTeam" : "Randers Cimb.",
+  "score" : "68-94"
+}, {
+  "homeTeam" : "KTP Kotka",
+  "awayTeam" : "Lahti Basketball",
+  "score" : "101-82"
+}, {
+  "homeTeam" : "Helsinki Seagulls",
+  "awayTeam" : "Bisons Loimaa",
+  "score" : "85-80"
+}, {
+  "homeTeam" : "Duna Aszfalt",
+  "awayTeam" : "Ose Lions",
+  "score" : "105-88"
 } ]
