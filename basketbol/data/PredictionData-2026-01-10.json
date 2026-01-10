@@ -2,33 +2,33 @@
   "homeTeam" : "Washington",
   "awayTeam" : "New Orleans",
   "picks" : [ "242.5 Alt (1.6 - 74.0%)" ],
-  "score" : "-",
+  "score" : "107-128",
   "statuses" : {
-    "242.5 Alt (1.6 - 74.0%)" : "pending"
+    "242.5 Alt (1.6 - 74.0%)" : "won"
   }
 }, {
   "homeTeam" : "Orlando",
   "awayTeam" : "Philadelphia",
   "picks" : [ "226.5 Üst (1.61 - 72.2%)" ],
-  "score" : "-",
+  "score" : "91-103",
   "statuses" : {
-    "226.5 Üst (1.61 - 72.2%)" : "pending"
+    "226.5 Üst (1.61 - 72.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Union de Santa Fe",
   "awayTeam" : "Gimnasia",
   "picks" : [ "158.5 Üst (1.65 - 65.8%)" ],
-  "score" : "-",
+  "score" : "88-75",
   "statuses" : {
-    "158.5 Üst (1.65 - 65.8%)" : "pending"
+    "158.5 Üst (1.65 - 65.8%)" : "won"
   }
 }, {
   "homeTeam" : "Brooklyn",
   "awayTeam" : "LA Clippers",
   "picks" : [ "214.5 Üst (1.63 - 74.3%)" ],
-  "score" : "-",
+  "score" : "105-121",
   "statuses" : {
-    "214.5 Üst (1.63 - 74.3%)" : "pending"
+    "214.5 Üst (1.63 - 74.3%)" : "won"
   }
 }, {
   "homeTeam" : "Phoenix",

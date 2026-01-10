@@ -1,0 +1,41 @@
+[ {
+  "homeTeam" : "Boston",
+  "awayTeam" : "Toronto",
+  "score" : "125-117"
+}, {
+  "homeTeam" : "Washington",
+  "awayTeam" : "New Orleans",
+  "score" : "107-128"
+}, {
+  "homeTeam" : "Orlando",
+  "awayTeam" : "Philadelphia",
+  "score" : "91-103"
+}, {
+  "homeTeam" : "Brooklyn",
+  "awayTeam" : "LA Clippers",
+  "score" : "105-121"
+}, {
+  "homeTeam" : "Memphis",
+  "awayTeam" : "Oklahoma",
+  "score" : "116-117"
+}, {
+  "homeTeam" : "Denver",
+  "awayTeam" : "Atlanta",
+  "score" : "87-110"
+}, {
+  "homeTeam" : "Union de Santa Fe",
+  "awayTeam" : "Gimnasia",
+  "score" : "88-75"
+}, {
+  "homeTeam" : "Regatas Corrientes",
+  "awayTeam" : "Racing de Chivilcoy",
+  "score" : "94-57"
+}, {
+  "homeTeam" : "SAO Jose Dos Campos",
+  "awayTeam" : "CA Paulistano",
+  "score" : "88-81"
+}, {
+  "homeTeam" : "CA Cordon",
+  "awayTeam" : "CA Penarol",
+  "score" : "58-77"
+} ]
