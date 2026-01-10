@@ -1,0 +1,265 @@
+[ {
+  "homeTeam" : "Semen Padang",
+  "awayTeam" : "Persis Solo",
+  "picks" : [ "Var (1.54 - 65.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.54 - 65.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CD Basconia",
+  "awayTeam" : "SD Beasain",
+  "picks" : [ "Alt (1.54 - 58.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.54 - 58.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CE Andratx",
+  "awayTeam" : "Terrassa",
+  "picks" : [ "Alt (1.47 - 70.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 70.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Naxara CD",
+  "awayTeam" : "UD Mutilvera",
+  "picks" : [ "Alt (1.43 - 64.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.43 - 64.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Ibiza Islas P.",
+  "awayTeam" : "UE Olot",
+  "picks" : [ "Alt (1.32 - 62.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.32 - 62.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Salerm Puente Genil",
+  "awayTeam" : "Lorca Deportiva",
+  "picks" : [ "Alt (1.4 - 80.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 80.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Lecce",
+  "awayTeam" : "Parma",
+  "picks" : [ "Alt (1.32 - 73.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.32 - 73.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sivasspor",
+  "awayTeam" : "Erzurumspor FK",
+  "picks" : [ "Alt (1.52 - 59.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.52 - 59.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Leganes",
+  "awayTeam" : "Real Valladolid",
+  "picks" : [ "Alt (1.42 - 60.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.42 - 60.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Go Ahead Eagles",
+  "awayTeam" : "F. Sittard",
+  "picks" : [ "Var (1.42 - 64.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.42 - 64.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Novara Calcio",
+  "awayTeam" : "Dolomiti Bellunesi",
+  "picks" : [ "Alt (1.42 - 80.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.42 - 80.7%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Athletic Carpi U23",
+  "awayTeam" : "US Pianese",
+  "picks" : [ "Alt (1.4 - 69.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 69.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Alcione Milano",
+  "awayTeam" : "Cittadella",
+  "picks" : [ "Alt (1.33 - 72.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.33 - 72.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Mantova 1911",
+  "awayTeam" : "US Palermo",
+  "picks" : [ "MS2 (1.88 - 65.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.88 - 65.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Chaves",
+  "awayTeam" : "Maritimo",
+  "picks" : [ "Alt (1.47 - 61.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 61.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CD Lealtad De Villaviciosa",
+  "awayTeam" : "SD Sarriana",
+  "picks" : [ "Alt (1.34 - 82.3%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.34 - 82.3%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Vitoria Guimaraes B",
+  "awayTeam" : "Varzim",
+  "picks" : [ "Alt (1.43 - 67.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.43 - 67.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Levante",
+  "awayTeam" : "Espanyol",
+  "picks" : [ "Alt (1.57 - 83.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.57 - 83.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "C. Dep. Eldense",
+  "awayTeam" : "A. Sanluqueno",
+  "picks" : [ "MS1 (1.4 - 68.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.4 - 68.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "UB Conquense",
+  "awayTeam" : "RSD Alcala",
+  "picks" : [ "Alt (1.32 - 63.2%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.32 - 63.2%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Porto B",
+  "awayTeam" : "Sporting Lisbon B",
+  "picks" : [ "Alt (1.54 - 59.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.54 - 59.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "CD Alcoyano",
+  "awayTeam" : "CD Castellon B",
+  "picks" : [ "MS1 (1.34 - 76.8%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS1 (1.34 - 76.8%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sohar",
+  "awayTeam" : "AL Nasr",
+  "picks" : [ "Alt (1.53 - 74.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.53 - 74.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Padova",
+  "awayTeam" : "Modena",
+  "picks" : [ "Alt (1.47 - 66.5%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 66.5%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Rayo Vallecano B",
+  "awayTeam" : "Navalcarnero",
+  "picks" : [ "Alt (1.46 - 64.9%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.46 - 64.9%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Sambenedettese",
+  "awayTeam" : "AS Gubbio 1910",
+  "picks" : [ "Alt (1.3 - 79.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.3 - 79.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "C. Lecco",
+  "awayTeam" : "Triestına",
+  "picks" : [ "Alt (1.51 - 66.1%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.51 - 66.1%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Nantes",
+  "awayTeam" : "Nice",
+  "picks" : [ "Var (1.49 - 61.4%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Var (1.49 - 61.4%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Atletic Lleida CE",
+  "awayTeam" : "Espanyol II",
+  "picks" : [ "Alt (1.4 - 82.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.4 - 82.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Aris",
+  "awayTeam" : "Aek",
+  "picks" : [ "MS2 (1.57 - 61.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "MS2 (1.57 - 61.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Leones Negros",
+  "awayTeam" : "Tampico Madero",
+  "picks" : [ "Alt (1.57 - 70.6%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.57 - 70.6%)" : "pending"
+  }
+}, {
+  "homeTeam" : "Oliveirense",
+  "awayTeam" : "CD Feirense",
+  "picks" : [ "Alt (1.47 - 68.0%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.47 - 68.0%)" : "pending"
+  }
+}, {
+  "homeTeam" : "ASD Pineto Calcio",
+  "awayTeam" : "Monterosi T.",
+  "picks" : [ "Alt (1.37 - 61.7%)" ],
+  "score" : "-",
+  "statuses" : {
+    "Alt (1.37 - 61.7%)" : "pending"
+  }
+} ]
