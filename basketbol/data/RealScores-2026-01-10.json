@@ -38,4 +38,124 @@
   "homeTeam" : "CA Cordon",
   "awayTeam" : "CA Penarol",
   "score" : "58-77"
+}, {
+  "homeTeam" : "Galatasaray",
+  "awayTeam" : "Beşiktaş",
+  "score" : "89-73"
+}, {
+  "homeTeam" : "Esenler Erokspor",
+  "awayTeam" : "Merkezefendi Bld",
+  "score" : "82-76"
+}, {
+  "homeTeam" : "iLab Basketbol",
+  "awayTeam" : "Darüşşafaka",
+  "score" : "85-77"
+}, {
+  "homeTeam" : "Phoenix",
+  "awayTeam" : "New York",
+  "score" : "112-107"
+}, {
+  "homeTeam" : "Portland",
+  "awayTeam" : "Houston",
+  "score" : "111-105"
+}, {
+  "homeTeam" : "Golden State",
+  "awayTeam" : "Sacramento",
+  "score" : "137-103"
+}, {
+  "homeTeam" : "LA Lakers",
+  "awayTeam" : "Milwaukee",
+  "score" : "101-105"
+}, {
+  "homeTeam" : "Melbourne Phoenix",
+  "awayTeam" : "Perth Wildcats",
+  "score" : "97-107"
+}, {
+  "homeTeam" : "Sydney Uni Flames (K)",
+  "awayTeam" : "Canberra Capitals (K)",
+  "score" : "84-72"
+}, {
+  "homeTeam" : "Perth Lynx (K)",
+  "awayTeam" : "Adelaide Lightning (K)",
+  "score" : "80-65"
+}, {
+  "homeTeam" : "Nymburk",
+  "awayTeam" : "Usti nad Labem",
+  "score" : "89-60"
+}, {
+  "homeTeam" : "BK Jip Pardubice",
+  "awayTeam" : "Sokol Pisek",
+  "score" : "118-85"
+}, {
+  "homeTeam" : "Zhejiang G.B.",
+  "awayTeam" : "Beijing R. F.",
+  "score" : "89-69"
+}, {
+  "homeTeam" : "Guangzhou L.L.",
+  "awayTeam" : "Sichuan B.W.",
+  "score" : "106-76"
+}, {
+  "homeTeam" : "Fujian S.",
+  "awayTeam" : "Tianjin P.",
+  "score" : "115-94"
+}, {
+  "homeTeam" : "Tangerang Hawks",
+  "awayTeam" : "Satya Wacana LBC",
+  "score" : "85-59"
+}, {
+  "homeTeam" : "A. Hangtuah Jakarta",
+  "awayTeam" : "Bumi Borneo",
+  "score" : "83-84"
+}, {
+  "homeTeam" : "West Bandits Solo",
+  "awayTeam" : "Rans Pik",
+  "score" : "63-101"
+}, {
+  "homeTeam" : "Dewa Utd Surabaya",
+  "awayTeam" : "Pelita Jaya Bakrie Jakarta",
+  "score" : "82-98"
+}, {
+  "homeTeam" : "Yongin Samsung Life (K)",
+  "awayTeam" : "Bucheon Hana (K)",
+  "score" : "57-75"
+}, {
+  "homeTeam" : "Incheon Shinhan (K)",
+  "awayTeam" : "Busan BNK Sum (K)",
+  "score" : "61-74"
+}, {
+  "homeTeam" : "Seoul SK Knights",
+  "awayTeam" : "KT Sonicboom",
+  "score" : "94-84"
+}, {
+  "homeTeam" : "KCC Egis",
+  "awayTeam" : "Daegu Pegasus",
+  "score" : "75-89"
+}, {
+  "homeTeam" : "LG Sakers",
+  "awayTeam" : "Goyang Orions",
+  "score" : "87-74"
+}, {
+  "homeTeam" : "IK Eos Lund (K)",
+  "awayTeam" : "Visby Ladies (K)",
+  "score" : "92-74"
+}, {
+  "homeTeam" : "Alvik BBK (K)",
+  "awayTeam" : "AIK Basket (K)",
+  "score" : "67-83"
+}, {
+  "homeTeam" : "Rig Lulea (K)",
+  "awayTeam" : "Sodertalje (K)",
+  "score" : "62-81"
+}, {
+  "homeTeam" : "N. Novgorod",
+  "awayTeam" : "BK Uralmash Yekaterinburg",
+  "score" : "73-76"
+}, {
+  "homeTeam" : "BC Samara",
+  "awayTeam" : "Unics Kazan",
+  "score" : "80-105"
+}, {
+  "homeTeam" : "Aris",
+  "awayTeam" : "Iraklis 2022",
+  "score" : "78-76"
 } ]

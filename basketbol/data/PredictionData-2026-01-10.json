@@ -34,81 +34,81 @@
   "homeTeam" : "Phoenix",
   "awayTeam" : "New York",
   "picks" : [ "MS1 (1.73 - 86.3%)" ],
-  "score" : "-",
+  "score" : "112-107",
   "statuses" : {
-    "MS1 (1.73 - 86.3%)" : "pending"
+    "MS1 (1.73 - 86.3%)" : "won"
   }
 }, {
   "homeTeam" : "Seoul SK Knights",
   "awayTeam" : "KT Sonicboom",
   "picks" : [ "150.5 Üst (1.63 - 66.9%)" ],
-  "score" : "-",
+  "score" : "94-84",
   "statuses" : {
-    "150.5 Üst (1.63 - 66.9%)" : "pending"
+    "150.5 Üst (1.63 - 66.9%)" : "won"
   }
 }, {
   "homeTeam" : "KCC Egis",
   "awayTeam" : "Daegu Pegasus",
   "picks" : [ "159.5 Alt (1.64 - 57.6%)" ],
-  "score" : "-",
+  "score" : "75-89",
   "statuses" : {
-    "159.5 Alt (1.64 - 57.6%)" : "pending"
+    "159.5 Alt (1.64 - 57.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Tangerang Hawks",
   "awayTeam" : "Satya Wacana LBC",
   "picks" : [ "152.5 Alt (1.65 - 86.4%)" ],
-  "score" : "-",
+  "score" : "85-59",
   "statuses" : {
-    "152.5 Alt (1.65 - 86.4%)" : "pending"
+    "152.5 Alt (1.65 - 86.4%)" : "won"
   }
 }, {
   "homeTeam" : "A. Hangtuah Jakarta",
   "awayTeam" : "Bumi Borneo",
   "picks" : [ "156.5 Alt (1.61 - 89.2%)" ],
-  "score" : "-",
+  "score" : "83-84",
   "statuses" : {
-    "156.5 Alt (1.61 - 89.2%)" : "pending"
+    "156.5 Alt (1.61 - 89.2%)" : "lost"
   }
 }, {
   "homeTeam" : "West Bandits Solo",
   "awayTeam" : "Rans Pik",
   "picks" : [ "157.5 Alt (1.63 - 91.7%)" ],
-  "score" : "-",
+  "score" : "63-101",
   "statuses" : {
-    "157.5 Alt (1.63 - 91.7%)" : "pending"
+    "157.5 Alt (1.63 - 91.7%)" : "lost"
   }
 }, {
   "homeTeam" : "Zhejiang G. B.",
   "awayTeam" : "Beijing R. F.",
   "picks" : [ "175.5 Alt (1.6 - 62.0%)" ],
-  "score" : "-",
+  "score" : "89-69",
   "statuses" : {
-    "175.5 Alt (1.6 - 62.0%)" : "pending"
+    "175.5 Alt (1.6 - 62.0%)" : "won"
   }
 }, {
   "homeTeam" : "Dewa Utd Surabaya",
   "awayTeam" : "Pelita Jaya Bakrie Jakarta",
   "picks" : [ "162.5 Alt (1.61 - 96.6%)" ],
-  "score" : "-",
+  "score" : "82-98",
   "statuses" : {
-    "162.5 Alt (1.61 - 96.6%)" : "pending"
+    "162.5 Alt (1.61 - 96.6%)" : "lost"
   }
 }, {
   "homeTeam" : "IK Eos Lund (K)",
   "awayTeam" : "Visby Ladies (K)",
   "picks" : [ "152.5 Alt (1.63 - 64.8%)" ],
-  "score" : "-",
+  "score" : "92-74",
   "statuses" : {
-    "152.5 Alt (1.63 - 64.8%)" : "pending"
+    "152.5 Alt (1.63 - 64.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Rig Lulea (K)",
   "awayTeam" : "Sodertalje (K)",
   "picks" : [ "147.5 Alt (1.59 - 75.4%)" ],
-  "score" : "-",
+  "score" : "62-81",
   "statuses" : {
-    "147.5 Alt (1.59 - 75.4%)" : "pending"
+    "147.5 Alt (1.59 - 75.4%)" : "won"
   }
 }, {
   "homeTeam" : "KK Igokea",
