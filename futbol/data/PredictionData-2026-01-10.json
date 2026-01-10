@@ -2,57 +2,57 @@
   "homeTeam" : "Melbourne V.",
   "awayTeam" : "W. S. Wanderers",
   "picks" : [ "MS1 (1.72 - 67.5%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "MS1 (1.72 - 67.5%)" : "pending"
+    "MS1 (1.72 - 67.5%)" : "lost"
   }
 }, {
   "homeTeam" : "SSC Napoli U20",
   "awayTeam" : "Lazio U20",
   "picks" : [ "Var (1.54 - 64.8%)" ],
-  "score" : "-",
+  "score" : "0-0",
   "statuses" : {
-    "Var (1.54 - 64.8%)" : "pending"
+    "Var (1.54 - 64.8%)" : "lost"
   }
 }, {
   "homeTeam" : "AL Karkh",
   "awayTeam" : "AL Najaf",
   "picks" : [ "Alt (1.46 - 70.6%)" ],
-  "score" : "-",
+  "score" : "2-0",
   "statuses" : {
-    "Alt (1.46 - 70.6%)" : "pending"
+    "Alt (1.46 - 70.6%)" : "won"
   }
 }, {
   "homeTeam" : "Torino U20",
   "awayTeam" : "Milan U20",
   "picks" : [ "Var (1.44 - 63.3%)" ],
-  "score" : "-",
+  "score" : "1-0",
   "statuses" : {
-    "Var (1.44 - 63.3%)" : "pending"
+    "Var (1.44 - 63.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Everton",
   "awayTeam" : "Sunderland",
   "picks" : [ "Alt (1.47 - 79.8%)" ],
-  "score" : "-",
+  "score" : "1-1",
   "statuses" : {
-    "Alt (1.47 - 79.8%)" : "pending"
+    "Alt (1.47 - 79.8%)" : "won"
   }
 }, {
   "homeTeam" : "Esperance T.",
   "awayTeam" : "US Ben Guerdane",
   "picks" : [ "Alt (1.57 - 75.7%)" ],
-  "score" : "-",
+  "score" : "4-0",
   "statuses" : {
-    "Alt (1.57 - 75.7%)" : "pending"
+    "Alt (1.57 - 75.7%)" : "lost"
   }
 }, {
   "homeTeam" : "US Albinoleffe",
   "awayTeam" : "Pro Vercelli",
   "picks" : [ "Alt (1.38 - 65.5%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.38 - 65.5%)" : "pending"
+    "Alt (1.38 - 65.5%)" : "lost"
   }
 }, {
   "homeTeam" : "Torres S.",
@@ -66,49 +66,49 @@
   "homeTeam" : "Latina C.",
   "awayTeam" : "Trapani",
   "picks" : [ "Alt (1.33 - 63.0%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.33 - 63.0%)" : "pending"
+    "Alt (1.33 - 63.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Union Brescia",
   "awayTeam" : "AC Trento",
   "picks" : [ "Alt (1.42 - 64.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.42 - 64.3%)" : "pending"
+    "Alt (1.42 - 64.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Sudtirol",
   "awayTeam" : "Spezia",
   "picks" : [ "Alt (1.4 - 82.9%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.4 - 82.9%)" : "pending"
+    "Alt (1.4 - 82.9%)" : "lost"
   }
 }, {
   "homeTeam" : "AS Avellino 1912",
   "awayTeam" : "Sampdoria",
   "picks" : [ "Alt (1.4 - 71.3%)" ],
-  "score" : "-",
+  "score" : "2-1",
   "statuses" : {
-    "Alt (1.4 - 71.3%)" : "pending"
+    "Alt (1.4 - 71.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Neom SC",
   "awayTeam" : "AL Fateh SC",
   "picks" : [ "Var (1.37 - 77.1%)" ],
-  "score" : "-",
+  "score" : "0-1",
   "statuses" : {
-    "Var (1.37 - 77.1%)" : "pending"
+    "Var (1.37 - 77.1%)" : "lost"
   }
 }, {
   "homeTeam" : "SC Bastia",
   "awayTeam" : "Troyes",
   "picks" : [ "Alt (1.43 - 78.0%)" ],
-  "score" : "-",
+  "score" : "0-2",
   "statuses" : {
-    "Alt (1.43 - 78.0%)" : "pending"
+    "Alt (1.43 - 78.0%)" : "won"
   }
 }, {
   "homeTeam" : "AL Waab",
