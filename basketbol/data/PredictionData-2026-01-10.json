@@ -114,65 +114,65 @@
   "homeTeam" : "KK Igokea",
   "awayTeam" : "Cluj Napoca",
   "picks" : [ "177.5 Alt (1.66 - 70.1%)" ],
-  "score" : "-",
+  "score" : "114-108",
   "statuses" : {
-    "177.5 Alt (1.66 - 70.1%)" : "pending"
+    "177.5 Alt (1.66 - 70.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Panionios",
   "awayTeam" : "Kolossos Rhodes",
   "picks" : [ "160.5 Üst (1.66 - 74.6%)" ],
-  "score" : "-",
+  "score" : "73-62",
   "statuses" : {
-    "160.5 Üst (1.66 - 74.6%)" : "pending"
+    "160.5 Üst (1.66 - 74.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Klosterneubu",
   "awayTeam" : "Oberwart",
   "picks" : [ "164.5 Üst (1.6 - 64.0%)" ],
-  "score" : "-",
+  "score" : "66-71",
   "statuses" : {
-    "164.5 Üst (1.6 - 64.0%)" : "pending"
+    "164.5 Üst (1.6 - 64.0%)" : "lost"
   }
 }, {
   "homeTeam" : "Bnt Fribourg",
   "awayTeam" : "Lugano Tigers",
   "picks" : [ "176.5 Alt (1.61 - 90.6%)" ],
-  "score" : "-",
+  "score" : "117-75",
   "statuses" : {
-    "176.5 Alt (1.61 - 90.6%)" : "pending"
+    "176.5 Alt (1.61 - 90.6%)" : "lost"
   }
 }, {
   "homeTeam" : "BK Opava",
   "awayTeam" : "Decin",
   "picks" : [ "172.5 Üst (1.66 - 70.6%)" ],
-  "score" : "-",
+  "score" : "80-87",
   "statuses" : {
-    "172.5 Üst (1.66 - 70.6%)" : "pending"
+    "172.5 Üst (1.66 - 70.6%)" : "lost"
   }
 }, {
   "homeTeam" : "Derthona Basket (K)",
   "awayTeam" : "Magnolia Basket (K)",
   "picks" : [ "MS1 (1.84 - 91.9%)" ],
-  "score" : "-",
+  "score" : "51-61",
   "statuses" : {
-    "MS1 (1.84 - 91.9%)" : "pending"
+    "MS1 (1.84 - 91.9%)" : "lost"
   }
 }, {
   "homeTeam" : "Prievidza",
   "awayTeam" : "Komarno",
   "picks" : [ "165.5 Alt (1.65 - 69.1%)" ],
-  "score" : "-",
+  "score" : "101-76",
   "statuses" : {
-    "165.5 Alt (1.65 - 69.1%)" : "pending"
+    "165.5 Alt (1.65 - 69.1%)" : "lost"
   }
 }, {
   "homeTeam" : "Boulazac Dord.",
   "awayTeam" : "Le Mans",
   "picks" : [ "MS2 (1.31 - 73.4%)" ],
-  "score" : "-",
+  "score" : "86-97",
   "statuses" : {
-    "MS2 (1.31 - 73.4%)" : "pending"
+    "MS2 (1.31 - 73.4%)" : "won"
   }
 }, {
   "homeTeam" : "Limoges CSP",
