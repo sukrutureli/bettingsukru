@@ -1,0 +1,29 @@
+[ {
+  "homeTeam" : "Indiana",
+  "awayTeam" : "Miami",
+  "score" : "123-99"
+}, {
+  "homeTeam" : "Detroit",
+  "awayTeam" : "LA Clippers",
+  "score" : "92-98"
+}, {
+  "homeTeam" : "Boston",
+  "awayTeam" : "San Antonio",
+  "score" : "95-100"
+}, {
+  "homeTeam" : "Chicago",
+  "awayTeam" : "Dallas",
+  "score" : "125-107"
+}, {
+  "homeTeam" : "Utah",
+  "awayTeam" : "Charlotte",
+  "score" : "95-150"
+}, {
+  "homeTeam" : "Atenas Cord",
+  "awayTeam" : "Ciclista Olimpico",
+  "score" : "89-75"
+}, {
+  "homeTeam" : "CP Esgueira",
+  "awayTeam" : "Porto",
+  "score" : "76-67"
+} ]

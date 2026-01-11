@@ -2,33 +2,33 @@
   "homeTeam" : "Detroit",
   "awayTeam" : "LA Clippers",
   "picks" : [ "213.5 Üst (1.61 - 79.2%)" ],
-  "score" : "-",
+  "score" : "92-98",
   "statuses" : {
-    "213.5 Üst (1.61 - 79.2%)" : "pending"
+    "213.5 Üst (1.61 - 79.2%)" : "lost"
   }
 }, {
   "homeTeam" : "Boston",
   "awayTeam" : "San Antonio",
   "picks" : [ "MS1 (1.66 - 86.8%)" ],
-  "score" : "-",
+  "score" : "95-100",
   "statuses" : {
-    "MS1 (1.66 - 86.8%)" : "pending"
+    "MS1 (1.66 - 86.8%)" : "lost"
   }
 }, {
   "homeTeam" : "Chicago",
   "awayTeam" : "Dallas",
   "picks" : [ "233.5 Alt (1.61 - 71.7%)" ],
-  "score" : "-",
+  "score" : "125-107",
   "statuses" : {
-    "233.5 Alt (1.61 - 71.7%)" : "pending"
+    "233.5 Alt (1.61 - 71.7%)" : "won"
   }
 }, {
   "homeTeam" : "Utah",
   "awayTeam" : "Charlotte",
   "picks" : [ "239.5 Alt (1.61 - 70.3%)" ],
-  "score" : "-",
+  "score" : "95-150",
   "statuses" : {
-    "239.5 Alt (1.61 - 70.3%)" : "pending"
+    "239.5 Alt (1.61 - 70.3%)" : "lost"
   }
 }, {
   "homeTeam" : "Dongbu Promy",
