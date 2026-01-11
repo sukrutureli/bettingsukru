@@ -1,0 +1,53 @@
+[ {
+  "homeTeam" : "Wellington P.",
+  "awayTeam" : "Adelaide Utd",
+  "score" : "2-2"
+}, {
+  "homeTeam" : "Roda",
+  "awayTeam" : "VVV Venlo",
+  "score" : "-"
+}, {
+  "homeTeam" : "Graafschap",
+  "awayTeam" : "Den Bosch",
+  "score" : "-"
+}, {
+  "homeTeam" : "Cancun",
+  "awayTeam" : "CSD D. Sinaloa",
+  "score" : "3-1"
+}, {
+  "homeTeam" : "Tepatitlan",
+  "awayTeam" : "Atlante",
+  "score" : "1-1"
+}, {
+  "homeTeam" : "Atl Morelia",
+  "awayTeam" : "Correcaminos U",
+  "score" : "3-0"
+}, {
+  "homeTeam" : "CD Guadalajara",
+  "awayTeam" : "Pachuca",
+  "score" : "2-0"
+}, {
+  "homeTeam" : "Santos Laguna",
+  "awayTeam" : "Necaxa",
+  "score" : "1-3"
+}, {
+  "homeTeam" : "Club Leon",
+  "awayTeam" : "Cruz Azul",
+  "score" : "2-1"
+}, {
+  "homeTeam" : "Cruz Azul (K)",
+  "awayTeam" : "Guadalajara (K)",
+  "score" : "0-0"
+}, {
+  "homeTeam" : "Juarez (K)",
+  "awayTeam" : "Club Leon (K)",
+  "score" : "1-0"
+}, {
+  "homeTeam" : "Newtown Utd",
+  "awayTeam" : "Cayon",
+  "score" : "4-1"
+}, {
+  "homeTeam" : "OLD Road Jets",
+  "awayTeam" : "SLH Horsfords St. Pauls Utd",
+  "score" : "2-1"
+} ]
